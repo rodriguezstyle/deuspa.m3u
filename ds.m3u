@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,SP: 24 Horas
 http://ip.cs4ip.com:8000/live/polce/123456/7356.ts
 #EXTINF:-1,SP: A E
@@ -247,7 +246,7 @@ http://ip.cs4ip.com:8000/live/polce/123456/1881.ts
 http://ip.cs4ip.com:8000/live/polce/123456/1826.ts
 #EXTINF:-1,SP Barca Tv -SP Barca Tv
 http://ip.cs4ip.com:8000/live/polce/123456/1860.ts
-#EXTINF:-1,SP AXN HD 
+#EXTINF:-1,SP AXN HD - SP AXN HD
 http://ip.cs4ip.com:8000/live/polce/123456/1853.ts
 #EXTINF:-1,SP Antena 3  SP Antena 3
 http://ip.cs4ip.com:8000/live/polce/123456/1872.ts
@@ -259,658 +258,157 @@ http://ip.cs4ip.com:8000/live/polce/123456/1875.ts
 http://ip.cs4ip.com:8000/live/polce/123456/1877.ts
 #EXTINF:-1,SP 24 Horas  SP 24 Horas
 http://ip.cs4ip.com:8000/live/polce/123456/1876.ts
+#EXTINF:-1,ES: 13 TV
+http://ip.cs4ip.com:8000/live/polce/123456/6528.ts
+#EXTINF:-1,ES: 8TV Madrid
+http://ip.cs4ip.com:8000/live/polce/123456/6537.ts
+#EXTINF:-1,ES: A  E
+http://ip.cs4ip.com:8000/live/polce/123456/6536.ts
+#EXTINF:-1,ES: A3 Series
+http://ip.cs4ip.com:8000/live/polce/123456/6535.ts
+#EXTINF:-1,ES: Andalucia TV
+http://ip.cs4ip.com:8000/live/polce/123456/6534.ts
+#EXTINF:-1,ES: Anime TV
+http://ip.cs4ip.com:8000/live/polce/123456/6533.ts
+#EXTINF:-1,ES: AXN White
+http://ip.cs4ip.com:8000/live/polce/123456/6532.ts
+#EXTINF:-1,ES: Azteca 7
+http://ip.cs4ip.com:8000/live/polce/123456/6531.ts
+#EXTINF:-1,ES: Azteca Noticias
+http://ip.cs4ip.com:8000/live/polce/123456/6530.ts
+#EXTINF:-1,ES: Blica Dominicana
+http://ip.cs4ip.com:8000/live/polce/123456/6529.ts
+#EXTINF:-1,ES: Canal Costa
+http://ip.cs4ip.com:8000/live/polce/123456/6527.ts
+#EXTINF:-1,ES: Canal Once
+http://ip.cs4ip.com:8000/live/polce/123456/6526.ts
+#EXTINF:-1,ES: Canal U
+http://ip.cs4ip.com:8000/live/polce/123456/6525.ts
+#EXTINF:-1,ES: Cartoon Network
+http://ip.cs4ip.com:8000/live/polce/123456/6524.ts
+#EXTINF:-1,ES: Comedy Central
+http://ip.cs4ip.com:8000/live/polce/123456/6523.ts
+#EXTINF:-1,ES: Condavision
+http://ip.cs4ip.com:8000/live/polce/123456/6522.ts
+#EXTINF:-1,ES: Cosmopolitan HD
+http://ip.cs4ip.com:8000/live/polce/123456/6521.ts
+#EXTINF:-1,ES: Discovery Dmax
+http://ip.cs4ip.com:8000/live/polce/123456/6520.ts
+#EXTINF:-1,ES: Disney Junior
+http://ip.cs4ip.com:8000/live/polce/123456/6519.ts
+#EXTINF:-1,ES: Dkiss
+http://ip.cs4ip.com:8000/live/polce/123456/6517.ts
+#EXTINF:-1,ES: DW
+http://ip.cs4ip.com:8000/live/polce/123456/6516.ts
+#EXTINF:-1,ES: El Pinguino HD
+http://ip.cs4ip.com:8000/live/polce/123456/6515.ts
+#EXTINF:-1,ES: El Trece
+http://ip.cs4ip.com:8000/live/polce/123456/6514.ts
+#EXTINF:-1,ES: Fox HD
+http://ip.cs4ip.com:8000/live/polce/123456/6513.ts
+#EXTINF:-1,ES: Fox Life
+http://ip.cs4ip.com:8000/live/polce/123456/6512.ts
+#EXTINF:-1,ES: Gol TV
+http://ip.cs4ip.com:8000/live/polce/123456/6511.ts
+#EXTINF:-1,ES: Honduras
+http://ip.cs4ip.com:8000/live/polce/123456/6510.ts
+#EXTINF:-1,ES: Iberalia TV
+http://ip.cs4ip.com:8000/live/polce/123456/6509.ts
+#EXTINF:-1,ES: Mega HD
+http://ip.cs4ip.com:8000/live/polce/123456/6508.ts
+#EXTINF:-1,ES: Mega TV
+http://ip.cs4ip.com:8000/live/polce/123456/6507.ts
+#EXTINF:-1,ES: Mirame Tv
+http://ip.cs4ip.com:8000/live/polce/123456/6506.ts
+#EXTINF:-1,ES: Movistar  Deportes 1
+http://ip.cs4ip.com:8000/live/polce/123456/6505.ts
+#EXTINF:-1,ES: Movistar  Deportes 2
+http://ip.cs4ip.com:8000/live/polce/123456/6504.ts
+#EXTINF:-1,ES: Movistar  Formula 1
+http://ip.cs4ip.com:8000/live/polce/123456/6503.ts
+#EXTINF:-1,ES: Movistar  Futbol
+http://ip.cs4ip.com:8000/live/polce/123456/6502.ts
+#EXTINF:-1,ES: Movistar  Golf
+http://ip.cs4ip.com:8000/live/polce/123456/6501.ts
+#EXTINF:-1,ES: Movistar  Xtra HD
+http://ip.cs4ip.com:8000/live/polce/123456/6500.ts
+#EXTINF:-1,ES: Navarra Tv
+http://ip.cs4ip.com:8000/live/polce/123456/6499.ts
+#EXTINF:-1,ES: Nick Jr
+http://ip.cs4ip.com:8000/live/polce/123456/6498.ts
+#EXTINF:-1,ES: Nickelodeon
+http://ip.cs4ip.com:8000/live/polce/123456/6497.ts
+#EXTINF:-1,ES: Nova
+http://ip.cs4ip.com:8000/live/polce/123456/6496.ts
+#EXTINF:-1,ES: Onda Azul
+http://ip.cs4ip.com:8000/live/polce/123456/6495.ts
+#EXTINF:-1,ES: Ondaluz Sierra
+http://ip.cs4ip.com:8000/live/polce/123456/6494.ts
+#EXTINF:-1,ES: Paramount Channel
+http://ip.cs4ip.com:8000/live/polce/123456/6493.ts
+#EXTINF:-1,ES: PDVSA TV
+http://ip.cs4ip.com:8000/live/polce/123456/6492.ts
+#EXTINF:-1,ES: Proyecto 40
+http://ip.cs4ip.com:8000/live/polce/123456/6491.ts
+#EXTINF:-1,ES: Proyecto 40 - Mexico
+http://ip.cs4ip.com:8000/live/polce/123456/6490.ts
+#EXTINF:-1,ES: Red Advenir
+http://ip.cs4ip.com:8000/live/polce/123456/6489.ts
+#EXTINF:-1,ES: RTS
+http://ip.cs4ip.com:8000/live/polce/123456/6488.ts
+#EXTINF:-1,ES: RTV Canarias
+http://ip.cs4ip.com:8000/live/polce/123456/6487.ts
+#EXTINF:-1,ES: Sevilla FC
+http://ip.cs4ip.com:8000/live/polce/123456/6518.ts
+#EXTINF:-1,ES: TELEVISA HD
+http://ip.cs4ip.com:8000/live/polce/123456/6486.ts
+#EXTINF:-1,ES: Telpin Canal 2 HD Argentina
+http://ip.cs4ip.com:8000/live/polce/123456/6485.ts
+#EXTINF:-1,ES: Ten
+http://ip.cs4ip.com:8000/live/polce/123456/6484.ts
+#EXTINF:-1,ES: TNT
+http://ip.cs4ip.com:8000/live/polce/123456/6483.ts
+#EXTINF:-1,ES: Toros TV
+http://ip.cs4ip.com:8000/live/polce/123456/6482.ts
+#EXTINF:-1,ES: Travel TV
+http://ip.cs4ip.com:8000/live/polce/123456/6481.ts
+#EXTINF:-1,ES: TV Galicia
+http://ip.cs4ip.com:8000/live/polce/123456/6480.ts
+#EXTINF:-1,ES: TV Mas
+http://ip.cs4ip.com:8000/live/polce/123456/6479.ts
+#EXTINF:-1,ES: TV5 Monde Amerique Latine
+http://ip.cs4ip.com:8000/live/polce/123456/6478.ts
 #EXTINF:-1,ES M PARTIDAZO HD
 http://ip.cs4ip.com:8000/live/polce/123456/5448.ts
 #EXTINF:-1,FI: Liv
 http://ip.cs4ip.com:8000/live/polce/123456/4265.ts
 #EXTINF:-1,FI: TV7 Finland
 http://ip.cs4ip.com:8000/live/polce/123456/4255.ts
-#EXTINF:-1,SP Disney xd SP Disney xd
-http://ip.cs4ip.com:8000/live/polce/123456/1862.ts
-#EXTINF:-1,SP Disney Ch
-http://ip.cs4ip.com:8000/live/polce/123456/1820.ts
-#EXTINF:-1,ES.CanalSeries
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1910.ts
-#EXTINF:-1,ES.Real.Madrid.ch
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1912.ts
-#EXTINF:-1,ES.MOVISTAR.GP.HD
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1930.ts
-#EXTINF:-1,ES.Moviestar.F1
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1931.ts
-#EXTINF:-1,ES.AXN
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1911.ts
-#EXTINF:-1,ES.La1
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1944.ts
-#EXTINF:-1,ES.La2
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1905.ts
-#EXTINF:-1,ES.Calle13
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1907.ts
-#EXTINF:-1,ES.Antena3
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1908.ts
-#EXTINF:-1,ES.LaSexta
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1906.ts
-#EXTINF:-1,ES.FOX.SPORTS
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1916.ts
-#EXTINF:-1,ES.Fox.Life
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1915.ts
-#EXTINF:-1,ES.FOX
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1914.ts
-#EXTINF:-1,ES.Canal.Toros
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1923.ts
-#EXTINF:-1,ES.Canal.Liga
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1924.ts
-#EXTINF:-1,ES.Canal.HD
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1918.ts
-#EXTINF:-1,ES.Canal.Deportes
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1929.ts
-#EXTINF:-1,ES.Canal.Dcine
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1920.ts
-#EXTINF:-1,ES.Canal.Costa
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1926.ts
-#EXTINF:-1,ES.Canal.Comedia
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1922.ts
-#EXTINF:-1,ES.Canal.Accion
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1921.ts
-#EXTINF:-1,ES.Canal.Xtra
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1919.ts
-#EXTINF:-1,ES.Canal Futbol
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1925.ts
-#EXTINF:-1,SPA: LA 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10408.ts
-#EXTINF:-1,SPA: LA 1 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10409.ts
-#EXTINF:-1,SPA: LA 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10407.ts
-#EXTINF:-1,SPA: ANTENA 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10405.ts
-#EXTINF:-1,SPA: ANTENA 3 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10406.ts
-#EXTINF:-1,SPA: CUATRO
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10403.ts
-#EXTINF:-1,SPA: CUATRO HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10404.ts
-#EXTINF:-1,SPA: TELECINCO
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10401.ts
-#EXTINF:-1,SPA: TELECINCO HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10402.ts
-#EXTINF:-1,SPA: LA SEXTA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10399.ts
-#EXTINF:-1,SPA: LA SEXTA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10400.ts
-#EXTINF:-1,SPA: NOVA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10392.ts
-#EXTINF:-1,SPA: NEOX
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10391.ts
-#EXTINF:-1,ES: Andalucía TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/684.ts
-#EXTINF:-1,SPA: PARAMOUNT CHANNEL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10338.ts
-#EXTINF:-1,ES: VH1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2046.ts
-#EXTINF:-1,SPA: TV GALICIA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10395.ts
-#EXTINF:-1,SPA: LTC
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10372.ts
-#EXTINF:-1,SPA: SUNDANCE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10339.ts
-#EXTINF:-1,SPA: ARAGON TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10315.ts
-#EXTINF:-1,•●★--- Cine ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2202.ts
-#EXTINF:-1,SPA: M. ESTRENOS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10351.ts
-#EXTINF:-1,SPA: M. ESTRENOS HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10352.ts
-#EXTINF:-1,SPA: M. XTRA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10345.ts
-#EXTINF:-1,SPA: M. XTRA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10346.ts
-#EXTINF:-1,SPA: M. ACCION
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10357.ts
-#EXTINF:-1,SPA: M. ACCION HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10358.ts
-#EXTINF:-1,SPA: M. COMEDIA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10353.ts
-#EXTINF:-1,SPA: M. COMEDIA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10354.ts
-#EXTINF:-1,SPA: M. DCINE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10355.ts
-#EXTINF:-1,SPA: M. DCINE HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10356.ts
-#EXTINF:-1,SPA: HOLLYWOOD ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10340.ts
-#EXTINF:-1,SPA: HOLLYWOOD HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10341.ts
-#EXTINF:-1,SPA: TCM
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10336.ts
-#EXTINF:-1,SPA: TCM HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10337.ts
-#EXTINF:-1,SPA: TNT
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10332.ts
-#EXTINF:-1,SPA: TNT HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10333.ts
-#EXTINF:-1,SPA: CANAL SUR A.
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10388.ts
-#EXTINF:-1,•●★--- Entretenimiento ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2203.ts
-#EXTINF:-1,SPA: #0
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10589.ts
-#EXTINF:-1,SPA: #0 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10359.ts
-#EXTINF:-1,SPA: M. SERIES
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10347.ts
-#EXTINF:-1,SPA: M. SERIES HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10348.ts
-#EXTINF:-1,SPA: M. SERIES XTRA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10349.ts
-#EXTINF:-1,SPA: M. SERIES XTRA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10350.ts
-#EXTINF:-1,SPA: FOX
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10328.ts
-#EXTINF:-1,SPA: FOX  HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10329.ts
-#EXTINF:-1,SPA: FOX LIFE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10326.ts
-#EXTINF:-1,SPA: FOX LIFE HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10327.ts
-#EXTINF:-1,SPA: FOX NEWS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10386.ts
-#EXTINF:-1,SPA: AMC ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10334.ts
-#EXTINF:-1,SPA: AMC HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10335.ts
-#EXTINF:-1,SPA: AXN
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10324.ts
-#EXTINF:-1,SPA: AXN HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10325.ts
-#EXTINF:-1,SPA: AXN WHITE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10322.ts
-#EXTINF:-1,SPA: AXN WHITE HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10323.ts
-#EXTINF:-1,SPA: SYFY HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10331.ts
-#EXTINF:-1,SPA: SYFY ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10330.ts
-#EXTINF:-1,SPA: CALLE 13
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10320.ts
-#EXTINF:-1,SPA: CALLE 13 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10321.ts
-#EXTINF:-1,SPA: COMEDY CENTRAL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10342.ts
-#EXTINF:-1,SPA: COMEDY CENTRAL HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10343.ts
-#EXTINF:-1,SPA: COSMO
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10318.ts
-#EXTINF:-1,SPA: COSMO HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10319.ts
-#EXTINF:-1,ES: C _ESTRELLAS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2067.ts
-#EXTINF:-1,SPA: FDF
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10394.ts
-#EXTINF:-1,SPA: ENERGY
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10393.ts
-#EXTINF:-1,SPA: DIVINITY
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10390.ts
-#EXTINF:-1,SPA: 40 TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10360.ts
-#EXTINF:-1,•●★--- Deportes ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2204.ts
-#EXTINF:-1,SPA: BEIN LA LIGA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10309.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10274.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10273.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10272.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 4
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10271.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 5
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10270.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 6
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10269.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 7
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10268.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 8
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10267.ts
-#EXTINF:-1,SPA: BEIN LA LIGA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10310.ts
-#EXTINF:-1,SPA: BEIN MAX 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10285.ts
-#EXTINF:-1,SPA: BEIN MAX 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10284.ts
-#EXTINF:-1,SPA: BEIN MAX 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10283.ts
-#EXTINF:-1,SPA: BEIN MAX 4
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10282.ts
-#EXTINF:-1,SPA: BEIN MAX 5
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10281.ts
-#EXTINF:-1,SPA: BEIN MAX 6
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10280.ts
-#EXTINF:-1,SPA: BEIN MAX 7
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10279.ts
-#EXTINF:-1,SPA: BEIN MAX 8
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10278.ts
-#EXTINF:-1,SPA: BEIN SPORT
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10311.ts
-#EXTINF:-1,SPA: BEIN SPORTS HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10312.ts
-#EXTINF:-1,SPA: M. DEPORTES 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10302.ts
-#EXTINF:-1,SPA: M. DEPORTES 1 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10303.ts
-#EXTINF:-1,SPA: M. DEPORTES 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10300.ts
-#EXTINF:-1,SPA: M. DEPORTES 2 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10301.ts
-#EXTINF:-1,SPA: M. FUTBOL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10304.ts
-#EXTINF:-1,SPA: M. FUTBOL HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10305.ts
-#EXTINF:-1,SPA: MULTIFUT. 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10277.ts
-#EXTINF:-1,SPA: MULTIFUT. 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10276.ts
-#EXTINF:-1,SPA: MULTIFUT. 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10275.ts
-#EXTINF:-1,SPA: LA LIGA TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10307.ts
-#EXTINF:-1,SPA: LA LIGA TV HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10308.ts
-#EXTINF:-1,SPA: M. GOLF
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10294.ts
-#EXTINF:-1,SPA: M. GOLF HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10295.ts
-#EXTINF:-1,SPA: GOL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10313.ts
-#EXTINF:-1,SPA: M. MOTOGP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10298.ts
-#EXTINF:-1,SPA: M. MOTOGP HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10299.ts
-#EXTINF:-1,SPA: REAL MADRID TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10286.ts
-#EXTINF:-1,SPA: BARCA TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10288.ts
-#EXTINF:-1,SPA: EUROSPORT 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10293.ts
-#EXTINF:-1,SPA: EUROSPORT 1 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10292.ts
-#EXTINF:-1,SPA: EUROSPORT 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10291.ts
-#EXTINF:-1,SPA: 24 HORAS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10387.ts
-#EXTINF:-1,SPA: TOROS TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10289.ts
-#EXTINF:-1,SPA: TOROS TV HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10290.ts
-#EXTINF:-1,SPA: M. FORMULA 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10296.ts
-#EXTINF:-1,SPA: M. FORMULA 1 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10297.ts
-#EXTINF:-1,•●★--- Cultura ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2205.ts
-#EXTINF:-1,SPA: CANAL ODISEA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10374.ts
-#EXTINF:-1,SPA: NATIONAL GEO
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10380.ts
-#EXTINF:-1,SPA: NATIONAL GEO HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10381.ts
-#EXTINF:-1,SPA: NATIONAL GEO WILD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10378.ts
-#EXTINF:-1,SPA: NAT GEO WILD HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10379.ts
-#EXTINF:-1,SPA: DISCOVERY ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10382.ts
-#EXTINF:-1,ES: DISCOVERY MAX
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2089.ts
-#EXTINF:-1,SPA: HISTORIA ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10377.ts
-#EXTINF:-1,SPA: A&E
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10373.ts
-#EXTINF:-1,SPA: CRIMEN INVES
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10371.ts
-#EXTINF:-1,SPA: CAZA Y PESCA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10375.ts
-#EXTINF:-1,SPA: CAZA Y PESCA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10376.ts
-#EXTINF:-1,SPA: VIAJAR
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10397.ts
-#EXTINF:-1,SPA: VIAJAR HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10398.ts
-#EXTINF:-1,SPA: IBERALIA TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10314.ts
-#EXTINF:-1,SPA: CANAL COCINA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10383.ts
-#EXTINF:-1,SPA: CANAL DECASA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10384.ts
-#EXTINF:-1,SPA: CANAL ORBE21
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10316.ts
-#EXTINF:-1,•●★--- Mùsica ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2206.ts
-#EXTINF:-1,SPA: MTV ESPANA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10361.ts
-#EXTINF:-1,•●★--- Noticias ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2208.ts
-#EXTINF:-1,ES: TV3_24H
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2047.ts
-#EXTINF:-1,ES: RT Spain
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2078.ts
-#EXTINF:-1,ES: RT
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2079.ts
-#EXTINF:-1,SPA: CLASSICA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10317.ts
-#EXTINF:-1,ES: EURONEWS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2064.ts
-#EXTINF:-1,•●★--- Niños ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2207.ts
-#EXTINF:-1,SPA: CANAL PANDA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10363.ts
-#EXTINF:-1,SPA: DISNEY CHANNEL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10367.ts
-#EXTINF:-1,SPA: DISNEY CHANNEL HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10368.ts
-#EXTINF:-1,SPA: DISNEY JUNIOR
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10366.ts
-#EXTINF:-1,SPA: DISNEY XD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10365.ts
-#EXTINF:-1,SPA: BOING
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10362.ts
-#EXTINF:-1,SPA: NICK JUNIOR
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10369.ts
-#EXTINF:-1,SPA: NICKELODEON  HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10370.ts
-#EXTINF:-1,SPA: MEGA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10389.ts
-#EXTINF:-1,SPA: CLAN TVE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10396.ts
-#EXTINF:-1,•●★--- Taquilla ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2209.ts
-#EXTINF:-1,ES: Taquilla 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4033.ts
-#EXTINF:-1,ES: Taquilla 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4034.ts
-#EXTINF:-1,ES: Taquilla 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4035.ts
-#EXTINF:-1,ES: Taquilla 4
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4036.ts
-#EXTINF:-1,ES: Taquilla 5
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4037.ts
-#EXTINF:-1,ES: Taquilla 6
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4038.ts
-#EXTINF:-1,ES: Taquilla 7
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4039.ts
-#EXTINF:-1,ES: Taquilla 8
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4040.ts
-#EXTINF:-1,ES: Taquilla 9
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4041.ts
-#EXTINF:-1,ES: Taquilla 10
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2092.ts
-#EXTINF:-1,ES: Taquilla 11
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2093.ts
-#EXTINF:-1,ES: Taquilla 12
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2094.ts
-#EXTINF:-1,ES: Taquilla 13
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2095.ts
-#EXTINF:-1,•●★--- Taquilla NIÑOS ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5835.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4134.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4135.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4136.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 4
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5833.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 5
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5834.ts
-
-#EXTINF:-1,#0 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/198.ts
-#EXTINF:-1,LA 1 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/210.ts
-#EXTINF:-1,LA 2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/359.ts
-#EXTINF:-1,ANTENA 3 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/216.ts
-#EXTINF:-1,CUATRO HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/212.ts
-#EXTINF:-1,TELECINCO HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/200.ts
-#EXTINF:-1,LA SEXTA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/218.ts
-#EXTINF:-1,FOX LIFE HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/191.ts
-#EXTINF:-1,FOX HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/219.ts
-#EXTINF:-1,AXN WHITE HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/214.ts
-#EXTINF:-1,AXN HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/215.ts
-#EXTINF:-1,HOLLYWOODHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/211.ts
-#EXTINF:-1,M.ESTRENOSHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/203.ts
-#EXTINF:-1,M.COMEDIA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/204.ts
-#EXTINF:-1,M. XTRA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/205.ts
-#EXTINF:-1,M. SeriesXtraHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/187.ts
-#EXTINF:-1,M. SERIES HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/188.ts
-#EXTINF:-1,M. DCINE HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/208.ts
-#EXTINF:-1,M. ACCI©N HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/209.ts
-#EXTINF:-1,SYFY HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/201.ts
-#EXTINF:-1,TNT HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/182.ts
-#EXTINF:-1,TCM HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/183.ts
-#EXTINF:-1,AMC HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/217.ts
-#EXTINF:-1,FDF
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/381.ts
-#EXTINF:-1,CLAN TVE
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/382.ts
-#EXTINF:-1,NICKELODEONHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/184.ts
-#EXTINF:-1,COSMO HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/194.ts
-#EXTINF:-1,COMEDYCENTRALHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/195.ts
-#EXTINF:-1,CALLE 13 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/196.ts
-#EXTINF:-1,MEZZO LIVE HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/380.ts
-#EXTINF:-1,BEIN SPORT HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/197.ts
-#EXTINF:-1,BEIN LALIGA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/213.ts
-#EXTINF:-1,LALIGA TV BAR HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/360.ts
-#EXTINF:-1,MOVISTAR  PARTIDAZO LIVE SESSION
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/337.ts
-#EXTINF:-1,M.MOTOGPHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/220.ts
-#EXTINF:-1,M.FORMULA1HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/202.ts
-#EXTINF:-1,M. GOLF HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/189.ts
-#EXTINF:-1,M. F.TBOL HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/206.ts
-#EXTINF:-1,M. DEP 2 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/207.ts
-#EXTINF:-1,M. DEP 1 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/190.ts
-#EXTINF:-1,GOL TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/357.ts
-#EXTINF:-1,R. MADRID TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/242.ts
-#EXTINF:-1,BARCA TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/259.ts
-#EXTINF:-1,EUROSPORT1HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/192.ts
-#EXTINF:-1,EUROSPORT 2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/355.ts
-#EXTINF:-1,TOROS TV HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/379.ts
-#EXTINF:-1,BEINLALIGA1
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/384.ts
-#EXTINF:-1,BEINLALIGA2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/383.ts
-#EXTINF:-1,BEIN MAX 1
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/386.ts
-#EXTINF:-1,BEIN MAX 2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/385.ts
-#EXTINF:-1,NG WILD HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/185.ts
-#EXTINF:-1,VIAJAR HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/199.ts
-#EXTINF:-1,NAT GEO HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/186.ts
-#EXTINF:-1,CAZA Y PESCA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/348.ts
-#EXTINF:-1,BABY TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/260.ts
-#EXTINF:-1,DISNEY CH HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/193.ts
-#EXTINF:-1,24 HORAS
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/263.ts
-#EXTINF:-1,NEOX
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/243.ts
-#EXTINF:-1,M. Cine Espaæol
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/245.ts
-#EXTINF:-1,LTC
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/246.ts
-#EXTINF:-1,PARAMOUNT
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/375.ts
-#EXTINF:-1,CANAL ODISEA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/345.ts
-#EXTINF:-1,CANAL DECASA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/343.ts
-#EXTINF:-1,NONSTOPEOPLE
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/373.ts
-#EXTINF:-1,MTV ESPA¹A
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/244.ts
-#EXTINF:-1,HISTORIA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/247.ts
-#EXTINF:-1,DIVINITY
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/250.ts
-#EXTINF:-1,DISNEY XD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/251.ts
-#EXTINF:-1,DISCOVERY
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/252.ts
-#EXTINF:-1,CRIMEN INVES
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/253.ts
-#EXTINF:-1,CLASSICA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/254.ts
-#EXTINF:-1,CANAL SUR A.
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/256.ts
-#EXTINF:-1,CANAL PANDA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/257.ts
-#EXTINF:-1,BOING
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/258.ts
-#EXTINF:-1,ARAGON TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/261.ts
-#EXTINF:-1,A&E
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/262.ts
-#EXTINF:-1,C&I
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/341.ts
-#EXTINF:-1,ENERGY
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/352.ts
-#EXTINF:-1,SUNDANCE
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/393.ts
-#EXTINF:-1,NIck JR
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/392.ts
-#EXTINF:-1,M. deport
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/391.ts
-#EXTINF:-1,FOX NEWS
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/389.ts
-#EXTINF:-1,DISNEY PIXAR
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/390.ts
-#EXTINF:-1,CANAL ORBE21
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/388.ts
-#EXTINF:-1,CANAL COCINA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/387.ts
-#EXTINF:-1,TAQUILLA_1
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/86.ts
-#EXTINF:-1,TAQUILLA_2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/87.ts
-#EXTINF:-1,TAQUILLA_3
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/88.ts
-#EXTINF:-1,TAQUILLA_4
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/89.ts
-#EXTINF:-1,TAQUILLA_5
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/90.ts
-#EXTINF:-1,TAQUILLA_6
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/91.ts
-#EXTINF:-1,TAQUILLA_7
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/92.ts
-#EXTINF:-1,TAQUILLA_8
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/93.ts
-#EXTINF:-1,TAQUILLA_9
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/94.ts
-#EXTINF:-1,TAQUILLA_10
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/95.ts
-#EXTINF:-1,TAQUILLA_11
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/96.ts
-#EXTINF:-1,TAQUILLA_12
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/97.ts
-#EXTINF:-1,TAQUILLA_13
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/98.ts
-#EXTINF:-1,TAQUILLA_14
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/99.ts
-#EXTINF:-1,TAQUILLA_15
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/100.ts
-#EXTINF:-1,TAQUILLA_16
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/101.ts
-#EXTINF:-1,TAQUILLA_17
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/102.ts
-#EXTINF:-1,TAQUILLA_18
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/103.ts
-#EXTINF:-1,TAQUILLA_19
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/104.ts
-#EXTINF:-1,TAQUILLA_20
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/105.ts
-#EXTINF:-1,TAQUILLA_21
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/106.ts
-#EXTINF:-1,TAQUILLA_22
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/107.ts
-#EXTINF:-1,TAQUILLA_23
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/108.ts
-#EXTINF:-1,TAQUILLA_24
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/109.ts
-#EXTINF:-1,TAQUILLA_25
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/110.ts
-#EXTINF:-1,TAQUILLA_26
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/111.ts
-#EXTINF:-1,TAQUILLA_27
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/112.ts
-#EXTINF:-1,TAQUILLA_28
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/113.ts
-#EXTINF:-1,TAQUILLA_29
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/114.ts
-#EXTINF:-1,TAQUILLA_30
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/115.ts
-#EXTINF:-1,TAQUILLA_31
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/116.ts
-#EXTINF:-1,TAQUILLA_32
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/117.ts
-#EXTINF:-1,TAQUILLA_33
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/118.ts
-#EXTINF:-1,TAQUILLA_34
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/119.ts
-#EXTINF:-1,TAQUILLA_35
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/120.ts
-#EXTINF:-1,TAQUILLA_36
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/121.ts
-#EXTINF:-1,TAQUILLA_37
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/122.ts
-#EXTINF:-1,TAQUILLA_38
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/123.ts
-#EXTINF:-1,TAQUILLA_39
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/124.ts
-#EXTINF:-1,TAQUILLA_40
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/125.ts
+#EXTINF:-1,beIN LaLIga 1 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6551.ts
+#EXTINF:-1,VIP beIN LaLIga 2 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6550.ts
+#EXTINF:-1,VIP beIN LaLIga 3 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6549.ts
+#EXTINF:-1,VIP BEIN LALIGA MAX 1 HD ES
+http://ip.cs4ip.com:8000/live/polce/123456/6548.ts
+#EXTINF:-1,Bein MAX LaLiga 1 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6547.ts
+#EXTINF:-1,VIP: Bein MAX LaLiga 2 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6546.ts
+#EXTINF:-1,VIP Bein MAX  LaLiga 3 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6545.ts
+#EXTINF:-1,VIP Bein MAX LaLiga 4 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6544.ts
+#EXTINF:-1,VIP Bein MAX LaLiga 5 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6543.ts
+#EXTINF:-1,VIP Bein MAX LaLiga 6 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6542.ts
+#EXTINF:-1,VIP Bein MAX  LaLiga 7 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6541.ts
+#EXTINF:-1,VIP: Bein MAX  LaLiga 8 ES
+http://ip.cs4ip.com:8000/live/polce/123456/6540.ts
+#EXTINF:-1,VIP: Bein Sport HD ES 1080P
+http://ip.cs4ip.com:8000/live/polce/123456/6539.ts
+#EXTINF:-1,VIP: BEIN SPORT LALIGA HD ES 1080P
+http://ip.cs4ip.com:8000/live/polce/123456/6538.ts
