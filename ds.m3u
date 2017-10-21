@@ -1,11 +1,11 @@
 #EXTINF:-1,SP: 24 Horas
-http://ip.cs4ip.com:8000/live/polce/123456/7356.ts
+http://ip.cs4ip.com:8000/live/polce/123456/7356.m3u8
 #EXTINF:-1,SP: A E
-http://ip.cs4ip.com:8000/live/polce/123456/7333.ts
+http://ip.cs4ip.com:8000/live/polce/123456/7333.m3u8
 #EXTINF:-1,SP: Amc HD
-http://ip.cs4ip.com:8000/live/polce/123456/7332.ts
+http://ip.cs4ip.com:8000/live/polce/123456/7332.m3u8
 #EXTINF:-1,SP: Antena 3 HD
-http://ip.cs4ip.com:8000/live/polce/123456/7360.ts
+http://ip.cs4ip.com:8000/live/polce/123456/7360.m3u8
 #EXTINF:-1,SP: Aragon TV
 http://ip.cs4ip.com:8000/live/polce/123456/7331.ts
 #EXTINF:-1,SP: Axn HD
