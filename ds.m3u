@@ -1,916 +1,1209 @@
 #EXTM3U
-#EXTINF:-1,SP: 24 Horas
-http://ip.cs4ip.com:8000/live/polce/123456/7356.ts
-#EXTINF:-1,SP: A E
-http://ip.cs4ip.com:8000/live/polce/123456/7333.ts
-#EXTINF:-1,SP: Amc HD
-http://ip.cs4ip.com:8000/live/polce/123456/7332.ts
-#EXTINF:-1,SP: Antena 3 HD
-http://ip.cs4ip.com:8000/live/polce/123456/7360.ts
-#EXTINF:-1,SP: Aragon TV
-http://ip.cs4ip.com:8000/live/polce/123456/7331.ts
-#EXTINF:-1,SP: Axn HD
-http://ip.cs4ip.com:8000/live/polce/123456/7330.ts
-#EXTINF:-1,SP: AXN White
-http://ip.cs4ip.com:8000/live/polce/123456/7329.ts
-#EXTINF:-1,SP: Barca TV
-http://ip.cs4ip.com:8000/live/polce/123456/7336.ts
-#EXTINF:-1,SP: Bein La Liga HD
-http://ip.cs4ip.com:8000/live/polce/123456/7341.ts
-#EXTINF:-1,SP: Calle 13 HD
-http://ip.cs4ip.com:8000/live/polce/123456/7328.ts
-#EXTINF:-1,SP: Canal Cocina
-http://ip.cs4ip.com:8000/live/polce/123456/7327.ts
-#EXTINF:-1,SP: Canal Panda
-http://ip.cs4ip.com:8000/live/polce/123456/7326.ts
-#EXTINF:-1,SP: Canal Sur
-http://ip.cs4ip.com:8000/live/polce/123456/7325.ts
-#EXTINF:-1,SP: Clan
-http://ip.cs4ip.com:8000/live/polce/123456/7324.ts
-#EXTINF:-1,SP: Classica
-http://ip.cs4ip.com:8000/live/polce/123456/7323.ts
-#EXTINF:-1,SP: Comedy Central HD
-http://ip.cs4ip.com:8000/live/polce/123456/7322.ts
-#EXTINF:-1,SP: Cosmo HD
-http://ip.cs4ip.com:8000/live/polce/123456/7321.ts
-#EXTINF:-1,SP: Crimen
-http://ip.cs4ip.com:8000/live/polce/123456/7320.ts
-#EXTINF:-1,SP: Cuatro HD
-http://ip.cs4ip.com:8000/live/polce/123456/7359.ts
-#EXTINF:-1,SP: Discovery
-http://ip.cs4ip.com:8000/live/polce/123456/7319.ts
-#EXTINF:-1,SP: Disney HD
-http://ip.cs4ip.com:8000/live/polce/123456/7318.ts
-#EXTINF:-1,SP: Disney Junior
-http://ip.cs4ip.com:8000/live/polce/123456/7317.ts
-#EXTINF:-1,SP: Disney XD
-http://ip.cs4ip.com:8000/live/polce/123456/7316.ts
-#EXTINF:-1,SP: Divinity
-http://ip.cs4ip.com:8000/live/polce/123456/7314.ts
-#EXTINF:-1,SP: Energy
-http://ip.cs4ip.com:8000/live/polce/123456/7313.ts
-#EXTINF:-1,SP: Euro Sport 1 HD
-http://ip.cs4ip.com:8000/live/polce/123456/7340.ts
-#EXTINF:-1,SP: Euro Sport 2
-http://ip.cs4ip.com:8000/live/polce/123456/7339.ts
-#EXTINF:-1,SP: FDF
-http://ip.cs4ip.com:8000/live/polce/123456/7312.ts
-#EXTINF:-1,SP: Fox HD
-http://ip.cs4ip.com:8000/live/polce/123456/7311.ts
-#EXTINF:-1,SP: Fox Life HD
-http://ip.cs4ip.com:8000/live/polce/123456/7310.ts
-#EXTINF:-1,SP: Gol
-http://ip.cs4ip.com:8000/live/polce/123456/7338.ts
-#EXTINF:-1,SP: Golf HD
-http://ip.cs4ip.com:8000/live/polce/123456/7337.ts
-#EXTINF:-1,SP: Historia
-http://ip.cs4ip.com:8000/live/polce/123456/7309.ts
-#EXTINF:-1,SP: Hollywood HD
-http://ip.cs4ip.com:8000/live/polce/123456/7308.ts
-#EXTINF:-1,SP: Iberalia
-http://ip.cs4ip.com:8000/live/polce/123456/7307.ts
-#EXTINF:-1,SP: La 1 HD
-http://ip.cs4ip.com:8000/live/polce/123456/7362.ts
-#EXTINF:-1,SP: La 2
-http://ip.cs4ip.com:8000/live/polce/123456/7361.ts
-#EXTINF:-1,SP: La Liga HD
-http://ip.cs4ip.com:8000/live/polce/123456/7342.ts
-#EXTINF:-1,SP: La Sexta HD
-http://ip.cs4ip.com:8000/live/polce/123456/7357.ts
-#EXTINF:-1,SP: Movistar Acction HD
-http://ip.cs4ip.com:8000/live/polce/123456/7355.ts
-#EXTINF:-1,SP: Movistar Cine Espanol
-http://ip.cs4ip.com:8000/live/polce/123456/7354.ts
-#EXTINF:-1,SP: Movistar Comedia HD
-http://ip.cs4ip.com:8000/live/polce/123456/7353.ts
-#EXTINF:-1,SP: Movistar Dcine HD
-http://ip.cs4ip.com:8000/live/polce/123456/7352.ts
-#EXTINF:-1,SP: Movistar Deporte 2
-http://ip.cs4ip.com:8000/live/polce/123456/7346.ts
-#EXTINF:-1,SP: Movistar Deporte HD
-http://ip.cs4ip.com:8000/live/polce/123456/7347.ts
-#EXTINF:-1,SP: Movistar Estrenos
-http://ip.cs4ip.com:8000/live/polce/123456/7351.ts
-#EXTINF:-1,SP: Movistar Extra
-http://ip.cs4ip.com:8000/live/polce/123456/7350.ts
-#EXTINF:-1,SP: Movistar Futbol HD
-http://ip.cs4ip.com:8000/live/polce/123456/7345.ts
-#EXTINF:-1,SP: Movistar Partidazo HD
-http://ip.cs4ip.com:8000/live/polce/123456/7344.ts
-#EXTINF:-1,SP: Movistar Series Extra HD
-http://ip.cs4ip.com:8000/live/polce/123456/7348.ts
-#EXTINF:-1,SP: Movistar Series HD
-http://ip.cs4ip.com:8000/live/polce/123456/7343.ts
-#EXTINF:-1,SP: Mtv Dance
-http://ip.cs4ip.com:8000/live/polce/123456/7306.ts
-#EXTINF:-1,SP: Mtv Espana
-http://ip.cs4ip.com:8000/live/polce/123456/7305.ts
-#EXTINF:-1,SP: Mtv Hits
-http://ip.cs4ip.com:8000/live/polce/123456/7304.ts
-#EXTINF:-1,SP: Mtv Rocks
-http://ip.cs4ip.com:8000/live/polce/123456/7303.ts
-#EXTINF:-1,SP: Neox
-http://ip.cs4ip.com:8000/live/polce/123456/7302.ts
-#EXTINF:-1,SP: Ngc HD
-http://ip.cs4ip.com:8000/live/polce/123456/7301.ts
-#EXTINF:-1,SP: Ngc Wild HD
-http://ip.cs4ip.com:8000/live/polce/123456/7300.ts
-#EXTINF:-1,SP: Nickelodeon HD
-http://ip.cs4ip.com:8000/live/polce/123456/7315.ts
-#EXTINF:-1,SP: Non Stop People
-http://ip.cs4ip.com:8000/live/polce/123456/7299.ts
-#EXTINF:-1,SP: Nova
-http://ip.cs4ip.com:8000/live/polce/123456/7298.ts
-#EXTINF:-1,SP: Paramount Channel
-http://ip.cs4ip.com:8000/live/polce/123456/7297.ts
-#EXTINF:-1,SP: Real Madrid	TV
-http://ip.cs4ip.com:8000/live/polce/123456/7335.ts
-#EXTINF:-1,SP: Syfy
-http://ip.cs4ip.com:8000/live/polce/123456/7295.ts
-#EXTINF:-1,SP: Tcm HD
-http://ip.cs4ip.com:8000/live/polce/123456/7294.ts
-#EXTINF:-1,SP: Tele Deporte
-http://ip.cs4ip.com:8000/live/polce/123456/7334.ts
-#EXTINF:-1,SP: Telecinco HD
-http://ip.cs4ip.com:8000/live/polce/123456/7358.ts
-#EXTINF:-1,SP: TNT HD
-http://ip.cs4ip.com:8000/live/polce/123456/7293.ts
-#EXTINF:-1,SP: Toros TV HD
-http://ip.cs4ip.com:8000/live/polce/123456/7292.ts
-#EXTINF:-1,SP: VH1
-http://ip.cs4ip.com:8000/live/polce/123456/7291.ts
-#EXTINF:-1,SP: VH1 Classic
-http://ip.cs4ip.com:8000/live/polce/123456/7290.ts
-#EXTINF:-1,SP: Viajar
-http://ip.cs4ip.com:8000/live/polce/123456/7289.ts
-#EXTINF:-1,*-*-*-*-*Espagne_ESPANA*-*-*-*-*
-http://ip.cs4ip.com:8000/live/polce/123456/4066.ts
-#EXTINF:-1,SP TNT
-http://ip.cs4ip.com:8000/live/polce/123456/1823.ts
-#EXTINF:-1,SP Teledeporte
-http://ip.cs4ip.com:8000/live/polce/123456/1822.ts
-#EXTINF:-1,SP Telecino
-http://ip.cs4ip.com:8000/live/polce/123456/1821.ts
-#EXTINF:-1,TCM_SPAIN
-http://ip.cs4ip.com:8000/live/polce/123456/1890.ts
-#EXTINF:-1,SyFy_SPAIN
-http://ip.cs4ip.com:8000/live/polce/123456/1889.ts
-#EXTINF:-1,Sol_Musica_SPAIN
-http://ip.cs4ip.com:8000/live/polce/123456/1888.ts
-#EXTINF:-1,SP Neox - SP Neox
-http://ip.cs4ip.com:8000/live/polce/123456/1830.ts
-#EXTINF:-1,SP MTV Espana - SP MTV Espana
-http://ip.cs4ip.com:8000/live/polce/123456/1850.ts
-#EXTINF:-1,SP Moto GP SP Moto GP
-http://ip.cs4ip.com:8000/live/polce/123456/1867.ts
-#EXTINF:-1,SP Mezzo  SP Mezzo
-http://ip.cs4ip.com:8000/live/polce/123456/1861.ts
-#EXTINF:-1,SP Ltc  SP Ltc
-http://ip.cs4ip.com:8000/live/polce/123456/1866.ts
-#EXTINF:-1,SP La Sexta - SP La Sexta
-http://ip.cs4ip.com:8000/live/polce/123456/1846.ts
-#EXTINF:-1,SP La 2 - SP La 2
-http://ip.cs4ip.com:8000/live/polce/123456/1847.ts
-#EXTINF:-1,SP La 1 - SP La 1
-http://ip.cs4ip.com:8000/live/polce/123456/1854.ts
-#EXTINF:-1,SP Hollywood - SP Hollywood
-http://ip.cs4ip.com:8000/live/polce/123456/1855.ts
-#EXTINF:-1,SP Historia - SP Historia
-http://ip.cs4ip.com:8000/live/polce/123456/1856.ts
-#EXTINF:-1,SP Fox News - SP Fox News
-http://ip.cs4ip.com:8000/live/polce/123456/1857.ts
-#EXTINF:-1,SP FDF - SP FDF
-http://ip.cs4ip.com:8000/live/polce/123456/1858.ts
-#EXTINF:-1,SP Energy  SP Energy
-http://ip.cs4ip.com:8000/live/polce/123456/1864.ts
-#EXTINF:-1,*-*-*-*-*Espagne_ENTRETENIMIENTO*-*-*-*-*
-http://ip.cs4ip.com:8000/live/polce/123456/4064.ts
-#EXTINF:-1,SP Viajar - SP Viajar
-http://ip.cs4ip.com:8000/live/polce/123456/1829.ts
-#EXTINF:-1,SP NGC Wild - SP NGC Wild
-http://ip.cs4ip.com:8000/live/polce/123456/1851.ts
-#EXTINF:-1,SP NGC - SP NGC
-http://ip.cs4ip.com:8000/live/polce/123456/1852.ts
-#EXTINF:-1,*-*-*-*-*Espagne_DEPORTES*-*-*-*-*
-http://ip.cs4ip.com:8000/live/polce/123456/4062.ts
-#EXTINF:-1,SP Divinity SP Divinity
-http://ip.cs4ip.com:8000/live/polce/123456/1863.ts
-#EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
-http://ip.cs4ip.com:8000/live/polce/123456/1840.ts
-#EXTINF:-1,SP Cuatro  SP Cuatro
-http://ip.cs4ip.com:8000/live/polce/123456/1871.ts
-#EXTINF:-1,SP Comedy Central - SP Comedy Central
-http://ip.cs4ip.com:8000/live/polce/123456/1833.ts
-#EXTINF:-1,SP Comedia HD  SP Comedia HD
-http://ip.cs4ip.com:8000/live/polce/123456/1859.ts
-#EXTINF:-1,SP Classica - SP Classica
-http://ip.cs4ip.com:8000/live/polce/123456/1836.ts
-#EXTINF:-1,SP Clan TVe - SP Clan TVe
-http://ip.cs4ip.com:8000/live/polce/123456/1848.ts
-#EXTINF:-1,SP Canal Panda - SP Canal Panda
-http://ip.cs4ip.com:8000/live/polce/123456/1839.ts
-#EXTINF:-1,SP Canal Decasa  SP Canal Decasa
-http://ip.cs4ip.com:8000/live/polce/123456/1870.ts
-#EXTINF:-1,SP Canal Cocina SP Canal Cocina
-http://ip.cs4ip.com:8000/live/polce/123456/1869.ts
-#EXTINF:-1,SP Canal 24 Horas SP Canal 24 Horas
-http://ip.cs4ip.com:8000/live/polce/123456/1868.ts
-#EXTINF:-1,SP C  Toros - SP C  Toros
-http://ip.cs4ip.com:8000/live/polce/123456/1828.ts
-#EXTINF:-1,SP C  Series Xtra  SP C  Series Xtra
-http://ip.cs4ip.com:8000/live/polce/123456/1874.ts
-#EXTINF:-1,SP C  Series - SP C  Series
-http://ip.cs4ip.com:8000/live/polce/123456/1834.ts
-#EXTINF:-1,SP C  Liga SP C  Liga
-http://ip.cs4ip.com:8000/live/polce/123456/1878.ts
-#EXTINF:-1,C+Golf _SPAIN
-http://ip.cs4ip.com:8000/live/polce/123456/1887.ts
-#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
-http://ip.cs4ip.com:8000/live/polce/123456/1832.ts
-#EXTINF:-1,C+Footbol_SPAIN
-http://ip.cs4ip.com:8000/live/polce/123456/1886.ts
-#EXTINF:-1,C+Estrenos_SPAIN
-http://ip.cs4ip.com:8000/live/polce/123456/1885.ts
-#EXTINF:-1,SP Real Madrid TV
-http://ip.cs4ip.com:8000/live/polce/123456/1827.ts
-#EXTINF:-1,SP C  Estrellas SP C  Estrellas
-http://ip.cs4ip.com:8000/live/polce/123456/1882.ts
-#EXTINF:-1,SP C  Deportes 2 SP C  Deportes 2
-http://ip.cs4ip.com:8000/live/polce/123456/1883.ts
-#EXTINF:-1,SP C  Deportes SP C  Deportes
-http://ip.cs4ip.com:8000/live/polce/123456/1884.ts
-#EXTINF:-1,SP C  Accion HD - SP C  Accion HD
-http://ip.cs4ip.com:8000/live/polce/123456/1831.ts
-#EXTINF:-1,SP Boing SP Boing
-http://ip.cs4ip.com:8000/live/polce/123456/1881.ts
-#EXTINF:-1,SP Bein Sports
-http://ip.cs4ip.com:8000/live/polce/123456/1826.ts
-#EXTINF:-1,SP Barca Tv -SP Barca Tv
-http://ip.cs4ip.com:8000/live/polce/123456/1860.ts
-#EXTINF:-1,SP AXN HD 
-http://ip.cs4ip.com:8000/live/polce/123456/1853.ts
-#EXTINF:-1,SP Antena 3  SP Antena 3
-http://ip.cs4ip.com:8000/live/polce/123456/1872.ts
-#EXTINF:-1,SP AMC SP AMC
-http://ip.cs4ip.com:8000/live/polce/123456/1880.ts
-#EXTINF:-1,SP AE SP AE
-http://ip.cs4ip.com:8000/live/polce/123456/1875.ts
-#EXTINF:-1,SP 40 TV  SP 40 TV
-http://ip.cs4ip.com:8000/live/polce/123456/1877.ts
-#EXTINF:-1,SP 24 Horas  SP 24 Horas
-http://ip.cs4ip.com:8000/live/polce/123456/1876.ts
-#EXTINF:-1,ES M PARTIDAZO HD
-http://ip.cs4ip.com:8000/live/polce/123456/5448.ts
-#EXTINF:-1,FI: Liv
-http://ip.cs4ip.com:8000/live/polce/123456/4265.ts
-#EXTINF:-1,FI: TV7 Finland
-http://ip.cs4ip.com:8000/live/polce/123456/4255.ts
-#EXTINF:-1,SP Disney xd SP Disney xd
-http://ip.cs4ip.com:8000/live/polce/123456/1862.ts
-#EXTINF:-1,SP Disney Ch
-http://ip.cs4ip.com:8000/live/polce/123456/1820.ts
-#EXTINF:-1,ES.CanalSeries
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1910.ts
-#EXTINF:-1,ES.Real.Madrid.ch
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1912.ts
-#EXTINF:-1,ES.MOVISTAR.GP.HD
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1930.ts
-#EXTINF:-1,ES.Moviestar.F1
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1931.ts
-#EXTINF:-1,ES.AXN
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1911.ts
-#EXTINF:-1,ES.La1
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1944.ts
-#EXTINF:-1,ES.La2
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1905.ts
-#EXTINF:-1,ES.Calle13
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1907.ts
-#EXTINF:-1,ES.Antena3
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1908.ts
-#EXTINF:-1,ES.LaSexta
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1906.ts
-#EXTINF:-1,ES.FOX.SPORTS
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1916.ts
-#EXTINF:-1,ES.Fox.Life
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1915.ts
-#EXTINF:-1,ES.FOX
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1914.ts
-#EXTINF:-1,ES.Canal.Toros
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1923.ts
-#EXTINF:-1,ES.Canal.Liga
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1924.ts
-#EXTINF:-1,ES.Canal.HD
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1918.ts
-#EXTINF:-1,ES.Canal.Deportes
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1929.ts
-#EXTINF:-1,ES.Canal.Dcine
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1920.ts
-#EXTINF:-1,ES.Canal.Costa
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1926.ts
-#EXTINF:-1,ES.Canal.Comedia
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1922.ts
-#EXTINF:-1,ES.Canal.Accion
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1921.ts
-#EXTINF:-1,ES.Canal.Xtra
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1919.ts
-#EXTINF:-1,ES.Canal Futbol
-http://iptv333.expertshort.net:8000/live/mounir/mimouna/1925.ts
-#EXTINF:-1,SPA: LA 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10408.ts
-#EXTINF:-1,SPA: LA 1 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10409.ts
-#EXTINF:-1,SPA: LA 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10407.ts
-#EXTINF:-1,SPA: ANTENA 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10405.ts
-#EXTINF:-1,SPA: ANTENA 3 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10406.ts
-#EXTINF:-1,SPA: CUATRO
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10403.ts
-#EXTINF:-1,SPA: CUATRO HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10404.ts
-#EXTINF:-1,SPA: TELECINCO
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10401.ts
-#EXTINF:-1,SPA: TELECINCO HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10402.ts
-#EXTINF:-1,SPA: LA SEXTA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10399.ts
-#EXTINF:-1,SPA: LA SEXTA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10400.ts
-#EXTINF:-1,SPA: NOVA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10392.ts
-#EXTINF:-1,SPA: NEOX
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10391.ts
-#EXTINF:-1,ES: Andalucía TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/684.ts
-#EXTINF:-1,SPA: PARAMOUNT CHANNEL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10338.ts
-#EXTINF:-1,ES: VH1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2046.ts
-#EXTINF:-1,SPA: TV GALICIA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10395.ts
-#EXTINF:-1,SPA: LTC
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10372.ts
-#EXTINF:-1,SPA: SUNDANCE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10339.ts
-#EXTINF:-1,SPA: ARAGON TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10315.ts
-#EXTINF:-1,•●★--- Cine ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2202.ts
-#EXTINF:-1,SPA: M. ESTRENOS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10351.ts
-#EXTINF:-1,SPA: M. ESTRENOS HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10352.ts
-#EXTINF:-1,SPA: M. XTRA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10345.ts
-#EXTINF:-1,SPA: M. XTRA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10346.ts
-#EXTINF:-1,SPA: M. ACCION
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10357.ts
-#EXTINF:-1,SPA: M. ACCION HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10358.ts
-#EXTINF:-1,SPA: M. COMEDIA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10353.ts
-#EXTINF:-1,SPA: M. COMEDIA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10354.ts
-#EXTINF:-1,SPA: M. DCINE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10355.ts
-#EXTINF:-1,SPA: M. DCINE HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10356.ts
-#EXTINF:-1,SPA: HOLLYWOOD ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10340.ts
-#EXTINF:-1,SPA: HOLLYWOOD HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10341.ts
-#EXTINF:-1,SPA: TCM
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10336.ts
-#EXTINF:-1,SPA: TCM HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10337.ts
-#EXTINF:-1,SPA: TNT
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10332.ts
-#EXTINF:-1,SPA: TNT HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10333.ts
-#EXTINF:-1,SPA: CANAL SUR A.
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10388.ts
-#EXTINF:-1,•●★--- Entretenimiento ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2203.ts
-#EXTINF:-1,SPA: #0
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10589.ts
-#EXTINF:-1,SPA: #0 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10359.ts
-#EXTINF:-1,SPA: M. SERIES
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10347.ts
-#EXTINF:-1,SPA: M. SERIES HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10348.ts
-#EXTINF:-1,SPA: M. SERIES XTRA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10349.ts
-#EXTINF:-1,SPA: M. SERIES XTRA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10350.ts
-#EXTINF:-1,SPA: FOX
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10328.ts
-#EXTINF:-1,SPA: FOX  HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10329.ts
-#EXTINF:-1,SPA: FOX LIFE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10326.ts
-#EXTINF:-1,SPA: FOX LIFE HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10327.ts
-#EXTINF:-1,SPA: FOX NEWS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10386.ts
-#EXTINF:-1,SPA: AMC ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10334.ts
-#EXTINF:-1,SPA: AMC HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10335.ts
-#EXTINF:-1,SPA: AXN
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10324.ts
-#EXTINF:-1,SPA: AXN HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10325.ts
-#EXTINF:-1,SPA: AXN WHITE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10322.ts
-#EXTINF:-1,SPA: AXN WHITE HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10323.ts
-#EXTINF:-1,SPA: SYFY HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10331.ts
-#EXTINF:-1,SPA: SYFY ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10330.ts
-#EXTINF:-1,SPA: CALLE 13
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10320.ts
-#EXTINF:-1,SPA: CALLE 13 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10321.ts
-#EXTINF:-1,SPA: COMEDY CENTRAL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10342.ts
-#EXTINF:-1,SPA: COMEDY CENTRAL HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10343.ts
-#EXTINF:-1,SPA: COSMO
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10318.ts
-#EXTINF:-1,SPA: COSMO HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10319.ts
-#EXTINF:-1,ES: C _ESTRELLAS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2067.ts
-#EXTINF:-1,SPA: FDF
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10394.ts
-#EXTINF:-1,SPA: ENERGY
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10393.ts
-#EXTINF:-1,SPA: DIVINITY
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10390.ts
-#EXTINF:-1,SPA: 40 TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10360.ts
-#EXTINF:-1,•●★--- Deportes ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2204.ts
-#EXTINF:-1,SPA: BEIN LA LIGA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10309.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10274.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10273.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10272.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 4
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10271.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 5
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10270.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 6
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10269.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 7
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10268.ts
-#EXTINF:-1,SPA: BEIN LA LIGA 8
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10267.ts
-#EXTINF:-1,SPA: BEIN LA LIGA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10310.ts
-#EXTINF:-1,SPA: BEIN MAX 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10285.ts
-#EXTINF:-1,SPA: BEIN MAX 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10284.ts
-#EXTINF:-1,SPA: BEIN MAX 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10283.ts
-#EXTINF:-1,SPA: BEIN MAX 4
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10282.ts
-#EXTINF:-1,SPA: BEIN MAX 5
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10281.ts
-#EXTINF:-1,SPA: BEIN MAX 6
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10280.ts
-#EXTINF:-1,SPA: BEIN MAX 7
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10279.ts
-#EXTINF:-1,SPA: BEIN MAX 8
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10278.ts
-#EXTINF:-1,SPA: BEIN SPORT
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10311.ts
-#EXTINF:-1,SPA: BEIN SPORTS HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10312.ts
-#EXTINF:-1,SPA: M. DEPORTES 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10302.ts
-#EXTINF:-1,SPA: M. DEPORTES 1 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10303.ts
-#EXTINF:-1,SPA: M. DEPORTES 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10300.ts
-#EXTINF:-1,SPA: M. DEPORTES 2 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10301.ts
-#EXTINF:-1,SPA: M. FUTBOL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10304.ts
-#EXTINF:-1,SPA: M. FUTBOL HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10305.ts
-#EXTINF:-1,SPA: MULTIFUT. 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10277.ts
-#EXTINF:-1,SPA: MULTIFUT. 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10276.ts
-#EXTINF:-1,SPA: MULTIFUT. 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10275.ts
-#EXTINF:-1,SPA: LA LIGA TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10307.ts
-#EXTINF:-1,SPA: LA LIGA TV HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10308.ts
-#EXTINF:-1,SPA: M. GOLF
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10294.ts
-#EXTINF:-1,SPA: M. GOLF HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10295.ts
-#EXTINF:-1,SPA: GOL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10313.ts
-#EXTINF:-1,SPA: M. MOTOGP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10298.ts
-#EXTINF:-1,SPA: M. MOTOGP HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10299.ts
-#EXTINF:-1,SPA: REAL MADRID TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10286.ts
-#EXTINF:-1,SPA: BARCA TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10288.ts
-#EXTINF:-1,SPA: EUROSPORT 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10293.ts
-#EXTINF:-1,SPA: EUROSPORT 1 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10292.ts
-#EXTINF:-1,SPA: EUROSPORT 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10291.ts
-#EXTINF:-1,SPA: 24 HORAS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10387.ts
-#EXTINF:-1,SPA: TOROS TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10289.ts
-#EXTINF:-1,SPA: TOROS TV HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10290.ts
-#EXTINF:-1,SPA: M. FORMULA 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10296.ts
-#EXTINF:-1,SPA: M. FORMULA 1 HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10297.ts
-#EXTINF:-1,•●★--- Cultura ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2205.ts
-#EXTINF:-1,SPA: CANAL ODISEA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10374.ts
-#EXTINF:-1,SPA: NATIONAL GEO
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10380.ts
-#EXTINF:-1,SPA: NATIONAL GEO HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10381.ts
-#EXTINF:-1,SPA: NATIONAL GEO WILD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10378.ts
-#EXTINF:-1,SPA: NAT GEO WILD HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10379.ts
-#EXTINF:-1,SPA: DISCOVERY ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10382.ts
-#EXTINF:-1,ES: DISCOVERY MAX
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2089.ts
-#EXTINF:-1,SPA: HISTORIA ESP
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10377.ts
-#EXTINF:-1,SPA: A&E
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10373.ts
-#EXTINF:-1,SPA: CRIMEN INVES
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10371.ts
-#EXTINF:-1,SPA: CAZA Y PESCA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10375.ts
-#EXTINF:-1,SPA: CAZA Y PESCA HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10376.ts
-#EXTINF:-1,SPA: VIAJAR
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10397.ts
-#EXTINF:-1,SPA: VIAJAR HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10398.ts
-#EXTINF:-1,SPA: IBERALIA TV
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10314.ts
-#EXTINF:-1,SPA: CANAL COCINA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10383.ts
-#EXTINF:-1,SPA: CANAL DECASA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10384.ts
-#EXTINF:-1,SPA: CANAL ORBE21
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10316.ts
-#EXTINF:-1,•●★--- Mùsica ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2206.ts
-#EXTINF:-1,SPA: MTV ESPANA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10361.ts
-#EXTINF:-1,•●★--- Noticias ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2208.ts
-#EXTINF:-1,ES: TV3_24H
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2047.ts
-#EXTINF:-1,ES: RT Spain
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2078.ts
-#EXTINF:-1,ES: RT
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2079.ts
-#EXTINF:-1,SPA: CLASSICA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10317.ts
-#EXTINF:-1,ES: EURONEWS
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2064.ts
-#EXTINF:-1,•●★--- Niños ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2207.ts
-#EXTINF:-1,SPA: CANAL PANDA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10363.ts
-#EXTINF:-1,SPA: DISNEY CHANNEL
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10367.ts
-#EXTINF:-1,SPA: DISNEY CHANNEL HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10368.ts
-#EXTINF:-1,SPA: DISNEY JUNIOR
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10366.ts
-#EXTINF:-1,SPA: DISNEY XD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10365.ts
-#EXTINF:-1,SPA: BOING
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10362.ts
-#EXTINF:-1,SPA: NICK JUNIOR
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10369.ts
-#EXTINF:-1,SPA: NICKELODEON  HD
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10370.ts
-#EXTINF:-1,SPA: MEGA
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10389.ts
-#EXTINF:-1,SPA: CLAN TVE
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10396.ts
-#EXTINF:-1,•●★--- Taquilla ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2209.ts
-#EXTINF:-1,ES: Taquilla 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4033.ts
-#EXTINF:-1,ES: Taquilla 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4034.ts
-#EXTINF:-1,ES: Taquilla 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4035.ts
-#EXTINF:-1,ES: Taquilla 4
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4036.ts
-#EXTINF:-1,ES: Taquilla 5
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4037.ts
-#EXTINF:-1,ES: Taquilla 6
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4038.ts
-#EXTINF:-1,ES: Taquilla 7
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4039.ts
-#EXTINF:-1,ES: Taquilla 8
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4040.ts
-#EXTINF:-1,ES: Taquilla 9
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4041.ts
-#EXTINF:-1,ES: Taquilla 10
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2092.ts
-#EXTINF:-1,ES: Taquilla 11
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2093.ts
-#EXTINF:-1,ES: Taquilla 12
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2094.ts
-#EXTINF:-1,ES: Taquilla 13
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2095.ts
-#EXTINF:-1,•●★--- Taquilla NIÑOS ----★●•
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5835.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 1
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4134.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 2
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4135.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 3
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4136.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 4
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5833.ts
-#EXTINF:-1,ES: Taquilla NIÑOS 5
-http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5834.ts
 
-#EXTINF:-1,#0 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/198.ts
-#EXTINF:-1,LA 1 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/210.ts
-#EXTINF:-1,LA 2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/359.ts
-#EXTINF:-1,ANTENA 3 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/216.ts
-#EXTINF:-1,CUATRO HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/212.ts
-#EXTINF:-1,TELECINCO HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/200.ts
-#EXTINF:-1,LA SEXTA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/218.ts
-#EXTINF:-1,FOX LIFE HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/191.ts
-#EXTINF:-1,FOX HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/219.ts
-#EXTINF:-1,AXN WHITE HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/214.ts
-#EXTINF:-1,AXN HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/215.ts
-#EXTINF:-1,HOLLYWOODHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/211.ts
-#EXTINF:-1,M.ESTRENOSHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/203.ts
-#EXTINF:-1,M.COMEDIA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/204.ts
-#EXTINF:-1,M. XTRA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/205.ts
-#EXTINF:-1,M. SeriesXtraHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/187.ts
-#EXTINF:-1,M. SERIES HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/188.ts
-#EXTINF:-1,M. DCINE HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/208.ts
-#EXTINF:-1,M. ACCI©N HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/209.ts
-#EXTINF:-1,SYFY HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/201.ts
-#EXTINF:-1,TNT HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/182.ts
-#EXTINF:-1,TCM HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/183.ts
-#EXTINF:-1,AMC HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/217.ts
-#EXTINF:-1,FDF
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/381.ts
-#EXTINF:-1,CLAN TVE
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/382.ts
-#EXTINF:-1,NICKELODEONHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/184.ts
-#EXTINF:-1,COSMO HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/194.ts
-#EXTINF:-1,COMEDYCENTRALHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/195.ts
-#EXTINF:-1,CALLE 13 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/196.ts
-#EXTINF:-1,MEZZO LIVE HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/380.ts
-#EXTINF:-1,BEIN SPORT HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/197.ts
-#EXTINF:-1,BEIN LALIGA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/213.ts
-#EXTINF:-1,LALIGA TV BAR HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/360.ts
-#EXTINF:-1,MOVISTAR  PARTIDAZO LIVE SESSION
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/337.ts
-#EXTINF:-1,M.MOTOGPHD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/220.ts
-#EXTINF:-1,M.FORMULA1HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/202.ts
-#EXTINF:-1,M. GOLF HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/189.ts
-#EXTINF:-1,M. F.TBOL HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/206.ts
-#EXTINF:-1,M. DEP 2 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/207.ts
-#EXTINF:-1,M. DEP 1 HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/190.ts
-#EXTINF:-1,GOL TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/357.ts
-#EXTINF:-1,R. MADRID TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/242.ts
-#EXTINF:-1,BARCA TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/259.ts
-#EXTINF:-1,EUROSPORT1HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/192.ts
-#EXTINF:-1,EUROSPORT 2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/355.ts
-#EXTINF:-1,TOROS TV HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/379.ts
-#EXTINF:-1,BEINLALIGA1
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/384.ts
-#EXTINF:-1,BEINLALIGA2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/383.ts
-#EXTINF:-1,BEIN MAX 1
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/386.ts
-#EXTINF:-1,BEIN MAX 2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/385.ts
-#EXTINF:-1,NG WILD HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/185.ts
-#EXTINF:-1,VIAJAR HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/199.ts
-#EXTINF:-1,NAT GEO HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/186.ts
-#EXTINF:-1,CAZA Y PESCA HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/348.ts
-#EXTINF:-1,BABY TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/260.ts
-#EXTINF:-1,DISNEY CH HD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/193.ts
-#EXTINF:-1,24 HORAS
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/263.ts
-#EXTINF:-1,NEOX
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/243.ts
-#EXTINF:-1,M. Cine Espaæol
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/245.ts
-#EXTINF:-1,LTC
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/246.ts
-#EXTINF:-1,PARAMOUNT
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/375.ts
-#EXTINF:-1,CANAL ODISEA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/345.ts
-#EXTINF:-1,CANAL DECASA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/343.ts
-#EXTINF:-1,NONSTOPEOPLE
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/373.ts
-#EXTINF:-1,MTV ESPA¹A
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/244.ts
-#EXTINF:-1,HISTORIA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/247.ts
-#EXTINF:-1,DIVINITY
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/250.ts
-#EXTINF:-1,DISNEY XD
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/251.ts
-#EXTINF:-1,DISCOVERY
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/252.ts
-#EXTINF:-1,CRIMEN INVES
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/253.ts
-#EXTINF:-1,CLASSICA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/254.ts
-#EXTINF:-1,CANAL SUR A.
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/256.ts
-#EXTINF:-1,CANAL PANDA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/257.ts
-#EXTINF:-1,BOING
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/258.ts
-#EXTINF:-1,ARAGON TV
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/261.ts
-#EXTINF:-1,A&E
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/262.ts
-#EXTINF:-1,C&I
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/341.ts
-#EXTINF:-1,ENERGY
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/352.ts
-#EXTINF:-1,SUNDANCE
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/393.ts
-#EXTINF:-1,NIck JR
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/392.ts
-#EXTINF:-1,M. deport
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/391.ts
-#EXTINF:-1,FOX NEWS
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/389.ts
-#EXTINF:-1,DISNEY PIXAR
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/390.ts
-#EXTINF:-1,CANAL ORBE21
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/388.ts
-#EXTINF:-1,CANAL COCINA
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/387.ts
-#EXTINF:-1,TAQUILLA_1
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/86.ts
-#EXTINF:-1,TAQUILLA_2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/87.ts
-#EXTINF:-1,TAQUILLA_3
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/88.ts
-#EXTINF:-1,TAQUILLA_4
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/89.ts
-#EXTINF:-1,TAQUILLA_5
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/90.ts
-#EXTINF:-1,TAQUILLA_6
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/91.ts
-#EXTINF:-1,TAQUILLA_7
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/92.ts
-#EXTINF:-1,TAQUILLA_8
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/93.ts
-#EXTINF:-1,TAQUILLA_9
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/94.ts
-#EXTINF:-1,TAQUILLA_10
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/95.ts
-#EXTINF:-1,TAQUILLA_11
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/96.ts
-#EXTINF:-1,TAQUILLA_12
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/97.ts
-#EXTINF:-1,TAQUILLA_13
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/98.ts
-#EXTINF:-1,TAQUILLA_14
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/99.ts
-#EXTINF:-1,TAQUILLA_15
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/100.ts
-#EXTINF:-1,TAQUILLA_16
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/101.ts
-#EXTINF:-1,TAQUILLA_17
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/102.ts
-#EXTINF:-1,TAQUILLA_18
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/103.ts
-#EXTINF:-1,TAQUILLA_19
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/104.ts
-#EXTINF:-1,TAQUILLA_20
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/105.ts
-#EXTINF:-1,TAQUILLA_21
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/106.ts
-#EXTINF:-1,TAQUILLA_22
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/107.ts
-#EXTINF:-1,TAQUILLA_23
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/108.ts
-#EXTINF:-1,TAQUILLA_24
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/109.ts
-#EXTINF:-1,TAQUILLA_25
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/110.ts
-#EXTINF:-1,TAQUILLA_26
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/111.ts
-#EXTINF:-1,TAQUILLA_27
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/112.ts
-#EXTINF:-1,TAQUILLA_28
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/113.ts
-#EXTINF:-1,TAQUILLA_29
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/114.ts
-#EXTINF:-1,TAQUILLA_30
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/115.ts
-#EXTINF:-1,TAQUILLA_31
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/116.ts
-#EXTINF:-1,TAQUILLA_32
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/117.ts
-#EXTINF:-1,TAQUILLA_33
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/118.ts
-#EXTINF:-1,TAQUILLA_34
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/119.ts
-#EXTINF:-1,TAQUILLA_35
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/120.ts
-#EXTINF:-1,TAQUILLA_36
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/121.ts
-#EXTINF:-1,TAQUILLA_37
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/122.ts
-#EXTINF:-1,TAQUILLA_38
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/123.ts
-#EXTINF:-1,TAQUILLA_39
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/124.ts
-#EXTINF:-1,TAQUILLA_40
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/125.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-eYke2kBD9U8/AAAAAAAAAAI/AAAAAAAAAAA/3KiFE_DcHSA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Game Snake Land (soluciones y utilidades) Spain
+https://www.youtube.com/watch?v=G_l-vHuiwhI
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-eYke2kBD9U8/AAAAAAAAAAI/AAAAAAAAAAA/3KiFE_DcHSA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",suscribete a mi canal de yotube !!!!
+https://www.youtube.com/channel/UCTFgMnGd7eFIO1FMk6NiOSw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-eYke2kBD9U8/AAAAAAAAAAI/AAAAAAAAAAA/3KiFE_DcHSA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",para mas canales GRATIS !!!!
+https://www.youtube.com/channel/UCTFgMnGd7eFIO1FMk6NiOSw	
+
+#EXTINF:0,ANTENA3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:0,LASEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:0,AtreSeries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
+#EXTINF:0,13TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:0,CyL7
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:0,Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+#EXTINF:0,LaOtra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:0,TvGalicia
+http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8
+#EXTINF:0,CanalExtremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:0,Castilla-LaManchaTv
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
+#EXTINF:0,AndaluciaTv
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0,CANALSURAndalucia
+http://195.55.74.208/rtva/andaluciatelevision-iphone/stream.m3u8
+#EXTINF:0,7TVMURCIA
+rtmp://flash0.80670-live0.dna.qbrick.com/80670-live0/murciatv
+#EXTINF:0,RTPAAsturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0,RtvCe
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0,8Tv
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:0,PopularTvCantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:0,eitbEuskadi
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8
+#EXTINF:0,HuelvaTv
+http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
+#EXTINF:0,ESPECIALViajar
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:0,BETISTV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:0,SEXTATION
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+#EXTINF:0,A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,ANTENA3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif" group-title="ENTRETENIMIENTO",Investigation Discovery  
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1738.ts
+
+
+
+
+
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,#0 HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LA 1 HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LA 2 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ANTENA 3 HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CUATRO HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TELECINCO HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LA SEXTA HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,FOX LIFE HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,FOX HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,AXN WHITE HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,AXN HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,HOLLYWOODHD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M.ESTRENOSHD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M.COMEDIA HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. XTRA HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. SeriesXtraHD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. SERIES HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. DCINE HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. ACCI©N HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,SYFY HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TNT HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TCM HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,AMC HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,FDF (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CLAN TVE (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NICKELODEONHD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,COSMO HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,COMEDYCENTRALHD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CALLE 13 HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,MEZZO LIVE HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BEIN SPORT HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BEIN LALIGA HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LALIGA TV BAR HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,MOVISTAR  PARTIDAZO LIVE SESSION (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M.MOTOGPHD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M.FORMULA1HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. GOLF HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. F.TBOL HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. DEP 2 HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. DEP 1 HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,GOL TV (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,R. MADRID TV (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BARCA TV (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,EUROSPORT1HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,EUROSPORT 2 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TOROS TV HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BEINLALIGA1 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BEINLALIGA2 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BEIN MAX 1 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BEIN MAX 2 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NG WILD HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,VIAJAR HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NAT GEO HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CAZA Y PESCA HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BABY TV (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,DISNEY CH HD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,24 HORAS (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NEOX (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. Cine Espaæol (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LTC (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,PARAMOUNT (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CANAL ODISEA (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CANAL DECASA (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NONSTOPEOPLE (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,MTV ESPA¹A (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,HISTORIA (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,DIVINITY (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,DISNEY XD (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,DISCOVERY (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CRIMEN INVES (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CLASSICA (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CANAL SUR A. (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CANAL PANDA (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BOING (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ARAGON TV (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,A&E (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,C&I (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ENERGY (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,SUNDANCE (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/393.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NIck JR (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/392.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. deport (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/391.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,FOX NEWS (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/389.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,DISNEY PIXAR (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/390.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CANAL ORBE21 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/388.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CANAL COCINA (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/387.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_1 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_2 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_3 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_4 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_5 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_6 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_7 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_8 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_9 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_10 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_11 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_12 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_13 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_14 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_15 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_16 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_17 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_18 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_19 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_20 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_21 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_22 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_23 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_24 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_25 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_26 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_27 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_28 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_29 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_30 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_31 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_32 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_33 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_34 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_35 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_36 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_37 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_38 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_39 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TAQUILLA_40 (Game Snake Land S. y L.) P1.1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
+
+
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NAT GEO WILD (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TNT (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03v/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CUATRO (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. GOLF (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NAT GEOGRAPH (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,MULTIDEPORTE (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LA SEXTA (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. F.TBOL (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TELECINCO (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. SERIES (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NICK JR (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LA 1 (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LA 2 (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,MEZZO (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. DEP 1 (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,FDF (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M. XTRA (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,PLAYBOY TV (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BEIN LALIGA (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LALIGATV BAR (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,SUNDANCE (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a036/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CLAN  TVE (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LALIGATVBAR1 (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CANAL ORBE21 (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a035/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CANAL ODISEA (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,HOLLYWOOD (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,SYFY (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CANAL DECASA (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CALLE 13 (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,MULTIFUT. 1 (Game Snake Land S. y L.) p1
+http://78.110.160.130:8008/play/a038/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar+ (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.77:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar+ HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.185:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TVE 1 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.76:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TVE 1 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.185:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TVE 2 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.2:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Antena 3 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.3:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Antena 3 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.186:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Cuatro (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.4:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Cuatro HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.177:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Telecinco (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.5:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Telecinco HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.176:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,La Sexta (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.58:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,La Sexta HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.187:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,#0 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.108:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,#0 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.187:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,7 Region de Murcia (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.87:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Aragon TV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.88:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal Sur (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.49:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Castilla y Leon 7 https://iptv.(Game Snake Land S. y L.) zone
+http://79.158.163.207:4022/udp/239.0.0.109:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,CMT (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.55:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,ETB 1 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.35:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Extremadura TV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.73:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,IB3 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.56:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Telemadrid (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.25:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TV Canaria (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.54:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TV Galicia (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.53:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TV Mediterraneo (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.34:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TV Princ de Asturias (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.86:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TV3 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.23:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TV3 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.186:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,8 TV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.82:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal Sur 2 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.50:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,ETB 2 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.36:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,La Otra (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.26:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Series (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.32:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Series HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.184:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Series (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.4:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Series HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.250:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Series Xtra (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.20:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Series Xtra HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.83:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,FOX (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.74:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,FOX HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.9.134:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,AXN (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.14:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,AXN HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.9.131:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TNT (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.44:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TNT HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.87:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Comedy Central (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.68:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Comedy Central HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.174:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Calle 13 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.13:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Calle 13 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.74:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Cosmo (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.15:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Cosmo HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.71:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,AMC (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.8:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,AMC HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.9.132:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,FOX Life https://iptv.zone (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.112:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,FOX Life HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.86:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,AXN White (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.62:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,AXN White HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.79:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,SyFy (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.111:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,SyFy HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.75:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Non Stop People (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.212:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Non Stop People HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.170:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,MTV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.211:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,FDF (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.84:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Neox (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.107:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Atreseries (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.29:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Atreseries HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.181:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Cine (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.30:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Cine HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.178:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Estrenos (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.40:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Estrenos HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.111:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Xtra (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.41:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Xtra HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.112:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Accion (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.42:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Accion HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.113:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Comedia (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.43:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Comedia HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.114:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar DCine (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.44:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar DCine HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.115:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,DCine Espanol (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.45:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TCM (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.6.5:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TCM HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.89:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Hollywood (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.16:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Hollywood HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.76:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Sundance (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.102:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Sundance HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.72:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Paramount (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.90:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,DARK (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.39:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,13 TV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.91:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Ten (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.34:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Deportes (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.33:8208
+http://www.iptvbin.com/2016/04/iptv-bin-espana.html
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Deportes HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.180:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Futbol (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.6.8:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Futbol HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.6.14:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Partidazo (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.4.129:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Partidazo HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.84:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN La Liga (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.46:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN La Liga HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.106:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN La Liga 1 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.47:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN La Liga 1 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.179:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN La Liga 2 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.67:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN La Liga 2 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.180:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN SPORTS (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.100:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN SPORTS HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.9.80:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Futbol Replay (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.97:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN MAX 1 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.6.7:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN MAX 1 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.177:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN MAX 2 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.6.13:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Deportes 1 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.4.193:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Deportes 1 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.248:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Deportes 2 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.5:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Deportes 2 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.245:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar F1 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.210:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar F1 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.246:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar MotoGP (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.38:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar MotoGP HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.107:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Golf (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.2:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Movistar Golf HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.249:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,EuroSport (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.18:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,EuroSport HD New (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.9.144:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,EuroSport HD Old (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.9.135:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,EuroSport 2 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.37:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,EuroSport 2 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.105:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,GOL (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.7:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,GOL HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.189:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Teledeporte (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.79:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Teledeporte HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.188:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Iberalia (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.6:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multideporte 1 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.1:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,National Geographic (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.103:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,National Geographic HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.78:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Nat Geo Wild (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.89:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Nat Geo Wild HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.9.136:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Historia (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.19:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Discovery Channel (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.21:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Discovery Channel HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.77:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Odisea (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.22:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Odisea HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.82:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,A&ampampE (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.38:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Viajar (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.20:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Viajar HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.73:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Discovery MAX (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.32:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,CCTV-E (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.65:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Cocina (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.27:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Decasa (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.71:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,DKISS (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.6:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Crimen e Investigacion (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.57:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Divinity (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.48:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Nova (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.106:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,MEGA (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.31:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,BeMad (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.17:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,BeMad HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.182:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Energy (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.59:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Garage TV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.99:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Baby TV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.113:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Disney Junior (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.10:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal Panda (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.117:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Nick Jr (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.115:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Nickelodeon (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.69:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Disney XD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.11:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Disney Channel (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.64:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Disney Channel HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.173:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Boing (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.66:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Clan TVE (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.80:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,40 TV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.12:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,VH1 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.75:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal 24 Horas (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.78:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,BBC world (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.30:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,CNN International (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.40:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Fox News (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.65:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Euronews (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.28:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Al Jazeera (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.66:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,France 24 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.67:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Russia Today (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.68:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,CNBC Europe (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.69:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TV5 Monde Europe (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.31:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Bloomberg (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.29:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Intereconomia TV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.63:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,I24 News (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.220:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,CNC World (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.221:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal Orbe 21 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.45:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Andalucia TV (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.1:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Galicia TV Europa (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.37:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,TV3CAT (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.3.36:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,ETB Sat (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.60:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Aragon TV Int (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.81:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Super 3/33 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.24:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Esport3 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.51:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,3/24 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.61:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Xarxa Televisions (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.9:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multifutbol 1 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.92:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multifutbol 2 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.93:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multifutbol 3 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.94:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multifutbol 4 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.95:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multifutbol 5 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.96:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN La Liga 3 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.70:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN La Liga 3 HD (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.5.181:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN La Liga 4 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.72:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN MAX 3 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.216:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,beIN MAX 4 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.217:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multideporte 2 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.2:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multideporte 3 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.3:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multideporte 4 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.4:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multideporte 5 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.5:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multideporte 6 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.132:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,Multideporte 7 (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.7.133:8208
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,La Tienda en Casa (Game Snake Land S. y L.)
+http://79.158.163.207:4022/udp/239.0.0.98:8208
+
+
+
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| A&E (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1141.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| AMC (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1140.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Antena 3 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1139.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| AXN (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1138.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| AXN White (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1137.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Baby TV (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1083.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Barca TV (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1136.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| beIN Sports España (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1135.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Boing (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1134.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Calle 13 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1133.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Canal 24 horas (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1130.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Canal Decasa (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1129.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Canal Hollywood (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1128.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Canal Odisea (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1127.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Canal Panda (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1131.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Canal Toros (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1132.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Clan TV (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1116.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Comedi Central (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1115.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Cosmo HD (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1082.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Cuatro (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1114.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Cuatro HD (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1081.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Disney Channel (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1112.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Disney JR (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1080.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| DISNEY XD (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1113.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Divinity (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1079.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Energy (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1111.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Eurosport 1 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1078.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Eurosport 2 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1077.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| FDF (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1110.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| FOX (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1109.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| FOX Life (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1108.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Gol (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1076.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| LA Sexta (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1106.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| La1 HD (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1075.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| M Formula1 HD (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1074.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| M Moto GP (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1073.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| M Xtra (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1072.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Accion (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1126.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Comedia (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1125.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Dcine (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1124.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Deportes (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1117.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Deportes 2 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1142.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Estrones (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1123.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Extra (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1122.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Futbol (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1121.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Golf (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1120.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Series (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1119.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Moviestar Series Extra (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1118.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| MTV Espana (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1071.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Nat Geo (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1105.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Nat Geo Wild (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1104.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| NEOX (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1103.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| NICK JR (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1102.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Nickelodeon (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1101.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Nova (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1100.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Paramount (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1099.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Real Madrid (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1098.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| SYFY (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1097.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Taquilla 1 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1096.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Taquilla 2 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1095.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Taquilla 3 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1094.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Taquilla 4 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1093.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Taquilla 5 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1092.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| TCM (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1091.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Tele Cinco (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1090.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| Tele Deporte (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1089.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| TNT (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1088.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| TV3 CAT (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1087.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| TVE 1 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1086.ts
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,|SP| TVE 2 (Game Snake Land S. y L.)
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1085.ts
+
+
+
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES : MOVISTAR F1 HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1558.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES : MOVISTAR FORMULA 1 (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1559.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES : movistar Futbol (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1560.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES : MOVISTAR MOTOGP (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1561.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: 24 Horas (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1571.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: 40 TV (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1570.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: A&E (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1579.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: AMC (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1580.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: AXN HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1581.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: BABY TV (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/23.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: BARCA TV (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1569.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: beIN LA Liga FHD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/221.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: beIN LaLIga 1 (event only) (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1577.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: beIN Laliga 1 HD Backup (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/220.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: beIN LaLIga 2 (event only) (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1576.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: beIN LaLIga 3 (event only) (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1575.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Bein Liga HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1582.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Bein Sport HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1583.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Boing (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1584.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Canal  ESTRENOS HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1612.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: CANAL COCINA (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1585.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Canal De Las Estrellas (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1565.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: CANAL DECASA (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1586.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Canal SERIES HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1587.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Caza y pesca (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1588.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Clan Tve (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1589.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: COMEDY CENTRAL HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1568.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: COSMO HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1590.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Crimen Investigation (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1563.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: DISCOVERY (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1622.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: DISNEY CHANNEL HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1623.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: DISNEY XD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1625.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: DIVINITY (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1591.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Energy (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1574.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: EUROSPORT 1 (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1573.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: EUROSPORT 2 (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1572.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: FDF (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1592.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: FOX HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1626.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: GOL Tv (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1593.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: HOLLYWOOD HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1629.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: IBERALIA (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1594.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: LA 2 HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1595.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: La Liga BAR HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1596.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: MEGA (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1632.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Movistar Partidazo HD (event only) (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/177.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: MTV ESPANA (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1562.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: NEOX (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1597.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: NICKELODEON HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1598.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Nonstop People (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1567.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: NOVA (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1599.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: ODISEA HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1600.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: PANDA (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1601.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Paramount (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1564.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: Real Madrid Channel (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/839.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: SYFY (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1602.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES: TNT (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1603.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:ANTENA 3 HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1604.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:AXN WHITE HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1605.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:CALLE 13 HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1606.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:CANAL  ACTION HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1607.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  COMEDIA HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1608.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  DCINE HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1609.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  DEPORTES 2 HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1610.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  DEPORTES HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1611.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  FUTBOL HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1613.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  GOLF HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1614.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  LIGA 2 HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1615.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  LIGA HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1616.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  SERIES XTRA HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1617.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  TOROS HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1618.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:Canal  XTRA HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1619.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:CUATRO HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1620.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:DISCOVERY CHANNEL HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1621.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:DISNEY JUNIOR (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1624.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:FOX LIFE HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1627.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:HISTORIA (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1628.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:LA 1 HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1630.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:LA SEXTA HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1631.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:NAT GEO WILD HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1633.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:NATIONAL GEOGRAPHIC HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1634.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:NICK Jr (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1635.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:TCM HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1636.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:TELECINCO HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1637.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:TELEDEPORTE HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1638.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,ES:VIAJAR HD (Game Snake Land S. y L.)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1639.ts
