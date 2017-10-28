@@ -1,835 +1,1184 @@
 #EXTM3U
-#EXTINF:-1,SP: La 1
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/482.ts
-#EXTINF:-1,SP: La 2
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/483.ts
-#EXTINF:-1,SP: Antena 3
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/484.ts
-#EXTINF:-1,SP: Cuatro
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/485.ts
-#EXTINF:-1,SP: Telecino
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/518.ts
-#EXTINF:-1,SP: La Sexta
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/539.ts
-#EXTINF:-1,SP: Clan TVE
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/545.ts
-#EXTINF:-1,SP: Nova
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1858.ts
-#EXTINF:-1,SP: Neox
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/527.ts
-#EXTINF:-1,SP: Canal Sur
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/542.ts
-#EXTINF:-1,SP: C+ Estrenos
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts
-#EXTINF:-1,SP: C+ Xtra
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/***.ts
-#EXTINF:-1,SP: C+ Accion HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/512.ts
-#EXTINF:-1,SP:  C+ Comedia HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/513.ts
-#EXTINF:-1,SP: C+ Dcine HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/511.ts
-#EXTINF:-1,SP: Hollywood
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/538.ts
-#EXTINF:-1,SP: TNT
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/520.ts
-#EXTINF:-1,SP: Tcm
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts
-#EXTINF:-1,SP: C+ Series
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts
-#EXTINF:-1,SP: C+ Series Xtra
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/514.ts
-#EXTINF:-1,SP: Fox HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/492.ts
-#EXTINF:-1,SP: Amc
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/500.ts
-#EXTINF:-1,SP: Axn HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/550.ts
-#EXTINF:-1,SP: Syfy
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/516.ts
-#EXTINF:-1,SP: Calle 13
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/540.ts
-#EXTINF:-1,SP: Comedy Central
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/528.ts
-#EXTINF:-1,SP: FDF
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/535.ts
-#EXTINF:-1,SP: Divinity
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/489.ts
-#EXTINF:-1,SP: Energy
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/490.ts
-#EXTINF:-1,SP: C+ Toros
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/501.ts
-#EXTINF:-1,SP: Ltc
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/491.ts
-#EXTINF:-1,SP: C+ Deportes
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/507.ts
-#EXTINF:-1,SP: C+ Deportes 2
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/508.ts
-#EXTINF:-1,SP: C+ Futbol HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/505.ts
-#EXTINF:-1,SP: C + Futbol
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/504.ts
-#EXTINF:-1,SP: Teledeporte
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/519.ts
-#EXTINF:-1,SP: Bein Sports
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/523.ts
-#EXTINF:-1,SP: Real Madrid TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/525.ts
-#EXTINF:-1,SP: Barca TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/524.ts
-#EXTINF:-1,SP: Euro Sport 1
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/529.ts
-#EXTINF:-1,SP: Euro Sport 2
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts
-#EXTINF:-1,SP: Moto GP
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/493.ts
-#EXTINF:-1,SP: C+ Golf
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/510.ts
-#EXTINF:-1,SP: Canal Odisea
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/541.ts
-#EXTINF:-1,SP: National Geographic
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/548.ts
-#EXTINF:-1,SP: National Geographic Wild HD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/547.ts
-#EXTINF:-1,SP: Discovery
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/532.ts
-#EXTINF:-1,SP: Historia
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/537.ts
-#EXTINF:-1,SP: Canal Decasa
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/496.ts
-#EXTINF:-1,SP: Caza Y Pesca
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/549.ts
-#EXTINF:-1,SP: Viajar
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts
-#EXTINF:-1,SP: Canal Cocina
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/495.ts
-#EXTINF:-1,SP: Mtv Espana
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/546.ts
-#EXTINF:-1,SP: Mezzo
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/487.ts
-#EXTINF:-1,SP: Classica
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/531.ts
-#EXTINF:-1,SP: Disney Channel
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/533.ts
-#EXTINF:-1,SP: Disney XD
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/488.ts
-#EXTINF:-1,SP: Boing
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1446.ts
-#EXTINF:-1,SP: Canal Panda
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts
-#EXTINF:-1,SP: Baby TV
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/544.ts
-#EXTINF:-1,SP: Canal 24 Horas
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/494.ts
-#EXTINF:-1,SP: 24 Horas
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/498.ts
-#EXTINF:-1,SP: Fox News
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/536.ts
-#EXTINF:-1,SP: TV International Europa
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/521.ts
-#EXTINF:-1,SP: C+ Liga
-http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts
-#EXTINF:-1,ES: A&E Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6639.ts
-#EXTINF:-1,ES: A&E
-http://194.88.104.81:8000/live/Santos/Santos/6261.ts
-#EXTINF:-1,ES: CANAL COCINA
-http://194.88.104.81:8000/live/Santos/Santos/6251.ts
-#EXTINF:-1,ES: CANAL TOROS
-http://194.88.104.81:8000/live/Santos/Santos/6245.ts
-#EXTINF:-1,ES: FOX
-http://194.88.104.81:8000/live/Santos/Santos/6242.ts
-#EXTINF:-1,ES: Hollywood
-http://194.88.104.81:8000/live/Santos/Santos/6240.ts
-#EXTINF:-1,ES: Telecinco
-http://194.88.104.81:8000/live/Santos/Santos/6232.ts
-#EXTINF:-1,ES: #0 HD
-http://194.88.104.81:8000/live/Santos/Santos/6641.ts
-#EXTINF:-1,ES: 24h
-http://194.88.104.81:8000/live/Santos/Santos/6640.ts
-#EXTINF:-1,ES: AMC HD
-http://194.88.104.81:8000/live/Santos/Santos/6638.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-http://194.88.104.81:8000/live/Santos/Santos/6637.ts
-#EXTINF:-1,ES: AXN HD
-http://194.88.104.81:8000/live/Santos/Santos/6260.ts
-#EXTINF:-1,ES: AXN White HD
-http://194.88.104.81:8000/live/Santos/Santos/6259.ts
-#EXTINF:-1,ES: AXN WHITE HD Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6636.ts
-#EXTINF:-1,ES: BARCA TV
-http://194.88.104.81:8000/live/Santos/Santos/6258.ts
-#EXTINF:-1,ES: BARÇA TV Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6635.ts
-#EXTINF:-1,ES: REAL MADRID TV
-http://194.88.104.81:8000/live/Santos/Santos/6233.ts
-#EXTINF:-1,ES: Bein Sports LaLiga HD
-http://194.88.104.81:8000/live/Santos/Santos/6634.ts
-#EXTINF:-1,ES: BeIN Sports HD
-http://194.88.104.81:8000/live/Santos/Santos/6257.ts
-#EXTINF:-1,ES: BeIN Sports HD Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6633.ts
-#EXTINF:-1,ES: BOING
-http://194.88.104.81:8000/live/Santos/Santos/6632.ts
-#EXTINF:-1,ES: CALLE13
-http://194.88.104.81:8000/live/Santos/Santos/6256.ts
-#EXTINF:-1,ES: CALLE13 Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6631.ts
-#EXTINF:-1,ES: CANAL +  ACCION HD
-http://194.88.104.81:8000/live/Santos/Santos/6630.ts
-#EXTINF:-1,ES: CANAL +  ACCION HD Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6252.ts
-#EXTINF:-1,ES: CANAL + COMEDIA HD
-http://194.88.104.81:8000/live/Santos/Santos/6629.ts
-#EXTINF:-1,ES: CANAL + COMEDIA HD Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6250.ts
-#EXTINF:-1,ES: CANAL + DCINE HD
-http://194.88.104.81:8000/live/Santos/Santos/6628.ts
-#EXTINF:-1,ES: CANAL +  ESTRENOS HD
-http://194.88.104.81:8000/live/Santos/Santos/6627.ts
-#EXTINF:-1,ES: CANAL +  ESTRENOS HD Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6247.ts
-#EXTINF:-1,ES: CANAL +  SERIES HD
-http://194.88.104.81:8000/live/Santos/Santos/6626.ts
-#EXTINF:-1,ES: CANAL +  SERIES HD Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6249.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://194.88.104.81:8000/live/Santos/Santos/6624.ts
-#EXTINF:-1,ES: CANAL DECASA Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6244.ts
-#EXTINF:-1,ES: Clan TVE
-http://194.88.104.81:8000/live/Santos/Santos/6622.ts
-#EXTINF:-1,ES: CUATRO HD
-http://194.88.104.81:8000/live/Santos/Santos/6621.ts
-#EXTINF:-1,ES: DISCOVERY
-http://194.88.104.81:8000/live/Santos/Santos/6619.ts
-#EXTINF:-1,ES: DIVINITY
-http://194.88.104.81:8000/live/Santos/Santos/6618.ts
-#EXTINF:-1,ES: ENERGY
-http://194.88.104.81:8000/live/Santos/Santos/6617.ts
-#EXTINF:-1,ES: FOX LIFE HD
-http://194.88.104.81:8000/live/Santos/Santos/6616.ts
-#EXTINF:-1,ES: GOL
-http://194.88.104.81:8000/live/Santos/Santos/6615.ts
-#EXTINF:-1,ES: HISTORIA
-http://194.88.104.81:8000/live/Santos/Santos/6614.ts
-#EXTINF:-1,ES: HISTORIA Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6241.ts
-#EXTINF:-1,ES: LA 1
-http://194.88.104.81:8000/live/Santos/Santos/6239.ts
-#EXTINF:-1,ES: LA 1 HD
-http://194.88.104.81:8000/live/Santos/Santos/6612.ts
-#EXTINF:-1,ES: LA 2
-http://194.88.104.81:8000/live/Santos/Santos/6238.ts
-#EXTINF:-1,ES: LA 2 Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6611.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://194.88.104.81:8000/live/Santos/Santos/6237.ts
-#EXTINF:-1,ES: LA SEXTA HD Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6613.ts
-#EXTINF:-1,ES: La Tienda En Casa
-http://194.88.104.81:8000/live/Santos/Santos/6610.ts
-#EXTINF:-1,ES: Movistar Deportes 1
-http://194.88.104.81:8000/live/Santos/Santos/6609.ts
-#EXTINF:-1,ES: Movistar Deportes 1 Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6255.ts
-#EXTINF:-1,ES: Movistar Deportes 2
-http://194.88.104.81:8000/live/Santos/Santos/6608.ts
-#EXTINF:-1,ES: Movistar Deportes 2 HD
-http://194.88.104.81:8000/live/Santos/Santos/6642.ts
-#EXTINF:-1,ES: Movistar Deportes 2 Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6248.ts
-#EXTINF:-1,ES: Movistar Fútbol Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6254.ts
-#EXTINF:-1,ES: Movistar Golf
-http://194.88.104.81:8000/live/Santos/Santos/6253.ts
-#EXTINF:-1,ES: Movistar F1
-http://194.88.104.81:8000/live/Santos/Santos/6604.ts
-#EXTINF:-1,ES: Movistar MotoGP
-http://194.88.104.81:8000/live/Santos/Santos/6603.ts
-#EXTINF:-1,ES: Movistar MotoGP Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6236.ts
-#EXTINF:-1,ES: LaLigatv
-http://194.88.104.81:8000/live/Santos/Santos/6606.ts
-#EXTINF:-1,ES: LaLigatv HD
-http://194.88.104.81:8000/live/Santos/Santos/6246.ts
-#EXTINF:-1,ES: MEGA
-http://194.88.104.81:8000/live/Santos/Santos/6605.ts
-#EXTINF:-1,ES: NAT GEO WILD HD
-http://194.88.104.81:8000/live/Santos/Santos/6602.ts
-#EXTINF:-1,ES: National Geographic Channel
-http://194.88.104.81:8000/live/Santos/Santos/6235.ts
-#EXTINF:-1,ES: National Geographic Channel Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6601.ts
-#EXTINF:-1,ES: NEOX
-http://194.88.104.81:8000/live/Santos/Santos/6600.ts
-#EXTINF:-1,ES: CANAL PANDA
-http://194.88.104.81:8000/live/Santos/Santos/6625.ts
-#EXTINF:-1,ES: Disney Channel
-http://194.88.104.81:8000/live/Santos/Santos/6243.ts
-#EXTINF:-1,ES: Nickelodeon HD
-http://194.88.104.81:8000/live/Santos/Santos/6599.ts
-#EXTINF:-1,ES: NOVA
-http://194.88.104.81:8000/live/Santos/Santos/6598.ts
-#EXTINF:-1,ES: ODISEA
-http://194.88.104.81:8000/live/Santos/Santos/6623.ts
-#EXTINF:-1,ES: ODISEA HD Esp.
-http://194.88.104.81:8000/live/Santos/Santos/6234.ts
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://194.88.104.81:8000/live/Santos/Santos/6597.ts
-#EXTINF:-1,ES: SYFY HD
-http://194.88.104.81:8000/live/Santos/Santos/6596.ts
-#EXTINF:-1,ES: TCM HD
-http://194.88.104.81:8000/live/Santos/Santos/6595.ts
-#EXTINF:-1,ES: TELEDEPORTE
-http://194.88.104.81:8000/live/Santos/Santos/6594.ts
-#EXTINF:-1,ES: TNT
-http://194.88.104.81:8000/live/Santos/Santos/6231.ts
-#EXTINF:-1,ES: TNT HD
-http://194.88.104.81:8000/live/Santos/Santos/6593.ts
-#EXTINF:-1,ES: TVE La 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6230.ts
-#EXTINF:-1,ES: LA 1
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18322.ts
-#EXTINF:-1,ES: LA 2
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18321.ts
-#EXTINF:-1,ES- Antena3 HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18357.ts
-#EXTINF:-1,ES- Antena3 Series
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18356.ts
-#EXTINF:-1,ES: CUATRO
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18320.ts
-#EXTINF:-1,ES: LA SEXTA
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18318.ts
-#EXTINF:-1,ES: TELECINCO
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18319.ts
-#EXTINF:-1,ES: TVE LA 1
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18317.ts
-#EXTINF:-1,ES: TVE LA 2
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18316.ts
-#EXTINF:-1,ES: TV3
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18315.ts
-#EXTINF:-1,ES: AMC HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18330.ts
-#EXTINF:-1,ES: AXN
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18325.ts
-#EXTINF:-1,ES: AXN White
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18324.ts
-#EXTINF:-1,ES: Calle 13
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18331.ts
-#EXTINF:-1,ES: Comedy Central
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18333.ts
-#EXTINF:-1,ES: Fox HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18327.ts
-#EXTINF:-1,ES: Fox Life
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18326.ts
-#EXTINF:-1,ES: Hollywood
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18332.ts
-#EXTINF:-1,ES: Movistar Accion HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18340.ts
-#EXTINF:-1,ES: Movistar Comedia HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18341.ts
-#EXTINF:-1,ES: Movistar DCine 
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18338.ts
-#EXTINF:-1,ES: Movistar DCine HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18339.ts
-#EXTINF:-1,ES: Movistar Estrenos HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18342.ts
-#EXTINF:-1,ES: Movistar Series HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18337.ts
-#EXTINF:-1,ES: Movistar Series Xtra HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18336.ts
-#EXTINF:-1,ES: Movistar Xtra HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18335.ts
-#EXTINF:-1,ES: Paramount Channel
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18334.ts
-#EXTINF:-1,ES: Syfy HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18328.ts
-#EXTINF:-1,ES: TCM HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18329.ts
-#EXTINF:-1,ES: TNT HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18323.ts
-#EXTINF:-1,ES- Barca TV
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18346.ts
-#EXTINF:-1,ES- BeinSport HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18353.ts
-#EXTINF:-1,ES- BeinSport LaLiga HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18352.ts
-#EXTINF:-1,ES- GolTV
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18355.ts
-#EXTINF:-1,ES- LaLiga TV
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18354.ts
-#EXTINF:-1,ES- Movistar Deportes 1 HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18350.ts
-#EXTINF:-1,ES- Movistar Deportes 2 HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18349.ts
-#EXTINF:-1,ES- Movistar F1 HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18345.ts
-#EXTINF:-1,ES- Movistar Futbol HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18351.ts
-#EXTINF:-1,ES- Movistar Golf HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18343.ts
-#EXTINF:-1,ES- Movistar MotoGP HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18344.ts
-#EXTINF:-1,ES- Real Madrid TV
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18347.ts
-#EXTINF:-1,ES- TeleDeporte
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18348.ts
-#EXTINF:-1,ES: A&E
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18365.ts
-#EXTINF:-1,ES: C&I
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18364.ts
-#EXTINF:-1,ES: Caza Y Pesca
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18361.ts
-#EXTINF:-1,ES: Clan TVE
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18358.ts
-#EXTINF:-1,ES: Cocina
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18360.ts
-#EXTINF:-1,ES: Decasa
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18362.ts
-#EXTINF:-1,ES: Discovery Channel HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18371.ts
-#EXTINF:-1,ES: Discovery Max HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18370.ts
-#EXTINF:-1,ES: Historia
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18363.ts
-#EXTINF:-1,ES: Nat Geo Wild HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18368.ts
-#EXTINF:-1,ES: National Geographic HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18369.ts
-#EXTINF:-1,ES: Non Stop Poeple
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18366.ts
-#EXTINF:-1,ES: Odisea
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18367.ts
-#EXTINF:-1,ES: Viajar
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18359.ts
-#EXTINF:-1,ES: Boing
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18373.ts
-#EXTINF:-1,ES: Disney Channel HD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18377.ts
-#EXTINF:-1,ES: Disney Junior
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18376.ts
-#EXTINF:-1,ES: Disney XD
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18374.ts
-#EXTINF:-1,ES: Nickelodeon
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18375.ts
-#EXTINF:-1,ES: Panda
-http://51.255.94.144:12000/live/ngogRwm7kH/lmuvhbmD6r/18372.ts
-#EXTINF:-1,ES: M. GOLF
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/602.ts
-#EXTINF:-1,ES: M. LIGA
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/603.ts
-#EXTINF:-1,ES: M. ACCION
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/605.ts
-#EXTINF:-1,ES: M. SERIES
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/606.ts
-#EXTINF:-1,ES: M. COMEDIA
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/607.ts
-#EXTINF:-1,ES: M. ESTRENOS
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/608.ts
-#EXTINF:-1,ES: M. FUTBOL
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/609.ts
-#EXTINF:-1,ES: M. SeriesXtra
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/610.ts
-#EXTINF:-1,ES: M. XTRA
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/611.ts
-#EXTINF:-1,ES: M. DEPORTES 2
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/614.ts
-#EXTINF:-1,ES: M. DCINE
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/615.ts
-#EXTINF:-1,ES: M.FORMULA 1
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/616.ts
-#EXTINF:-1,ES: M.MOTOGP
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/617.ts
-#EXTINF:-1,ES: National Geographic
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/622.ts
-#EXTINF:-1,ES: Nat Geo Wild
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/623.ts
-#EXTINF:-1,ES: BeIN LALIGA
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/629.ts
-#EXTINF:-1,ES: Bein Sport
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/630.ts
-#EXTINF:-1,ES: LA 1
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/631.ts
-#EXTINF:-1,ES: LA 2
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/632.ts
-#EXTINF:-1,ES: LA SEXTA
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/633.ts
-#EXTINF:-1,ES: Antena 3
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/634.ts
-#EXTINF:-1,ES: Taquilla 1
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/641.ts
-#EXTINF:-1,ES: Taquilla 2
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/642.ts
-#EXTINF:-1,ES: Taquilla 3
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/643.ts
-#EXTINF:-1,ES: Taquilla 4
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/644.ts
-#EXTINF:-1,ES: Taquilla 5
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/645.ts
-#EXTINF:-1,ES: Taquilla 6
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/646.ts
-#EXTINF:-1,ES: Taquilla 7
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/647.ts
-#EXTINF:-1,ES: Taquilla 8
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/648.ts
-#EXTINF:-1,ES: Taquilla 9
-http://iptv.infosat.org:8888/live/Dreammania/fg08461/649.ts
-#EXTM3U
-#EXTINF:-1,[ DE: ] 13th Street
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65183.ts
-#EXTINF:-1,[ DE: ] 3sat HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65182.ts
-#EXTINF:-1,[ DE: ] A&E
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65181.ts
-#EXTINF:-1,[ DE: ] ANIXE
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65180.ts
-#EXTINF:-1,[ DE: ] ARD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65179.ts
-#EXTINF:-1,[ DE: ] arte HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65178.ts
-#EXTINF:-1,[ DE: ] ATV
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65177.ts
-#EXTINF:-1,[ DE: ] AUSTRIA 24 TV
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65176.ts
-#EXTINF:-1,[ DE: ] AUSTRIA24_TV
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65175.ts
-#EXTINF:-1,[ DE: ] Cinema_Comedy
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65174.ts
-#EXTINF:-1,[ DE: ] Classica
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65173.ts
-#EXTINF:-1,[ DE: ] D Max
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65172.ts
-#EXTINF:-1,[ DE: ] Disney Channel HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65171.ts
-#EXTINF:-1,[ DE: ] Disney Cinemagic
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65170.ts
-#EXTINF:-1,[ DE: ] EURONEWS
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65169.ts
-#EXTINF:-1,[ DE: ] Eurosport
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65168.ts
-#EXTINF:-1,[ DE: ] Fox
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65167.ts
-#EXTINF:-1,[ DE: ] KABEL 1
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65166.ts
-#EXTINF:-1,[ DE: ] Kika
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65165.ts
-#EXTINF:-1,[ DE: ] N24
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65164.ts
-#EXTINF:-1,[ DE: ] Nat_Geo Wild HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65163.ts
-#EXTINF:-1,[ DE: ] ntv HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65162.ts
-#EXTINF:-1,[ DE: ] ProSieben HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65161.ts
-#EXTINF:-1,[ DE: ] Prosieben Maxx
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65160.ts
-#EXTINF:-1,[ DE: ] Rtl Crime
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65159.ts
-#EXTINF:-1,[ DE: ] Rtl Living
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65158.ts
-#EXTINF:-1,[ DE: ] Rtl Nitro
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65157.ts
-#EXTINF:-1,[ DE: ] RTL.HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65156.ts
-#EXTINF:-1,[ DE: ] RTL.Passion
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65155.ts
-#EXTINF:-1,[ DE: ] RTL2
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65154.ts
-#EXTINF:-1,[ DE: ] SAT 1
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65153.ts
-#EXTINF:-1,[ DE: ] Sat 1 Gold
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65152.ts
-#EXTINF:-1,[ DE: ] SIXX HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65151.ts
-#EXTINF:-1,[ DE: ] SKY ACTION HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65150.ts
-#EXTINF:-1,[ DE: ] Sky AtlanticHD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65149.ts
-#EXTINF:-1,[ DE: ] Sky Bundesliga 1
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65148.ts
-#EXTINF:-1,[ DE: ] Sky Bundesliga 1 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65147.ts
-#EXTINF:-1,[ DE: ] Sky Cinema  24
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65146.ts
-#EXTINF:-1,[ DE: ] SKY CINEMA HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65145.ts
-#EXTINF:-1,[ DE: ] SKY CINEMA1 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65144.ts
-#EXTINF:-1,[ DE: ] SKY DISCOVERY HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65143.ts
-#EXTINF:-1,[ DE: ] Sky Disney XD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65142.ts
-#EXTINF:-1,[ DE: ] SKY HISTORY CHANNEL HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65141.ts
-#EXTINF:-1,[ DE: ] SKY HITS HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65140.ts
-#EXTINF:-1,[ DE: ] Sky Krimi
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65139.ts
-#EXTINF:-1,[ DE: ] Sky Mgm
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65138.ts
-#EXTINF:-1,[ DE: ] SKY NATGEO HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65137.ts
-#EXTINF:-1,[ DE: ] Sky Nostalgie
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65136.ts
-#EXTINF:-1,[ DE: ] SKY SPORT 1 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65135.ts
-#EXTINF:-1,[ DE: ] SKY SPORT 2 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65134.ts
-#EXTINF:-1,[ DE: ] Sky Sport News
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65133.ts
-#EXTINF:-1,[ DE: ] SKY SYFY HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65132.ts
-#EXTINF:-1,[ DE: ] Sky TNT Serie
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65131.ts
-#EXTINF:-1,[ DE: ] Sky-Emotion
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65130.ts
-#EXTINF:-1,[ DE: ] Spiegel Geschichte
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65129.ts
-#EXTINF:-1,[ DE: ] SUPER-RTL
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65128.ts
-#EXTINF:-1,[ DE: ] SWR HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65127.ts
-#EXTINF:-1,[ DE: ] TAGESSCHAU 24
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65126.ts
-#EXTINF:-1,[ DE: ] TNT FILM HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65125.ts
-#EXTINF:-1,[ DE: ] Vox
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65124.ts
-#EXTINF:-1,[ DE: ] WDR HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65123.ts
-#EXTINF:-1,[ DE: ] ZDF HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65122.ts
-#EXTINF:-1,[DE] 13TH Street
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65548.ts
-#EXTINF:-1,[DE] 13TH Street HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65547.ts
-#EXTINF:-1,[DE] Action HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65546.ts
-#EXTINF:-1,[DE] Ae
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65545.ts
-#EXTINF:-1,[DE] Blue Movie
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65544.ts
-#EXTINF:-1,[DE] Boomerang
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65543.ts
-#EXTINF:-1,[DE] Bundesliga 1 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65542.ts
-#EXTINF:-1,[DE] Cartoon Network
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65541.ts
-#EXTINF:-1,[DE] Das Herste
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65540.ts
-#EXTINF:-1,[DE] Discovery
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65539.ts
-#EXTINF:-1,[DE] Discovery HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65538.ts
-#EXTINF:-1,[DE] Disney cinemagic
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65534.ts
-#EXTINF:-1,[DE] Disney cinemagic HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65533.ts
-#EXTINF:-1,[DE] Disney Junior
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65537.ts
-#EXTINF:-1,[DE] Disney Junior HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65536.ts
-#EXTINF:-1,[DE] Disney XD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65535.ts
-#EXTINF:-1,[DE] E! Entertainm. HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65532.ts
-#EXTINF:-1,[DE] Eurosport 1 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65531.ts
-#EXTINF:-1,[DE] Fox
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65530.ts
-#EXTINF:-1,[DE] Gold Start TV
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65529.ts
-#EXTINF:-1,[DE] Heimakanal
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65528.ts
-#EXTINF:-1,[DE] History HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65527.ts
-#EXTINF:-1,[DE] Junior
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65526.ts
-#EXTINF:-1,[DE] Kinowelt
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65525.ts
-#EXTINF:-1,[DE] MGM
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65524.ts
-#EXTINF:-1,[DE] Motorvision
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65523.ts
-#EXTINF:-1,[DE] N-Tv HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65522.ts
-#EXTINF:-1,[DE] Nat Geo
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65521.ts
-#EXTINF:-1,[DE] Nat Geo HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65520.ts
-#EXTINF:-1,[DE] Nat Geo Wild
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65519.ts
-#EXTINF:-1,[DE] Nat Geo Wild HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65518.ts
-#EXTINF:-1,[DE] Nick Jr
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65517.ts
-#EXTINF:-1,[DE] Pro 7 Max
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65516.ts
-#EXTINF:-1,[DE] Prosieben
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65515.ts
-#EXTINF:-1,[DE] RTL
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65514.ts
-#EXTINF:-1,[DE] RTL 2 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65513.ts
-#EXTINF:-1,[DE] RTL Crime
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65512.ts
-#EXTINF:-1,[DE] RTL Living
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65511.ts
-#EXTINF:-1,[DE] RTL Nitro HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65510.ts
-#EXTINF:-1,[DE] RTL Passion
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65509.ts
-#EXTINF:-1,[DE] Sat 1
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65508.ts
-#EXTINF:-1,[DE] Sat 1 Gold
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65507.ts
-#EXTINF:-1,[DE] Sky 1
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65506.ts
-#EXTINF:-1,[DE] Sky Action
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65505.ts
-#EXTINF:-1,[DE] Sky Atlantic
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65504.ts
-#EXTINF:-1,[DE] Sky Atlantic HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65503.ts
-#EXTINF:-1,[DE] Sky Bundesliga 1
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65502.ts
-#EXTINF:-1,[DE] Sky Bundesliga 2
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65501.ts
-#EXTINF:-1,[DE] Sky Cinema    1 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65499.ts
-#EXTINF:-1,[DE] Sky Cinema   1
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65500.ts
-#EXTINF:-1,[DE] Sky Cinema   24 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65498.ts
-#EXTINF:-1,[DE] Sky Cinema 1  24
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65497.ts
-#EXTINF:-1,[DE] Sky Cinema Action HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65496.ts
-#EXTINF:-1,[DE] Sky Cinema Comedy
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65495.ts
-#EXTINF:-1,[DE] Sky Cinema Emotion
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65494.ts
-#EXTINF:-1,[DE] Sky Cinema Family
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65493.ts
-#EXTINF:-1,[DE] Sky Cinema Family HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65492.ts
-#EXTINF:-1,[DE] Sky Cinema HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65491.ts
-#EXTINF:-1,[DE] Sky Cinema Hits
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65490.ts
-#EXTINF:-1,[DE] Sky Cinema Hits HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65489.ts
-#EXTINF:-1,[DE] Sky Krimi
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65488.ts
-#EXTINF:-1,[DE] Sky Nostalgie
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65487.ts
-#EXTINF:-1,[DE] Sky Sport 1
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65486.ts
-#EXTINF:-1,[DE] Sky Sport 1 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65485.ts
-#EXTINF:-1,[DE] Sky Sport 1 HD  1
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65484.ts
-#EXTINF:-1,[DE] Sky Sport 10
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65483.ts
-#EXTINF:-1,[DE] Sky Sport 2
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65482.ts
-#EXTINF:-1,[DE] Sky Sport 2 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65481.ts
-#EXTINF:-1,[DE] Sky Sport 3 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65480.ts
-#EXTINF:-1,[DE] Sky Sport 8
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65479.ts
-#EXTINF:-1,[DE] Sky Sport 9
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65478.ts
-#EXTINF:-1,[DE] Sky Sport Austria
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65477.ts
-#EXTINF:-1,[DE] Sky Sport Bundesliga 1 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65476.ts
-#EXTINF:-1,[DE] Sky Sport Bundesliga 2 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65475.ts
-#EXTINF:-1,[DE] Sky Sport Bundesliga 5 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65474.ts
-#EXTINF:-1,[DE] Sky Sport Bundesliga 6 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65473.ts
-#EXTINF:-1,[DE] Sky Sport Bundesliga 7 HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65472.ts
-#EXTINF:-1,[DE] Sky Sport News HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65471.ts
-#EXTINF:-1,[DE] Sky SyFy
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65470.ts
-#EXTINF:-1,[DE] Sky SyFy HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65469.ts
-#EXTINF:-1,[DE] Spiegel Geschichte HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65468.ts
-#EXTINF:-1,[DE] Super RTL HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65467.ts
-#EXTINF:-1,[DE] TNT Comedy HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65466.ts
-#EXTINF:-1,[DE] TNT Film
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65465.ts
-#EXTINF:-1,[DE] TNT Glitz HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65464.ts
-#EXTINF:-1,[DE] TNT Serie
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65463.ts
-#EXTINF:-1,[DE] TNT serie HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65462.ts
-#EXTINF:-1,[DE] Universal HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65461.ts
-#EXTINF:-1,[DE] Vox HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/65460.ts
-#EXTINF:-1,[DE]: 13th Street
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69225.ts
-#EXTINF:-1,[DE]: 13th Street HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69224.ts
-#EXTINF:-1,[DE]: 13th Street HD 1080
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69226.ts
-#EXTINF:-1,[DE]: 3Sat HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69124.ts
-#EXTINF:-1,[DE]: A & E
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69123.ts
-#EXTINF:-1,[DE]: A&E HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69125.ts
-#EXTINF:-1,[DE]: Animal Planet HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69054.ts
-#EXTINF:-1,[DE]: Anixe HD Series
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69053.ts
-#EXTINF:-1,[DE]: arte HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69103.ts
-#EXTINF:-1,[DE]: Augsburg TV
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69052.ts
-#EXTINF:-1,[DE]: Austria 24
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69051.ts
-#EXTINF:-1,[DE]: AutoMotorSport HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69102.ts
-#EXTINF:-1,[DE]: AXN HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69050.ts
-#EXTINF:-1,[DE]: Baby TV
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69101.ts
-#EXTINF:-1,[DE]: Beate-Uhse TV (20-06)
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69100.ts
-#EXTINF:-1,[DE]: Boomerang
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69112.ts
-#EXTINF:-1,[DE]: Boomerang HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69113.ts
-#EXTINF:-1,[DE]: Brava HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69099.ts
-#EXTINF:-1,[DE]: Cartoon Network
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69114.ts
-#EXTINF:-1,[DE]: Classica HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69098.ts
-#EXTINF:-1,[DE]: Das Erste
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69049.ts
-#EXTINF:-1,[DE]: Das Erste HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69097.ts
-#EXTINF:-1,[DE]: Deluxe Music HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69096.ts
-#EXTINF:-1,[DE]: Discovery Channel HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69131.ts
-#EXTINF:-1,[DE]: Disney Channel HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69121.ts
-#EXTINF:-1,[DE]: Disney Cinemagic HD
-http://alohaserver.ddns.net:2300/live/studio001/studio002/69120.ts
+#EXTINF:0,ANTENA3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:0,LASEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:0,AtreSeries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
+#EXTINF:0,13TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:0,CyL7
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:0,Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+#EXTINF:0,LaOtra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:0,TvGalicia
+http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8
+#EXTINF:0,CanalExtremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:0,Castilla-LaManchaTv
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
+#EXTINF:0,AndaluciaTv
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0,CANALSURAndalucia
+http://195.55.74.208/rtva/andaluciatelevision-iphone/stream.m3u8
+#EXTINF:0,7TVMURCIA
+rtmp://flash0.80670-live0.dna.qbrick.com/80670-live0/murciatv
+#EXTINF:0,RTPAAsturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0,RtvCe
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0,8Tv
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:0,PopularTvCantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:0,eitbEuskadi
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8
+#EXTINF:0,HuelvaTv
+http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
+#EXTINF:0,ESPECIALViajar
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:0,BETISTV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:0,SEXTATION
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+#EXTINF:0,A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,ANTENA3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif" group-title="ENTRETENIMIENTO",Investigation Discovery  
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1738.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,#0 HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LA 1 HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LA 2 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ANTENA 3 HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CUATRO HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TELECINCO HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LA SEXTA HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,FOX LIFE HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,FOX HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,AXN WHITE HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,AXN HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,HOLLYWOODHD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M.ESTRENOSHD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M.COMEDIA HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. XTRA HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. SeriesXtraHD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. SERIES HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. DCINE HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. ACCI©N HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,SYFY HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TNT HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TCM HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,AMC HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,FDF ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CLAN TVE ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,NICKELODEONHD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,COSMO HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,COMEDYCENTRALHD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CALLE 13 HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,MEZZO LIVE HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BEIN SPORT HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BEIN LALIGA HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LALIGA TV BAR HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,MOVISTAR  PARTIDAZO LIVE SESSION ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M.MOTOGPHD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M.FORMULA1HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. GOLF HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. F.TBOL HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. DEP 2 HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. DEP 1 HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,GOL TV ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,R. MADRID TV ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BARCA TV ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,EUROSPORT1HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,EUROSPORT 2 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TOROS TV HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BEINLALIGA1 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BEINLALIGA2 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BEIN MAX 1 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BEIN MAX 2 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,NG WILD HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,VIAJAR HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,NAT GEO HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CAZA Y PESCA HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BABY TV ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,DISNEY CH HD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,24 HORAS ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,NEOX ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. Cine Espaæol ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LTC ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,PARAMOUNT ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CANAL ODISEA ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CANAL DECASA ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,NONSTOPEOPLE ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,MTV ESPA¹A ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,HISTORIA ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,DIVINITY ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,DISNEY XD ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,DISCOVERY ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CRIMEN INVES ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CLASSICA ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CANAL SUR A. ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CANAL PANDA ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BOING ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ARAGON TV ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,A&E ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,C&I ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ENERGY ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,SUNDANCE ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/393.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,NIck JR ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/392.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. deport ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/391.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,FOX NEWS ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/389.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,DISNEY PIXAR ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/390.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CANAL ORBE21 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/388.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CANAL COCINA ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/387.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_1 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_2 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_3 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_4 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_5 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_6 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_7 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_8 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_9 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_10 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_11 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_12 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_13 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_14 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_15 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_16 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_17 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_18 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_19 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_20 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_21 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_22 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_23 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_24 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_25 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_26 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_27 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_28 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_29 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_30 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_31 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_32 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_33 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_34 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_35 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_36 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_37 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_38 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_39 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TAQUILLA_40 ()
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,NAT GEO WILD () p1
+http://78.110.160.130:8008/play/a03w/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TNT () p1
+http://78.110.160.130:8008/play/a03v/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CUATRO () p1
+http://78.110.160.130:8008/play/a03u/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. GOLF () p1
+http://78.110.160.130:8008/play/a03a/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,NAT GEOGRAPH () p1
+http://78.110.160.130:8008/play/a03e/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,MULTIDEPORTE () p1
+http://78.110.160.130:8008/play/a02t/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LA SEXTA () p1
+http://78.110.160.130:8008/play/a03o/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. F.TBOL () p1
+http://78.110.160.130:8008/play/a03f/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,TELECINCO () p1
+http://78.110.160.130:8008/play/a03s/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. SERIES () p1
+http://78.110.160.130:8008/play/a02w/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,NICK JR () p1
+http://78.110.160.130:8008/play/a02x/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LA 1 () p1
+http://78.110.160.130:8008/play/a03p/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LA 2 () p1
+http://78.110.160.130:8008/play/a03r/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,MEZZO () p1
+http://78.110.160.130:8008/play/a02y/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. DEP 1 () p1
+http://78.110.160.130:8008/play/a03g/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,FDF () p1
+http://78.110.160.130:8008/play/a03m/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,M. XTRA () p1
+http://78.110.160.130:8008/play/a03t/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,PLAYBOY TV () p1
+http://78.110.160.130:8008/play/a03c/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,BEIN LALIGA () p1
+http://78.110.160.130:8008/play/a03d/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LALIGATV BAR () p1
+http://78.110.160.130:8008/play/a03i/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,SUNDANCE () p1
+http://78.110.160.130:8008/play/a036/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CLAN  TVE () p1
+http://78.110.160.130:8008/play/a03n/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,LALIGATVBAR1 () p1
+http://78.110.160.130:8008/play/a02z/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CANAL ORBE21 () p1
+http://78.110.160.130:8008/play/a035/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CANAL ODISEA () p1
+http://78.110.160.130:8008/play/a03b/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,HOLLYWOOD () p1
+http://78.110.160.130:8008/play/a03q/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,SYFY () p1
+http://78.110.160.130:8008/play/a03k/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CANAL DECASA () p1
+http://78.110.160.130:8008/play/a03j/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,CALLE 13 () p1
+http://78.110.160.130:8008/play/a03h/index.m3u8
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,MULTIFUT. 1 () p1
+http://78.110.160.130:8008/play/a038/index.m3u8
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar+ ()
+http://79.158.163.207:4022/udp/239.0.0.77:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar+ HD ()
+http://79.158.163.207:4022/udp/239.0.5.185:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TVE 1 ()
+http://79.158.163.207:4022/udp/239.0.0.76:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TVE 1 HD ()
+http://79.158.163.207:4022/udp/239.0.0.185:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TVE 2 ()
+http://79.158.163.207:4022/udp/239.0.0.2:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Antena 3 ()
+http://79.158.163.207:4022/udp/239.0.0.3:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Antena 3 HD ()
+http://79.158.163.207:4022/udp/239.0.0.186:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Cuatro ()
+http://79.158.163.207:4022/udp/239.0.0.4:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Cuatro HD ()
+http://79.158.163.207:4022/udp/239.0.0.177:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Telecinco ()
+http://79.158.163.207:4022/udp/239.0.0.5:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Telecinco HD ()
+http://79.158.163.207:4022/udp/239.0.0.176:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,La Sexta ()
+http://79.158.163.207:4022/udp/239.0.0.58:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,La Sexta HD ()
+http://79.158.163.207:4022/udp/239.0.0.187:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,#0 ()
+http://79.158.163.207:4022/udp/239.0.0.108:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,#0 HD ()
+http://79.158.163.207:4022/udp/239.0.5.187:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,7 Region de Murcia ()
+http://79.158.163.207:4022/udp/239.0.0.87:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Aragon TV ()
+http://79.158.163.207:4022/udp/239.0.0.88:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Canal Sur ()
+http://79.158.163.207:4022/udp/239.0.0.49:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Castilla y Leon 7 https://iptv.() zone
+http://79.158.163.207:4022/udp/239.0.0.109:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,CMT ()
+http://79.158.163.207:4022/udp/239.0.0.55:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,ETB 1 ()
+http://79.158.163.207:4022/udp/239.0.0.35:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Extremadura TV ()
+http://79.158.163.207:4022/udp/239.0.0.73:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,IB3 ()
+http://79.158.163.207:4022/udp/239.0.0.56:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Telemadrid ()
+http://79.158.163.207:4022/udp/239.0.0.25:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TV Canaria ()
+http://79.158.163.207:4022/udp/239.0.0.54:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TV Galicia ()
+http://79.158.163.207:4022/udp/239.0.0.53:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TV Mediterraneo ()
+http://79.158.163.207:4022/udp/239.0.3.34:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TV Princ de Asturias ()
+http://79.158.163.207:4022/udp/239.0.0.86:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TV3 ()
+http://79.158.163.207:4022/udp/239.0.0.23:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TV3 HD ()
+http://79.158.163.207:4022/udp/239.0.5.186:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,8 TV ()
+http://79.158.163.207:4022/udp/239.0.0.82:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Canal Sur 2 ()
+http://79.158.163.207:4022/udp/239.0.0.50:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,ETB 2 ()
+http://79.158.163.207:4022/udp/239.0.0.36:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,La Otra ()
+http://79.158.163.207:4022/udp/239.0.0.26:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Series ()
+http://79.158.163.207:4022/udp/239.0.3.32:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Series HD ()
+http://79.158.163.207:4022/udp/239.0.0.184:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Series ()
+http://79.158.163.207:4022/udp/239.0.5.4:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Series HD ()
+http://79.158.163.207:4022/udp/239.0.5.250:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Series Xtra ()
+http://79.158.163.207:4022/udp/239.0.3.20:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Series Xtra HD ()
+http://79.158.163.207:4022/udp/239.0.5.83:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,FOX ()
+http://79.158.163.207:4022/udp/239.0.0.74:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,FOX HD ()
+http://79.158.163.207:4022/udp/239.0.9.134:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,AXN ()
+http://79.158.163.207:4022/udp/239.0.0.14:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,AXN HD ()
+http://79.158.163.207:4022/udp/239.0.9.131:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TNT ()
+http://79.158.163.207:4022/udp/239.0.0.44:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TNT HD ()
+http://79.158.163.207:4022/udp/239.0.5.87:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Comedy Central ()
+http://79.158.163.207:4022/udp/239.0.0.68:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Comedy Central HD ()
+http://79.158.163.207:4022/udp/239.0.0.174:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Calle 13 ()
+http://79.158.163.207:4022/udp/239.0.0.13:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Calle 13 HD ()
+http://79.158.163.207:4022/udp/239.0.5.74:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Cosmo ()
+http://79.158.163.207:4022/udp/239.0.0.15:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Cosmo HD ()
+http://79.158.163.207:4022/udp/239.0.5.71:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,AMC ()
+http://79.158.163.207:4022/udp/239.0.0.8:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,AMC HD ()
+http://79.158.163.207:4022/udp/239.0.9.132:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,FOX Life https://iptv.zone ()
+http://79.158.163.207:4022/udp/239.0.0.112:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,FOX Life HD ()
+http://79.158.163.207:4022/udp/239.0.5.86:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,AXN White ()
+http://79.158.163.207:4022/udp/239.0.0.62:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,AXN White HD ()
+http://79.158.163.207:4022/udp/239.0.5.79:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,SyFy ()
+http://79.158.163.207:4022/udp/239.0.0.111:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,SyFy HD ()
+http://79.158.163.207:4022/udp/239.0.5.75:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Non Stop People ()
+http://79.158.163.207:4022/udp/239.0.0.212:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Non Stop People HD ()
+http://79.158.163.207:4022/udp/239.0.5.170:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,MTV ()
+http://79.158.163.207:4022/udp/239.0.0.211:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,FDF ()
+http://79.158.163.207:4022/udp/239.0.0.84:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Neox ()
+http://79.158.163.207:4022/udp/239.0.0.107:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Atreseries ()
+http://79.158.163.207:4022/udp/239.0.3.29:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Atreseries HD ()
+http://79.158.163.207:4022/udp/239.0.0.181:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Cine ()
+http://79.158.163.207:4022/udp/239.0.3.30:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Cine HD ()
+http://79.158.163.207:4022/udp/239.0.0.178:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Estrenos ()
+http://79.158.163.207:4022/udp/239.0.3.40:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Estrenos HD ()
+http://79.158.163.207:4022/udp/239.0.5.111:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Xtra ()
+http://79.158.163.207:4022/udp/239.0.3.41:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Xtra HD ()
+http://79.158.163.207:4022/udp/239.0.5.112:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Accion ()
+http://79.158.163.207:4022/udp/239.0.3.42:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Accion HD ()
+http://79.158.163.207:4022/udp/239.0.5.113:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Comedia ()
+http://79.158.163.207:4022/udp/239.0.3.43:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Comedia HD ()
+http://79.158.163.207:4022/udp/239.0.5.114:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar DCine ()
+http://79.158.163.207:4022/udp/239.0.3.44:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar DCine HD ()
+http://79.158.163.207:4022/udp/239.0.5.115:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,DCine Espanol ()
+http://79.158.163.207:4022/udp/239.0.3.45:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TCM ()
+http://79.158.163.207:4022/udp/239.0.6.5:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TCM HD ()
+http://79.158.163.207:4022/udp/239.0.5.89:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Hollywood ()
+http://79.158.163.207:4022/udp/239.0.0.16:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Hollywood HD ()
+http://79.158.163.207:4022/udp/239.0.5.76:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Sundance ()
+http://79.158.163.207:4022/udp/239.0.0.102:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Sundance HD ()
+http://79.158.163.207:4022/udp/239.0.5.72:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Paramount ()
+http://79.158.163.207:4022/udp/239.0.0.90:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,DARK ()
+http://79.158.163.207:4022/udp/239.0.0.39:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,13 TV ()
+http://79.158.163.207:4022/udp/239.0.0.91:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Ten ()
+http://79.158.163.207:4022/udp/239.0.0.34:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Deportes ()
+http://79.158.163.207:4022/udp/239.0.3.33:8208
+http://www.iptvbin.com/2016/04/iptv-bin-espana.html
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Deportes HD ()
+http://79.158.163.207:4022/udp/239.0.0.180:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Futbol ()
+http://79.158.163.207:4022/udp/239.0.6.8:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Futbol HD ()
+http://79.158.163.207:4022/udp/239.0.6.14:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Partidazo ()
+http://79.158.163.207:4022/udp/239.0.4.129:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Partidazo HD ()
+http://79.158.163.207:4022/udp/239.0.5.84:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN La Liga ()
+http://79.158.163.207:4022/udp/239.0.0.46:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN La Liga HD ()
+http://79.158.163.207:4022/udp/239.0.5.106:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN La Liga 1 ()
+http://79.158.163.207:4022/udp/239.0.0.47:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN La Liga 1 HD ()
+http://79.158.163.207:4022/udp/239.0.5.179:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN La Liga 2 ()
+http://79.158.163.207:4022/udp/239.0.0.67:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN La Liga 2 HD ()
+http://79.158.163.207:4022/udp/239.0.5.180:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN SPORTS ()
+http://79.158.163.207:4022/udp/239.0.3.100:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN SPORTS HD ()
+http://79.158.163.207:4022/udp/239.0.9.80:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Futbol Replay ()
+http://79.158.163.207:4022/udp/239.0.0.97:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN MAX 1 ()
+http://79.158.163.207:4022/udp/239.0.6.7:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN MAX 1 HD ()
+http://79.158.163.207:4022/udp/239.0.5.177:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN MAX 2 ()
+http://79.158.163.207:4022/udp/239.0.6.13:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Deportes 1 ()
+http://79.158.163.207:4022/udp/239.0.4.193:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Deportes 1 HD ()
+http://79.158.163.207:4022/udp/239.0.5.248:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Deportes 2 ()
+http://79.158.163.207:4022/udp/239.0.5.5:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Deportes 2 HD ()
+http://79.158.163.207:4022/udp/239.0.5.245:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar F1 ()
+http://79.158.163.207:4022/udp/239.0.0.210:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar F1 HD ()
+http://79.158.163.207:4022/udp/239.0.5.246:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar MotoGP ()
+http://79.158.163.207:4022/udp/239.0.3.38:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar MotoGP HD ()
+http://79.158.163.207:4022/udp/239.0.5.107:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Golf ()
+http://79.158.163.207:4022/udp/239.0.5.2:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Movistar Golf HD ()
+http://79.158.163.207:4022/udp/239.0.5.249:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,EuroSport ()
+http://79.158.163.207:4022/udp/239.0.0.18:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,EuroSport HD New ()
+http://79.158.163.207:4022/udp/239.0.9.144:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,EuroSport HD Old ()
+http://79.158.163.207:4022/udp/239.0.9.135:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,EuroSport 2 ()
+http://79.158.163.207:4022/udp/239.0.0.37:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,EuroSport 2 HD ()
+http://79.158.163.207:4022/udp/239.0.5.105:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,GOL ()
+http://79.158.163.207:4022/udp/239.0.0.7:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,GOL HD ()
+http://79.158.163.207:4022/udp/239.0.5.189:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Teledeporte ()
+http://79.158.163.207:4022/udp/239.0.0.79:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Teledeporte HD ()
+http://79.158.163.207:4022/udp/239.0.0.188:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Iberalia ()
+http://79.158.163.207:4022/udp/239.0.5.6:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multideporte 1 ()
+http://79.158.163.207:4022/udp/239.0.7.1:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,National Geographic ()
+http://79.158.163.207:4022/udp/239.0.0.103:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,National Geographic HD ()
+http://79.158.163.207:4022/udp/239.0.5.78:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Nat Geo Wild ()
+http://79.158.163.207:4022/udp/239.0.0.89:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Nat Geo Wild HD ()
+http://79.158.163.207:4022/udp/239.0.9.136:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Historia ()
+http://79.158.163.207:4022/udp/239.0.0.19:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Discovery Channel ()
+http://79.158.163.207:4022/udp/239.0.0.21:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Discovery Channel HD ()
+http://79.158.163.207:4022/udp/239.0.5.77:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Odisea ()
+http://79.158.163.207:4022/udp/239.0.0.22:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Odisea HD ()
+http://79.158.163.207:4022/udp/239.0.5.82:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,A&ampampE ()
+http://79.158.163.207:4022/udp/239.0.0.38:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Viajar ()
+http://79.158.163.207:4022/udp/239.0.0.20:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Viajar HD ()
+http://79.158.163.207:4022/udp/239.0.5.73:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Discovery MAX ()
+http://79.158.163.207:4022/udp/239.0.0.32:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,CCTV-E ()
+http://79.158.163.207:4022/udp/239.0.0.65:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Cocina ()
+http://79.158.163.207:4022/udp/239.0.0.27:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Decasa ()
+http://79.158.163.207:4022/udp/239.0.0.71:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,DKISS ()
+http://79.158.163.207:4022/udp/239.0.0.6:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Crimen e Investigacion ()
+http://79.158.163.207:4022/udp/239.0.0.57:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Divinity ()
+http://79.158.163.207:4022/udp/239.0.0.48:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Nova ()
+http://79.158.163.207:4022/udp/239.0.0.106:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,MEGA ()
+http://79.158.163.207:4022/udp/239.0.3.31:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,BeMad ()
+http://79.158.163.207:4022/udp/239.0.0.17:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,BeMad HD ()
+http://79.158.163.207:4022/udp/239.0.0.182:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Energy ()
+http://79.158.163.207:4022/udp/239.0.0.59:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Garage TV ()
+http://79.158.163.207:4022/udp/239.0.0.99:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Baby TV ()
+http://79.158.163.207:4022/udp/239.0.0.113:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Disney Junior ()
+http://79.158.163.207:4022/udp/239.0.0.10:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Canal Panda ()
+http://79.158.163.207:4022/udp/239.0.0.117:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Nick Jr ()
+http://79.158.163.207:4022/udp/239.0.0.115:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Nickelodeon ()
+http://79.158.163.207:4022/udp/239.0.0.69:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Disney XD ()
+http://79.158.163.207:4022/udp/239.0.0.11:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Disney Channel ()
+http://79.158.163.207:4022/udp/239.0.0.64:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Disney Channel HD ()
+http://79.158.163.207:4022/udp/239.0.0.173:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Boing ()
+http://79.158.163.207:4022/udp/239.0.0.66:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Clan TVE ()
+http://79.158.163.207:4022/udp/239.0.0.80:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,40 TV ()
+http://79.158.163.207:4022/udp/239.0.0.12:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,VH1 ()
+http://79.158.163.207:4022/udp/239.0.0.75:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Canal 24 Horas ()
+http://79.158.163.207:4022/udp/239.0.0.78:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,BBC world ()
+http://79.158.163.207:4022/udp/239.0.0.30:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,CNN International ()
+http://79.158.163.207:4022/udp/239.0.0.40:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Fox News ()
+http://79.158.163.207:4022/udp/239.0.7.65:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Euronews ()
+http://79.158.163.207:4022/udp/239.0.0.28:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Al Jazeera ()
+http://79.158.163.207:4022/udp/239.0.7.66:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,France 24 ()
+http://79.158.163.207:4022/udp/239.0.7.67:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Russia Today ()
+http://79.158.163.207:4022/udp/239.0.7.68:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,CNBC Europe ()
+http://79.158.163.207:4022/udp/239.0.7.69:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TV5 Monde Europe ()
+http://79.158.163.207:4022/udp/239.0.0.31:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Bloomberg ()
+http://79.158.163.207:4022/udp/239.0.0.29:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Intereconomia TV ()
+http://79.158.163.207:4022/udp/239.0.0.63:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,I24 News ()
+http://79.158.163.207:4022/udp/239.0.0.220:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,CNC World ()
+http://79.158.163.207:4022/udp/239.0.0.221:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Canal Orbe 21 ()
+http://79.158.163.207:4022/udp/239.0.0.45:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Andalucia TV ()
+http://79.158.163.207:4022/udp/239.0.0.1:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Galicia TV Europa ()
+http://79.158.163.207:4022/udp/239.0.3.37:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,TV3CAT ()
+http://79.158.163.207:4022/udp/239.0.3.36:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,ETB Sat ()
+http://79.158.163.207:4022/udp/239.0.0.60:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Aragon TV Int ()
+http://79.158.163.207:4022/udp/239.0.0.81:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Super 3/33 ()
+http://79.158.163.207:4022/udp/239.0.0.24:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Esport3 ()
+http://79.158.163.207:4022/udp/239.0.0.51:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,3/24 ()
+http://79.158.163.207:4022/udp/239.0.0.61:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Xarxa Televisions ()
+http://79.158.163.207:4022/udp/239.0.0.9:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multifutbol 1 ()
+http://79.158.163.207:4022/udp/239.0.0.92:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multifutbol 2 ()
+http://79.158.163.207:4022/udp/239.0.0.93:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multifutbol 3 ()
+http://79.158.163.207:4022/udp/239.0.0.94:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multifutbol 4 ()
+http://79.158.163.207:4022/udp/239.0.0.95:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multifutbol 5 ()
+http://79.158.163.207:4022/udp/239.0.0.96:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN La Liga 3 ()
+http://79.158.163.207:4022/udp/239.0.0.70:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN La Liga 3 HD ()
+http://79.158.163.207:4022/udp/239.0.5.181:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN La Liga 4 ()
+http://79.158.163.207:4022/udp/239.0.0.72:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN MAX 3 ()
+http://79.158.163.207:4022/udp/239.0.0.216:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,beIN MAX 4 ()
+http://79.158.163.207:4022/udp/239.0.0.217:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multideporte 2 ()
+http://79.158.163.207:4022/udp/239.0.7.2:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multideporte 3 ()
+http://79.158.163.207:4022/udp/239.0.7.3:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multideporte 4 ()
+http://79.158.163.207:4022/udp/239.0.7.4:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multideporte 5 ()
+http://79.158.163.207:4022/udp/239.0.7.5:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multideporte 6 ()
+http://79.158.163.207:4022/udp/239.0.7.132:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,Multideporte 7 ()
+http://79.158.163.207:4022/udp/239.0.7.133:8208
+#EXTINF:-1  group-title=" (soluciones y utilidades) Spain" ,La Tienda en Casa ()
+http://79.158.163.207:4022/udp/239.0.0.98:8208
+
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| A&E ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1141.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| AMC ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1140.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Antena 3 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1139.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| AXN ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1138.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| AXN White ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1137.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Baby TV ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1083.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Barca TV ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1136.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| beIN Sports España ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1135.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Boing ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1134.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Calle 13 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1133.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Canal 24 horas ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1130.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Canal Decasa ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1129.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Canal Hollywood ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1128.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Canal Odisea ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1127.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Canal Panda ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1131.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Canal Toros ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1132.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Clan TV ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1116.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Comedi Central ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1115.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Cosmo HD ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1082.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Cuatro ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1114.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Cuatro HD ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1081.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Disney Channel ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1112.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Disney JR ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1080.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| DISNEY XD ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1113.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Divinity ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1079.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Energy ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1111.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Eurosport 1 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1078.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Eurosport 2 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1077.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| FDF ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1110.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| FOX ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1109.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| FOX Life ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1108.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Gol ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1076.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| LA Sexta ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1106.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| La1 HD ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1075.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| M Formula1 HD ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1074.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| M Moto GP ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1073.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| M Xtra ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1072.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Accion ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1126.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Comedia ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1125.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Dcine ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1124.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Deportes ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1117.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Deportes 2 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1142.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Estrones ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1123.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Extra ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1122.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Futbol ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1121.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Golf ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1120.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Series ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1119.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Moviestar Series Extra ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1118.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| MTV Espana ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1071.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Nat Geo ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1105.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Nat Geo Wild ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1104.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| NEOX ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1103.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| NICK JR ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1102.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Nickelodeon ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1101.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Nova ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1100.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Paramount ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1099.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Real Madrid ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1098.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| SYFY ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1097.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Taquilla 1 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1096.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Taquilla 2 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1095.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Taquilla 3 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1094.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Taquilla 4 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1093.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Taquilla 5 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1092.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| TCM ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1091.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Tele Cinco ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1090.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| Tele Deporte ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1089.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| TNT ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1088.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| TV3 CAT ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1087.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| TVE 1 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1086.ts
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,|SP| TVE 2 ()
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1085.ts
+
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES : MOVISTAR F1 HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1558.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES : MOVISTAR FORMULA 1 ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1559.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES : movistar Futbol ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1560.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES : MOVISTAR MOTOGP ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1561.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: 24 Horas ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1571.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: 40 TV ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1570.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: A&E ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1579.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: AMC ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1580.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: AXN HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1581.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: BABY TV ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/23.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: BARCA TV ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1569.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: beIN LA Liga FHD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/221.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: beIN LaLIga 1 (event only) ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1577.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: beIN Laliga 1 HD Backup ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/220.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: beIN LaLIga 2 (event only) ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1576.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: beIN LaLIga 3 (event only) ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1575.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Bein Liga HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1582.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Bein Sport HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1583.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Boing ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1584.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Canal  ESTRENOS HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1612.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: CANAL COCINA ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1585.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Canal De Las Estrellas ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1565.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: CANAL DECASA ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1586.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Canal SERIES HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1587.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Caza y pesca ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1588.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Clan Tve ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1589.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: COMEDY CENTRAL HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1568.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: COSMO HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1590.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Crimen Investigation ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1563.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: DISCOVERY ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1622.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: DISNEY CHANNEL HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1623.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: DISNEY XD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1625.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: DIVINITY ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1591.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Energy ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1574.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: EUROSPORT 1 ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1573.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: EUROSPORT 2 ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1572.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: FDF ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1592.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: FOX HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1626.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: GOL Tv ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1593.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: HOLLYWOOD HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1629.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: IBERALIA ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1594.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: LA 2 HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1595.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: La Liga BAR HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1596.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: MEGA ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1632.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Movistar Partidazo HD (event only) ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/177.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: MTV ESPANA ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1562.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: NEOX ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1597.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: NICKELODEON HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1598.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Nonstop People ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1567.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: NOVA ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1599.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: ODISEA HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1600.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: PANDA ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1601.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Paramount ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1564.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: Real Madrid Channel ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/839.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: SYFY ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1602.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES: TNT ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1603.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:ANTENA 3 HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1604.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:AXN WHITE HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1605.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:CALLE 13 HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1606.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:CANAL  ACTION HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1607.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  COMEDIA HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1608.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  DCINE HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1609.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  DEPORTES 2 HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1610.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  DEPORTES HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1611.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  FUTBOL HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1613.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  GOLF HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1614.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  LIGA 2 HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1615.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  LIGA HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1616.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  SERIES XTRA HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1617.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  TOROS HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1618.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:Canal  XTRA HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1619.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:CUATRO HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1620.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:DISCOVERY CHANNEL HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1621.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:DISNEY JUNIOR ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1624.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:FOX LIFE HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1627.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:HISTORIA ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1628.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:LA 1 HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1630.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:LA SEXTA HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1631.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:NAT GEO WILD HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1633.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:NATIONAL GEOGRAPHIC HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1634.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:NICK Jr ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1635.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:TCM HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1636.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:TELECINCO HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1637.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:TELEDEPORTE HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1638.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1 group-title=" (soluciones y utilidades) Spain" ,ES:VIAJAR HD ()
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1639.ts
 #EXTINF:-1,Brazers Big-Tits 1
 http://alohaserver.ddns.net:2300/live/studio001/studio002/20839.ts
 #EXTINF:-1,Brazers Big-Tits 2
