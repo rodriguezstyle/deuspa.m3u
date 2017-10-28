@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=useragent
 #EXTINF:0,ANTENA3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
 #EXTINF:0,LASEXTA
@@ -227,147 +228,65 @@ http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/390.ts
 http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/388.ts
 #EXTINF:-1 group-title="Spain" ,CANAL COCINA 
 http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/387.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_1 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_2 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_3 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_4 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_5 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_6 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_7 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_8 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_9 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_10 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_11 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_12 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_13 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_14 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_15 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_16 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_17 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_18 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_19 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_20 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_21 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_22 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_23 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_24 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_25 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_26 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_27 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_28 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_29 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_30 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_31 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_32 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_33 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_34 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_35 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_36 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_37 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_38 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_39 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
-#EXTINF:-1 group-title="Spain" ,TAQUILLA_40 
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
-
-
-#EXTINF:-1 group-title="Spain" ,NAT GEO WILD  p1
+#EXTINF:-1 group-title="Spain" ,NAT GEO WILD
 http://78.110.160.130:8008/play/a03w/index.m3u8
-#EXTINF:-1 group-title="Spain" ,TNT  p1
+#EXTINF:-1 group-title="Spain" ,TNT
 http://78.110.160.130:8008/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Spain" ,CUATRO  p1
+#EXTINF:-1 group-title="Spain" ,CUATRO
 http://78.110.160.130:8008/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Spain" ,M. GOLF  p1
+#EXTINF:-1 group-title="Spain" ,M. GOLF
 http://78.110.160.130:8008/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Spain" ,NAT GEOGRAPH  p1
+#EXTINF:-1 group-title="Spain" ,NAT GEOGRAPH
 http://78.110.160.130:8008/play/a03e/index.m3u8
-#EXTINF:-1 group-title="Spain" ,MULTIDEPORTE  p1
+#EXTINF:-1 group-title="Spain" ,MULTIDEPORTE
 http://78.110.160.130:8008/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Spain" ,LA SEXTA  p1
+#EXTINF:-1 group-title="Spain" ,LA SEXTA
 http://78.110.160.130:8008/play/a03o/index.m3u8
-#EXTINF:-1 group-title="Spain" ,M. F.TBOL  p1
+#EXTINF:-1 group-title="Spain" ,M. F.TBOL
 http://78.110.160.130:8008/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Spain" ,TELECINCO  p1
+#EXTINF:-1 group-title="Spain" ,TELECINCO
 http://78.110.160.130:8008/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Spain" ,M. SERIES  p1
+#EXTINF:-1 group-title="Spain" ,M. SERIES
 http://78.110.160.130:8008/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Spain" ,NICK JR  p1
+#EXTINF:-1 group-title="Spain" ,NICK JR
 http://78.110.160.130:8008/play/a02x/index.m3u8
-#EXTINF:-1 group-title="Spain" ,LA 1  p1
+#EXTINF:-1 group-title="Spain" ,LA 1
 http://78.110.160.130:8008/play/a03p/index.m3u8
-#EXTINF:-1 group-title="Spain" ,LA 2  p1
+#EXTINF:-1 group-title="Spain" ,LA 2
 http://78.110.160.130:8008/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Spain" ,MEZZO  p1
+#EXTINF:-1 group-title="Spain" ,MEZZO
 http://78.110.160.130:8008/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Spain" ,M. DEP 1  p1
+#EXTINF:-1 group-title="Spain" ,M. DEP 1
 http://78.110.160.130:8008/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Spain" ,FDF  p1
+#EXTINF:-1 group-title="Spain" ,FDF
 http://78.110.160.130:8008/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Spain" ,M. XTRA  p1
+#EXTINF:-1 group-title="Spain" ,M. XTRA
 http://78.110.160.130:8008/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Spain" ,PLAYBOY TV  p1
+#EXTINF:-1 group-title="Spain" ,PLAYBOY TV
 http://78.110.160.130:8008/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Spain" ,BEIN LALIGA  p1
+#EXTINF:-1 group-title="Spain" ,BEIN LALIGA
 http://78.110.160.130:8008/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Spain" ,LALIGATV BAR  p1
+#EXTINF:-1 group-title="Spain" ,LALIGATV BAR
 http://78.110.160.130:8008/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Spain" ,SUNDANCE  p1
+#EXTINF:-1 group-title="Spain" ,SUNDANCE
 http://78.110.160.130:8008/play/a036/index.m3u8
-#EXTINF:-1 group-title="Spain" ,CLAN  TVE  p1
+#EXTINF:-1 group-title="Spain" ,CLAN  TVE
 http://78.110.160.130:8008/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Spain" ,LALIGATVBAR1  p1
+#EXTINF:-1 group-title="Spain" ,LALIGATVBAR1
 http://78.110.160.130:8008/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Spain" ,CANAL ORBE21  p1
+#EXTINF:-1 group-title="Spain" ,CANAL ORBE21
 http://78.110.160.130:8008/play/a035/index.m3u8
-#EXTINF:-1 group-title="Spain" ,CANAL ODISEA  p1
+#EXTINF:-1 group-title="Spain" ,CANAL ODISEA
 http://78.110.160.130:8008/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Spain" ,HOLLYWOOD  p1
+#EXTINF:-1 group-title="Spain" ,HOLLYWOOD
 http://78.110.160.130:8008/play/a03q/index.m3u8
-#EXTINF:-1 group-title="Spain" ,SYFY  p1
+#EXTINF:-1 group-title="Spain" ,SYFY
 http://78.110.160.130:8008/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Spain" ,CANAL DECASA  p1
+#EXTINF:-1 group-title="Spain" ,CANAL DECASA
 http://78.110.160.130:8008/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Spain" ,CALLE 13  p1
+#EXTINF:-1 group-title="Spain" ,CALLE 13
 http://78.110.160.130:8008/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Spain" ,MULTIFUT. 1  p1
+#EXTINF:-1 group-title="Spain" ,MULTIFUT. 1
 http://78.110.160.130:8008/play/a038/index.m3u8
 #EXTINF:-1  group-title="Spain" ,Movistar+ 
 http://79.158.163.207:4022/udp/239.0.0.77:8208
@@ -924,7 +843,6 @@ http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1087.ts
 http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1086.ts
 #EXTINF:-1 group-title="Spain" ,|SP| TVE 2 
 http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1085.ts
-#EXTVLCOPT:http-user-agent=useragent
 #EXTINF:-1 group-title="Spain" ,ES : MOVISTAR F1 HD 
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1558.ts
 #EXTVLCOPT:http-user-agent=useragent
