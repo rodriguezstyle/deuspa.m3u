@@ -961,7 +961,7 @@ http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1569.ts
 #EXTINF:-1 group-title="Spain" ,ES: beIN LA Liga FHD 
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/221.ts
 #EXTVLCOPT:http-user-agent=useragent
-#EXTINF:-1 group-title="Spain" ,ES: beIN LaLIga 1 (event only!) 
+#EXTINF:-1 group-title="Spain" ,ES: beIN LaLIga 1 (event only) 
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1577.ts
 #EXTVLCOPT:http-user-agent=useragent
 #EXTINF:-1 group-title="Spain" ,ES: beIN Laliga 1 HD Backup 
@@ -1179,49 +1179,49 @@ http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1638.ts
 #EXTVLCOPT:http-user-agent=useragent
 #EXTINF:-1 group-title="Spain" ,ES:VIAJAR HD 
 http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1639.ts
-#EXTINF:-1,[COLOR WHITE] [/COLOR]LISTA LATINA & ESPAÑA www.tecnowillblog.wordpress.com
+#EXTINF:-1,[COLOR WHITE] [/COLOR]LISTA LATINA & ESPAÑA 
 https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:-1,SPAIN:13 TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:13 TV 
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1,SPAIN:Alcarria TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Alcarria TV 
 http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1,SPAIN:Andalucia Turismo www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Andalucia Turismo 
 http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
-#EXTINF:-1,SPAIN:Andorra TV (Andorra) www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Andorra TV (Andorra) 
 http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:-1,SPAIN:Antena 3 www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Antena 3 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1,SPAIN:Antena 3 Int'l www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Antena 3 Int'l 
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,SPAIN:Aragon TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Aragon TV 
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1,SPAIN:Aragon TV* www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Aragon TV* 
 http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
-#EXTINF:-1,SPAIN:Atreseries www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Atreseries 
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,SPAIN:Be Mad www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Be Mad 
 http://MSET-PROD-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/4yaHlnNTE6C3jW9zsD272G4pZkoq-Pur/cn/909a630af13d46aaabcb4e5895d9ac35.m3u8
-#EXTINF:-1,SPAIN:Betis TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Betis TV 
 http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:-1,SPAIN:Beteve www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Beteve 
 http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
-#EXTINF:-1,SPAIN:Canal 4 Centro Mancha www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Canal 4 Centro Mancha 
 http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,SPAIN:Canal 4 Tenerife www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Canal 4 Tenerife 
 https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:-1,SPAIN:Canal 7 www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Canal 7 
 http://163.172.15.219:1935/live/vivatv/playlist.m3u8
-#EXTINF:-1,SPAIN:Canal 24 Horas www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Canal 24 Horas 
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
-#EXTINF:-1,SPAIN:Canal 25 www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Canal 25 
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1,SPAIN:Canal Costa www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Canal Costa 
 http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
-#EXTINF:-1,SPAIN:Canal Extremadura www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Canal Extremadura 
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1,SPAIN:Canal Sur Cocina www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Canal Sur Cocina 
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:-1,SPAIN:Canal Sur Flamenco www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:Canal Sur Flamenco 
 http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
 #EXTINF:-1,SPAIN:Canal Parlamento
 http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
@@ -1273,11 +1273,11 @@ http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
 #EXTINF:-1,SPAIN:Intereconomia TV
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-#EXTINF:-1,SPAIN:La Sexta www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:La Sexta 
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1,SPAIN:La Otra www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:La Otra 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1,SPAIN:La Xarxa www.tecnowillblog.wordpress.com
+#EXTINF:-1,SPAIN:La Xarxa 
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
 #EXTINF:-1,SPAIN:Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
@@ -1319,9 +1319,9 @@ http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:-1,LATINO:HispanTV
 http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
-#EXTINF:-1,LATINO:Latinos NCTV www.tecnowillblog.wordpress.com
+#EXTINF:-1,LATINO:Latinos NCTV 
 http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
-#EXTINF:-1,LATINO:La Mega Mundial www.tecnowillblog.wordpress.com
+#EXTINF:-1,LATINO:La Mega Mundial 
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1,LATINO:Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
@@ -1333,29 +1333,29 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 http://www.lengua.com/anthems/Mexico.mp3
 #EXTINF:-1,MEXICO:FOROtv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
-#EXTINF:-1,MEXICO:ADN 40 www.tecnowillblog.wordpress.com
+#EXTINF:-1,MEXICO:ADN 40 
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1,MEXICO:ADN 40*
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
-#EXTINF:-1,MEXICO:Milenio TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,MEXICO:Milenio TV 
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1,MEXICO:Milenio TV*
 https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
 #EXTINF:-1,MEXICO:Efekto TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:-1,MEXICO:Noticias MVS www.tecnowillblog.wordpress.com
+#EXTINF:-1,MEXICO:Noticias MVS 
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 #EXTINF:-1,MEXICO:Las Estrellas [Geo]
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 #EXTINF:-1,MEXICO:Las Estrellas (-2)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1,MEXICO:Azteca Trece www.tecnowillblog.wordpress.com
+#EXTINF:-1,MEXICO:Azteca Trece 
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1,MEXICO:Azteca Mas
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 #EXTINF:-1,MEXICO:Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1,MEXICO:GreenTV www.tecnowillblog.wordpress.com
+#EXTINF:-1,MEXICO:GreenTV 
 http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8 
 #EXTINF:-1,MEXICO:TV UNAM
 http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
@@ -1369,17 +1369,17 @@ http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 #EXTINF:-1,MEXICO:C7 Jalisco
 http://streamingcws10.com:1935/c7noticias/videoc7noticias/chunklist_w48198864_DVR.m3u8
-#EXTINF:-1,ARGENTINA:Canal 4 Jujuy www.tecnowillblog.wordpress.com
+#EXTINF:-1,ARGENTINA:Canal 4 Jujuy 
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1,ARGENTINA:Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
-#EXTINF:-1,ARGENTINA:Canal 9 Salta www.tecnowillblog.wordpress.com
+#EXTINF:-1,ARGENTINA:Canal 9 Salta 
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 Buenos Aires
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,ARGENTINA:Canal 26 Buenos Aires* www.tecnowillblog.wordpress.com
+#EXTINF:-1,ARGENTINA:Canal 26 Buenos Aires* 
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
-#EXTINF:-1,ARGENTINA:Canal 79 Mar del Plata www.tecnowillblog.wordpress.com
+#EXTINF:-1,ARGENTINA:Canal 79 Mar del Plata 
 http://painel.serveron.com.br:1935/8168/8168/live.m3u8
 #EXTINF:-1,ARGENTINA:Canal Provincial San Miguel
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
@@ -1415,13 +1415,13 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1,LABEL:~ Chile TV ~
 http://www.lengua.com/anthems/Chile.mp3
-#EXTINF:-1,CHILE:Arica TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,CHILE:Arica TV 
 http://wow1.dallas.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
-#EXTINF:-1,CHILE:Bio Bio TV Canal 9 www.tecnowillblog.wordpress.com
+#EXTINF:-1,CHILE:Bio Bio TV Canal 9 
 http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
 #EXTINF:-1,CHILE:Canal 2
 http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8
-#EXTINF:-1,CHILE:Canal 13 www.tecnowillblog.wordpress.com
+#EXTINF:-1,CHILE:Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1,CHILE:Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
@@ -1431,13 +1431,13 @@ http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/pl
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
 #EXTINF:-1,CHILE:Chilevision
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
-#EXTINF:-1,CHILE:CNN www.tecnowillblog.wordpress.com
+#EXTINF:-1,CHILE:CNN 
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1,CHILE:FM Hot www.tecnowillblog.wordpress.com
+#EXTINF:-1,CHILE:FM Hot 
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
-#EXTINF:-1,CHILE:Futuro 88.9 www.tecnowillblog.wordpress.com
+#EXTINF:-1,CHILE:Futuro 88.9 
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
-#EXTINF:-1,CHILE:ITV www.tecnowillblog.wordpress.com
+#EXTINF:-1,CHILE:ITV 
 http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
 #EXTINF:-1,CHILE:Maxima TV
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
@@ -1455,13 +1455,13 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1,CHILE:Teletrak
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
-#EXTINF:-1,CHILE:Teletrak* www.tecnowillblog.wordpress.com
+#EXTINF:-1,CHILE:Teletrak* 
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8
 #EXTINF:-1,CHILE:Teletrak**
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8
 #EXTINF:-1,CHILE:TVN
 http://iptvcanales.ml/hls/channel/tvn_sd.m3u8
-#EXTINF:-1,CHILE:TVN Kids www.tecnowillblog.wordpress.com
+#EXTINF:-1,CHILE:TVN Kids 
 http://cl-a3-p-e-oi1.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/master.m3u8?es=cl-a3-p-e-oi1.cdn.mdstrm.com&ote=1504726523211&ot=3K9hbeMjQIQ3aUB2PDAtqA&proto=http
 #EXTINF:-1,CHILE:UC13
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
@@ -1537,9 +1537,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MIOTV/tu1_1.m3u8
 #EXTINF:-1,COLOMBIA:Tigo Music
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1,COLOMBIA:Trendy Channel  www.tecnowillblog.wordpress.com
+#EXTINF:-1,COLOMBIA:Trendy Channel  
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1,COLOMBIA:TV Agro www.tecnowillblog.wordpress.com
+#EXTINF:-1,COLOMBIA:TV Agro 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:-1,COLOMBIA:UAOPlay
 http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist_w1637072900_b1200000.m3u8?idLive=026
@@ -1563,17 +1563,17 @@ http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 #EXTINF:-1,PERU:Capital TV*
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12
-#EXTINF:-1,PERU:CTC TV Cusco www.tecnowillblog.wordpress.com
+#EXTINF:-1,PERU:CTC TV Cusco 
 http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 #EXTINF:-1,PERU:Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1,PERU:NTV Peru www.tecnowillblog.wordpress.com
+#EXTINF:-1,PERU:NTV Peru 
 http://st2.worldkast.com/8028/smil:8028.smil/chunklist_w1878432359_b1000000.m3u8
-#EXTINF:-1,PERU:RBC TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,PERU:RBC TV 
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
 #EXTINF:-1,PERU:RPP TV
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8
-#EXTINF:-1,PERU:Sol TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,PERU:Sol TV 
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 #EXTINF:-1,PERU:Top Latino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
@@ -1587,23 +1587,23 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
 http://unotv.pe:1935/unotv/myStream/chunklist.m3u8
 #EXTINF:-1,PERU:Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1,PERU:Willax TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,PERU:Willax TV 
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 #EXTINF:-1,LABEL:~ Venezuela TV ~
 http://www.lengua.com/anthems/Venezuela.mp3
-#EXTINF:-1,VENEZUELA:Canal 11 www.tecnowillblog.wordpress.com
+#EXTINF:-1,VENEZUELA:Canal 11 
 http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
-#EXTINF:-1,VENEZUELA:Canal i www.tecnowillblog.wordpress.com
+#EXTINF:-1,VENEZUELA:Canal i 
 http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
 #EXTINF:-1,VENEZUELA:Plus TV
 http://iphone-streaming.ustream.tv/uhls/18110205/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,VENEZUELA:Promar TV www.tecnowillblog.wordpress.com
+#EXTINF:-1,VENEZUELA:Promar TV 
 http://edge.wms28.lorini.net/promar/promar/live.m3u8
-#EXTINF:-1,VENEZUELA:Promar TV* www.tecnowillblog.wordpress.com
+#EXTINF:-1,VENEZUELA:Promar TV* 
 http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
 #EXTINF:-1,VENEZUELA:Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:-1,VENEZUELA:TeleSUR www.tecnowillblog.wordpress.com
+#EXTINF:-1,VENEZUELA:TeleSUR 
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1,VENEZUELA:TLT
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
@@ -1613,9 +1613,9 @@ http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
 http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
 #EXTINF:-1,VENEZUELA:Ve Plus
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-#EXTINF:-1,VENEZUELA:VTV www.tecnowillblog.wordpress.com
+#EXTINF:-1,VENEZUELA:VTV 
 http://controlstreams.com:1935/vtvweb3/vtvweb3/chunklist.m3u8
-#EXTINF:-1,LABEL:~ Bolivia TV ~ www.tecnowillblog.wordpress.com
+#EXTINF:-1,LABEL:~ Bolivia TV ~ 
 http://www.lengua.com/anthems/Bolivia.mp3
 #EXTINF:-1,BOLIVIA:PAT
 http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
