@@ -1,708 +1,220 @@
-#EXTM3U 
+#EXTINF:-1,~ Spain TV ~
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-name="spanish_1" tvg-logo="",spanish_1
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
-#EXTINF:-1 tvg-name="spanish_2" tvg-logo="",spanish_2
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
-#EXTINF:-1 tvg-name="spanish_3" tvg-logo="",spanish_3
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
-#EXTINF:-1 tvg-name="spanish_4" tvg-logo="",spanish_4
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-name="spanish_5" tvg-logo="",spanish_5
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_3.m3u8
-#EXTINF:-1 tvg-name="spanish_8" tvg-logo="",spanish_8
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="spanish_9" tvg-logo="",spanish_9
+#EXTINF:-1,3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 tvg-name="spanish_11" tvg-logo="",spanish_11
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_12" tvg-logo="",spanish_12
-http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_13" tvg-logo="",spanish_13
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_14" tvg-logo="",spanish_14
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1 tvg-name="spanish_15" tvg-logo="",spanish_15
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1 tvg-name="spanish_16" tvg-logo="",spanish_16
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-#EXTINF:-1 tvg-name="spanish_17" tvg-logo="",spanish_17
-http://bit.ly/2yN3oHV
-#EXTINF:-1 tvg-name="spanish_18" tvg-logo="",spanish_18
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_19" tvg-logo="",spanish_19
-http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
-#EXTINF:-1 tvg-name="spanish_20" tvg-logo="",spanish_20
-http://MSET-PROD-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/4yaHlnNTE6C3jW9zsD272G4pZkoq-Pur/cn/909a630af13d46aaabcb4e5895d9ac35.m3u8
-#EXTINF:-1 tvg-name="spanish_23" tvg-logo="",spanish_23
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_24" tvg-logo="",spanish_24
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1 tvg-name="spanish_25" tvg-logo="",spanish_25
-http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-#EXTINF:-1 tvg-name="spanish_26" tvg-logo="",spanish_26
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1 tvg-name="spanish_27" tvg-logo="",spanish_27
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_28" tvg-logo="",spanish_28
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_2.m3u8
-#EXTINF:-1 tvg-name="spanish_29" tvg-logo="",spanish_29
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_30" tvg-logo="",spanish_30
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1 tvg-name="spanish_31" tvg-logo="",spanish_31
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 tvg-name="spanish_32" tvg-logo="",spanish_32
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1 tvg-name="spanish_33" tvg-logo="",spanish_33
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 tvg-name="spanish_36" tvg-logo="",spanish_36
+#EXTINF:-1,101 TV Malaga
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:-1,7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,25 Televisio
 http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
-#EXTINF:-1 tvg-name="spanish_37" tvg-logo="",spanish_37
+#EXTINF:-1,8 Cadiz TV
 http://cls.todostreaming.eu/unatv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_38" tvg-logo="",spanish_38
+#EXTINF:-1,8 TV
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
-#EXTINF:-1 tvg-name="spanish_39" tvg-logo="",spanish_39
+#EXTINF:-1,8 TV*
 http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_40" tvg-logo="",spanish_40
+#EXTINF:-1,13 TV
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1 tvg-name="spanish_41" tvg-logo="",spanish_41
+#EXTINF:-1,Alcarria TV
 http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_42" tvg-logo="",spanish_42
+#EXTINF:-1,Andalucia Turismo
 http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_43" tvg-logo="",spanish_43
+#EXTINF:-1,Andorra TV (Andorra)
 http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_44" tvg-logo="",spanish_44
+#EXTINF:-1,Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 tvg-name="spanish_51" tvg-logo="",spanish_51
+#EXTINF:-1,Antena 3*
+http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
+#EXTINF:-1,Antena 3 Int'l
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,Aragon TV*
+http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,Atreseries*
+http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
+#EXTINF:-1,Betis TV
 http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_54" tvg-logo="",spanish_54
+#EXTINF:-1,Beteve
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+#EXTINF:-1,Canal 4 Centro Mancha
+http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:-1 tvg-name="spanish_56" tvg-logo="",spanish_56
+#EXTINF:-1,Canal 7
+http://163.172.15.219:1935/live/vivatv/playlist.m3u8
+#EXTINF:-1,Canal 24 Horas
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
-#EXTINF:-1 tvg-name="spanish_57" tvg-logo="",spanish_57
+#EXTINF:-1,Canal 25
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_59" tvg-logo="",spanish_59
+#EXTINF:-1,Canal Costa
+http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
+#EXTINF:-1,Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_60" tvg-logo="",spanish_60
+#EXTINF:-1,Canal Sur Cocina
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_61" tvg-logo="",spanish_61
+#EXTINF:-1,Canal Sur Flamenco
 http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_63" tvg-logo="",spanish_63
+#EXTINF:-1,Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
+#EXTINF:-1,Canaria SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_64" tvg-logo="",spanish_64
+#EXTINF:-1,Canaria SAT*
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-#EXTINF:-1 tvg-name="spanish_65" tvg-logo="",spanish_65
+#EXTINF:-1,Castilla-La Mancha TV
 http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
-#EXTINF:-1 tvg-name="spanish_66" tvg-logo="",spanish_66
+#EXTINF:-1,Castilla Leon TV
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_67" tvg-logo="",spanish_67
+#EXTINF:-1,Ceuta TV
 http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_69" tvg-logo="",spanish_69
+#EXTINF:-1,Condavision
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
+#EXTINF:-1,Costa del Sol TV
 http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_71" tvg-logo="",spanish_71
+#EXTINF:-1,Cuatro [Off]
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
+#EXTINF:-1,El Correo TV
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
-#EXTINF:-1 tvg-name="spanish_72" tvg-logo="",spanish_72
+#EXTINF:-1,El Correo TV*
 http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_74" tvg-logo="",spanish_74
+#EXTINF:-1,El Punt Avui TV
+http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Emporda TV
 http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1 tvg-name="spanish_75" tvg-logo="",spanish_75
+#EXTINF:-1,Estepona TV
 http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
-#EXTINF:-1 tvg-name="spanish_76" tvg-logo="",spanish_76
+#EXTINF:-1,ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-name="spanish_78" tvg-logo="",spanish_78
+#EXTINF:-1,Girona TV
+http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
+#EXTINF:-1,Hit TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="spanish_79" tvg-logo="",spanish_79
+#EXTINF:-1,HTV Huelva
 http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_80" tvg-logo="",spanish_80
+#EXTINF:-1,IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-#EXTINF:-1 tvg-name="spanish_81" tvg-logo="",spanish_81
+#EXTINF:-1,Imas TV
 http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_82" tvg-logo="",spanish_82
+#EXTINF:-1,Informacion TV
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-#EXTINF:-1 tvg-name="spanish_83" tvg-logo="",spanish_83
+#EXTINF:-1,Intereconomia TV
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-#EXTINF:-1 tvg-name="spanish_85" tvg-logo="",spanish_85
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,La Otra
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1 tvg-name="spanish_86" tvg-logo="",spanish_86
+#EXTINF:-1,La Xarxa
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_87" tvg-logo="",spanish_87
+#EXTINF:-1,Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 tvg-name="spanish_88" tvg-logo="",spanish_88
+#EXTINF:-1,Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 tvg-name="spanish_89" tvg-logo="",spanish_89
+#EXTINF:-1,Levante TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-#EXTINF:-1 tvg-name="spanish_92" tvg-logo="",spanish_92
+#EXTINF:-1,Lleida TV
+http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1,Melilla TV
 http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-#EXTINF:-1 tvg-name="spanish_93" tvg-logo="",spanish_93
+#EXTINF:-1,Mirame TV
 http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_95" tvg-logo="",spanish_95
+#EXTINF:-1,Mogan TV
+http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
+#EXTINF:-1,Navarra TV
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1 tvg-name="spanish_100" tvg-logo="",spanish_100
+#EXTINF:-1,Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,Olot TV
+http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Onda Algeciras
 http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_101" tvg-logo="",spanish_101
+#EXTINF:-1,Onda Azul Malaga
 http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_104" tvg-logo="",spanish_104
+#EXTINF:-1,Onda Cadiz
+http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
+#EXTINF:-1,Onda Jaen
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
+#EXTINF:-1,Ondaluz Cadiz [NoKodi]
 http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_105" tvg-logo="",spanish_105
+#EXTINF:-1,Ondaluz Costa del Sol [NoKodi]
 http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_106" tvg-logo="",spanish_106
+#EXTINF:-1,Ondaluz Costa Noroeste [NoKodi]
 http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_107" tvg-logo="",spanish_107
+#EXTINF:-1,Ondaluz Jerez [NoKodi]
 http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_108" tvg-logo="",spanish_108
+#EXTINF:-1,Ondaluz Marbella [NoKodi]
 http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_109" tvg-logo="",spanish_109
+#EXTINF:-1,Ondaluz Sevilla [NoKodi]
 http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_110" tvg-logo="",spanish_110
+#EXTINF:-1,Popular TV Cantabria
 http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_111" tvg-logo="",spanish_111
+#EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 tvg-name="spanish_112" tvg-logo="",spanish_112
+#EXTINF:-1,Real Madrid TV*
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 tvg-name="spanish_113" tvg-logo="",spanish_113
+#EXTINF:-1,Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-name="spanish_114" tvg-logo="",spanish_114
+#EXTINF:-1,Ribera TV
 http://188.165.135.22/ribera/livestream/.m3u8
-#EXTINF:-1 tvg-name="spanish_115" tvg-logo="",spanish_115
+#EXTINF:-1,RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_116" tvg-logo="",spanish_116
+#EXTINF:-1,RTPA
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1 tvg-name="spanish_118" tvg-logo="",spanish_118
+#EXTINF:-1,RTV Marbella
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+#EXTINF:-1,San Roque TV
 http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-#EXTINF:-1 tvg-name="spanish_119" tvg-logo="",spanish_119
+#EXTINF:-1,Sevilla FC TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1 tvg-name="spanish_122" tvg-logo="",spanish_122
+#EXTINF:-1,TAC12
+http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1,TCS Mediterraneo
+http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
+#EXTINF:-1,TEF TV
 http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_124" tvg-logo="",spanish_124
+#EXTINF:-1,TeleBadalona
+http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,TeleBilbao
 http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_125" tvg-logo="",spanish_125
+#EXTINF:-1,Telecinco
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
-#EXTINF:-1 tvg-name="spanish_126" tvg-logo="",spanish_126
+#EXTINF:-1,TeleElx
 http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_127" tvg-logo="",spanish_127
+#EXTINF:-1,Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1 tvg-name="spanish_129" tvg-logo="",spanish_129
+#EXTINF:-1,TeleOnuba
+http://cls2.todostreaming.eu/azahara/GdZpE8ef/chunklist.m3u8
+#EXTINF:-1,TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 tvg-name="spanish_130" tvg-logo="",spanish_130
+#EXTINF:-1,TeleValencia
 http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1 tvg-name="spanish_134" tvg-logo="",spanish_134
+#EXTINF:-1,Terrassa TV
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTINF:-1,Tindaya TV
+http://188.165.135.22/tindayatv/livestream/playlist.m3u8
+#EXTINF:-1,Travel TV
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:-1,TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_135" tvg-logo="",spanish_135
+#EXTINF:-1,TV3*
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1 tvg-name="spanish_136" tvg-logo="",spanish_136
+#EXTINF:-1,TV4 La Vall
 http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-#EXTINF:-1 tvg-name="spanish_138" tvg-logo="",spanish_138
+#EXTINF:-1,TV Alcoi
+http://92.222.37.18/hls/tvaxa.m3u8
+#EXTINF:-1,TVG America
 http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
-#EXTINF:-1 tvg-name="spanish_139" tvg-logo="",spanish_139
+#EXTINF:-1,TVG Europa
 http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
-#EXTINF:-1 tvg-name="spanish_140" tvg-logo="",spanish_140
+#EXTINF:-1,TVG Europa*
 http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
-#EXTINF:-1 tvg-name="spanish_142" tvg-logo="",spanish_142
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 tvg-name="spanish_145" tvg-logo="",spanish_145
-http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
-#EXTINF:-1 tvg-name="spanish_146" tvg-logo="",spanish_146
-http://cls.todostreaming.eu/unatv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_147" tvg-logo="",spanish_147
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
-#EXTINF:-1 tvg-name="spanish_148" tvg-logo="",spanish_148
-http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_149" tvg-logo="",spanish_149
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1 tvg-name="spanish_150" tvg-logo="",spanish_150
-http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_151" tvg-logo="",spanish_151
-http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_152" tvg-logo="",spanish_152
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_153" tvg-logo="",spanish_153
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 tvg-name="spanish_160" tvg-logo="",spanish_160
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_163" tvg-logo="",spanish_163
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:-1 tvg-name="spanish_165" tvg-logo="",spanish_165
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
-#EXTINF:-1 tvg-name="spanish_166" tvg-logo="",spanish_166
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_168" tvg-logo="",spanish_168
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_169" tvg-logo="",spanish_169
-http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_170" tvg-logo="",spanish_170
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_172" tvg-logo="",spanish_172
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_173" tvg-logo="",spanish_173
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-#EXTINF:-1 tvg-name="spanish_174" tvg-logo="",spanish_174
-http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
-#EXTINF:-1 tvg-name="spanish_175" tvg-logo="",spanish_175
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_176" tvg-logo="",spanish_176
-http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_178" tvg-logo="",spanish_178
-http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_180" tvg-logo="",spanish_180
-http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
-#EXTINF:-1 tvg-name="spanish_181" tvg-logo="",spanish_181
-http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_183" tvg-logo="",spanish_183
-http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1 tvg-name="spanish_184" tvg-logo="",spanish_184
-http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
-#EXTINF:-1 tvg-name="spanish_185" tvg-logo="",spanish_185
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-name="spanish_187" tvg-logo="",spanish_187
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="spanish_188" tvg-logo="",spanish_188
-http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_189" tvg-logo="",spanish_189
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-#EXTINF:-1 tvg-name="spanish_190" tvg-logo="",spanish_190
-http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_191" tvg-logo="",spanish_191
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-#EXTINF:-1 tvg-name="spanish_192" tvg-logo="",spanish_192
-http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-#EXTINF:-1 tvg-name="spanish_194" tvg-logo="",spanish_194
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1 tvg-name="spanish_195" tvg-logo="",spanish_195
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_196" tvg-logo="",spanish_196
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 tvg-name="spanish_197" tvg-logo="",spanish_197
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 tvg-name="spanish_198" tvg-logo="",spanish_198
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-#EXTINF:-1 tvg-name="spanish_201" tvg-logo="",spanish_201
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-#EXTINF:-1 tvg-name="spanish_202" tvg-logo="",spanish_202
-http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_204" tvg-logo="",spanish_204
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1 tvg-name="spanish_209" tvg-logo="",spanish_209
-http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_210" tvg-logo="",spanish_210
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_213" tvg-logo="",spanish_213
-http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_214" tvg-logo="",spanish_214
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_215" tvg-logo="",spanish_215
-http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_216" tvg-logo="",spanish_216
-http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_217" tvg-logo="",spanish_217
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_218" tvg-logo="",spanish_218
-http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_219" tvg-logo="",spanish_219
-http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_220" tvg-logo="",spanish_220
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 tvg-name="spanish_221" tvg-logo="",spanish_221
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 tvg-name="spanish_222" tvg-logo="",spanish_222
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-name="spanish_223" tvg-logo="",spanish_223
-http://188.165.135.22/ribera/livestream/.m3u8
-#EXTINF:-1 tvg-name="spanish_224" tvg-logo="",spanish_224
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_225" tvg-logo="",spanish_225
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1 tvg-name="spanish_227" tvg-logo="",spanish_227
-http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-#EXTINF:-1 tvg-name="spanish_228" tvg-logo="",spanish_228
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1 tvg-name="spanish_231" tvg-logo="",spanish_231
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_233" tvg-logo="",spanish_233
-http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_234" tvg-logo="",spanish_234
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
-#EXTINF:-1 tvg-name="spanish_235" tvg-logo="",spanish_235
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_236" tvg-logo="",spanish_236
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1 tvg-name="spanish_238" tvg-logo="",spanish_238
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 tvg-name="spanish_239" tvg-logo="",spanish_239
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1 tvg-name="spanish_243" tvg-logo="",spanish_243
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_244" tvg-logo="",spanish_244
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1 tvg-name="spanish_245" tvg-logo="",spanish_245
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-#EXTINF:-1 tvg-name="spanish_247" tvg-logo="",spanish_247
-http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
-#EXTINF:-1 tvg-name="spanish_248" tvg-logo="",spanish_248
-http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
-#EXTINF:-1 tvg-name="spanish_249" tvg-logo="",spanish_249
-http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
-#EXTINF:-1 tvg-name="spanish_299" tvg-logo="",spanish_299
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="spanish_304" tvg-logo="",spanish_304
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_3.m3u8
-#EXTINF:-1 tvg-name="spanish_306" tvg-logo="",spanish_306
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
-#EXTINF:-1 tvg-name="spanish_307" tvg-logo="",spanish_307
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="spanish_313" tvg-logo="",spanish_313
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-name="spanish_328" tvg-logo="",spanish_328
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8
-#EXTINF:-1 tvg-name="spanish_329" tvg-logo="",spanish_329
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="spanish_414" tvg-logo="",spanish_414
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="spanish_419" tvg-logo="",spanish_419
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
-#EXTINF:-1 tvg-name="spanish_420" tvg-logo="",spanish_420
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:-1 tvg-name="spanish_421" tvg-logo="",spanish_421
-http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_422" tvg-logo="",spanish_422
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/chunklist_w605667087.m3u8
-#EXTINF:-1 tvg-name="spanish_423" tvg-logo="",spanish_423
-http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_424" tvg-logo="",spanish_424
-http://media3.crtvg.es/live/_definst_/tvga_2/chunklist_w2022272197.m3u8
-#EXTINF:-1 tvg-name="spanish_425" tvg-logo="",spanish_425
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1 tvg-name="spanish_426" tvg-logo="",spanish_426
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1 tvg-name="spanish_429" tvg-logo="",spanish_429
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
-#EXTINF:-1 tvg-name="spanish_430" tvg-logo="",spanish_430
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_432" tvg-logo="",spanish_432
-http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_433" tvg-logo="",spanish_433
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-#EXTINF:-1 tvg-name="spanish_435" tvg-logo="",spanish_435
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-#EXTINF:-1 tvg-name="spanish_436" tvg-logo="",spanish_436
-http://cloud1.cdnstreamserver.com/olcadiz/livestream1/chunklist.m3u
-#EXTINF:-1 tvg-name="spanish_437" tvg-logo="",spanish_437
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_438" tvg-logo="",spanish_438
-http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
-#EXTINF:-1 tvg-name="spanish_439" tvg-logo="",spanish_439
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_440" tvg-logo="",spanish_440
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
-#EXTINF:-1 tvg-name="spanish_441" tvg-logo="",spanish_441
-http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
-#EXTINF:-1 tvg-name="spanish_443" tvg-logo="",spanish_443
-http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
-#EXTINF:-1 tvg-name="spanish_444" tvg-logo="",spanish_444
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1421144122.m3u8
-#EXTINF:-1 tvg-name="spanish_445" tvg-logo="",spanish_445
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 tvg-name="spanish_446" tvg-logo="",spanish_446
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_449" tvg-logo="",spanish_449
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="spanish_456" tvg-logo="",spanish_456
-http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-name="ES:/Canal Decasa" tvg-logo="",ES:/Canal Decasa
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10673.ts
-#EXTINF:-1 tvg-name="ES:0Spain" tvg-logo="",ES:0Spain
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10728.ts
-#EXTINF:-1 tvg-name="ES:AMC" tvg-logo="",ES:AMC
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10702.ts
-#EXTINF:-1 tvg-name="ES:Bein Laliga HD" tvg-logo="",ES:Bein Laliga HD
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10695.ts
-#EXTINF:-1 tvg-name="POR:Cancao Nova" tvg-logo="",POR:Cancao Nova
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7942.ts
-#EXTINF:-1 tvg-name="POR:RTP 3" tvg-logo="",POR:RTP 3
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7963.ts
-#EXTINF:-1 tvg-name="POR:SIC Noticias" tvg-logo="",POR:SIC Noticias
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7943.ts
-#EXTINF:-1 tvg-name="POR:Sport TV1" tvg-logo="",POR:Sport TV1
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7936.ts
-#EXTINF:-1 tvg-name="POR:Sport TV2" tvg-logo="",POR:Sport TV2
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7935.ts
-#EXTINF:-1 tvg-name="POR:Sport TV3" tvg-logo="",POR:Sport TV3
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7934.ts
-#EXTINF:-1 tvg-name="POR:Sport TV4" tvg-logo="",POR:Sport TV4
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7933.ts
-#EXTINF:-1 tvg-name="POR:TV Cine3" tvg-logo="",POR:TV Cine3
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7955.ts
-#EXTINF:-1 tvg-name="spanish_973" tvg-logo="",spanish_973
-http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-#EXTINF:-1 tvg-name="spanish_974" tvg-logo="",spanish_974
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
-#EXTINF:-1 tvg-name="spanish_981" tvg-logo="",spanish_981
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-1 tvg-name="spanish_983" tvg-logo="",spanish_983
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 tvg-name="spanish_989" tvg-logo="",spanish_989
-http://server5.stweb.tv/radioone/live/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_991" tvg-logo="",spanish_991
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="spanish_997" tvg-logo="",spanish_997
-http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
-#EXTINF:-1 tvg-name="spanish_1002" tvg-logo="",spanish_1002
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-name="spanish_1005" tvg-logo="",spanish_1005
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_la_ley_031215_500k.m3u8
-#EXTINF:-1 tvg-name="spanish_1010" tvg-logo="",spanish_1010
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-name="spanish_1012" tvg-logo="",spanish_1012
-http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
-#EXTINF:-1 tvg-name="espa_1" tvg-logo="",espa_1
-http://dcunilive1-lh.akamaihd.net/i/dclive_1@311302/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 tvg-name="espa_2" tvg-logo="",espa_2
-http://162.213.123.181:1935/sertv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_3" tvg-logo="",espa_3
-http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_4" tvg-logo="",espa_4
-http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_5" tvg-logo="",espa_5
-http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_6" tvg-logo="",espa_6
-http://mek6.mekstream.com/telesistema/live/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_7" tvg-logo="",espa_7
-http://qs1.distream.net:2112/tf_str/futu/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_8" tvg-logo="",espa_8
-https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master2500k.m3u8
-#EXTINF:-1 tvg-name="espa_9" tvg-logo="",espa_9
-http://enc-fwt.lorini.net/telet/telet/index.m3u8
-#EXTINF:-1 tvg-name="espa_10" tvg-logo="",espa_10
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="espa_11" tvg-logo="",espa_11
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_12" tvg-logo="",espa_12
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1 tvg-name="espa_13" tvg-logo="",espa_13
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-name="espa_14" tvg-logo="",espa_14
-http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-360p/chunks.m3u8
-#EXTINF:-1 tvg-name="espa_15" tvg-logo="",espa_15
-http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_150_av-p.m3u8
-#EXTINF:-1 tvg-name="espa_16" tvg-logo="",espa_16
-http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_151_av-p.m3u8
-#EXTINF:-1 tvg-name="espa_17" tvg-logo="",espa_17
-http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
-#EXTINF:-1 tvg-name="espa_18" tvg-logo="",espa_18
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-name="espa_19" tvg-logo="",espa_19
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-name="espa_20" tvg-logo="",espa_20
-https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-name="espa_21" tvg-logo="",espa_21
-http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-name="espa_22" tvg-logo="",espa_22
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-name="espa_23" tvg-logo="",espa_23
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-name="espa_24" tvg-logo="",espa_24
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
-#EXTINF:-1 tvg-name="espa_25" tvg-logo="",espa_25
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-name="espa_26" tvg-logo="",espa_26
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-1 tvg-name="espa_27" tvg-logo="",espa_27
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
-#EXTINF:-1 tvg-name="espa_28" tvg-logo="",espa_28
-http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1 tvg-name="espa_29" tvg-logo="",espa_29
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_30" tvg-logo="",espa_30
-http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w1705024129_b828000.m3u8
-#EXTINF:-1 tvg-name="espa_31" tvg-logo="",espa_31
-http://live.grupoz.cl/swf/jwplayer.flash.swf
-#EXTINF:-1 tvg-name="espa_32" tvg-logo="",espa_32
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-name="espa_33" tvg-logo="",espa_33
-http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_34" tvg-logo="",espa_34
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
-#EXTINF:-1 tvg-name="espa_35" tvg-logo="",espa_35
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:-1 tvg-name="espa_36" tvg-logo="",espa_36
-http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_37" tvg-logo="",espa_37
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
-#EXTINF:-1 tvg-name="espa_38" tvg-logo="",espa_38
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
-#EXTINF:-1 tvg-name="espa_39" tvg-logo="",espa_39
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_40" tvg-logo="",espa_40
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_41" tvg-logo="",espa_41
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_42" tvg-logo="",espa_42
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-name="espa_43" tvg-logo="",espa_43
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_44" tvg-logo="",espa_44
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_45" tvg-logo="",espa_45
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_46" tvg-logo="",espa_46
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_47" tvg-logo="",espa_47
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_48" tvg-logo="",espa_48
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_49" tvg-logo="",espa_49
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_50" tvg-logo="",espa_50
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_51" tvg-logo="",espa_51
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_52" tvg-logo="",espa_52
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_53" tvg-logo="",espa_53
-http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_54" tvg-logo="",espa_54
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_55" tvg-logo="",espa_55
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-#EXTINF:-1 tvg-name="espa_56" tvg-logo="",espa_56
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-name="espa_57" tvg-logo="",espa_57
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1 tvg-name="espa_58" tvg-logo="",espa_58
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:-1 tvg-name="espa_59" tvg-logo="",espa_59
-http://cloud1.cdnstreamserver.com/olcadiz/livestream1/chunklist.m3u
-#EXTINF:-1 tvg-name="espa_60" tvg-logo="",espa_60
-http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_61" tvg-logo="",espa_61
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_62" tvg-logo="",espa_62
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-#EXTINF:-1 tvg-name="espa_63" tvg-logo="",espa_63
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_64" tvg-logo="",espa_64
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_65" tvg-logo="",espa_65
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-name="espa_66" tvg-logo="",espa_66
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_67" tvg-logo="",espa_67
-http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-#EXTINF:-1 tvg-name="espa_68" tvg-logo="",espa_68
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_69" tvg-logo="",espa_69
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_70" tvg-logo="",espa_70
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_71" tvg-logo="",espa_71
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_72" tvg-logo="",espa_72
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_73" tvg-logo="",espa_73
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-name="espa_74" tvg-logo="",espa_74
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_75" tvg-logo="",espa_75
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_76" tvg-logo="",espa_76
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-#EXTINF:-1 tvg-name="espa_77" tvg-logo="",espa_77
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1 tvg-name="espa_78" tvg-logo="",espa_78
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-name="espa_79" tvg-logo="",espa_79
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-name="espa_80" tvg-logo="",espa_80
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1 tvg-name="espa_81" tvg-logo="",espa_81
-http://46.101.21.42:8081/live/live2/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_82" tvg-logo="",espa_82
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="espa_83" tvg-logo="",espa_83
-http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
-#EXTINF:-1 tvg-name="espa_84" tvg-logo="",espa_84
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:-1 tvg-name="espa_85" tvg-logo="",espa_85
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_86" tvg-logo="",espa_86
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_87" tvg-logo="",espa_87
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_88" tvg-logo="",espa_88
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
-#EXTINF:-1 tvg-name="espa_89" tvg-logo="",espa_89
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_90" tvg-logo="",espa_90
-http://162.244.81.181:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_91" tvg-logo="",espa_91
-http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_92" tvg-logo="",espa_92
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_93" tvg-logo="",espa_93
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_94" tvg-logo="",espa_94
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_95" tvg-logo="",espa_95
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/manifest.m3u8
-#EXTINF:-1 tvg-name="espa_96" tvg-logo="",espa_96
-http://servicioamerica.com:1935/8154/8154/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_97" tvg-logo="",espa_97
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
-#EXTINF:-1 tvg-name="espa_98" tvg-logo="",espa_98
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_99" tvg-logo="",espa_99
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1 tvg-name="espa_100" tvg-logo="",espa_100
-http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_101" tvg-logo="",espa_101
-http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_102" tvg-logo="",espa_102
-http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_103" tvg-logo="",espa_103
-http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_104" tvg-logo="",espa_104
-http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-#EXTINF:-1 tvg-name="espa_105" tvg-logo="",espa_105
-http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_106" tvg-logo="",espa_106
-http://streamer1.streamhost.org:1935/salive/GMIalfah/chunklist.m3u8?
-#EXTINF:-1 tvg-name="espa_107" tvg-logo="",espa_107
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-name="espa_108" tvg-logo="",espa_108
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
-#EXTINF:-1 tvg-name="espa_109" tvg-logo="",espa_109
-http://edge.wms28.lorini.net/promar/promar/hasbahca.m3u8
-#EXTINF:-1 tvg-name="espa_110" tvg-logo="",espa_110
-http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
-#EXTINF:-1 tvg-name="espa_111" tvg-logo="",espa_111
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-name="espa_112" tvg-logo="",espa_112
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_113" tvg-logo="",espa_113
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_114" tvg-logo="",espa_114
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_115" tvg-logo="",espa_115
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1 tvg-name="espa_116" tvg-logo="",espa_116
-http://live.medcom.com.pa/live/tmradio.stream_live/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_117" tvg-logo="",espa_117
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_118" tvg-logo="",espa_118
-http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
-#EXTINF:-1 tvg-name="espa_119" tvg-logo="",espa_119
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_120" tvg-logo="",espa_120
-http://190.248.81.11:1938/live/myStream22/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_121" tvg-logo="",espa_121
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_122" tvg-logo="",espa_122
-http://198.24.135.42/canal10/canal10/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_123" tvg-logo="",espa_123
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-name="espa_124" tvg-logo="",espa_124
-http://strm.unicanal.com.py/live/unicanal.m3u8
-#EXTINF:-1 tvg-name="espa_125" tvg-logo="",espa_125
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 tvg-name="espa_126" tvg-logo="",espa_126
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
