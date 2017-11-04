@@ -1,533 +1,1026 @@
-#EXTM3U
-#EXTINF:-1 group-title="z-omitir", [COLOR BLUE] [/COLOR] SUSCRIBETE A MI CANAL == https://www.youtube.com/c/MIKEDOMOIPTV
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="z-omitir", tvg-logo="http://bit.ly/2xdu0k8", [COLOR GREEN] [/COLOR]MIKEDOMO IPTV - IPTV GRATIS PARA TODOS
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="z-omitir", [COLOR BLUE] [/COLOR] ◄◄◄◄IPTV Latino y España Premium 26/10/2017►►►► 
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="z-omitir", [COLOR GREEN] DONACIONES == http://bit.ly/2wPyk9B
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="z-omitir", [COLOR YELLOW] [/COLOR] =CULTURA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" group-title="CULTURA", Animal Planet
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/aprende_tv.jpg" group-title="CULTURA", Aprende TV
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.estufuturo.com.co/wp-content/uploads/2017/06/logo-cosmovision.png" group-title="CULTURA", COSMOVISION
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?www.tecnotv.info
-#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch204.jpg" group-title="CULTURA", Discovery Channel Asia
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/earthtv.png" group-title="CULTURA", Earth TV
-http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="CULTURA", History
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/08/investigation-discovery-3.jpg" group-title="CULTURA", Investigation Discovery
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-D7tNppml7sw/AAAAAAAAAAI/AAAAAAAAAAA/65fuq-FHf3g/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", NASA TV
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
-#EXTINF:-1 tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="CULTURA", Silence TV
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
-#EXTINF:-1 tvg-logo="http://images.lacarmina.com/homepage/content/publishers_travel.png" group-title="CULTURA", Travel HD
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =DEPORTES=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 tvg-logo="http://freetvall.com/files/thumbs/149902446962ba4.png" group-title="DEPORTES", Abu Dhabi Sports 1
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/5404/logo_abu%20dhabi%20sports%202.png" group-title="DEPORTES", Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES", All Sports
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" group-title="DEPORTES", CDN Sports Max
-http://bit.ly/2uKiMUq
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-http://atmlb.com/2x5XJZ2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Movistar_Deportes_%28Peru%29_-_2017_logo.png" group-title="DEPORTES", Movistar Deportes
-http://bit.ly/2xs1hWc
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826171057505705985/pbyyP8Tz_400x400.jpg" group-title="DEPORTES", Mundo Auto 
-https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
-#EXTINF:-1 tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/25229/240/default.jpg" group-title="DEPORTES", NBA
-http://bit.ly/2zJK2Al
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9095.png" group-title="DEPORTES", NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yCEXwQgArD8/VqpC50OgSaI/AAAAAAAAAMw/rCuOnftELJ4/s1600/omansportstv.png" group-title="DEPORTES", Oman Sports
-http://38.96.148.30:1935/live/omantv2//playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png" group-title="DEPORTES", Pac 12 Arizona
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png" group-title="DEPORTES", Pac 12 Bay Area
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-losangeles-logo.png" group-title="DEPORTES", Pac 12 Los Angeles
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-mountain-logo.png" group-title="DEPORTES", Pac 12 Mountain
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-oregon-logo.png" group-title="DEPORTES", Pac 12 Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png" group-title="DEPORTES", Pac 12 Washington
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UVADCY9JfY0/VpP8gE0QVHI/AAAAAAAABT8/EjLn7BsvXtk/s1600/rmtv.png" group-title="DEPORTES", Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://i2.irishmirror.ie/incoming/article8354748.ece/ALTERNATES/s1200/setanta-sports.png" group-title="DEPORTES", Setanta Sports
-http://195.158.29.129/live1_360/live.stream_360p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="DEPORTES", Sporting Tv HD
-http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsnet.com.tr/img/logo_sportstv_large.png" group-title="DEPORTES", SportsTV
-http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title="DEPORTES", Todo Deportes 
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
-#EXTINF:-1 tvg-logo="http://media.ufc.tv//logos/UFCN-LOGO-OFICIAL.jpg" group-title="DEPORTES", UFC NETWORK
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ENTRETENIMIENTO=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/eae5/f/2010/175/a/7/arab_tv_logo_by_amirsakr.jpg" group-title="ENTRETENIMIENTO", Arab Tv 
-http://149.56.17.92:1935/8404/8404/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Asahi_logo.svg/2000px-Asahi_logo.svg.png" group-title="ENTRETENIMIENTO", Asahi
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="ENTRETENIMIENTO", Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 tvg-logo="http://publications.mcgill.ca/reporter/files/2016/02/LogoCanalSavoir09_Blanc.jpg" group-title="ENTRETENIMIENTO", Canal Savoir 
-http://stream.canalsavoir.tv/livestream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://lpz.cine-plus.de/online/img/logo_cp.jpg" group-title="ENTRETENIMIENTO", CINE +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2014/07/cinecanal.jpg" group-title="ENTRETENIMIENTO", Cinecanal
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_La_Francophonie.svg/2000px-Flag_of_La_Francophonie.svg.png" group-title="ENTRETENIMIENTO", Francophonie 24
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-logo=”http://europeanjournalists.org/wp-content/uploads/2015/02/deutsche_welle_radio1.png” group-title="ENTRETENIMIENTO", Deutsche Welle Latinoamérica
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/estrellas.png" group-title="ENTRETENIMIENTO", Las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/NEXTV_PERU_LOGOBETA.png" group-title="ENTRETENIMIENTO", NexTV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
-#EXTINF:-1 tvg-logo=”http://www.donna10.it/wp-content/uploads/2012/12/rai_premium.png” group-title="ENTRETENIMIENTO", RAI Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png" group-title="ENTRETENIMIENTO", RCN Colombia
-http://bit.ly/2wycfx1
-#EXTINF:-1 tvg-logo="http://latvianfashion.com/wp-content/uploads/2016/10/rigatv24_logo-300x207.jpg", group-title="ENTRETENIMIENTO", 24 Riga TV
-http://player.tvnet.lv/live/amlst:11/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cimgus.com/images/SinoVision.jpg" group-title="ENTRETENIMIENTO", SinoVision 
-http://ec.sinovision.net/video/ts/lv.m3u8
-#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple117/v4/15/84/cc/1584cc7e-3d95-1902-9c5c-fa7690531f6f/source/1200x630bb.jpg" group-title="ENTRETENIMIENTO", TELEMUNDO 51 HD
-http://bit.ly/2goyue8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tele_Pavia.jpg" group-title="ENTRETENIMIENTO", TelePAVIA
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="ENTRETENIMIENTO", TV5Monde Latino
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/unimas-logo-BB80394EED-seeklogo.com.png" group-title="ENTRETENIMIENTO", Unimas
-http://bit.ly/2zauQQy
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="ENTRETENIMIENTO", Univision
-http://bit.ly/2zSTthY
-#EXTINF:-1 tvg-logo="https://assets.marcusapps.com/files/outlets/safehouse-chicago/interior-shots/SH-CHI-resized/Logos-Media-Page/_SH_AD_458x312_WGN_TV.jpg" group-title="ENTRETENIMIENTO", WGN Chicago
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.tafimedia.com/tafiimage/70.png" group-title="ENTRETENIMIENTO", World Fashion
-http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =INFANTIL=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 tvg-logo="http://www.movilescolombia.com/wp-content/uploads/2013/08/Los-Simpson-Trivia-portada.jpg" group-title="INFANTIL", 24/7 Los Simpson
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="INFANTIL", Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple118/v4/a9/91/f0/a991f036-a8e0-466d-ad64-32b0b6b49fd3/source/1200x630bb.jpg" group-title="INFANTIL", BabyTV 
-http://bit.ly/2yQ0PCF
-#EXTINF:-1 tvg-logo="http://cdn1.thr.com/sites/default/files/2014/05/disney_channel_logo_a_l.jpg" group-title="INFANTIL", Disney Channel
-http://bit.ly/2yObeB2
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u431ZzS1HjU/maxresdefault.jpg" group-title="INFANTIL", Disney XD 
-http://bit.ly/2y7lRzq
-#EXTINF:-1 tvg-logo="http://i0.kym-cdn.com/photos/images/facebook/001/099/192/fb9.png" group-title="INFANTIL", Nickelodeon
-http://bit.ly/2i6l8nt
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.Pakapaka.png.ba9d96b062e156785cdca952119573fa.png" group-title="INFANTIL", Paka Paka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/88/a7/a8/88a7a88649006d00e51f0d3545752b86.png" group-title="INFANTIL", Retro Cartoon 
-http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =MUSICA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 tvg-logo="http://d701vexhkz032.cloudfront.net/bundles/front/media/images/submenu/family/mcplaycl.png" group-title="MUSICA", MC Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-qfJfjGjelOg/VRyOzuz2Z2I/AAAAAAAABdo/VvVRbP1lDBs/s1600/melody-channel-tv.jpg" group-title="MUSICA", Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSICA", Music Choice 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.isshingroup.com/wp-content/uploads/2016/08/jpop.jpg" group-title="MUSICA", Music Japan
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://impresalavoro.org/wp-content/uploads/2016/06/RMC.jpg" group-title="MUSICA", Rádio Monte Carlo TV
-http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvnewscheck.com/marketshare/wp-content/uploads/2017/07/logo.png" group-title="MUSICA", RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-P6p7967q0RM/U5k_TMCDSfI/AAAAAAAADqY/iWxoySn9wHk/s1600/TELEMUSICA.jpg" group-title="MUSICA", Telemúsica
-http://186.155.200.118:1935/live/telemusica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://uno1one.files.wordpress.com/2009/07/teleritmo-logo2.jpg" group-title="MUSICA", Teleritmo
-http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
-#EXTINF:-1 tvg-logo="https://img.webme.com/pic/f/fullradios/radio.toplatino.logo.png" group-title="MUSICA", Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/VIBEE.png" group-title="MUSICA", Vibee
-http://46.101.21.42:8081/live/live2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://store.virginmedia.com/content/dam/eSales/corporate/Virgin_TV_Shaded_Red_RGB.png" group-title="MUSICA", Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =NOTICIAS=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 tvg-logo="https://www.smartmicrooptics.com/wp-content/uploads/2016/05/ABC_News.jpg" group-title="NOTICIAS", ABC News
-http://abclive.abcNEWS.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" group-title="NOTICIAS", Al Jazeera 
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:-1 tvg-logo="http://channels.roku.com/images/5346d0e5f93f4b839e7cabdd709b2b9a-hd.jpg" group-title="NOTICIAS", CBS News
-http://cbsNEWShd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814728645637849088/liai3Jbz.jpg" group-title="NOTICIAS", CGTN Español 
-http://live.cgtn.com/cctv-e.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/848009134784081920/6Qx-Z9o0.jpg" group-title="NOTICIAS", CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1613540835/2692806976_fd7ec89a46_400x400.png" group-title="NOTICIAS", DD News
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.lbn.lk/images/channel-logo/1455641377France_24.png" group-title="NOTICIAS", France24
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="http://www.bitsrojiverdes.org/wordpress/wp-content/uploads/2015/09/bf4fdb071074690f5850da2664e30e17.jpg" group-title="NOTICIAS", HispanTV
-http://178.32.255.199:1935/live/hispantv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://video.toggle.sg/image/5166822/16x9/947/533/537008fc7e5d07098bee94c3fa9ef241/kw/channel-newsasia.png" group-title="NOTICIAS", News Asia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1 tvg-logo="http://is3.mzstatic.com/image/thumb/Purple117/v4/e0/fd/87/e0fd8786-e4d1-ebbb-b29f-9b966e0a5e14/source/1200x630bb.jpg" group-title="NOTICIAS", Rai News 24
-http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.alertamundial.com/wp-content/uploads/2015/04/RT-en-Español.jpg" group-title="NOTICIAS", Rusia Today en Español
-http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="NOTICIAS", RT en inglés
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/04/weather-channel-logo1.jpg" group-title="NOTICIAS", The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg" group-title="NOTICIAS", TVE 24H
-http://bit.ly/2yN3oHV
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ARGENTINA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="ARGENTINA", Canal 4 Jujuy
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA", 13 Max Digital
-http://www.coninfo.net:1935/13max/live/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA", Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 group-title="ARGENTINA", CANAL 7 - CHUBUT
-http://01.solumedia.com.ar:1935/c7/myStream/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA", Encuentro
-http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
-#EXTINF:-1 group-title="ARGENTINA", CPETV - LA PAMPA
-http://live-19.viewer.dacast.com/i/dclive_1@336785/master.m3u8
-#EXTINF:-1 group-title="ARGENTINA", Canal 24/7 NEUQUEN - NOTICIAS
-http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8
-#EXTINF:-1 group-title="ARGENTINA", Power HD
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA", Telpin
-http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA", TDC
-http://painel.serveron.com.br:1935/8166/8166/live.m3u8
-#EXTINF:-1 group-title="ARGENTINA", TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 group-title="ARGENTINA", UNICANAL 
-http://strm.unicanal.com.py/live/unicanal_mid.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =BOLIVIA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="BOLIVIA", Radio TV Popular
-http://fourcast.tv/hls/800.m3u8
-#EXTINF:-1 group-title="BOLIVIA", Red PAT
-http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =BRASIL=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="BRASIL", Agro Canal
-http://live.sba1.com/hls-live/liveac/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="BRASIL", Canal do Boi
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="BRASIL", Classique TV
-http://45.43.208.2:1935/classique/classique/live.m3u8
-#EXTINF:-1 group-title="BRASIL", Livre TV
-http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL", Novo Canal
-http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?
-#EXTINF:-1 group-title="BRASIL", Rede Brasil
-http://173.236.10.10:1935/rbtv/rbtv/livestream.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Aperipê
-http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Assembleia SP
-http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Brasil
-http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Câmara
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?
-#EXTINF:-1 group-title="BRASIL", TV Cidade (Pelotas)
-http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Cultura Recife
-http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?
-#EXTINF:-1 group-title="BRASIL", TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Gazeta
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Geral
-http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Guara
-http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
-#EXTINF:-1 group-title="BRASIL", TV Itararé
-http://177.73.84.49/hls/live/live.m3u8
-#EXTINF:-1 group-title="BRASIL", TVE Bahia
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 group-title="BRASIL", TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1 group-title="BRASIL", UCSTV
-http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
-#EXTINF:-1 group-title="BRASIL", Via Morena
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =CHILE=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="CHILE", Arica Tv
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w1256972144_b848000.m3u8
-#EXTINF:-1 group-title="CHILE", Canal 9 Bío Bío 
-http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8 
-#EXTINF:-1 group-title="CHILE", Canal 22
-http://canal22santiago.cl/playlist.m3u8
-#EXTINF:-1 group-title="CHILE", Canal 38 Carnaval 
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8 
-#EXTINF:-1 group-title="CHILE", Carolina TV
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="CHILE", ITV Patagonia 
-http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/playlist.m3u8
-#EXTINF:-1 group-title="CHILE", Niu TV 
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8 
-#EXTINF:-1 group-title="CHILE", Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-#EXTINF:-1 group-title="CHILE", Televida HD 
-http://unlimited5-cl.dps.live/tlvida/tlvida.smil/tlvida/livestream1/chunks.m3u8 
-#EXTINF:-1 group-title="CHILE", UesTV 
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8 
-#EXTINF:-1 group-title="CHILE", VTV Aconcagua 
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8 
-#EXTINF:-1 group-title="CHILE", VTV Viña del Mar 
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8 
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =COLOMBIA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="COLOMBIA", Canal Tro
-http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
-#EXTINF:-1 group-title="COLOMBIA", 12CTV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0022&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="COLOMBIA", 49 TV 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0013&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="COLOMBIA", Cable Noticias 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0001&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="COLOMBIA", Canal Capital 2 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="COLOMBIA", CristovisiOn 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0004&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="COLOMBIA", Teleantioquia 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA", Teleamiga 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0012&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="COLOMBIA", Tele Caribe HD
-http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="COLOMBIA", Telemedellin 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0024&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="COLOMBIA", Trendy Tv
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =COSTA RICA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="COSTA RICA", HBTV Ticavision
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA", SINART 13 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICR0008&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES-CRICA.png
-#EXTINF:-1 group-title="COSTA RICA", SMO Tv
-http://199.217.118.90:1935/smotv/stream/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA", Telered
-http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA", TeleUno TV
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =CUBA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="CUBA", TV Martí 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICU0001&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES--CUBA.png
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ECUADOR=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="ECUADOR", Ecuador Tv
-http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
-#EXTINF:-1 group-title="ECUADOR", Oromar 
-http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 group-title="ECUADOR", Orovision
-http://bit.ly/2yO7Fec
-#EXTINF:-1 group-title="ECUADOR", TC 
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:-1 group-title="ECUADOR", TVS
-http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
-#EXTINF:-1 group-title="ECUADOR", Unsin TV 25
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVEC0007&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESECUADO.png
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =EL SALVADOR=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="EL SALVADOR", Canal 10 
-http://198.24.135.42/canal10/canal10/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir" group-title="LOCALES",[COLOR YELLOW] [/COLOR] =ESPAÑA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="ESPAÑA", 324
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA", Antena 3 
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA", Aragon Tv
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1 group-title="ESPAÑA", Barometro 8
-http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
-#EXTINF:-1 group-title="ESPAÑA", Castilla-La Mancha
-http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
-#EXTINF:-1 group-title="ESPAÑA", Correo TV
-http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
-#EXTINF:-1 group-title="ESPAÑA", EL DÍA TV España
-http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
-#EXTINF:-1 group-title="ESPAÑA", EXTREMADURA TV
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:-1 group-title="ESPAÑA", HuelvaTv
-http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
-#EXTINF:-1 group-title="ESPAÑA", IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:-1 group-title="ESPAÑA", La Sexta 
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="ESPAÑA", Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 group-title="ESPAÑA", LEVANTE TV
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA", Navarra Televisión
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1 group-title="ESPAÑA", Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ESPAÑA", Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ESPAÑA", ONDA AZUL MALAGA
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA", RTPA Radiotelevisión del Principado de Asturias
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1 group-title="ESPAÑA", TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-#EXTINF:-1 group-title="ESPAÑA", TV GALICIA
-http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =GUATEMALA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="GUATEMALA", RTV Rhema 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIGT0003&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESGUATEM.png
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =HONDURAS=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="HONDURAS", AZ HONDURAS
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =MEXICO=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="MEXICO", Aristegui NOTICIAS
-https://vod.livestream.com/events/00000000006147c6/42a5ebd3-9d01-4ab5-ba7b-f6b01afb7752_1756.m3u8?token=0_595a9bd5_aa2ebcad66b28c4fc4b122ab115e3d6b5bd98b3e&start=106&end=14498
-#EXTINF:-1 group-title="MEXICO", Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1 group-title="MEXICO", Canal 4 Monclova
-http://192.163.250.253:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", Efekto Tv SD
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:-1 group-title="MEXICO", Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?www.tecnotv.info?/MartinRTNEWS.m3u8
-#EXTINF:-1 group-title="MEXICO", Gala TV (YU)
-http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
-#EXTINF:-1 group-title="MEXICO", Multimedios HD (NL)
-http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486350658770
-#EXTINF:-1 group-title="MEXICO", Once TV
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", RCG 1 TV (CA)
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", RCG 2 TV (CA)
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", RCG 3 TV (CA)
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", RTQ (QE)
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 group-title="MEXICO", TDT (TL)
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", TV Acapulco
-http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", TV CANCUN
-http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO", TVMas Veracruz
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u
-#EXTINF:-1 group-title="MEXICO", TVP CULIACÁN 
-http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="MEXICO", TVP YAQUI TV
-http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =NICARAGUA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="NICARAGUA", TVN Nicaragua
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =PANAMA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="PANAMA", RPC 
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =PARAGUAY=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="PARAGUAY", Unicanal
-http://strm.unicanal.com.py/live/unicanal_mid.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =PERU=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="PERU", Antares TV
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 group-title="PERU", Capital 27
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="PERU", CTC TV Cusco HD
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
-#EXTINF:-1 group-title="PERU", Ipe 16
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES--PERU.png
-#EXTINF:-1 group-title="PERU", Mega tv Arequipa
-http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
-#EXTINF:-1 group-title="PERU", Noticias 16
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES--PERU.png
-#EXTINF:-1 group-title="PERU", RBC Perú
-http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
-#EXTINF:-1 group-title="PERU", Sol TV Trujillo
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-#EXTINF:-1 group-title="PERU", Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-#EXTINF:-1 group-title="PERU", TV PERU HD
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 group-title="PERU", TVS Satelital
-http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
-#EXTINF:-1 group-title="PERU", Willax TV HD
-http://m.mediastream.pe/vv_willax/livestream/master.m3u8 
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =PUERTO RICO=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="PUERTO RICO", PRTV 43
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVPR0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES-PRICO.png
-#EXTINF:-1 group-title="PUERTO RICO", Wapa
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =REPUBLICA DOMINICANA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", CANAL 25 
-http://qs1.distream.net:2126/c25_str/canal25/chunklist_w944520119.m3u8
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Canal America
-http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", CDN 37
-http://bit.ly/2uONqag
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Digital 15 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", MICROVISION CANAL 10 
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", PERAVIA VISION 
-http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Telemicro 5
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Telenord 8 TV 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Telenord 10 TV 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0027&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Telenord 12 TV 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Telenord 14 TV 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Telesistema 11 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0009&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", YUNAVISION
-http://ss9.domint.net:1986/yv_str/yuna/chunklist_w2142669924.m3u8
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", Teleradio América
-http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =URUGUAY=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="URUGUAY", Unicanal
-http://strm.unicanal.com.py/live/unicanal.m3u8
-#EXTINF:-1 group-title="URUGUAY", VTV
-http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =VENEZUELA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 group-title="VENEZUELA", TeleSUR 31
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="VENEZUELA", TvES
-http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
-#EXTINF:-1 group-title="VENEZUELA", TVO
-http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,ES:/Canal Decasa
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10673.ts
+#EXTINF:-1,ES:0Spain
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10728.ts
+#EXTINF:-1,ES:A3 Series
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10680.ts
+#EXTINF:-1,ES:Aande
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10703.ts
+#EXTINF:-1,ES:AMC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10702.ts
+#EXTINF:-1,ES:Antena 3 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10732.ts
+#EXTINF:-1,ES:Aragon TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10727.ts
+#EXTINF:-1,ES:AXN
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10723.ts
+#EXTINF:-1,ES:AXN White
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10722.ts
+#EXTINF:-1,ES:Baby TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10665.ts
+#EXTINF:-1,ES:Barca TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10691.ts
+#EXTINF:-1,ES:Bein Laliga 1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10694.ts
+#EXTINF:-1,ES:Bein Laliga 2 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10693.ts
+#EXTINF:-1,ES:Bein Laliga HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10695.ts
+#EXTINF:-1,ES:Bein Max1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10697.ts
+#EXTINF:-1,ES:Bein Max2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10696.ts
+#EXTINF:-1,ES:Beins Ports HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10698.ts
+#EXTINF:-1,ES:Boing
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10664.ts
+#EXTINF:-1,ES:Calle 13
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10721.ts
+#EXTINF:-1,ES:Canal 24Horas
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10735.ts
+#EXTINF:-1,ES:Canal Cocina
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10709.ts
+#EXTINF:-1,ES:Canal Hollywood
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10715.ts
+#EXTINF:-1,ES:Canal Panda
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10666.ts
+#EXTINF:-1,ES:Canal Sura
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10707.ts
+#EXTINF:-1,ES:Caza y Pesca HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10675.ts
+#EXTINF:-1,ES:Clan TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10669.ts
+#EXTINF:-1,ES:Classica
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10726.ts
+#EXTINF:-1,ES:Comedi Central
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10701.ts
+#EXTINF:-1,ES:Cosmo HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10699.ts
+#EXTINF:-1,ES:Cuatro HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10731.ts
+#EXTINF:-1,ES:Disney Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10668.ts
+#EXTINF:-1,ES:Disney JR
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10714.ts
+#EXTINF:-1,ES:Disney XD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10712.ts
+#EXTINF:-1,ES:Divinity
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10663.ts
+#EXTINF:-1,ES:Energy
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10672.ts
+#EXTINF:-1,ES:Eurosport 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10684.ts
+#EXTINF:-1,ES:Eurosport 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10683.ts
+#EXTINF:-1,ES:FDF
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10670.ts
+#EXTINF:-1,ES:FOX
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10705.ts
+#EXTINF:-1,ES:FOX Life
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10704.ts
+#EXTINF:-1,ES:Gol
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10682.ts
+#EXTINF:-1,ES:HIT TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10677.ts
+#EXTINF:-1,ES:La1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10734.ts
+#EXTINF:-1,ES:Lasexta HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10729.ts
+#EXTINF:-1,ES:M Formula1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10688.ts
+#EXTINF:-1,ES:M Futbol
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10700.ts
+#EXTINF:-1,ES:M Golf HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10686.ts
+#EXTINF:-1,ES:M Motogp HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10687.ts
+#EXTINF:-1,ES:M Partidazo HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10710.ts
+#EXTINF:-1,ES:maccion
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10718.ts
+#EXTINF:-1,ES:Mco Media
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10717.ts
+#EXTINF:-1,ES:Mdcine
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10716.ts
+#EXTINF:-1,ES:Mdep 1 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10690.ts
+#EXTINF:-1,ES:Mdep 2 HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10689.ts
+#EXTINF:-1,ES:Mestrenso HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10720.ts
+#EXTINF:-1,ES:Mseri Esxtra HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10724.ts
+#EXTINF:-1,ES:Mseries
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10725.ts
+#EXTINF:-1,ES:MTV Espana
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10661.ts
+#EXTINF:-1,ES:Mxtra
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10719.ts
+#EXTINF:-1,ES:NAT GEO
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10679.ts
+#EXTINF:-1,ES:NAT Wild
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10678.ts
+#EXTINF:-1,ES:Neox
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10662.ts
+#EXTINF:-1,ES:Nickelodeon
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10667.ts
+#EXTINF:-1,ES:Nova
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10671.ts
+#EXTINF:-1,ES:Odisea
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10676.ts
+#EXTINF:-1,ES:Paramount
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10713.ts
+#EXTINF:-1,ES:Realmadrid TV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10692.ts
+#EXTINF:-1,ES:SyFy HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10711.ts
+#EXTINF:-1,ES:TCM
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10706.ts
+#EXTINF:-1,ES:Tele Cinco HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10730.ts
+#EXTINF:-1,ES:Teledeporte
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10681.ts
+#EXTINF:-1,ES:TNT
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10708.ts
+#EXTINF:-1,ES:Toros TV HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10685.ts
+#EXTINF:-1,ES:TV Ela2madrid
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10733.ts
+#EXTINF:-1,ES:Viajar HD
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/10674.ts
+#EXTINF:-1,SP: La 1 HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7709.ts
+#EXTINF:-1,SP: La 2
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7708.ts
+#EXTINF:-1,SP: Antena 3 HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7707.ts
+#EXTINF:-1,SP: Cuatro HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7706.ts
+#EXTINF:-1,SP: Telecinco HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7705.ts
+#EXTINF:-1,SP: La Sexta HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7704.ts
+#EXTINF:-1,SP: 24 Horas
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7703.ts
+#EXTINF:-1,SP: Movistar Acction HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7702.ts
+#EXTINF:-1,SP: M. ACCI©N HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7701.ts
+#EXTINF:-1,SP: Movistar Cine Espanol
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7700.ts
+#EXTINF:-1,SP: Movistar Comedia HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7699.ts
+#EXTINF:-1,SP: Movistar Dcine HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7698.ts
+#EXTINF:-1,SP: M. DCINE HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7697.ts
+#EXTINF:-1,SP: Movistar Estrenos
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7696.ts
+#EXTINF:-1,SP: Movistar Extra
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7695.ts
+#EXTINF:-1,SP: Movistar Moto GP HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7694.ts
+#EXTINF:-1,SP: Movistar Series Extra HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7693.ts
+#EXTINF:-1,SP: Movistar Deporte HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7692.ts
+#EXTINF:-1,SP: Movistar Deporte 2
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7691.ts
+#EXTINF:-1,SP: Movistar Futbol HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7690.ts
+#EXTINF:-1,SP: M. F.TBOL HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7689.ts
+#EXTINF:-1,SP: Movistar Partidazo HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7688.ts
+#EXTINF:-1,SP: Movistar Series HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7687.ts
+#EXTINF:-1,SP: M. SeriesXtraHD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7686.ts
+#EXTINF:-1,SP: M. GOLF HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7685.ts
+#EXTINF:-1,SP: La Liga HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7684.ts
+#EXTINF:-1,SP: BEIN SPORTS
+http://www.sansat.net:25461/live/02023507443886/02023507443886/8831.ts
+#EXTINF:-1,SP: Bein La Liga HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7683.ts
+#EXTINF:-1,SP: Euro Sport 1 HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7682.ts
+#EXTINF:-1,SP: Euro Sport 2
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7681.ts
+#EXTINF:-1,SP: Gol
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7680.ts
+#EXTINF:-1,SP: Golf HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7679.ts
+#EXTINF:-1,SP: Barca TV
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7678.ts
+#EXTINF:-1,SP: Real Madrid TV
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7677.ts
+#EXTINF:-1,SP: Tele Deporte
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7676.ts
+#EXTINF:-1,SP: A&E
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7675.ts
+#EXTINF:-1,SP: Amc HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7674.ts
+#EXTINF:-1,SP: Aragon TV
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7673.ts
+#EXTINF:-1,SP: Axn HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7672.ts
+#EXTINF:-1,SP: AXN White
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7671.ts
+#EXTINF:-1,SP: Calle 13 HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7670.ts
+#EXTINF:-1,SP: Canal Cocina
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7669.ts
+#EXTINF:-1,SP: Canal Panda
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7668.ts
+#EXTINF:-1,SP: Canal Sur
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7667.ts
+#EXTINF:-1,SP: Clan
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7666.ts
+#EXTINF:-1,SP: Classica
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7665.ts
+#EXTINF:-1,SP: Comedy Central HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7664.ts
+#EXTINF:-1,SP: Cosmo HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7663.ts
+#EXTINF:-1,COSMO HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7662.ts
+#EXTINF:-1,SP: Crimen
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7661.ts
+#EXTINF:-1,SP: Discovery
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7660.ts
+#EXTINF:-1,SP: Disney HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7659.ts
+#EXTINF:-1,SP: Disney Junior
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7658.ts
+#EXTINF:-1,SP: Disney XD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7657.ts
+#EXTINF:-1,SP: Nickelodeon HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7656.ts
+#EXTINF:-1,SP: Divinity
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7655.ts
+#EXTINF:-1,SP: Energy
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7654.ts
+#EXTINF:-1,SP: FDF
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7653.ts
+#EXTINF:-1,SP: Fox HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7652.ts
+#EXTINF:-1,SP: FOX LIFE HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7651.ts
+#EXTINF:-1,SP: Historia
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7650.ts
+#EXTINF:-1,SP: HOLLYWOOD HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7649.ts
+#EXTINF:-1,SP: Iberalia
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7648.ts
+#EXTINF:-1,SP: Mtv Espana
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7647.ts
+#EXTINF:-1,SP: Mtv Rocks
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7646.ts
+#EXTINF:-1,SP: Neox
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7645.ts
+#EXTINF:-1,SP: Ngc HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7644.ts
+#EXTINF:-1,SP: Ngc Wild HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7643.ts
+#EXTINF:-1,SP: Non Stop People
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7642.ts
+#EXTINF:-1,SP: Nova
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7641.ts
+#EXTINF:-1,SP: Paramount Channel
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7640.ts
+#EXTINF:-1,SP: Syfy
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7638.ts
+#EXTINF:-1,SP: Tcm HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7637.ts
+#EXTINF:-1,SP: TNT HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7636.ts
+#EXTINF:-1,SP: Toros TV HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7635.ts
+#EXTINF:-1,SP: Viajar
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7634.ts
+#EXTINF:-1,SP: zero HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/7633.ts
+#EXTINF:-1,ES | #0 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4704.ts
+#EXTINF:-1,ES | 24 Horas
+http://cloudiptv.cf/live/Katrina1/Katrina1/4697.ts
+#EXTINF:-1,ES | 40 TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4696.ts
+#EXTINF:-1,ES | A&E
+http://cloudiptv.cf/live/Katrina1/Katrina1/4705.ts
+#EXTINF:-1,ES | AMC
+http://cloudiptv.cf/live/Katrina1/Katrina1/4706.ts
+#EXTINF:-1,ES | ANTENA 3 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4730.ts
+#EXTINF:-1,ES | AXN HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4707.ts
+#EXTINF:-1,ES | AXN WHITE HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4731.ts
+#EXTINF:-1,ES | BARCA TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4695.ts
+#EXTINF:-1,ES | beIN LaLIga 1 (event only)
+http://cloudiptv.cf/live/Katrina1/Katrina1/4703.ts
+#EXTINF:-1,ES | beIN LaLIga 2 (event only)
+http://cloudiptv.cf/live/Katrina1/Katrina1/4702.ts
+#EXTINF:-1,ES | beIN LaLIga 3 (event only)
+http://cloudiptv.cf/live/Katrina1/Katrina1/4701.ts
+#EXTINF:-1,ES | Bein Liga HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4708.ts
+#EXTINF:-1,ES | Bein Sport HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4709.ts
+#EXTINF:-1,ES | Bein Sports HD ( 1080P )
+http://cloudiptv.cf/live/Katrina1/Katrina1/4692.ts
+#EXTINF:-1,ES | Boing
+http://cloudiptv.cf/live/Katrina1/Katrina1/4710.ts
+#EXTINF:-1,ES | CALLE 13 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4732.ts
+#EXTINF:-1,ES | CANAL  ACTION HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4733.ts
+#EXTINF:-1,ES | Canal  COMEDIA HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4734.ts
+#EXTINF:-1,ES | Canal  DCINE HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4735.ts
+#EXTINF:-1,ES | Canal  DEPORTES 2 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4736.ts
+#EXTINF:-1,ES | Canal  DEPORTES HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4737.ts
+#EXTINF:-1,ES | Canal  ESTRENOS HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4738.ts
+#EXTINF:-1,ES | Canal  FUTBOL HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4739.ts
+#EXTINF:-1,ES | Canal  GOLF HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4740.ts
+#EXTINF:-1,ES | Canal  LIGA 2 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4741.ts
+#EXTINF:-1,ES | Canal  LIGA HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4742.ts
+#EXTINF:-1,ES | Canal  SERIES XTRA HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4743.ts
+#EXTINF:-1,ES | Canal  TOROS HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4744.ts
+#EXTINF:-1,ES | Canal  XTRA HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4745.ts
+#EXTINF:-1,ES | CANAL COCINA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4711.ts
+#EXTINF:-1,ES | Canal De Las Estrellas
+http://cloudiptv.cf/live/Katrina1/Katrina1/4691.ts
+#EXTINF:-1,ES | CANAL DECASA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4712.ts
+#EXTINF:-1,ES | Canal SERIES HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4713.ts
+#EXTINF:-1,ES | Caza y pesca
+http://cloudiptv.cf/live/Katrina1/Katrina1/4714.ts
+#EXTINF:-1,ES | Clan Tve
+http://cloudiptv.cf/live/Katrina1/Katrina1/4715.ts
+#EXTINF:-1,ES | COMEDY CENTRAL HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4694.ts
+#EXTINF:-1,ES | COSMO HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4716.ts
+#EXTINF:-1,ES | Crimen Investigation
+http://cloudiptv.cf/live/Katrina1/Katrina1/4689.ts
+#EXTINF:-1,ES | CUATRO HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4746.ts
+#EXTINF:-1,ES | DISCOVERY
+http://cloudiptv.cf/live/Katrina1/Katrina1/4748.ts
+#EXTINF:-1,ES | DISCOVERY CHANNEL HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4747.ts
+#EXTINF:-1,ES | DISNEY CHANNEL HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4749.ts
+#EXTINF:-1,ES | DISNEY JUNIOR
+http://cloudiptv.cf/live/Katrina1/Katrina1/4750.ts
+#EXTINF:-1,ES | DISNEY XD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4751.ts
+#EXTINF:-1,ES | DIVINITY
+http://cloudiptv.cf/live/Katrina1/Katrina1/4717.ts
+#EXTINF:-1,ES | Energy
+http://cloudiptv.cf/live/Katrina1/Katrina1/4700.ts
+#EXTINF:-1,ES | EUROSPORT 1
+http://cloudiptv.cf/live/Katrina1/Katrina1/4699.ts
+#EXTINF:-1,ES | EUROSPORT 2
+http://cloudiptv.cf/live/Katrina1/Katrina1/4698.ts
+#EXTINF:-1,ES | FDF
+http://cloudiptv.cf/live/Katrina1/Katrina1/4718.ts
+#EXTINF:-1,ES | FOX HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4752.ts
+#EXTINF:-1,ES | FOX LIFE HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4753.ts
+#EXTINF:-1,ES | GOL Tv
+http://cloudiptv.cf/live/Katrina1/Katrina1/4719.ts
+#EXTINF:-1,ES | HISTORIA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4754.ts
+#EXTINF:-1,ES | HOLLYWOOD HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4755.ts
+#EXTINF:-1,ES | IBERALIA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4720.ts
+#EXTINF:-1,ES | LA 1 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4756.ts
+#EXTINF:-1,ES | LA 2 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4721.ts
+#EXTINF:-1,ES | La Liga BAR HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4722.ts
+#EXTINF:-1,ES | LA SEXTA HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4757.ts
+#EXTINF:-1,ES | MEGA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4758.ts
+#EXTINF:-1,ES | MOVISTAR F1 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4684.ts
+#EXTINF:-1,ES | MOVISTAR FORMULA 1
+http://cloudiptv.cf/live/Katrina1/Katrina1/4685.ts
+#EXTINF:-1,ES | movistar Futbol
+http://cloudiptv.cf/live/Katrina1/Katrina1/4686.ts
+#EXTINF:-1,ES | MOVISTAR MOTOGP
+http://cloudiptv.cf/live/Katrina1/Katrina1/4687.ts
+#EXTINF:-1,ES | MTV ESPANA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4688.ts
+#EXTINF:-1,ES | NAT GEO WILD HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4759.ts
+#EXTINF:-1,ES | NATIONAL GEOGRAPHIC HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4760.ts
+#EXTINF:-1,ES | NEOX
+http://cloudiptv.cf/live/Katrina1/Katrina1/4723.ts
+#EXTINF:-1,ES | NICK Jr
+http://cloudiptv.cf/live/Katrina1/Katrina1/4761.ts
+#EXTINF:-1,ES | NICKELODEON HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4724.ts
+#EXTINF:-1,ES | Nonstop People
+http://cloudiptv.cf/live/Katrina1/Katrina1/4693.ts
+#EXTINF:-1,ES | NOVA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4725.ts
+#EXTINF:-1,ES | ODISEA HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4726.ts
+#EXTINF:-1,ES | PANDA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4727.ts
+#EXTINF:-1,ES | Paramount
+http://cloudiptv.cf/live/Katrina1/Katrina1/4690.ts
+#EXTINF:-1,ES | SYFY
+http://cloudiptv.cf/live/Katrina1/Katrina1/4728.ts
+#EXTINF:-1,ES | TCM HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4762.ts
+#EXTINF:-1,ES | TELECINCO HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4763.ts
+#EXTINF:-1,ES | TELEDEPORTE HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4764.ts
+#EXTINF:-1,ES | TNT
+http://cloudiptv.cf/live/Katrina1/Katrina1/4729.ts
+#EXTINF:-1,ES | VIAJAR HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4765.ts
+#EXTINF:-1,ES-AMC
+http://tv2iptv.com:8000/live/pierre/12345678/4662.ts
+#EXTINF:-1,ES-BOING
+http://tv2iptv.com:8000/live/pierre/12345678/4775.ts
+#EXTINF:-1,ES-HOLLYWOOD
+http://tv2iptv.com:8000/live/pierre/12345678/4772.ts
+#EXTINF:-1,ES-LA-1-HD
+http://tv2iptv.com:8000/live/pierre/12345678/4626.ts
+#EXTINF:-1,ES-LA-SEXTA
+http://tv2iptv.com:8000/live/pierre/12345678/4676.ts
+#EXTINF:-1,ES-LA1
+http://tv2iptv.com:8000/live/pierre/12345678/4617.ts
+#EXTINF:-1,ES-LA2
+http://tv2iptv.com:8000/live/pierre/12345678/4667.ts
+#EXTINF:-1,ES-MoviStar-COMEDIA-HD
+http://tv2iptv.com:8000/live/pierre/12345678/4589.ts
+#EXTINF:-1,ES-Movistar-DCINE
+http://tv2iptv.com:8000/live/pierre/12345678/4619.ts
+#EXTINF:-1,ES-Movistar-DEPORTES-2-HD
+http://tv2iptv.com:8000/live/pierre/12345678/4621.ts
+#EXTINF:-1,ES-Movistar-DEPORTES-HD
+http://tv2iptv.com:8000/live/pierre/12345678/4620.ts
+#EXTINF:-1,ES-MoviStar-F1
+http://tv2iptv.com:8000/live/pierre/12345678/4588.ts
+#EXTINF:-1,ES-Movistar-GOLF
+http://tv2iptv.com:8000/live/pierre/12345678/4628.ts
+#EXTINF:-1,ES-Movistar-plus-Accion-HD
+http://tv2iptv.com:8000/live/pierre/12345678/4598.ts
+#EXTINF:-1,ES-Movistar-plus-Futbol
+http://tv2iptv.com:8000/live/pierre/12345678/4600.ts
+#EXTINF:-1,ES-Movistar-plus-LIGA-HD
+http://tv2iptv.com:8000/live/pierre/12345678/4599.ts
+#EXTINF:-1,ES-Movistar-SERIES-HD
+http://tv2iptv.com:8000/live/pierre/12345678/4622.ts
+#EXTINF:-1,ES-Movistar-SERIES-XTRA-HD
+http://tv2iptv.com:8000/live/pierre/12345678/4623.ts
+#EXTINF:-1,ES-Movistar-Toros
+http://tv2iptv.com:8000/live/pierre/12345678/4627.ts
+#EXTINF:-1,ES-NAT-GEO-GRAPHIC
+http://tv2iptv.com:8000/live/pierre/12345678/4670.ts
+#EXTINF:-1,ES-NAT-GEO-WILD
+http://tv2iptv.com:8000/live/pierre/12345678/4669.ts
+#EXTINF:-1,ES-REAL-MADRID
+http://tv2iptv.com:8000/live/pierre/12345678/4773.ts
+#EXTINF:-1,ES-TAQUILLA-1
+http://tv2iptv.com:8000/live/pierre/12345678/4574.ts
+#EXTINF:-1,ES-TAQUILLA-10
+http://tv2iptv.com:8000/live/pierre/12345678/4666.ts
+#EXTINF:-1,ES-TAQUILLA-2
+http://tv2iptv.com:8000/live/pierre/12345678/4657.ts
+#EXTINF:-1,ES-TAQUILLA-3
+http://tv2iptv.com:8000/live/pierre/12345678/4575.ts
+#EXTINF:-1,ES-TAQUILLA-4
+http://tv2iptv.com:8000/live/pierre/12345678/4658.ts
+#EXTINF:-1,ES-TAQUILLA-5
+http://tv2iptv.com:8000/live/pierre/12345678/4659.ts
+#EXTINF:-1,ES-TAQUILLA-6
+http://tv2iptv.com:8000/live/pierre/12345678/4660.ts
+#EXTINF:-1,ES-TAQUILLA-7
+http://tv2iptv.com:8000/live/pierre/12345678/4663.ts
+#EXTINF:-1,ES-TAQUILLA-8
+http://tv2iptv.com:8000/live/pierre/12345678/4664.ts
+#EXTINF:-1,ES-TAQUILLA-9
+http://tv2iptv.com:8000/live/pierre/12345678/4665.ts
+#EXTINF:-1,ES:TELEDEPORTE
+http://tv2iptv.com:8000/live/pierre/12345678/3125.ts
+#EXTINF:-1,ES:TELECINCO
+http://tv2iptv.com:8000/live/pierre/12345678/3126.ts
+#EXTINF:-1,ES:TCM
+http://tv2iptv.com:8000/live/pierre/12345678/3127.ts
+#EXTINF:-1,ES:REAL_MADRID
+http://tv2iptv.com:8000/live/pierre/12345678/3128.ts
+#EXTINF:-1,ES:Paramount.Channel
+http://tv2iptv.com:8000/live/pierre/12345678/3129.ts
+#EXTINF:-1,ES:NOVA
+http://tv2iptv.com:8000/live/pierre/12345678/3130.ts
+#EXTINF:-1,ES:Movistar_Motogp
+http://tv2iptv.com:8000/live/pierre/12345678/3131.ts
+#EXTINF:-1,ES:LA_1_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3133.ts
+#EXTINF:-1,ES:HOLLYWOOD
+http://tv2iptv.com:8000/live/pierre/12345678/3134.ts
+#EXTINF:-1,ES:FDF
+http://tv2iptv.com:8000/live/pierre/12345678/3136.ts
+#EXTINF:-1,ES:DISNY_JUNIOR
+http://tv2iptv.com:8000/live/pierre/12345678/3137.ts
+#EXTINF:-1,ES:DISNEY_CH
+http://tv2iptv.com:8000/live/pierre/12345678/3138.ts
+#EXTINF:-1,ES:LALIGA
+http://tv2iptv.com:8000/live/pierre/12345678/3139.ts
+#EXTINF:-1,ES:Cuatro
+http://tv2iptv.com:8000/live/pierre/12345678/3140.ts
+#EXTINF:-1,ES:COMEDY_CENTRAL
+http://tv2iptv.com:8000/live/pierre/12345678/3141.ts
+#EXTINF:-1,ES:CLAN__TVE
+http://tv2iptv.com:8000/live/pierre/12345678/3142.ts
+#EXTINF:-1,ES:Caza.Y.PESca
+http://tv2iptv.com:8000/live/pierre/12345678/3143.ts
+#EXTINF:-1,ES:CASA&PESCA
+http://tv2iptv.com:8000/live/pierre/12345678/3144.ts
+#EXTINF:-1,ES:CANAL_SUR_ANDALUCIA
+http://tv2iptv.com:8000/live/pierre/12345678/3148.ts
+#EXTINF:-1,ES:Canal_GOLF
+http://tv2iptv.com:8000/live/pierre/12345678/3149.ts
+#EXTINF:-1,ES:CANAL_DCINE
+http://tv2iptv.com:8000/live/pierre/12345678/3152.ts
+#EXTINF:-1,ES:CALLE_13_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3155.ts
+#EXTINF:-1,ES:C _TOROS_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3156.ts
+#EXTINF:-1,ES:C _SERIES_XTRA_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3157.ts
+#EXTINF:-1,ES:C _SERIES_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3159.ts
+#EXTINF:-1,ES:C _LIGA_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3160.ts
+#EXTINF:-1,ES:C _FUTBOL_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3161.ts
+#EXTINF:-1,ES:C _ESTRENOS_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3162.ts
+#EXTINF:-1,ES:C _DEPORTES_1HD
+http://tv2iptv.com:8000/live/pierre/12345678/3163.ts
+#EXTINF:-1,ES:C _DEPORTES_2_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3164.ts
+#EXTINF:-1,ES:C _Dcine_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3165.ts
+#EXTINF:-1,ES:C _COMEDIA_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3166.ts
+#EXTINF:-1,ES:C _ACCION_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3167.ts
+#EXTINF:-1,ES:Bein_Sports_Espan_HD
+http://tv2iptv.com:8000/live/pierre/12345678/3168.ts
+#EXTINF:-1,ES:AXN_WHITE
+http://tv2iptv.com:8000/live/pierre/12345678/3169.ts
+#EXTINF:-1,ES:Axn
+http://tv2iptv.com:8000/live/pierre/12345678/3170.ts
+#EXTINF:-1,POR:Abola
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7938.ts
+#EXTINF:-1,POR:AMC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7951.ts
+#EXTINF:-1,POR:Canal Cinemundo
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7959.ts
+#EXTINF:-1,POR:Canal Hollywood
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7958.ts
+#EXTINF:-1,POR:Cancao Nova
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7942.ts
+#EXTINF:-1,POR:Cartoon Network
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7939.ts
+#EXTINF:-1,POR:Disney Channel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7940.ts
+#EXTINF:-1,POR:EuroSport1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7932.ts
+#EXTINF:-1,POR:Globo
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7960.ts
+#EXTINF:-1,POR:Motors
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7937.ts
+#EXTINF:-1,POR:MTV
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7950.ts
+#EXTINF:-1,POR:Odesseia
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7941.ts
+#EXTINF:-1,POR:Record News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7946.ts
+#EXTINF:-1,POR:RTP 1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7965.ts
+#EXTINF:-1,POR:RTP 2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7964.ts
+#EXTINF:-1,POR:RTP 3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7963.ts
+#EXTINF:-1,POR:RTP Acores
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7961.ts
+#EXTINF:-1,POR:RTP Madeira
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7962.ts
+#EXTINF:-1,POR:SIC
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7945.ts
+#EXTINF:-1,POR:SIC Kids
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7944.ts
+#EXTINF:-1,POR:SIC Noticias
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7943.ts
+#EXTINF:-1,POR:Sport TV1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7936.ts
+#EXTINF:-1,POR:Sport TV2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7935.ts
+#EXTINF:-1,POR:Sport TV3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7934.ts
+#EXTINF:-1,POR:Sport TV4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7933.ts
+#EXTINF:-1,POR:SyFy
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7952.ts
+#EXTINF:-1,POR:TV Cine1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7957.ts
+#EXTINF:-1,POR:TV Cine2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7956.ts
+#EXTINF:-1,POR:TV Cine3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7955.ts
+#EXTINF:-1,POR:TV Cine4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7954.ts
+#EXTINF:-1,POR:TV i24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7948.ts
+#EXTINF:-1,POR:TV Ificcao
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7949.ts
+#EXTINF:-1,POR:TV Record
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7947.ts
+#EXTINF:-1,POR:TV Serie
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7953.ts
+#EXTINF:-1,TV_Globo
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5651.ts
+#EXTINF:-1,Sic_Kids
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5652.ts
+#EXTINF:-1,Sic
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5653.ts
+#EXTINF:-1,Sic_Radical
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5654.ts
+#EXTINF:-1,Sic_Noticias
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5655.ts
+#EXTINF:-1,Sic_Mulher
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5656.ts
+#EXTINF:-1,Sic_Caras
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5657.ts
+#EXTINF:-1,National_Geographic
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5658.ts
+#EXTINF:-1,Travel_Channel_HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5659.ts
+#EXTINF:-1,Sporting_Tv_HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5660.ts
+#EXTINF:-1,Rtp_Africa
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5661.ts
+#EXTINF:-1,Rt_Global
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5662.ts
+#EXTINF:-1,Porto_Canal
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5663.ts
+#EXTINF:-1,Pfc
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5664.ts
+#EXTINF:-1,Mov_HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5665.ts
+#EXTINF:-1,Motorvision
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5666.ts
+#EXTINF:-1,Mcm_Top
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5667.ts
+#EXTINF:-1,Hollywood
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5668.ts
+#EXTINF:-1,Fuel_TV
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5669.ts
+#EXTINF:-1,Fox_Movies
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5670.ts
+#EXTINF:-1,Eurosport_2
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5671.ts
+#EXTINF:-1,Eurosport_1
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5672.ts
+#EXTINF:-1,Economico_TV
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5673.ts
+#EXTINF:-1,Cbs_Reality
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5674.ts
+#EXTINF:-1,Baby_TV
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5675.ts
+#EXTINF:-1,Abola_TV
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5676.ts
+#EXTINF:-1,A&E
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5677.ts
+#EXTINF:-1,24_Kitchen
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5678.ts
+#EXTINF:-1,Tv_Globo_Premium
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5679.ts
+#EXTINF:-1,Axn_Black
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5680.ts
+#EXTINF:-1,National_Geographic_Wild_HD
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5681.ts
+#EXTINF:-1,Tvi_24
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5682.ts
+#EXTINF:-1,Tvi
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5683.ts
+#EXTINF:-1,Tv_Sick
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5684.ts
+#EXTINF:-1,TV_Series
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5685.ts
+#EXTINF:-1,TV_Cine_4
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5686.ts
+#EXTINF:-1,TV_Cine_3
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5687.ts
+#EXTINF:-1,TV_Cine_2
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5688.ts
+#EXTINF:-1,TV_Cine_1
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5689.ts
+#EXTINF:-1,Tlc
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5690.ts
+#EXTINF:-1,Sport_TV_5
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5691.ts
+#EXTINF:-1,Sport_TV_4
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5692.ts
+#EXTINF:-1,Sport_TV_3
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5693.ts
+#EXTINF:-1,Sport_TV_2
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5694.ts
+#EXTINF:-1,Sport_TV_1
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5695.ts
+#EXTINF:-1,Rtp_3
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5696.ts
+#EXTINF:-1,Rtp_2
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5697.ts
+#EXTINF:-1,Rtp_1
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5698.ts
+#EXTINF:-1,Nickelodeon
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5699.ts
+#EXTINF:-1,Fox_Life
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5700.ts
+#EXTINF:-1,Fox_Crime
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5701.ts
+#EXTINF:-1,Fox_Comedy
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5702.ts
+#EXTINF:-1,Fox
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5703.ts
+#EXTINF:-1,E!_Entertainment
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5704.ts
+#EXTINF:-1,Disney_Channel
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5705.ts
+#EXTINF:-1,Discovery_Showcase
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5706.ts
+#EXTINF:-1,Discovery_Channel
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5707.ts
+#EXTINF:-1,Cm_TV
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5708.ts
+#EXTINF:-1,Cartoon_Network
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5709.ts
+#EXTINF:-1,Canal_Panda
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5710.ts
+#EXTINF:-1,Benfica_TV_1
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5711.ts
+#EXTINF:-1,Axn_White
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5712.ts
+#EXTINF:-1,Axn
+http://www.sansat.net:25461/live/02023507443886/02023507443886/5713.ts
+#EXTINF:-1,PT | SPORT TV 3HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4908.ts
+#EXTINF:-1,PT | 24 KITCHEN
+http://cloudiptv.cf/live/Katrina1/Katrina1/4940.ts
+#EXTINF:-1,PT | A & E
+http://cloudiptv.cf/live/Katrina1/Katrina1/4941.ts
+#EXTINF:-1,PT | A BOLA TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4942.ts
+#EXTINF:-1,PT | AMC
+http://cloudiptv.cf/live/Katrina1/Katrina1/4943.ts
+#EXTINF:-1,PT | AMC HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4936.ts
+#EXTINF:-1,PT | AXN
+http://cloudiptv.cf/live/Katrina1/Katrina1/4944.ts
+#EXTINF:-1,PT | AXN BLACK HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4935.ts
+#EXTINF:-1,PT | AXN HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4934.ts
+#EXTINF:-1,PT | AXN WHITE
+http://cloudiptv.cf/live/Katrina1/Katrina1/4945.ts
+#EXTINF:-1,PT | AXN WHITE HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4933.ts
+#EXTINF:-1,PT | BABY TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4946.ts
+#EXTINF:-1,PT | BENFICA TV 1
+http://cloudiptv.cf/live/Katrina1/Katrina1/4947.ts
+#EXTINF:-1,PT | BENFICA TV 2
+http://cloudiptv.cf/live/Katrina1/Katrina1/4948.ts
+#EXTINF:-1,PT | BTV 1 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4932.ts
+#EXTINF:-1,PT | CAÇA & PESCA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4949.ts
+#EXTINF:-1,PT | CANAL HISTÓRIA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4950.ts
+#EXTINF:-1,PT | CANAL PANDA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4951.ts
+#EXTINF:-1,PT | CANAL Q
+http://cloudiptv.cf/live/Katrina1/Katrina1/4952.ts
+#EXTINF:-1,PT | CARTOON  NETWORK
+http://cloudiptv.cf/live/Katrina1/Katrina1/4953.ts
+#EXTINF:-1,PT | CBS REALITY
+http://cloudiptv.cf/live/Katrina1/Katrina1/4954.ts
+#EXTINF:-1,PT | CHELSEA TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4955.ts
+#EXTINF:-1,PT | CINEMUNDO
+http://cloudiptv.cf/live/Katrina1/Katrina1/4956.ts
+#EXTINF:-1,PT | CM TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4957.ts
+#EXTINF:-1,PT | DISCOVERY CHANNEL
+http://cloudiptv.cf/live/Katrina1/Katrina1/4958.ts
+#EXTINF:-1,PT | Discovery HD Showcase
+http://cloudiptv.cf/live/Katrina1/Katrina1/4959.ts
+#EXTINF:-1,PT | DISNEY CHANNEL
+http://cloudiptv.cf/live/Katrina1/Katrina1/4960.ts
+#EXTINF:-1,PT | DISNEY JUNIOR
+http://cloudiptv.cf/live/Katrina1/Katrina1/4961.ts
+#EXTINF:-1,PT | E! Entertainment
+http://cloudiptv.cf/live/Katrina1/Katrina1/4962.ts
+#EXTINF:-1,PT | EUROSPORT
+http://cloudiptv.cf/live/Katrina1/Katrina1/4963.ts
+#EXTINF:-1,PT | Eurosport 1
+http://cloudiptv.cf/live/Katrina1/Katrina1/4906.ts
+#EXTINF:-1,PT | EUROSPORT 1 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4931.ts
+#EXTINF:-1,PT | EUROSPORT 2 XTRA HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4930.ts
+#EXTINF:-1,PT | Eurosport new
+http://cloudiptv.cf/live/Katrina1/Katrina1/4907.ts
+#EXTINF:-1,PT | FIGHT NETWORK HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4929.ts
+#EXTINF:-1,PT | Fox Comedy
+http://cloudiptv.cf/live/Katrina1/Katrina1/4964.ts
+#EXTINF:-1,PT | FOX Comedy HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4928.ts
+#EXTINF:-1,PT | Fox Crime
+http://cloudiptv.cf/live/Katrina1/Katrina1/4938.ts
+#EXTINF:-1,PT | FOX CRIME HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4927.ts
+#EXTINF:-1,PT | FOX HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4926.ts
+#EXTINF:-1,PT | FOX LIFE
+http://cloudiptv.cf/live/Katrina1/Katrina1/4965.ts
+#EXTINF:-1,PT | FOX LIFE HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4925.ts
+#EXTINF:-1,PT | FOX MOVIES
+http://cloudiptv.cf/live/Katrina1/Katrina1/4966.ts
+#EXTINF:-1,PT | FOX TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4967.ts
+#EXTINF:-1,PT | FUEL TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4968.ts
+#EXTINF:-1,PT | FUEL TV HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4924.ts
+#EXTINF:-1,PT | GLOBO
+http://cloudiptv.cf/live/Katrina1/Katrina1/4969.ts
+#EXTINF:-1,PT | Historia
+http://cloudiptv.cf/live/Katrina1/Katrina1/4939.ts
+#EXTINF:-1,PT | HOLLYWOOD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4970.ts
+#EXTINF:-1,PT | JIM JAM
+http://cloudiptv.cf/live/Katrina1/Katrina1/4971.ts
+#EXTINF:-1,PT | MOTORS TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4972.ts
+#EXTINF:-1,PT | MOTORVISION
+http://cloudiptv.cf/live/Katrina1/Katrina1/4973.ts
+#EXTINF:-1,PT | MOTORVISION TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4974.ts
+#EXTINF:-1,PT | MOV HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4975.ts
+#EXTINF:-1,PT | Mtv Portuga
+http://cloudiptv.cf/live/Katrina1/Katrina1/4976.ts
+#EXTINF:-1,PT | MTV PORTUGAL
+http://cloudiptv.cf/live/Katrina1/Katrina1/4977.ts
+#EXTINF:-1,PT | Nat Geo Wild
+http://cloudiptv.cf/live/Katrina1/Katrina1/4979.ts
+#EXTINF:-1,PT | NATIONAL GEOGRAPHIC
+http://cloudiptv.cf/live/Katrina1/Katrina1/4978.ts
+#EXTINF:-1,PT | NICKELODEON
+http://cloudiptv.cf/live/Katrina1/Katrina1/4980.ts
+#EXTINF:-1,PT | ODISSEIA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4981.ts
+#EXTINF:-1,PT | PFC
+http://cloudiptv.cf/live/Katrina1/Katrina1/4982.ts
+#EXTINF:-1,PT | PORTO CANAL
+http://cloudiptv.cf/live/Katrina1/Katrina1/4983.ts
+#EXTINF:-1,PT | RTP 1
+http://cloudiptv.cf/live/Katrina1/Katrina1/4984.ts
+#EXTINF:-1,PT | RTP 2
+http://cloudiptv.cf/live/Katrina1/Katrina1/4985.ts
+#EXTINF:-1,PT | RTP 3
+http://cloudiptv.cf/live/Katrina1/Katrina1/4986.ts
+#EXTINF:-1,PT | RTP AÇORES
+http://cloudiptv.cf/live/Katrina1/Katrina1/4987.ts
+#EXTINF:-1,PT | RTP ÁFRICA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4988.ts
+#EXTINF:-1,PT | RTP MADEIRA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4937.ts
+#EXTINF:-1,PT | RTP MEMÓRIA
+http://cloudiptv.cf/live/Katrina1/Katrina1/4989.ts
+#EXTINF:-1,PT | Sic
+http://cloudiptv.cf/live/Katrina1/Katrina1/4990.ts
+#EXTINF:-1,PT | SIC MULHER
+http://cloudiptv.cf/live/Katrina1/Katrina1/4991.ts
+#EXTINF:-1,PT | SIC NOTICIAS
+http://cloudiptv.cf/live/Katrina1/Katrina1/4992.ts
+#EXTINF:-1,PT | SIC NOTICIAS HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4923.ts
+#EXTINF:-1,PT | SIC RADICAL
+http://cloudiptv.cf/live/Katrina1/Katrina1/4993.ts
+#EXTINF:-1,PT | SIC RADICAL HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4922.ts
+#EXTINF:-1,PT | SPORT TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4921.ts
+#EXTINF:-1,PT | SPORT TV   HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4920.ts
+#EXTINF:-1,PT | SPORT TV 1 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/5018.ts
+#EXTINF:-1,PT | SPORT TV 1 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4919.ts
+#EXTINF:-1,PT | SPORT TV 2 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/5019.ts
+#EXTINF:-1,PT | SPORT TV 2 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4918.ts
+#EXTINF:-1,PT | SPORT TV 3 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4994.ts
+#EXTINF:-1,PT | SPORT TV 3 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4917.ts
+#EXTINF:-1,PT | SPORT TV 4
+http://cloudiptv.cf/live/Katrina1/Katrina1/4995.ts
+#EXTINF:-1,PT | SPORT TV 4 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4916.ts
+#EXTINF:-1,PT | SPORT TV 4HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4996.ts
+#EXTINF:-1,PT | SPORT TV 5
+http://cloudiptv.cf/live/Katrina1/Katrina1/4997.ts
+#EXTINF:-1,PT | SPORT TV 5 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4915.ts
+#EXTINF:-1,PT | SPORT TV 5HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/4998.ts
+#EXTINF:-1,PT | SPORTING TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/4999.ts
+#EXTINF:-1,PT | Sporting TV HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4914.ts
+#EXTINF:-1,PT | SYFY
+http://cloudiptv.cf/live/Katrina1/Katrina1/5000.ts
+#EXTINF:-1,PT | SyFy HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4913.ts
+#EXTINF:-1,PT | TLC
+http://cloudiptv.cf/live/Katrina1/Katrina1/5001.ts
+#EXTINF:-1,PT | TOUROS TV
+http://cloudiptv.cf/live/Katrina1/Katrina1/5002.ts
+#EXTINF:-1,PT | TV CINE 1  HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/5003.ts
+#EXTINF:-1,PT | TV CINE 2  HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/5004.ts
+#EXTINF:-1,PT | TV CINE 3 HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/5005.ts
+#EXTINF:-1,PT | TV CINE 4
+http://cloudiptv.cf/live/Katrina1/Katrina1/5006.ts
+#EXTINF:-1,PT | TV GLOBO
+http://cloudiptv.cf/live/Katrina1/Katrina1/5007.ts
+#EXTINF:-1,PT | TV Globo Premium
+http://cloudiptv.cf/live/Katrina1/Katrina1/5008.ts
+#EXTINF:-1,PT | TV RECORD
+http://cloudiptv.cf/live/Katrina1/Katrina1/5009.ts
+#EXTINF:-1,PT | TVC HD
+http://cloudiptv.cf/live/Katrina1/Katrina1/5010.ts
+#EXTINF:-1,PT | TVCINE 1 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4912.ts
+#EXTINF:-1,PT | TVCINE 2 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4911.ts
+#EXTINF:-1,PT | TVCINE 3 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4910.ts
+#EXTINF:-1,PT | TVCINE 4 HD 1080
+http://cloudiptv.cf/live/Katrina1/Katrina1/4909.ts
+#EXTINF:-1,PT | TVCseries
+http://cloudiptv.cf/live/Katrina1/Katrina1/5011.ts
+#EXTINF:-1,PT | TVI
+http://cloudiptv.cf/live/Katrina1/Katrina1/5012.ts
+#EXTINF:-1,PT | TVI 24
+http://cloudiptv.cf/live/Katrina1/Katrina1/5013.ts
+#EXTINF:-1,PT | TVI REALITY
+http://cloudiptv.cf/live/Katrina1/Katrina1/5014.ts
+#EXTINF:-1,PT | TVI Reality (A Quinta)
+http://cloudiptv.cf/live/Katrina1/Katrina1/5015.ts
+#EXTINF:-1,PT | VH1
+http://cloudiptv.cf/live/Katrina1/Katrina1/5016.ts
+#EXTINF:-1,PT | VH1 CLASSIC
+http://cloudiptv.cf/live/Katrina1/Katrina1/5017.ts
