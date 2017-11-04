@@ -1,288 +1,306 @@
-#EXTM3U
-#EXTINF:0,ANTENA3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
-#EXTINF:0,LASEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
-#EXTINF:0,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
-#EXTINF:0, ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,TELECINCO
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_3.m3u8
-#EXTINF:0,NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:0,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:0, Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1,Aragon TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1,Canal 25
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1,Canal Sur Cocina
-http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:-1,Canal Sur Flamenco
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-#EXTINF:-1,La Otra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1,TV3*
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1,TV4 La Vall
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-#EXTINF:-1 tvg-logo="http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg" group-title="NOTICIAS", TVE 24H
-http://bit.ly/2yN3oHV
-#EXTINF:-1 group-title="ESPAÑA", ONDA AZUL MALAGA
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA", EL DÍA TV España
-http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="SPAIN",Be Mad
-http://MSET-PROD-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/4yaHlnNTE6C3jW9zsD272G4pZkoq-Pur/cn/909a630af13d46aaabcb4e5895d9ac35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="SPAIN",Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="SPAIN",Nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="SPAIN",RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/rtp-asturias.jpg" group-title="SPAIN",RTPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-J3V2v8xCup4/AAAAAAAAAAI/AAAAAAAAAAA/B8BLxY30p98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",San Roque TV
-http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/sfc_tv.jpg" group-title="SPAIN",Sevilla FC TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/teftv.png" group-title="SPAIN",TEF TV
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.20m.es/img2/recortes/2016/05/11/280771-644-351.jpg" group-title="SPAIN",Telecinco
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleelx.es/eniusimg/enius2/2016/01/adj_569e704973b6d.jpg" group-title="SPAIN",TeleElx
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s03.s3c.es/imag/_v0/640x300/8/1/f/telemadridrecursonuevo.jpg" group-title="SPAIN",Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png" group-title="SPAIN",TeleSafor
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png" group-title="SPAIN",TeleValencia
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1,3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1,101 TV Malaga
-http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
-#EXTINF:-1,7 Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1,25 Televisio
-http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
-#EXTINF:-1,8 Cadiz TV
-http://cls.todostreaming.eu/unatv/live/playlist.m3u8
-#EXTINF:-1,8 TV
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
-#EXTINF:-1,8 TV*
-http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
-#EXTINF:-1,13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1,Alcarria TV
-http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1,Andalucia Turismo
-http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
-#EXTINF:-1,Andorra TV (Andorra)
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:-1,Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1,Antena 3*
-http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
-#EXTINF:-1,Antena 3 Int'l
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,Aragon TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1,Aragon TV*
-http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1,SP: LA 1
+http://iptv.cs2017.info:9090/live/demo/demo/153.ts
+#EXTINF:-1,SP: LA 1 HD
+http://iptv.cs2017.info:9090/live/demo/demo/125.ts
+#EXTINF:-1,SP: LA 2
+http://iptv.cs2017.info:9090/live/demo/demo/173.ts
+#EXTINF:-1,SP: ANTENA 3
+http://iptv.cs2017.info:9090/live/demo/demo/137.ts
+#EXTINF:-1,SP: antena 3 HD
+http://iptv.cs2017.info:9090/live/demo/demo/140.ts
+#EXTINF:-1,SP: CUATRO
+http://iptv.cs2017.info:9090/live/demo/demo/152.ts
+#EXTINF:-1,SP: CUATRO HD
+http://iptv.cs2017.info:9090/live/demo/demo/159.ts
+#EXTINF:-1,SP: TELECINCO
+http://iptv.cs2017.info:9090/live/demo/demo/189.ts
+#EXTINF:-1,SP: Telecinco HD
+http://iptv.cs2017.info:9090/live/demo/demo/141.ts
+#EXTINF:-1,SP: LA SEXTA
+http://iptv.cs2017.info:9090/live/demo/demo/187.ts
+#EXTINF:-1,SP: laSexta HD
+http://iptv.cs2017.info:9090/live/demo/demo/180.ts
+#EXTINF:-1,SP: PARAMOUNT
+http://iptv.cs2017.info:9090/live/demo/demo/139.ts
+#EXTINF:-1,SP: ENERGY
+http://iptv.cs2017.info:9090/live/demo/demo/166.ts
+#EXTINF:-1,SP: DIVINITY
+http://iptv.cs2017.info:9090/live/demo/demo/177.ts
+#EXTINF:-1,SP: FDF
+http://iptv.cs2017.info:9090/live/demo/demo/133.ts
+#EXTINF:-1,SP: NEOX
+http://iptv.cs2017.info:9090/live/demo/demo/162.ts
+#EXTINF:-1,SP: NOVA
+http://iptv.cs2017.info:9090/live/demo/demo/179.ts
+#EXTINF:-1,SP: MEGA
+http://iptv.cs2017.info:9090/live/demo/demo/126.ts
+#EXTINF:-1,SP: DMAX
+http://iptv.cs2017.info:9090/live/demo/demo/144.ts
+#EXTINF:-1,BeMad tv HD
+http://iptv.cs2017.info:9090/live/demo/demo/248.ts
+#EXTINF:-1,SP: TEN
+http://iptv.cs2017.info:9090/live/demo/demo/123.ts
+#EXTINF:-1,SP: dkiss
+http://iptv.cs2017.info:9090/live/demo/demo/145.ts
+#EXTINF:-1,SP: CANAL SUR
+http://iptv.cs2017.info:9090/live/demo/demo/256.ts
+#EXTINF:-1,SP: 24 HORAS
+http://iptv.cs2017.info:9090/live/demo/demo/130.ts
+#EXTINF:-1,SP: Malaga
+http://iptv.cs2017.info:9090/live/demo/demo/308.ts
+#EXTINF:-1,SP: ARAGON
+http://iptv.cs2017.info:9090/live/demo/demo/239.ts
+#EXTINF:-1,SP: Canal 0
+http://iptv.cs2017.info:9090/live/demo/demo/244.ts
+#EXTINF:-1,SP: #0 HD
+http://iptv.cs2017.info:9090/live/demo/demo/198.ts
+#EXTINF:-1,SP: Movistar Acciion
+http://iptv.cs2017.info:9090/live/demo/demo/214.ts
+#EXTINF:-1,SP: M. ACCION HD
+http://iptv.cs2017.info:9090/live/demo/demo/175.ts
+#EXTINF:-1,SP: Movistar Estrenos
+http://iptv.cs2017.info:9090/live/demo/demo/235.ts
+#EXTINF:-1,SP: M.ESTRENOSHD
+http://iptv.cs2017.info:9090/live/demo/demo/186.ts
+#EXTINF:-1,SP: Movistar Comedia
+http://iptv.cs2017.info:9090/live/demo/demo/209.ts
+#EXTINF:-1,SP: M.COMEDIA HD
+http://iptv.cs2017.info:9090/live/demo/demo/170.ts
+#EXTINF:-1,SP: Movistar DCine
+http://iptv.cs2017.info:9090/live/demo/demo/197.ts
+#EXTINF:-1,SP: M. DCINE HD
+http://iptv.cs2017.info:9090/live/demo/demo/185.ts
+#EXTINF:-1,SP: DCINE ESPANOL
+http://iptv.cs2017.info:9090/live/demo/demo/149.ts
+#EXTINF:-1,SP: HOLLYWOOD
+http://iptv.cs2017.info:9090/live/demo/demo/219.ts
+#EXTINF:-1,SP: hollywoodHD
+http://iptv.cs2017.info:9090/live/demo/demo/135.ts
+#EXTINF:-1,SP: CALLE 13
+http://iptv.cs2017.info:9090/live/demo/demo/178.ts
+#EXTINF:-1,SP: CALLE 13 HD
+http://iptv.cs2017.info:9090/live/demo/demo/233.ts
+#EXTINF:-1,SP: AMC
+http://iptv.cs2017.info:9090/live/demo/demo/200.ts
+#EXTINF:-1,SP: AMC HD
+http://iptv.cs2017.info:9090/live/demo/demo/171.ts
+#EXTINF:-1,SP: AXN
+http://iptv.cs2017.info:9090/live/demo/demo/222.ts
+#EXTINF:-1,SP: AXN HD
+http://iptv.cs2017.info:9090/live/demo/demo/131.ts
+#EXTINF:-1,SP: AXN WHITE
+http://iptv.cs2017.info:9090/live/demo/demo/207.ts
+#EXTINF:-1,SP: AXN White HD
+http://iptv.cs2017.info:9090/live/demo/demo/238.ts
+#EXTINF:-1,SP: FOX
+http://iptv.cs2017.info:9090/live/demo/demo/216.ts
+#EXTINF:-1,SP: FOX HD
+http://iptv.cs2017.info:9090/live/demo/demo/138.ts
+#EXTINF:-1,SP: FOX LIFE
+http://iptv.cs2017.info:9090/live/demo/demo/205.ts
+#EXTINF:-1,SP: FOX LIFE HD
+http://iptv.cs2017.info:9090/live/demo/demo/127.ts
+#EXTINF:-1,SP: TNT
+http://iptv.cs2017.info:9090/live/demo/demo/229.ts
+#EXTINF:-1,SP: TNT HD
+http://iptv.cs2017.info:9090/live/demo/demo/192.ts
+#EXTINF:-1,SP: TCM ES
+http://iptv.cs2017.info:9090/live/demo/demo/183.ts
+#EXTINF:-1,SP: TCM HD
+http://iptv.cs2017.info:9090/live/demo/demo/220.ts
+#EXTINF:-1,SP: TCM
+http://iptv.cs2017.info:9090/live/demo/demo/212.ts
+#EXTINF:-1,SP: COSMO
+http://iptv.cs2017.info:9090/live/demo/demo/168.ts
+#EXTINF:-1,SP: COSMO HD
+http://iptv.cs2017.info:9090/live/demo/demo/134.ts
+#EXTINF:-1,SOMOS
+http://iptv.cs2017.info:9090/live/demo/demo/253.ts
+#EXTINF:-1,XTRM
+http://iptv.cs2017.info:9090/live/demo/demo/245.ts
+#EXTINF:-1,DARK
+http://iptv.cs2017.info:9090/live/demo/demo/252.ts
+#EXTINF:-1,SP: SUNDANCE
+http://iptv.cs2017.info:9090/live/demo/demo/211.ts
+#EXTINF:-1,SP: SYFY
+http://iptv.cs2017.info:9090/live/demo/demo/129.ts
+#EXTINF:-1,SP: Syfy España HD
+http://iptv.cs2017.info:9090/live/demo/demo/201.ts
+#EXTINF:-1,SP: Movistar Series
+http://iptv.cs2017.info:9090/live/demo/demo/232.ts
+#EXTINF:-1,SP: Movistar Series HD
+http://iptv.cs2017.info:9090/live/demo/demo/221.ts
+#EXTINF:-1,SP: Movistar Series Xtra
+http://iptv.cs2017.info:9090/live/demo/demo/199.ts
+#EXTINF:-1,SP: M. SeriesXtraHD
+http://iptv.cs2017.info:9090/live/demo/demo/190.ts
+#EXTINF:-1,SP: Movistar Xtra
+http://iptv.cs2017.info:9090/live/demo/demo/195.ts
+#EXTINF:-1,SP: Movistar Xtra HD
+http://iptv.cs2017.info:9090/live/demo/demo/236.ts
 #EXTINF:-1,Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,Atreseries*
-http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
-#EXTINF:-1,Betis TV
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:-1,Beteve
-http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
-#EXTINF:-1,Canal 4 Centro Mancha
-http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:-1,Canal 7
-http://163.172.15.219:1935/live/vivatv/playlist.m3u8
-#EXTINF:-1,Canal 24 Horas
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
-#EXTINF:-1,Canal 25
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1,Canal Costa
-http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
-#EXTINF:-1,Canal Extremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1,Canal Sur Cocina
-http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:-1,Canal Sur Flamenco
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-#EXTINF:-1,Canal Parlamento
-http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
-#EXTINF:-1,Canaria SAT
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
-#EXTINF:-1,Canaria SAT*
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-#EXTINF:-1,Castilla-La Mancha TV
-http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
-#EXTINF:-1,Castilla Leon TV
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
-#EXTINF:-1,Ceuta TV
-http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
-#EXTINF:-1,Condavision
-http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
-#EXTINF:-1,Costa del Sol TV
-http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
-#EXTINF:-1,Cuatro [Off]
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
-#EXTINF:-1,El Correo TV
-http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
-#EXTINF:-1,El Correo TV*
-http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
-#EXTINF:-1,El Punt Avui TV
-http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Emporda TV
-http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1,Estepona TV
-http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
-#EXTINF:-1,ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1,Girona TV
-http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
-#EXTINF:-1,Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1,HTV Huelva
-http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
-#EXTINF:-1,IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-#EXTINF:-1,Imas TV
-http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
-#EXTINF:-1,Informacion TV
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-#EXTINF:-1,Intereconomia TV
-http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-#EXTINF:-1,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1,La Otra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1,La Xarxa
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:-1,Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1,Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1,Levante TV
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-#EXTINF:-1,Lleida TV
-http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1,Melilla TV
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-#EXTINF:-1,Mirame TV
-http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
-#EXTINF:-1,Mogan TV
-http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
-#EXTINF:-1,Navarra TV
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1,Navarra TV*
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-#EXTINF:-1,Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,Nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1,Olot TV
-http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Onda Algeciras
-http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-#EXTINF:-1,Onda Azul Malaga
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1,Onda Cadiz
-http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
-#EXTINF:-1,Onda Jaen
-http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
-#EXTINF:-1,Ondaluz Cadiz [NoKodi]
-http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Costa del Sol [NoKodi]
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Costa Noroeste [NoKodi]
-http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Jerez [NoKodi]
-http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Marbella [NoKodi]
-http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
-#EXTINF:-1,Ondaluz Sevilla [NoKodi]
-http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
-#EXTINF:-1,Popular TV Cantabria
-http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,Real Madrid TV*
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1,Real Madrid TV (English)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1,Ribera TV
-http://188.165.135.22/ribera/livestream/.m3u8
-#EXTINF:-1,RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1,RTPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1,RTV Marbella
-http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
-#EXTINF:-1,San Roque TV
-http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-#EXTINF:-1,Sevilla FC TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:-1,TAC12
-http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
-#EXTINF:-1,TCS Mediterraneo
-http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
-#EXTINF:-1,TEF TV
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:-1,TeleBadalona
-http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,TeleBilbao
-http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
-#EXTINF:-1,Telecinco
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
-#EXTINF:-1,TeleElx
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:-1,Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1,TeleOnuba
-http://cls2.todostreaming.eu/azahara/GdZpE8ef/chunklist.m3u8
-#EXTINF:-1,TeleSafor
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1,TeleValencia
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1,Terrassa TV
-http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
-#EXTINF:-1,Tindaya TV
-http://188.165.135.22/tindayatv/livestream/playlist.m3u8
-#EXTINF:-1,Travel TV
-http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
-#EXTINF:-1,TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1,TV3*
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1,TV4 La Vall
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-#EXTINF:-1,TV Alcoi
-http://92.222.37.18/hls/tvaxa.m3u8
-#EXTINF:-1,TVG America
-http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
-#EXTINF:-1,TVG Europa
-http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
-#EXTINF:-1,TVG Europa*
-http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
-#EXTINF:-1,TV Mediterraneo
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
-
-
-
-
-
+http://iptv.cs2017.info:9090/live/demo/demo/333.ts
+#EXTINF:-1,SP: Comedy Central España
+http://iptv.cs2017.info:9090/live/demo/demo/210.ts
+#EXTINF:-1,SP: COMEDY CENTRAL HD
+http://iptv.cs2017.info:9090/live/demo/demo/164.ts
+#EXTINF:-1,SP: DISNEY CH
+http://iptv.cs2017.info:9090/live/demo/demo/146.ts
+#EXTINF:-1,SP: Disney Channel HD
+http://iptv.cs2017.info:9090/live/demo/demo/223.ts
+#EXTINF:-1,SP: Disney Junior España
+http://iptv.cs2017.info:9090/live/demo/demo/202.ts
+#EXTINF:-1,SP: DISNEY XD
+http://iptv.cs2017.info:9090/live/demo/demo/128.ts
+#EXTINF:-1,SP: Nick Jr Europe
+http://iptv.cs2017.info:9090/live/demo/demo/218.ts
+#EXTINF:-1,SP: Nickelodeon HD
+http://iptv.cs2017.info:9090/live/demo/demo/226.ts
+#EXTINF:-1,SP :BOING
+http://iptv.cs2017.info:9090/live/demo/demo/167.ts
+#EXTINF:-1,SP: CLAN TVE
+http://iptv.cs2017.info:9090/live/demo/demo/174.ts
+#EXTINF:-1,SP: BABY TV
+http://iptv.cs2017.info:9090/live/demo/demo/213.ts
+#EXTINF:-1,SP: CANAL PANDA
+http://iptv.cs2017.info:9090/live/demo/demo/196.ts
+#EXTINF:-1,SP: NAT GEOGRAPH
+http://iptv.cs2017.info:9090/live/demo/demo/169.ts
+#EXTINF:-1,SP: Nat Geo HD
+http://iptv.cs2017.info:9090/live/demo/demo/203.ts
+#EXTINF:-1,SP: Nat Geo Wild España
+http://iptv.cs2017.info:9090/live/demo/demo/191.ts
+#EXTINF:-1,SP:Nat Geo Wild HD
+http://iptv.cs2017.info:9090/live/demo/demo/217.ts
+#EXTINF:-1,SP: Caza y Pesca
+http://iptv.cs2017.info:9090/live/demo/demo/204.ts
+#EXTINF:-1,SP: Caza y Pesca HD
+http://iptv.cs2017.info:9090/live/demo/demo/225.ts
+#EXTINF:-1,SP: IBERALIA TV
+http://iptv.cs2017.info:9090/live/demo/demo/243.ts
+#EXTINF:-1,SP: Canal Cocina
+http://iptv.cs2017.info:9090/live/demo/demo/215.ts
+#EXTINF:-1,SP: CANAL DECASA
+http://iptv.cs2017.info:9090/live/demo/demo/165.ts
+#EXTINF:-1,SP: CANAL ODISEA
+http://iptv.cs2017.info:9090/live/demo/demo/158.ts
+#EXTINF:-1,SP: Crimen Investigación
+http://iptv.cs2017.info:9090/live/demo/demo/194.ts
+#EXTINF:-1,SP: A&E
+http://iptv.cs2017.info:9090/live/demo/demo/160.ts
+#EXTINF:-1,SP: DISCOVERY
+http://iptv.cs2017.info:9090/live/demo/demo/157.ts
+#EXTINF:-1,SP: Discovery Chanel
+http://iptv.cs2017.info:9090/live/demo/demo/290.ts
+#EXTINF:-1,SP: HISTORIA
+http://iptv.cs2017.info:9090/live/demo/demo/147.ts
+#EXTINF:-1,SP: viajarHD
+http://iptv.cs2017.info:9090/live/demo/demo/193.ts
+#EXTINF:-1,SP: VIAJAR
+http://iptv.cs2017.info:9090/live/demo/demo/206.ts
+#EXTINF:-1,LA liga123
+http://iptv.cs2017.info:9090/live/demo/demo/309.ts
+#EXTINF:-1,LaLiga 1|2|3 TV Multi 1
+http://iptv.cs2017.info:9090/live/demo/demo/310.ts
+#EXTINF:-1,LaLiga 1|2|3 TV Multi 2
+http://iptv.cs2017.info:9090/live/demo/demo/311.ts
+#EXTINF:-1,LaLiga 1|2|3 TV Multi 3
+http://iptv.cs2017.info:9090/live/demo/demo/312.ts
+#EXTINF:-1,La Liga 123 multi 4
+http://iptv.cs2017.info:9090/live/demo/demo/313.ts
+#EXTINF:-1,ES: beIN LA Liga FHD
+http://iptv.cs2017.info:9090/live/demo/demo/322.ts
+#EXTINF:-1,ES: Bein Sport HD
+http://iptv.cs2017.info:9090/live/demo/demo/316.ts
+#EXTINF:-1,ES: Bein Liga HD
+http://iptv.cs2017.info:9090/live/demo/demo/317.ts
+#EXTINF:-1,ES: beIN Laliga 1 HD Backup
+http://iptv.cs2017.info:9090/live/demo/demo/323.ts
+#EXTINF:-1,ES: beIN LaLIga 1 (event only)
+http://iptv.cs2017.info:9090/live/demo/demo/318.ts
+#EXTINF:-1,ES: beIN LaLIga 2 (event only)
+http://iptv.cs2017.info:9090/live/demo/demo/319.ts
+#EXTINF:-1,ES: beIN LaLIga 3 (event only)
+http://iptv.cs2017.info:9090/live/demo/demo/320.ts
+#EXTINF:-1,SP: TOROS TV HD
+http://iptv.cs2017.info:9090/live/demo/demo/241.ts
+#EXTINF:-1,SP: LALIGATV BAR
+http://iptv.cs2017.info:9090/live/demo/demo/176.ts
+#EXTINF:-1,SP: LALIGATV BAR HD
+http://iptv.cs2017.info:9090/live/demo/demo/132.ts
+#EXTINF:-1,SP: LALIGATV BAR HD 1080
+http://iptv.cs2017.info:9090/live/demo/demo/293.ts
+#EXTINF:-1,SP: BEIN LALIGA
+http://iptv.cs2017.info:9090/live/demo/demo/151.ts
+#EXTINF:-1,SP: BEIN LALIGA HD
+http://iptv.cs2017.info:9090/live/demo/demo/156.ts
+#EXTINF:-1,SP: BeIn Sports LaLiga HD 1080
+http://iptv.cs2017.info:9090/live/demo/demo/294.ts
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://iptv.cs2017.info:9090/live/demo/demo/148.ts
+#EXTINF:-1,SP: BEIN SPORT LATINO
+http://iptv.cs2017.info:9090/live/demo/demo/260.ts
+#EXTINF:-1,SP: M.Partidazo
+http://iptv.cs2017.info:9090/live/demo/demo/181.ts
+#EXTINF:-1,SP: Partidazo HD
+http://iptv.cs2017.info:9090/live/demo/demo/163.ts
+#EXTINF:-1,SP: M.FUTBOL
+http://iptv.cs2017.info:9090/live/demo/demo/155.ts
+#EXTINF:-1,SP: M. FUTBOL HD
+http://iptv.cs2017.info:9090/live/demo/demo/184.ts
+#EXTINF:-1,SP: M. DEPORTES 1
+http://iptv.cs2017.info:9090/live/demo/demo/161.ts
+#EXTINF:-1,SP: Movistar Deportes 1 HD
+http://iptv.cs2017.info:9090/live/demo/demo/230.ts
+#EXTINF:-1,SP: Movistar Deportes 2
+http://iptv.cs2017.info:9090/live/demo/demo/242.ts
+#EXTINF:-1,SP: Movistar Deportes 2 HD
+http://iptv.cs2017.info:9090/live/demo/demo/240.ts
+#EXTINF:-1,SP: eurosport1
+http://iptv.cs2017.info:9090/live/demo/demo/172.ts
+#EXTINF:-1,SP: Eurosport 1 HD
+http://iptv.cs2017.info:9090/live/demo/demo/231.ts
+#EXTINF:-1,SP: Eurosport 2
+http://iptv.cs2017.info:9090/live/demo/demo/291.ts
+#EXTINF:-1,SP: TELEDEPORTE
+http://iptv.cs2017.info:9090/live/demo/demo/154.ts
+#EXTINF:-1,SP: Movistar Fórmula 1
+http://iptv.cs2017.info:9090/live/demo/demo/208.ts
+#EXTINF:-1,SP: M.FORMULA 1 HD
+http://iptv.cs2017.info:9090/live/demo/demo/143.ts
+#EXTINF:-1,SP: MOTOGP
+http://iptv.cs2017.info:9090/live/demo/demo/188.ts
+#EXTINF:-1,SP: MOTOGP HD
+http://iptv.cs2017.info:9090/live/demo/demo/124.ts
+#EXTINF:-1,SP: M. GOLF HD
+http://iptv.cs2017.info:9090/live/demo/demo/142.ts
+#EXTINF:-1,SP: M. GOLF
+http://iptv.cs2017.info:9090/live/demo/demo/182.ts
+#EXTINF:-1,SP: GOL
+http://iptv.cs2017.info:9090/live/demo/demo/150.ts
+#EXTINF:-1,SP: BARCA TV
+http://iptv.cs2017.info:9090/live/demo/demo/224.ts
+#EXTINF:-1,Box nation
+http://iptv.cs2017.info:9090/live/demo/demo/246.ts
+#EXTINF:-1,SP: Canal Orbe 21
+http://iptv.cs2017.info:9090/live/demo/demo/228.ts
+#EXTINF:-1,SP: MTV
+http://iptv.cs2017.info:9090/live/demo/demo/237.ts
+#EXTINF:-1,SP: MEZZO
+http://iptv.cs2017.info:9090/live/demo/demo/227.ts
+#EXTINF:-1,SP: CLASSICA TV
+http://iptv.cs2017.info:9090/live/demo/demo/234.ts
+#EXTINF:-1,SOL MUSICA
+http://iptv.cs2017.info:9090/live/demo/demo/258.ts
+#EXTINF:-1,SP: M:Sports
+http://iptv.cs2017.info:9090/live/demo/demo/292.ts
+#EXTINF:-1,DE PELICULA
+http://iptv.cs2017.info:9090/live/demo/demo/257.ts
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://iptv.cs2017.info:9090/live/demo/demo/249.ts
+#EXTINF:-1,TV PUBLICA ARGENTINA
+http://iptv.cs2017.info:9090/live/demo/demo/262.ts
+#EXTINF:-1,TELENOVELAS
+http://iptv.cs2017.info:9090/live/demo/demo/247.ts
