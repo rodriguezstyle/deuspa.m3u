@@ -1,547 +1,220 @@
-#EXTM3U
-#EXTINF:0,ANTENA3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
-#EXTINF:0,LASEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
-#EXTINF:0,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
-#EXTINF:0,AndaluciaTv
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:0,CANALSURAndalucia
-http://195.55.74.208/rtva/andaluciatelevision-iphone/stream.m3u8
-#EXTINF:0,HuelvaTv
-http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
----------------TDT HD-------------
-#EXTINF:0,LA 1 HD
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1075.ts
-#EXTINF:0,LA 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/10.ts
-#EXTINF:0,LA 2
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1085.ts
-#EXTINF:0,ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,ANTENA 3 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/11.ts
-#EXTINF:0, ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,ANTENA 3 INTERNACIONAL
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:0,CUATRO HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/12.ts
-#EXTINF:0,TELECINCO
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_3.m3u8
-#EXTINF:0,TELECINCO HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/13.ts
-#EXTINF:0,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
-#EXTINF:0, LA SEXTA HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:0,MEGA HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:0,NEOX HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:0,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:0,NOVA  HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,A&E
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1141.ts
-#EXTINF:0,A&E HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
-#EXTINF:0,BeMad
-http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/9oczVsNTE66uaerrrQhhZZ2KqsRPyxAa/cn/a8ed7dadb9984eb59f16c572caa62cb0.m3u8
-#EXTINF:0,BeMad HD
-http://79.146.116.42:4022/udp/239.0.0.182:8208?http-reconnect=true
-#EXTINF:0,DARK
-http://79.146.116.42:4022/udp/239.0.0.39:8208?http-reconnect=true
-#EXTINF:0,TNT 
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/21.ts
-#EXTINF:0,TNT HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/21.ts
-#EXTINF:0,DIVINITY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
-#EXTINF:0,DIVINITY
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
-#EXTINF:0,Cosmo HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/20.ts
-#EXTINF:0,COSMO HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/20.ts
-#EXTINF:0,Ten
-http://79.146.116.42:4022/udp/239.0.0.34:8208?http-reconnect=true
-#EXTINF:0,Ten
-http://79.146.116.42:4022/udp/239.0.0.34:8208?http-reconnect=true
-#EXTINF:0,FDF
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
-#EXTINF:0,FDF
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8
-#EXTINF:0,24 Horas
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0650_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,24 HORAS
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
-#EXTINF:0,GOL TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/25.ts
-#EXTINF:0,GOL TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/25.ts
 
------------------EL PLUS HD------------------
-#EXTINF:0,#0 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
-#EXTINF:0,#0 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
-#EXTINF:0,ESTRENOS HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts
-#EXTINF:0,M.ESTRENOSHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
-#EXTINF:0,DCINE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts
-#EXTINF:0,M. DCINE HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
-#EXTINF:0,COMEDIA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts
-#EXTINF:0,ACCION HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
-#EXTINF:0,ACCION HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
-#EXTINF:0,M. ACCI©N HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
-#EXTINF:0,HISTORIA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/37.ts
-#EXTINF:0,HOLLYWOOD HD
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1128.ts
-#EXTINF:0,Calle 13
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/9.ts
-#EXTINF:0,CALLE 13 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/9.ts
-#EXTINF:0,PARAMOUNT
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
-#EXTINF:0,XTRA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts
-#EXTINF:0,M. XTRA HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
-#EXTINF:0,SERIES HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/14.ts
-#EXTINF:0,SERIES XTRA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/15.ts
-#EXTINF:0,M. SERIES HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
-#EXTINF:0,AXN
-http://79.146.116.42:4022/udp/239.0.0.14:8208?http-reconnect=true
-#EXTINF:0,AXN HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/18.ts
-#EXTINF:0,AXN WHITE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/19.ts
-#EXTINF:0,AXN WHITE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/19.ts
-#EXTINF:0,AMC HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
-#EXTINF:0,AMC HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
-#EXTINF:0,FOX
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts
-#EXTINF:0,FOX HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts
-#EXTINF:0,FOX life
-http://79.146.116.42:4022/udp/239.0.0.43:8208?http-reconnect=true
-#EXTINF:0,FOX LIFE HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/17.ts
-#EXTINF:0,TCM HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
-#EXTINF:0,NAT GEO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
-#EXTINF:0,NAT GEO HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
-#EXTINF:0,NAT GEO WILD HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
-#EXTINF:0,NG WILD HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
-#EXTINF:0,Viajar
-http://79.146.116.42:4022/udp/239.0.0.20:8208?http-reconnect=true
-#EXTINF:0,VIAJAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
-http://server.poweriptv.cl:25461/live/asd123/asd123/320.ts
-#EXTINF:0,Cocina
-http://79.146.116.42:4022/udp/239.0.0.27:8208?http-reconnect=true
-#EXTINF:0,Decasa
-http://79.146.116.42:4022/udp/239.0.0.71:8208?http-reconnect=true
-#EXTINF:0,Discovery Channel
-http://79.146.116.42:4022/udp/239.0.0.21:8208?http-reconnect=true
-#EXTINF:0,yfy
-http://79.146.116.42:4022/udp/239.0.0.111:8208?http-reconnect=true
-#EXTINF:0,SYFY HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
-#EXTINF:0,SYFY HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
-#EXTINF:0,C&I
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
-#EXTINF:0,Crimen + Investigación
-http://79.146.116.42:4022/udp/239.0.0.57:8208?http-reconnect=true
-#EXTINF:0,MTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/40.ts
-#EXTINF:0,MTV España
-http://79.146.116.42:4022/udp/239.0.0.211:8208?http-reconnect=true
-#EXTINF:0,MTV ESPA¹A
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
-#EXTINF:0,NONSTOPEOPLE
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
-#EXTINF:0,DKISS 
-http://79.146.116.42:4022/udp/239.0.0.6:8208?http-reconnect=true
-#EXTINF:0,Baby TV
-http://79.146.116.42:4022/udp/239.0.0.113:8208?http-reconnect=true
-#EXTINF:0,Disney Junior
-http://79.146.116.42:4022/udp/239.0.0.10:8208?http-reconnect=true
-#EXTINF:0,Canal Panda
-http://79.146.116.42:4022/udp/239.0.0.117:8208?http-reconnect=true
-#EXTINF:0,Nick Jr
-http://79.146.116.42:4022/udp/239.0.0.115:8208?http-reconnect=true
-#EXTINF:0,Nickelodeon
-http://79.146.116.42:4022/udp/239.0.0.69:8208?http-reconnect=true
-#EXTINF:0,Disney XD
-http://79.146.116.42:4022/udp/239.0.0.11:8208?http-reconnect=true
-#EXTINF:0,Disney Channel
-http://79.146.116.42:4022/udp/239.0.0.64:8208?http-reconnect=true
-#EXTINF:0,Boing
-http://79.146.116.42:4022/udp/239.0.0.66:8208?http-reconnect=true
------- DEPORTES ---------------
-#EXTINF:0,Movistar Partidazo
-http://79.146.116.42:4022/udp/239.0.4.129:8208?http-reconnect=true
-#EXTINF:0,Movistar Partidazo HD
-http://79.146.116.42:4022/udp/239.0.5.84:8208?http-reconnect=true
-#EXTINF:0,MOVISTAR  PARTIDAZO LIVE SESSION
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
-#EXTINF:0,M. DEP 1 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
-#EXTINF:0,DEPORTES 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/27.ts
-#EXTINF:0,M. DEP 2 HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
-#EXTINF:0,DEPORTES 2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/28.ts
-#EXTINF:0,FUTBOL HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/26.ts
-#EXTINF:0,M. F.TBOL HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
-#EXTINF:0,LA LIGA TV HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/22.ts
-#EXTINF:0,LALIGA TV BAR HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
-#EXTINF:0,MOTOGP HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/30.ts
-#EXTINF:0,M.MOTOGPHD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
-#EXTINF:0,M.FORMULA1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
-#EXTINF:0,TOROS HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/31.ts
-#EXTINF:0,TOROS TV HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
-#EXTINF:0,GOLF HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/32.ts
-#EXTINF:0,M. GOLF HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
-#EXTINF:0,BEIN SPORT HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/24.ts
-#EXTINF:0,BEIN SPORT HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
-#EXTINF:0,BEIN SPORT LA LIGA HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/23.ts
-#EXTINF:0, Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,EUROSPORT1HD
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
-#EXTINF:0,EUROSPORT HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:DLNA.ORG: 1
-http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/33.ts
-#EXTINF:0,EUROSPORT 2
-http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
-#EXTINF:0, EURO SPORT 2 
-http://185.142.239.164:3135/Euro/2/playlist.m3u8
--------- LOCALES -------------
-#EXTINF:0,CanalExtremadura 1
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
-#EXTINF:0,CANAL EXTREMADURA 2
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:0, Andalucia TV
-http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
-#EXTINF:0, NAVARRA TV
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/chunklist_w605667087.m3u8
-#EXTINF:0, TV GALICIA
-http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
-#EXTINF:0,TVG AMÉRICA
-http://media3.crtvg.es/live/_definst_/tvga_2/chunklist_w2022272197.m3u8
-#EXTINF:0,RTPAAsturias
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:0, EITB.EUS 
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:0, Aragon Tv
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:0, Marbella TV
-http://cls.provideo.es/marbellatv/livestream/chunklist.m3u8
-#EXTINF:0,Sevilla FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
-#EXTINF:0, Betis Tv	
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:0, 101 España
+#EXTINF:-1,~ Spain TV ~
+#EXTINF:-1,3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1,101 TV Malaga
 http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
-#EXTINF:0,13TV
-http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
-#EXTINF:0, TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-#EXTINF:0,Andorra [SD]
-rtmp://194.158.80.31/live/web
-#EXTINF:0, Ocho TV 
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-#EXTINF:0,Olcadiz [SD]
-http://cloud1.cdnstreamserver.com/olcadiz/livestream1/chunklist.m3u
-#EXTINF:0, ONDA AZUL MALAGA
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:0, ONDA AZUL SEVILLA
-http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
-#EXTINF:0, LEVANTE TV
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-#EXTINF:0, IB3 TV
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
-#EXTINF:0, EL DÍA TV España
-http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
-#EXTINF:0, 7 Televisión
+#EXTINF:-1,7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,25 Televisio
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+#EXTINF:-1,8 Cadiz TV
+http://cls.todostreaming.eu/unatv/live/playlist.m3u8
+#EXTINF:-1,8 TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:-1,8 TV*
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1,Alcarria TV
+http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1,Andalucia Turismo
+http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
+#EXTINF:-1,Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Antena 3*
+http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
+#EXTINF:-1,Antena 3 Int'l
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,Aragon TV*
+http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,Atreseries*
+http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
+#EXTINF:-1,Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1,Beteve
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+#EXTINF:-1,Canal 4 Centro Mancha
+http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+#EXTINF:-1,Canal 7
 http://163.172.15.219:1935/live/vivatv/playlist.m3u8
-#EXTINF:0, 8 MONTBLANC
-http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
-#EXTINF:0, 8 TV
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1421144122.m3u8
-#EXTINF:0,Lancelot TV 
+#EXTINF:-1,Canal 24 Horas
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTINF:-1,Canal 25
+http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
+#EXTINF:-1,Canal Costa
+http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
+#EXTINF:-1,Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1,Canal Sur Cocina
+http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
+#EXTINF:-1,Canal Sur Flamenco
+http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
+#EXTINF:-1,Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
+#EXTINF:-1,Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1,Canaria SAT*
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+#EXTINF:-1,Castilla-La Mancha TV
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
+#EXTINF:-1,Castilla Leon TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:-1,Ceuta TV
+http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
+#EXTINF:-1,Condavision
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
+#EXTINF:-1,Costa del Sol TV
+http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
+#EXTINF:-1,Cuatro [Off]
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
+#EXTINF:-1,El Correo TV
+http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
+#EXTINF:-1,El Correo TV*
+http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
+#EXTINF:-1,El Punt Avui TV
+http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,Estepona TV
+http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
+#EXTINF:-1,ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1,Girona TV
+http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:-1,HTV Huelva
+http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+#EXTINF:-1,Imas TV
+http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
+#EXTINF:-1,Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:-1,Intereconomia TV
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:0,RtvCe
+#EXTINF:-1,Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1,Lleida TV
+http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1,Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+#EXTINF:-1,Mirame TV
+http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
+#EXTINF:-1,Mogan TV
+http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
+#EXTINF:-1,Navarra TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1,Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,Olot TV
+http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Onda Algeciras
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+#EXTINF:-1,Onda Azul Malaga
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,Onda Cadiz
+http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
+#EXTINF:-1,Onda Jaen
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
+#EXTINF:-1,Ondaluz Cadiz [NoKodi]
+http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Costa del Sol [NoKodi]
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Costa Noroeste [NoKodi]
+http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Jerez [NoKodi]
+http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Marbella [NoKodi]
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Sevilla [NoKodi]
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
+#EXTINF:-1,Popular TV Cantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Real Madrid TV*
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Ribera TV
+http://188.165.135.22/ribera/livestream/.m3u8
+#EXTINF:-1,RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:0, TELEMADRD
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
-#EXTINF:0,Castilla-LaManchaTv
-http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
-#EXTINF:0,Ve plus TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:0, Foro Tv
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_259_av-p.m3u8?sd=10&rebase=on
-----------TAQUILLAS--------------
-#EXTINF:0, Oro mar tv
-http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
-
-#EXTINF:0,Taquilla 1
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1096.ts
-#EXTINF:0,Taquilla 2
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1095.ts
-#EXTINF:0,Taquilla 3
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1094.ts
-#EXTINF:0,Taquilla 4
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1093.ts
-#EXTINF:0,Taquilla 5
-http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1092.ts#EXTINF:-1,TAQUILLA_1
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/86.ts
-
-#EXTINF:-1,TAQUILLA_2
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/87.ts
-
-#EXTINF:-1,TAQUILLA_3
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/88.ts
-
-#EXTINF:-1,TAQUILLA_4
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/89.ts
-
-#EXTINF:-1,TAQUILLA_5
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/90.ts
-
-#EXTINF:-1,TAQUILLA_6
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/91.ts
-
-#EXTINF:-1,TAQUILLA_7
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/92.ts
-
-#EXTINF:-1,TAQUILLA_8
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/93.ts
-
-#EXTINF:-1,TAQUILLA_9
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/94.ts
-
-#EXTINF:-1,TAQUILLA_10
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/95.ts
-
-#EXTINF:-1,TAQUILLA_11
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/96.ts
-
-#EXTINF:-1,TAQUILLA_12
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/97.ts
-
-#EXTINF:-1,TAQUILLA_13
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/98.ts
-
-#EXTINF:-1,TAQUILLA_14
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/99.ts
-
-#EXTINF:-1,TAQUILLA_15
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/100.ts
-
-#EXTINF:-1,TAQUILLA_16
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/101.ts
-
-#EXTINF:-1,TAQUILLA_17
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/102.ts
-
-#EXTINF:-1,TAQUILLA_18
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/103.ts
-
-#EXTINF:-1,TAQUILLA_19
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/104.ts
-
-#EXTINF:-1,TAQUILLA_20
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/105.ts
-
-#EXTINF:-1,TAQUILLA_21
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/106.ts
-
-#EXTINF:-1,TAQUILLA_22
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/107.ts
-
-#EXTINF:-1,TAQUILLA_23
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/108.ts
-
-#EXTINF:-1,TAQUILLA_24
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/109.ts
-
-#EXTINF:-1,TAQUILLA_25
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/110.ts
-
-#EXTINF:-1,TAQUILLA_26
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/111.ts
-
-#EXTINF:-1,TAQUILLA_27
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/112.ts
-
-#EXTINF:-1,TAQUILLA_28
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/113.ts
-
-#EXTINF:-1,TAQUILLA_29
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/114.ts
-
-#EXTINF:-1,TAQUILLA_30
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/115.ts
-
-#EXTINF:-1,TAQUILLA_31
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/116.ts
-
-#EXTINF:-1,TAQUILLA_32
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/117.ts
-
-#EXTINF:-1,TAQUILLA_33
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/118.ts
-
-#EXTINF:-1,TAQUILLA_34
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/119.ts
-
-#EXTINF:-1,TAQUILLA_35
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/120.ts
-
-#EXTINF:-1,TAQUILLA_36
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/121.ts
-
-#EXTINF:-1,TAQUILLA_37
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/122.ts
-
-#EXTINF:-1,TAQUILLA_38
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/123.ts
-
-#EXTINF:-1,TAQUILLA_39
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/124.ts
-
-#EXTINF:-1,TAQUILLA_40
-http://163.172.52.83:8000/live/5245G0LCKqd94P/25TE014mD41788/125.ts
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,RTV Marbella
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+#EXTINF:-1,San Roque TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+#EXTINF:-1,Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1,TAC12
+http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1,TCS Mediterraneo
+http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
+#EXTINF:-1,TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+#EXTINF:-1,TeleBadalona
+http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,TeleBilbao
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+#EXTINF:-1,Telecinco
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
+#EXTINF:-1,TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,TeleOnuba
+http://cls2.todostreaming.eu/azahara/GdZpE8ef/chunklist.m3u8
+#EXTINF:-1,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1,Terrassa TV
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTINF:-1,Tindaya TV
+http://188.165.135.22/tindayatv/livestream/playlist.m3u8
+#EXTINF:-1,Travel TV
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,TV3*
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1,TV4 La Vall
+http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+#EXTINF:-1,TV Alcoi
+http://92.222.37.18/hls/tvaxa.m3u8
+#EXTINF:-1,TVG America
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,TVG Europa
+http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,TVG Europa*
+http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
+#EXTINF:-1,TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
