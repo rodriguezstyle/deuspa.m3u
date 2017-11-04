@@ -1,116 +1,70 @@
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,ESP – TOROS
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/2061.ts
-#EXTINF:-1,ES:VIAJAR HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3174.ts
-#EXTINF:-1,ES – BEIN LA LIGA HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3117.ts
-#EXTINF:-1,ES – TNT
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3138.ts
-#EXTINF:-1,ES – TELEDEPORTE HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3173.ts
-#EXTINF:-1,ES – TELECINCO HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3172.ts
-#EXTINF:-1,ES – TCM HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3171.ts
-#EXTINF:-1,ES – PANDA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3136.ts
-#EXTINF:-1,ES – ODISEA HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3135.ts
-#EXTINF:-1,ES – NONSTOP PEOPLE
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3102.ts
-#EXTINF:-1,ES – NEOX
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3132.ts
-#EXTINF:-1,ES – NATIONAL GEOGRAPHIC HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3169.ts
-#EXTINF:-1,ES – MTV ESPANA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3097.ts
-#EXTINF:-1,ES – MOVISTAR MOTO GP
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3096.ts
-#EXTINF:-1,ES – MOVISTAR FORMULA 1
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3094.ts
-#EXTINF:-1,ES – MEGA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3167.ts
-#EXTINF:-1,ES – LA SEXTA HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3166.ts
-#EXTINF:-1,ES – LA LIGA BAR HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3131.ts
-#EXTINF:-1,ES – LA 2 HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3130.ts
-#EXTINF:-1,ES – LA 1 HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3165.ts
-#EXTINF:-1,ES – ANDALUCIA TV
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3129.ts
-#EXTINF:-1,ES – HOLLYWOOD HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3164.ts
-#EXTINF:-1,ES – HISTORIA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3163.ts
-#EXTINF:-1,ES – GOL TV
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3128.ts
-#EXTINF:-1,ES – FOX LIFE HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3162.ts
-#EXTINF:-1,ES – FOX HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3161.ts
-#EXTINF:-1,ES – DARK
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3107.ts
-#EXTINF:-1,ES – NOVA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3108.ts
-#EXTINF:-1,ES – ENERGY
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3109.ts
-#EXTINF:-1,ES – DIVINITY
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3126.ts
-#EXTINF:-1,ES – LA CUATRO HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3155.ts
-#EXTINF:-1,ES – COMEDY CENTRAL HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3103.ts
-#EXTINF:-1,ES – CLAN TVE
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3124.ts
-#EXTINF:-1,ES – CAZA Y PESCA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3123.ts
-#EXTINF:-1,ES – MOVISTAR XTRA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3154.ts
-#EXTINF:-1,ES – MOVISTAR TOROS TV
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3153.ts
-#EXTINF:-1,ES – IBERALIA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3152.ts
-#EXTINF:-1,ES – PARTIDAZO
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3151.ts
-#EXTINF:-1,ES – CANAL GOLF HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3149.ts
-#EXTINF:-1,ES – MOVISTAR FUTBOL HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3148.ts
-#EXTINF:-1,ES – MOVISTAR ESTRENOS HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3147.ts
-#EXTINF:-1,ES – MOVISTAR DEPORTE HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3146.ts
-#EXTINF:-1,ES – CANAL MOVISTAR DEPORTE 2 HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3145.ts
-#EXTINF:-1,ES – CANAL DECASA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3121.ts
-#EXTINF:-1,ES – MOVISTAR COMEDIA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3143.ts
-#EXTINF:-1,ES – CANAL COCINA
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3120.ts
-#EXTINF:-1,ES – MOVISTAR ACTION
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3142.ts
-#EXTINF:-1,ES – CALLE 13 HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3141.ts
-#EXTINF:-1,ES – BOING
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3119.ts
-#EXTINF:-1,ES – BEIN SPORT HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3118.ts
-#EXTINF:-1,ES – BEIN LA LIGA HQ
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3092.ts
-#EXTINF:-1,ES – LIGA 123 HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3091.ts
-#EXTINF:-1,ES – BARÇA TV
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3104.ts
-#EXTINF:-1,ES – BABY TV
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3090.ts
-#EXTINF:-1,ES – ANTENA 3 HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3139.ts
-#EXTINF:-1,ES – 24 HORAS
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3106.ts
-#EXTINF:-1,ES – #0 HD
-http://tv.nousiptv.com:25462/live/FvokmVoglF/aE6i7NRRRK/3113.ts
+#EXTINF:-1,Es-LA 1
+http://best4u.tn:8000/live/bachir/bachir/2558.ts
+#EXTINF:-1,ES-LA2
+http://best4u.tn:8000/live/bachir/bachir/2599.ts
+#EXTINF:-1,ES-TV3
+http://best4u.tn:8000/live/bachir/bachir/1558.ts
+#EXTINF:-1,es-Antenna 3
+http://best4u.tn:8000/live/bachir/bachir/2007.ts
+#EXTINF:-1,ES-TV_Galicia
+http://best4u.tn:8000/live/bachir/bachir/2595.ts
+#EXTINF:-1,ES:#0
+http://best4u.tn:8000/live/bachir/bachir/3616.ts
+#EXTINF:-1,ES:HISTORIA
+http://best4u.tn:8000/live/bachir/bachir/3615.ts
+#EXTINF:-1,Es-C  XTRA HD
+http://best4u.tn:8000/live/bachir/bachir/2563.ts
+#EXTINF:-1,Es-C  DCINE HD
+http://best4u.tn:8000/live/bachir/bachir/2574.ts
+#EXTINF:-1,ES-ENERGY
+http://best4u.tn:8000/live/bachir/bachir/2606.ts
+#EXTINF:-1,Es-La Sexta
+http://best4u.tn:8000/live/bachir/bachir/2576.ts
+#EXTINF:-1,Es-EuroNews
+http://best4u.tn:8000/live/bachir/bachir/2569.ts
+#EXTINF:-1,Es-CI
+http://best4u.tn:8000/live/bachir/bachir/2573.ts
+#EXTINF:-1,ES-TELEDEPORTE
+http://best4u.tn:8000/live/bachir/bachir/2564.ts
+#EXTINF:-1,Es-EiTB
+http://best4u.tn:8000/live/bachir/bachir/2565.ts
+#EXTINF:-1,ES-NOVA
+http://best4u.tn:8000/live/bachir/bachir/2601.ts
+#EXTINF:-1,ES-FOX HD
+http://best4u.tn:8000/live/bachir/bachir/2590.ts
+#EXTINF:-1,Es-Nickledoen
+http://best4u.tn:8000/live/bachir/bachir/2566.ts
+#EXTINF:-1,ES-Disney.Channel
+http://best4u.tn:8000/live/bachir/bachir/2592.ts
+#EXTINF:-1,ES-DISNEY XD
+http://best4u.tn:8000/live/bachir/bachir/2593.ts
+#EXTINF:-1,ES-DISNEY JUNIOR
+http://best4u.tn:8000/live/bachir/bachir/2594.ts
+#EXTINF:-1,ES-Canal_Toros
+http://best4u.tn:8000/live/bachir/bachir/2591.ts
+#EXTINF:-1,ES-AXN HD
+http://best4u.tn:8000/live/bachir/bachir/2597.ts
+#EXTINF:-1,ES-moviestar.Comedia
+http://best4u.tn:8000/live/bachir/bachir/2596.ts
+#EXTINF:-1,Es-TELECINCO HD
+http://best4u.tn:8000/live/bachir/bachir/2556.ts
+#EXTINF:-1,Es-Nat.Geo
+http://best4u.tn:8000/live/bachir/bachir/2557.ts
+#EXTINF:-1,es-Discovery
+http://best4u.tn:8000/live/bachir/bachir/2003.ts
+#EXTINF:-1,Es-LA LIGA HD
+http://best4u.tn:8000/live/bachir/bachir/2567.ts
+#EXTINF:-1,Es-C  FUTBOL HD
+http://best4u.tn:8000/live/bachir/bachir/2570.ts
+#EXTINF:-1,Es-C  ESTRENOS HD
+http://best4u.tn:8000/live/bachir/bachir/2571.ts
+#EXTINF:-1,Es-C  DEPORTES1 HD
+http://best4u.tn:8000/live/bachir/bachir/2572.ts
+#EXTINF:-1,Es-BEIN SPORTS
+http://best4u.tn:8000/live/bachir/bachir/2579.ts
+#EXTINF:-1,ES-REAL MADRID TV
+http://best4u.tn:8000/live/bachir/bachir/2589.ts
+#EXTINF:-1,ES-MOVISTAR_FORMULA_1_HD
+http://best4u.tn:8000/live/bachir/bachir/2598.ts
