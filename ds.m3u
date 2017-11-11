@@ -1,5 +1,27 @@
-#EXTINF:-1,~ Spain TV ~
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1,~ *************Spain TV******************* ~
+#EXTINF:-1,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Canal 7
+http://163.172.15.219:1935/live/vivatv/playlist.m3u8
+#EXTINF:-1,Telecinco
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
+#EXTINF:-1,Canal 24 Horas
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTINF:-1,Canal 25
+http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
+#EXTINF:-1,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1,3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 #EXTINF:-1,101 TV Malaga
@@ -22,20 +44,6 @@ http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
 http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
 #EXTINF:-1,Andorra TV (Andorra)
 http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:-1,Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1,Antena 3*
-http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
-#EXTINF:-1,Antena 3 Int'l
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,Aragon TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1,Aragon TV*
-http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
-#EXTINF:-1,Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,Atreseries*
-http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
 #EXTINF:-1,Betis TVE
 http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 #EXTINF:-1,Beteve
@@ -44,12 +52,6 @@ http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:-1,Canal 7
-http://163.172.15.219:1935/live/vivatv/playlist.m3u8
-#EXTINF:-1,Canal 24 Horas
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
-#EXTINF:-1,Canal 25
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
 #EXTINF:-1,Canal Costa
 http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
 #EXTINF:-1,Canal Extremadura
@@ -102,12 +104,6 @@ http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
 #EXTINF:-1,Intereconomia TV
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-#EXTINF:-1,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1,La Otra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1,La Xarxa
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
 #EXTINF:-1,Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1,Lebrija TV
@@ -116,8 +112,6 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 #EXTINF:-1,Lleida TV
 http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1,Melilla TV
 http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
 #EXTINF:-1,Mirame TV
@@ -184,8 +178,6 @@ http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
 http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1,TeleBilbao
 http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
-#EXTINF:-1,Telecinco
-http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
 #EXTINF:-1,TeleElx
 http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
 #EXTINF:-1,Telemadrid
@@ -218,6 +210,7 @@ http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
 http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
 #EXTINF:-1,TV Mediterraneo
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:-1,~ ******************* DEUTSCH ********************** ~
 #EXTINF:-1,DE: DAS ERSTE HD
 http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2406.ts
 #EXTINF:-1,DE: ZDF HD
