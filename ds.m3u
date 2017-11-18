@@ -1,1343 +1,219 @@
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,ES-40-TV
-http://tv2iptv.com:8000/live/pierre/12345678/4774.ts
-#EXTINF:-1,ES-AMC
-http://tv2iptv.com:8000/live/pierre/12345678/4662.ts
-#EXTINF:-1,ES-BOING
-http://tv2iptv.com:8000/live/pierre/12345678/4775.ts
-#EXTINF:-1,ES-HOLLYWOOD
-http://tv2iptv.com:8000/live/pierre/12345678/4772.ts
-#EXTINF:-1,ES-LA-1-HD
-http://tv2iptv.com:8000/live/pierre/12345678/4626.ts
-#EXTINF:-1,ES-LA-SEXTA
-http://tv2iptv.com:8000/live/pierre/12345678/4676.ts
-#EXTINF:-1,ES-LA1
-http://tv2iptv.com:8000/live/pierre/12345678/4617.ts
-#EXTINF:-1,ES-LA2
-http://tv2iptv.com:8000/live/pierre/12345678/4667.ts
-#EXTINF:-1,ES-MoviStar-COMEDIA-HD
-http://tv2iptv.com:8000/live/pierre/12345678/4589.ts
-#EXTINF:-1,ES-Movistar-DCINE
-http://tv2iptv.com:8000/live/pierre/12345678/4619.ts
-#EXTINF:-1,ES-Movistar-DEPORTES-2-HD
-http://tv2iptv.com:8000/live/pierre/12345678/4621.ts
-#EXTINF:-1,ES-Movistar-DEPORTES-HD
-http://tv2iptv.com:8000/live/pierre/12345678/4620.ts
-#EXTINF:-1,ES-MoviStar-F1
-http://tv2iptv.com:8000/live/pierre/12345678/4588.ts
-#EXTINF:-1,ES-Movistar-GOLF
-http://tv2iptv.com:8000/live/pierre/12345678/4628.ts
-#EXTINF:-1,ES-Movistar-plus-Accion-HD
-http://tv2iptv.com:8000/live/pierre/12345678/4598.ts
-#EXTINF:-1,ES-Movistar-plus-Futbol
-http://tv2iptv.com:8000/live/pierre/12345678/4600.ts
-#EXTINF:-1,ES-Movistar-plus-LIGA-HD
-http://tv2iptv.com:8000/live/pierre/12345678/4599.ts
-#EXTINF:-1,ES-Movistar-SERIES-HD
-http://tv2iptv.com:8000/live/pierre/12345678/4622.ts
-#EXTINF:-1,ES-Movistar-SERIES-XTRA-HD
-http://tv2iptv.com:8000/live/pierre/12345678/4623.ts
-#EXTINF:-1,ES-Movistar-Toros
-http://tv2iptv.com:8000/live/pierre/12345678/4627.ts
-#EXTINF:-1,ES-NAT-GEO-GRAPHIC
-http://tv2iptv.com:8000/live/pierre/12345678/4670.ts
-#EXTINF:-1,ES-NAT-GEO-WILD
-http://tv2iptv.com:8000/live/pierre/12345678/4669.ts
-#EXTINF:-1,ES-REAL-MADRID
-http://tv2iptv.com:8000/live/pierre/12345678/4773.ts
-#EXTINF:-1,ES-TAQUILLA-1
-http://tv2iptv.com:8000/live/pierre/12345678/4574.ts
-#EXTINF:-1,ES-TAQUILLA-10
-http://tv2iptv.com:8000/live/pierre/12345678/4666.ts
-#EXTINF:-1,ES-TAQUILLA-2
-http://tv2iptv.com:8000/live/pierre/12345678/4657.ts
-#EXTINF:-1,ES-TAQUILLA-3
-http://tv2iptv.com:8000/live/pierre/12345678/4575.ts
-#EXTINF:-1,ES-TAQUILLA-4
-http://tv2iptv.com:8000/live/pierre/12345678/4658.ts
-#EXTINF:-1,ES-TAQUILLA-5
-http://tv2iptv.com:8000/live/pierre/12345678/4659.ts
-#EXTINF:-1,ES-TAQUILLA-6
-http://tv2iptv.com:8000/live/pierre/12345678/4660.ts
-#EXTINF:-1,ES-TAQUILLA-7
-http://tv2iptv.com:8000/live/pierre/12345678/4663.ts
-#EXTINF:-1,ES-TAQUILLA-8
-http://tv2iptv.com:8000/live/pierre/12345678/4664.ts
-#EXTINF:-1,ES-TAQUILLA-9
-http://tv2iptv.com:8000/live/pierre/12345678/4665.ts
-#EXTINF:-1,ES:TELEDEPORTE
-http://tv2iptv.com:8000/live/pierre/12345678/3125.ts
-#EXTINF:-1,ES:TELECINCO
-http://tv2iptv.com:8000/live/pierre/12345678/3126.ts
-#EXTINF:-1,ES:TCM
-http://tv2iptv.com:8000/live/pierre/12345678/3127.ts
-#EXTINF:-1,ES:REAL_MADRID
-http://tv2iptv.com:8000/live/pierre/12345678/3128.ts
-#EXTINF:-1,ES:Paramount.Channel
-http://tv2iptv.com:8000/live/pierre/12345678/3129.ts
-#EXTINF:-1,ES:NOVA
-http://tv2iptv.com:8000/live/pierre/12345678/3130.ts
-#EXTINF:-1,ES:Movistar_Motogp
-http://tv2iptv.com:8000/live/pierre/12345678/3131.ts
-#EXTINF:-1,ES:LA_1_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3133.ts
-#EXTINF:-1,ES:HOLLYWOOD
-http://tv2iptv.com:8000/live/pierre/12345678/3134.ts
-#EXTINF:-1,ES:FDF
-http://tv2iptv.com:8000/live/pierre/12345678/3136.ts
-#EXTINF:-1,ES:DISNY_JUNIOR
-http://tv2iptv.com:8000/live/pierre/12345678/3137.ts
-#EXTINF:-1,ES:DISNEY_CH
-http://tv2iptv.com:8000/live/pierre/12345678/3138.ts
-#EXTINF:-1,ES:LALIGA
-http://tv2iptv.com:8000/live/pierre/12345678/3139.ts
-#EXTINF:-1,ES:Cuatro
-http://tv2iptv.com:8000/live/pierre/12345678/3140.ts
-#EXTINF:-1,ES:COMEDY_CENTRAL
-http://tv2iptv.com:8000/live/pierre/12345678/3141.ts
-#EXTINF:-1,ES:CLAN__TVE
-http://tv2iptv.com:8000/live/pierre/12345678/3142.ts
-#EXTINF:-1,ES:Caza.Y.PESca
-http://tv2iptv.com:8000/live/pierre/12345678/3143.ts
-#EXTINF:-1,ES:CASA&PESCA
-http://tv2iptv.com:8000/live/pierre/12345678/3144.ts
-#EXTINF:-1,ES:CANAL_SUR_ANDALUCIA
-http://tv2iptv.com:8000/live/pierre/12345678/3148.ts
-#EXTINF:-1,ES:Canal_GOLF
-http://tv2iptv.com:8000/live/pierre/12345678/3149.ts
-#EXTINF:-1,ES:CANAL_DCINE
-http://tv2iptv.com:8000/live/pierre/12345678/3152.ts
-#EXTINF:-1,ES:CALLE_13_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3155.ts
-#EXTINF:-1,ES:C _TOROS_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3156.ts
-#EXTINF:-1,ES:C _SERIES_XTRA_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3157.ts
-#EXTINF:-1,ES:C _SERIES_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3159.ts
-#EXTINF:-1,ES:C _LIGA_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3160.ts
-#EXTINF:-1,ES:C _FUTBOL_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3161.ts
-#EXTINF:-1,ES:C _ESTRENOS_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3162.ts
-#EXTINF:-1,ES:C _DEPORTES_1HD
-http://tv2iptv.com:8000/live/pierre/12345678/3163.ts
-#EXTINF:-1,ES:C _DEPORTES_2_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3164.ts
-#EXTINF:-1,ES:C _Dcine_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3165.ts
-#EXTINF:-1,ES:C _COMEDIA_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3166.ts
-#EXTINF:-1,ES:C _ACCION_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3167.ts
-#EXTINF:-1,ES:Bein_Sports_Espan_HD
-http://tv2iptv.com:8000/live/pierre/12345678/3168.ts
-#EXTINF:-1,ES:AXN_WHITE
-http://tv2iptv.com:8000/live/pierre/12345678/3169.ts
-#EXTINF:-1,ES:Axn
-http://tv2iptv.com:8000/live/pierre/12345678/3170.ts
-#EXTINF:-1,ES:National Geografic
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2418.ts
-#EXTINF:-1,ES:Canal Series
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2412.ts
-#EXTINF:-1,ES:Canal Real Madrid
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2425.ts
-#EXTINF:-1,ES:Canal Liga HD
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2423.ts
-#EXTINF:-1,ES:Canal Hollywood
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2414.ts
-#EXTINF:-1,ES:Canal Golf
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2420.ts
-#EXTINF:-1,ES:Canal Fútbol
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2421.ts
-#EXTINF:-1,ES:Canal Dcine
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2411.ts
-#EXTINF:-1,ES:Canal Comedia
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2413.ts
-#EXTINF:-1,ES:AXN White
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2417.ts
-#EXTINF:-1,ES:AXN
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2416.ts
-#EXTINF:-1,ES: Canal  Series
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2370.ts
-#EXTINF:-1,ES: Canal  Golf
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2371.ts
-#EXTINF:-1,ES: Canal  Deportes
-http://bestvision.selfip.biz:10051/live/cobra/cobra/2374.ts
-#EXTINF:-1,[DE] Sky Sport News HD
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1414.ts
-#EXTINF:-1,[DE] Sky Sport HD 1
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1412.ts
-#EXTINF:-1,[DE] Sky Sport HD 2
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1413.ts
-#EXTINF:-1,[DE] Boomerang Germany
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1448.ts
-#EXTINF:-1,[DE] Cartoon Network Germany
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1449.ts
-#EXTINF:-1,[DE] Disney Channel HD Germany
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1451.ts
-#EXTINF:-1,[DE] Disney Cinemagic HD Germany
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1452.ts
-#EXTINF:-1,[DE] Disney Junior HD Germany
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1453.ts
-#EXTINF:-1,[DE] Disney XD Deutschland
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1454.ts
-#EXTINF:-1,[DE] Discovery HD Deutschland
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1450.ts
-#EXTINF:-1,[DE] History Channel HD Germany
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1455.ts
-#EXTINF:-1,[DE] NatGeo Wild HD Germany
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1456.ts
-#EXTINF:-1,[DE] National Geographic HD Germany
-http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1457.ts
-#EXTINF:-1,DE:13th Street
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7356.ts
-#EXTINF:-1,DE:3Sat
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7382.ts
-#EXTINF:-1,DE:ARTE
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7381.ts
-#EXTINF:-1,DE:Boomerang
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7368.ts
-#EXTINF:-1,DE:Cartoon Network
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7369.ts
-#EXTINF:-1,DE:Daserste
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7392.ts
-#EXTINF:-1,DE:Discovery Channel
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7349.ts
-#EXTINF:-1,DE:Disney Channel
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7370.ts
-#EXTINF:-1,DE:DMAX
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7383.ts
-#EXTINF:-1,DE:HeitmatKanal
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7350.ts
-#EXTINF:-1,DE:HR Fernsehen
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7367.ts
-#EXTINF:-1,DE:KabelEins
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7386.ts
-#EXTINF:-1,DE:Kika
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7372.ts
-#EXTINF:-1,DE:N24
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7380.ts
-#EXTINF:-1,DE:NAT GEO
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7347.ts
-#EXTINF:-1,DE:NAT GEO WILD
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7346.ts
-#EXTINF:-1,DE:Nickelodeon
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7371.ts
-#EXTINF:-1,DE:NTV
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7366.ts
-#EXTINF:-1,DE:Prosieben
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7387.ts
-#EXTINF:-1,DE:Prosieben Maxx
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7374.ts
-#EXTINF:-1,DE:RTL
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7391.ts
-#EXTINF:-1,DE:RTL Crime
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7354.ts
-#EXTINF:-1,DE:RTL Nitro
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7384.ts
-#EXTINF:-1,DE:RTL2
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7390.ts
-#EXTINF:-1,DE:SAT1
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7389.ts
-#EXTINF:-1,DE:SAT1 Gold
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7375.ts
-#EXTINF:-1,DE:SIXX
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7388.ts
-#EXTINF:-1,DE:Sky Action
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7361.ts
-#EXTINF:-1,DE:Sky Atlantic
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7352.ts
-#EXTINF:-1,DE:Sky Bundesliga1
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7341.ts
-#EXTINF:-1,DE:Sky Cinema
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7364.ts
-#EXTINF:-1,DE:Sky Cinema Family
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7365.ts
-#EXTINF:-1,DE:Sky Cinema Plus1
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7363.ts
-#EXTINF:-1,DE:Sky Cinema Plus24
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7360.ts
-#EXTINF:-1,DE:Sky Comedy
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7362.ts
-#EXTINF:-1,DE:Sky Emotion
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7359.ts
-#EXTINF:-1,DE:Sky Krimi
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7355.ts
-#EXTINF:-1,DE:Sky News
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7344.ts
-#EXTINF:-1,DE:Sky Nostalgie
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7357.ts
-#EXTINF:-1,DE:Sky Sport1
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7343.ts
-#EXTINF:-1,DE:Sky Sport2
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7342.ts
-#EXTINF:-1,DE:Spiegelgeschichte
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7348.ts
-#EXTINF:-1,DE:Sport1
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7345.ts
-#EXTINF:-1,DE:SuperRTL
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7373.ts
-#EXTINF:-1,DE:Syfy
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7351.ts
-#EXTINF:-1,DE:TEC Time
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7376.ts
-#EXTINF:-1,DE:Tele5
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7377.ts
-#EXTINF:-1,DE:TLC
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7379.ts
-#EXTINF:-1,DE:TNT Film
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7358.ts
-#EXTINF:-1,DE:TNT Serie
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7353.ts
-#EXTINF:-1,DE:VOX
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7385.ts
-#EXTINF:-1,DE:ZDF
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7393.ts
-#EXTINF:-1,DE:ZEE One
-http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/7378.ts
-#EXTINF:-1,DE: Zdf
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7820.ts
-#EXTINF:-1,DE: 3 Sat
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7819.ts
-#EXTINF:-1,DE: Goldstar TV
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7818.ts
-#EXTINF:-1,DE: Kika
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7817.ts
-#EXTINF:-1,DE: N24
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7816.ts
-#EXTINF:-1,DE: A&E
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7815.ts
-#EXTINF:-1,==== Germany HD  ====
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7814.ts
-#EXTINF:-1,DE: Rtl HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7813.ts
-#EXTINF:-1,DE: Rtl Crime HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7812.ts
-#EXTINF:-1,DE: Rtl 2 HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7811.ts
-#EXTINF:-1,DE: Super Rtl HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7810.ts
-#EXTINF:-1,DE: ProSieben HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7809.ts
-#EXTINF:-1,DE: Prosieben Maxx HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7808.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7807.ts
-#EXTINF:-1,DE: Vox HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7806.ts
-#EXTINF:-1,DE: Kabel 1 HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7805.ts
-#EXTINF:-1,DE: Sixx HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7804.ts
-#EXTINF:-1,DE: RTL Crime
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7803.ts
-#EXTINF:-1,DE: RTL Passion
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7802.ts
-#EXTINF:-1,DE: Rtl Nitro
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7801.ts
-#EXTINF:-1,DE: Sat 1 Gold
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7800.ts
-#EXTINF:-1,==== Sky Germany HD ====
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7799.ts
-#EXTINF:-1,DE: Sky Arts HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7798.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7797.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7796.ts
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7795.ts
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7794.ts
-#EXTINF:-1,DE: Sky Cinema Emotion
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7793.ts
-#EXTINF:-1,DE: Sky Cinema Nostalgie
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7792.ts
-#EXTINF:-1,DE: Sky Cinema Hits HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7791.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7790.ts
-#EXTINF:-1,DE: Sky Disney Cinemagic HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7789.ts
-#EXTINF:-1,DE: Sky Krimi
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7788.ts
-#EXTINF:-1,DE: Sky TNT Serie
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7787.ts
-#EXTINF:-1,DE: FOX HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7786.ts
-#EXTINF:-1,DE: Fox Serie
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7785.ts
-#EXTINF:-1,DE: SyFy HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7784.ts
-#EXTINF:-1,DE: Syfy
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7783.ts
-#EXTINF:-1,DE: TNT Film
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7782.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7781.ts
-#EXTINF:-1,DE: 13th Street HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7780.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7779.ts
-#EXTINF:-1,DE: E! Entertainment
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7778.ts
-#EXTINF:-1,DE: Jukebox
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7777.ts
-#EXTINF:-1,DE: Heimat Kanal
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7776.ts
-#EXTINF:-1,DE: Kinowelt TV
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7775.ts
-#EXTINF:-1,DE: Disney Channel HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7774.ts
-#EXTINF:-1,DE: Disney Junior HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7773.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7772.ts
-#EXTINF:-1,DE: Boomerang
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7771.ts
-#EXTINF:-1,DE: Cartoon Network
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7770.ts
-#EXTINF:-1,DE: Universal HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7769.ts
-#EXTINF:-1,DE: Discovery HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7768.ts
-#EXTINF:-1,DE: History HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7767.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7766.ts
-#EXTINF:-1,DE: National Geographic HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7765.ts
-#EXTINF:-1,DE: National Geographic Wild HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7764.ts
-#EXTINF:-1,DE: National Geographic
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7763.ts
-#EXTINF:-1,DE: Discovery Channel
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7762.ts
-#EXTINF:-1,==== Germany Sports HD====
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7761.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7760.ts
-#EXTINF:-1,DE: Eurosport 2 HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7759.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7758.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7757.ts
-#EXTINF:-1,DE: Motorvision
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7756.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://www.sansat.net:25461/live/02023507443886/02023507443886/7755.ts
-#EXTINF:-1,DE:3SAT_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7993.ts
-#EXTINF:-1,DE:ANIXE
-http://tv2iptv.com:8000/live/pierre/12345678/7991.ts
-#EXTINF:-1,DE:ARD_1
-http://tv2iptv.com:8000/live/pierre/12345678/7990.ts
-#EXTINF:-1,DE:Arte
-http://tv2iptv.com:8000/live/pierre/12345678/7989.ts
-#EXTINF:-1,DE:ATV
-http://tv2iptv.com:8000/live/pierre/12345678/7988.ts
-#EXTINF:-1,DE:ATV //
-http://tv2iptv.com:8000/live/pierre/12345678/7987.ts
-#EXTINF:-1,DE:austria_24
-http://tv2iptv.com:8000/live/pierre/12345678/7986.ts
-#EXTINF:-1,DE:AXN
-http://tv2iptv.com:8000/live/pierre/12345678/7985.ts
-#EXTINF:-1,DE:A_and_E
-http://tv2iptv.com:8000/live/pierre/12345678/7992.ts
-#EXTINF:-1,DE:Boomerang
-http://tv2iptv.com:8000/live/pierre/12345678/7984.ts
-#EXTINF:-1,DE:Cartoon_Network
-http://tv2iptv.com:8000/live/pierre/12345678/7983.ts
-#EXTINF:-1,DE:DAS_ERSTE
-http://tv2iptv.com:8000/live/pierre/12345678/7982.ts
-#EXTINF:-1,DE:Deluxe-Music-hd
-http://tv2iptv.com:8000/live/pierre/12345678/7981.ts
-#EXTINF:-1,DE:Discovery
-http://tv2iptv.com:8000/live/pierre/12345678/7980.ts
-#EXTINF:-1,DE:Disney_Channel_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7979.ts
-#EXTINF:-1,DE:Disney_Cinemagic_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7978.ts
-#EXTINF:-1,DE:Disney_Junior_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7977.ts
-#EXTINF:-1,DE:DMAX
-http://tv2iptv.com:8000/live/pierre/12345678/7976.ts
-#EXTINF:-1,DE:E! Entertainment
-http://tv2iptv.com:8000/live/pierre/12345678/7975.ts
-#EXTINF:-1,DE:Eurosport 2 Xtra HD
-http://tv2iptv.com:8000/live/pierre/12345678/7974.ts
-#EXTINF:-1,DE:Eurosport_2_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7973.ts
-#EXTINF:-1,DE:Eurosport_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7972.ts
-#EXTINF:-1,DE:FILM GOLD 1
-http://tv2iptv.com:8000/live/pierre/12345678/7970.ts
-#EXTINF:-1,DE:FILM GOLD 2
-http://tv2iptv.com:8000/live/pierre/12345678/7969.ts
-#EXTINF:-1,DE:FILM GOLD 3
-http://tv2iptv.com:8000/live/pierre/12345678/7968.ts
-#EXTINF:-1,DE:FILM GOLD 4
-http://tv2iptv.com:8000/live/pierre/12345678/7967.ts
-#EXTINF:-1,DE:FILM GOLD 5
-http://tv2iptv.com:8000/live/pierre/12345678/7966.ts
-#EXTINF:-1,DE:Folx Tv
-http://tv2iptv.com:8000/live/pierre/12345678/7965.ts
-#EXTINF:-1,DE:Fox_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7964.ts
-#EXTINF:-1,DE:GOLDSTAR TV
-http://tv2iptv.com:8000/live/pierre/12345678/7963.ts
-#EXTINF:-1,DE:Heimatkanal
-http://tv2iptv.com:8000/live/pierre/12345678/7962.ts
-#EXTINF:-1,DE:History_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7961.ts
-#EXTINF:-1,DE:Hr HD
-http://tv2iptv.com:8000/live/pierre/12345678/7960.ts
-#EXTINF:-1,DE:Jukebox HD
-http://tv2iptv.com:8000/live/pierre/12345678/7959.ts
-#EXTINF:-1,DE:KABEL 1 Classics
-http://tv2iptv.com:8000/live/pierre/12345678/7958.ts
-#EXTINF:-1,DE:Kabel 1 Doku
-http://tv2iptv.com:8000/live/pierre/12345678/7957.ts
-#EXTINF:-1,DE:KABEL1_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7956.ts
-#EXTINF:-1,DE:Kika_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7955.ts
-#EXTINF:-1,DE:Kinowelt_Tv
-http://tv2iptv.com:8000/live/pierre/12345678/7954.ts
-#EXTINF:-1,DE:Motorvision_TV
-http://tv2iptv.com:8000/live/pierre/12345678/7953.ts
-#EXTINF:-1,DE:N-TV
-http://tv2iptv.com:8000/live/pierre/12345678/7952.ts
-#EXTINF:-1,DE:N24_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7951.ts
-#EXTINF:-1,DE:National_Geo_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7948.ts
-#EXTINF:-1,DE:Nat_Geo_People
-http://tv2iptv.com:8000/live/pierre/12345678/7950.ts
-#EXTINF:-1,DE:Nat_Geo_Wild
-http://tv2iptv.com:8000/live/pierre/12345678/7949.ts
-#EXTINF:-1,DE:NDR_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7947.ts
-#EXTINF:-1,DE:Nickelodeon
-http://tv2iptv.com:8000/live/pierre/12345678/7946.ts
-#EXTINF:-1,DE:ORF EINS
-http://tv2iptv.com:8000/live/pierre/12345678/7945.ts
-#EXTINF:-1,DE:ORF_1
-http://tv2iptv.com:8000/live/pierre/12345678/7944.ts
-#EXTINF:-1,DE:ORF_2_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7943.ts
-#EXTINF:-1,DE:ORF_3
-http://tv2iptv.com:8000/live/pierre/12345678/7942.ts
-#EXTINF:-1,DE:ORF_Sport
-http://tv2iptv.com:8000/live/pierre/12345678/7941.ts
-#EXTINF:-1,DE:Pro7
-http://tv2iptv.com:8000/live/pierre/12345678/7940.ts
-#EXTINF:-1,DE:Pro7_Fun_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7939.ts
-#EXTINF:-1,DE:Pro7_Maxx_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7938.ts
-#EXTINF:-1,DE:Puls_4
-http://tv2iptv.com:8000/live/pierre/12345678/7937.ts
-#EXTINF:-1,DE:Romance_TV_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7936.ts
-#EXTINF:-1,DE:RTL
-http://tv2iptv.com:8000/live/pierre/12345678/7935.ts
-#EXTINF:-1,DE:RTL2_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7930.ts
-#EXTINF:-1,DE:RTL_Crime_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7934.ts
-#EXTINF:-1,DE:RTL_LIVING
-http://tv2iptv.com:8000/live/pierre/12345678/7933.ts
-#EXTINF:-1,DE:RTL_Nitro
-http://tv2iptv.com:8000/live/pierre/12345678/7932.ts
-#EXTINF:-1,DE:RTL_Passion
-http://tv2iptv.com:8000/live/pierre/12345678/7931.ts
-#EXTINF:-1,DE:Sat_1
-http://tv2iptv.com:8000/live/pierre/12345678/7929.ts
-#EXTINF:-1,DE:Sat_1_Gold
-http://tv2iptv.com:8000/live/pierre/12345678/7928.ts
-#EXTINF:-1,DE:Servus_TV
-http://tv2iptv.com:8000/live/pierre/12345678/7927.ts
-#EXTINF:-1,DE:Sixx_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7926.ts
-#EXTINF:-1,DE:Sky_1
-http://tv2iptv.com:8000/live/pierre/12345678/7925.ts
-#EXTINF:-1,DE:Sky_3D
-http://tv2iptv.com:8000/live/pierre/12345678/7924.ts
-#EXTINF:-1,DE:Sky_Action
-http://tv2iptv.com:8000/live/pierre/12345678/7923.ts
-#EXTINF:-1,DE:Sky_Arts
-http://tv2iptv.com:8000/live/pierre/12345678/7922.ts
-#EXTINF:-1,DE:Sky_Atlantic_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7921.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_1_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7920.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_2_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7919.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_3_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7918.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_4_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7917.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_5_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7916.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_6_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7915.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_7_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7914.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_8_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7913.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_9_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7912.ts
-#EXTINF:-1,DE:Sky_Cinema
-http://tv2iptv.com:8000/live/pierre/12345678/7911.ts
-#EXTINF:-1,DE:Sky_Cinema-24
-http://tv2iptv.com:8000/live/pierre/12345678/7910.ts
-#EXTINF:-1,DE:Sky_Comedy
-http://tv2iptv.com:8000/live/pierre/12345678/7909.ts
-#EXTINF:-1,DE:Sky_Emotion
-http://tv2iptv.com:8000/live/pierre/12345678/7908.ts
-#EXTINF:-1,DE:Sky_Hits_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7907.ts
-#EXTINF:-1,DE:Sky_Krimi
-http://tv2iptv.com:8000/live/pierre/12345678/7906.ts
-#EXTINF:-1,DE:Sky_Nostalgie
-http://tv2iptv.com:8000/live/pierre/12345678/7905.ts
-#EXTINF:-1,DE:Sky_Planet_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7904.ts
-#EXTINF:-1,DE:SKY_SELECT_1_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7903.ts
-#EXTINF:-1,DE:SKY_SELECT_2_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7902.ts
-#EXTINF:-1,DE:SKY_SELECT_3_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7901.ts
-#EXTINF:-1,DE:SKY_SELECT_4_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7900.ts
-#EXTINF:-1,DE:SKY_SELECT_5_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7899.ts
-#EXTINF:-1,DE:SKY_SELECT_6_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7898.ts
-#EXTINF:-1,DE:SKY_SELECT_7_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7897.ts
-#EXTINF:-1,DE:SKY_SELECT_8_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7896.ts
-#EXTINF:-1,DE:Sky_Sports_HD_1
-http://tv2iptv.com:8000/live/pierre/12345678/7892.ts
-#EXTINF:-1,DE:Sky_Sports_HD_3_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7890.ts
-#EXTINF:-1,DE:Sky_Sports_HD_4_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7889.ts
-#EXTINF:-1,DE:Sky_Sports_HD_5_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7888.ts
-#EXTINF:-1,DE:Sky_Sports_HD_6_(Match_Time_only)
-http://tv2iptv.com:8000/live/pierre/12345678/7887.ts
-#EXTINF:-1,DE:Sky_Sport_Austria_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7895.ts
-#EXTINF:-1,DE:SKY_Sport_News_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7894.ts
-#EXTINF:-1,DE:Sky_Sport_Plus_1_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7893.ts
-#EXTINF:-1,DE:Sky_TNT_Serie_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7886.ts
-#EXTINF:-1,DE:Sony HD
-http://tv2iptv.com:8000/live/pierre/12345678/7885.ts
-#EXTINF:-1,DE:Spiegel_Geschichte_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7884.ts
-#EXTINF:-1,DE:Sport-DigitaL_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7883.ts
-#EXTINF:-1,DE:Sport1_US_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7882.ts
-#EXTINF:-1,DE:SRF_1_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7881.ts
-#EXTINF:-1,DE:SRF_2_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7880.ts
-#EXTINF:-1,DE:SUPER_RTL
-http://tv2iptv.com:8000/live/pierre/12345678/7879.ts
-#EXTINF:-1,DE:SWR
-http://tv2iptv.com:8000/live/pierre/12345678/7878.ts
-#EXTINF:-1,DE:Syfy_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7877.ts
-#EXTINF:-1,DE:Tele-5-hd
-http://tv2iptv.com:8000/live/pierre/12345678/7876.ts
-#EXTINF:-1,DE:Tlc-hd
-http://tv2iptv.com:8000/live/pierre/12345678/7875.ts
-#EXTINF:-1,DE:TNT_Comedy
-http://tv2iptv.com:8000/live/pierre/12345678/7874.ts
-#EXTINF:-1,DE:TNT_Film
-http://tv2iptv.com:8000/live/pierre/12345678/7873.ts
-#EXTINF:-1,DE:TOGGO_Plus
-http://tv2iptv.com:8000/live/pierre/12345678/7872.ts
-#EXTINF:-1,DE:Universal_HD
-http://tv2iptv.com:8000/live/pierre/12345678/7871.ts
-#EXTINF:-1,DE:VH1
-http://tv2iptv.com:8000/live/pierre/12345678/7870.ts
-#EXTINF:-1,DE:Viva_and_Comedy_Central
-http://tv2iptv.com:8000/live/pierre/12345678/7869.ts
-#EXTINF:-1,DE:VOX
-http://tv2iptv.com:8000/live/pierre/12345678/7868.ts
-#EXTINF:-1,DE:WDR
-http://tv2iptv.com:8000/live/pierre/12345678/7867.ts
-#EXTINF:-1,DE:ZDF
-http://tv2iptv.com:8000/live/pierre/12345678/7866.ts
-#EXTINF:-1,DE:ZDF_Info
-http://tv2iptv.com:8000/live/pierre/12345678/7865.ts
-#EXTINF:-1,DE:ZDF_Neo
-http://tv2iptv.com:8000/live/pierre/12345678/7864.ts
-#EXTINF:-1,DE:ZEE_ONE
-http://tv2iptv.com:8000/live/pierre/12345678/7863.ts
-#EXTINF:-1,DE |  Sky Cinema Hits
-http://cloudiptv.cf/live/Katrina1/Katrina1/5267.ts
-#EXTINF:-1,DE | 1-2-3.tv HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5294.ts
-#EXTINF:-1,DE | 13th Street
-http://cloudiptv.cf/live/Katrina1/Katrina1/5334.ts
-#EXTINF:-1,DE | 13th Street HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5228.ts
-#EXTINF:-1,DE | 3sat
-http://cloudiptv.cf/live/Katrina1/Katrina1/5333.ts
-#EXTINF:-1,DE | 3SAT HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5332.ts
-#EXTINF:-1,DE | A&E HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5227.ts
-#EXTINF:-1,DE | Animal Planet HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5226.ts
-#EXTINF:-1,DE | ANIXE HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5293.ts
-#EXTINF:-1,DE | ARD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5335.ts
-#EXTINF:-1,DE | Arte
-http://cloudiptv.cf/live/Katrina1/Katrina1/5331.ts
-#EXTINF:-1,DE | AXN HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5225.ts
-#EXTINF:-1,DE | AXN HD Germany
-http://cloudiptv.cf/live/Katrina1/Katrina1/5336.ts
-#EXTINF:-1,DE | Boomerang
-http://cloudiptv.cf/live/Katrina1/Katrina1/5337.ts
-#EXTINF:-1,DE | Bundesliga 1
-http://cloudiptv.cf/live/Katrina1/Katrina1/5338.ts
-#EXTINF:-1,DE | Cartoon Network Germany
-http://cloudiptv.cf/live/Katrina1/Katrina1/5339.ts
-#EXTINF:-1,DE | Channel21 HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5292.ts
-#EXTINF:-1,DE | Classica
-http://cloudiptv.cf/live/Katrina1/Katrina1/5340.ts
-#EXTINF:-1,DE | DAS ERSTE HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5330.ts
-#EXTINF:-1,DE | Deluxe Music HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5341.ts
-#EXTINF:-1,DE | Discovery HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5342.ts
-#EXTINF:-1,DE | Discovery HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5224.ts
-#EXTINF:-1,DE | Disney Channel HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5223.ts
-#EXTINF:-1,DE | Disney Channel HD Germany
-http://cloudiptv.cf/live/Katrina1/Katrina1/5343.ts
-#EXTINF:-1,DE | Disney Cinemagic HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5344.ts
-#EXTINF:-1,DE | Disney Cinemagic HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5222.ts
-#EXTINF:-1,DE | Disney Junior
-http://cloudiptv.cf/live/Katrina1/Katrina1/5345.ts
-#EXTINF:-1,DE | Disney XD Deutschland
-http://cloudiptv.cf/live/Katrina1/Katrina1/5346.ts
-#EXTINF:-1,DE | E! Entertainement
-http://cloudiptv.cf/live/Katrina1/Katrina1/5263.ts
-#EXTINF:-1,DE | E! Entertainm HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5266.ts
-#EXTINF:-1,DE | Eurosport 1 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5247.ts
-#EXTINF:-1,DE | Fox HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5248.ts
-#EXTINF:-1,DE | FOX HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5221.ts
-#EXTINF:-1,DE | History HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5220.ts
-#EXTINF:-1,DE | Hr-fernsehen HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5291.ts
-#EXTINF:-1,DE | HSE24 EXTRA HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5290.ts
-#EXTINF:-1,DE | Kabel 1
-http://cloudiptv.cf/live/Katrina1/Katrina1/5347.ts
-#EXTINF:-1,DE | Kabel Eins
-http://cloudiptv.cf/live/Katrina1/Katrina1/5329.ts
-#EXTINF:-1,DE | Kika
-http://cloudiptv.cf/live/Katrina1/Katrina1/5348.ts
-#EXTINF:-1,DE | MDR S-Anhalt HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5289.ts
-#EXTINF:-1,DE | MDR Sachsen HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5288.ts
-#EXTINF:-1,DE | MDR Thüringen HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5287.ts
-#EXTINF:-1,DE | Mediaspar
-http://cloudiptv.cf/live/Katrina1/Katrina1/5286.ts
-#EXTINF:-1,DE | MGM HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5349.ts
-#EXTINF:-1,DE | MGM HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5219.ts
-#EXTINF:-1,DE | Motorvision TV
-http://cloudiptv.cf/live/Katrina1/Katrina1/5265.ts
-#EXTINF:-1,DE | MTV HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5285.ts
-#EXTINF:-1,DE | N-TV HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5218.ts
-#EXTINF:-1,DE | N24
-http://cloudiptv.cf/live/Katrina1/Katrina1/5350.ts
-#EXTINF:-1,DE | Nat Geo Wild HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5217.ts
-#EXTINF:-1,DE | NatGeo HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5216.ts
-#EXTINF:-1,DE | NatGeo Wild HD Germany
-http://cloudiptv.cf/live/Katrina1/Katrina1/5351.ts
-#EXTINF:-1,DE | National Geographic HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5215.ts
-#EXTINF:-1,DE | National Geographic HD Germany
-http://cloudiptv.cf/live/Katrina1/Katrina1/5352.ts
-#EXTINF:-1,DE | Nickelodeon
-http://cloudiptv.cf/live/Katrina1/Katrina1/5353.ts
-#EXTINF:-1,DE | Orf 1
-http://cloudiptv.cf/live/Katrina1/Katrina1/5354.ts
-#EXTINF:-1,DE | Orf 2
-http://cloudiptv.cf/live/Katrina1/Katrina1/5355.ts
-#EXTINF:-1,DE | PHOENIX
-http://cloudiptv.cf/live/Katrina1/Katrina1/5328.ts
-#EXTINF:-1,DE | PRO 7 HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5214.ts
-#EXTINF:-1,DE | Pro7
-http://cloudiptv.cf/live/Katrina1/Katrina1/5356.ts
-#EXTINF:-1,DE | Pro7 Fun HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5296.ts
-#EXTINF:-1,DE | Pro7 Maxx HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5295.ts
-#EXTINF:-1,DE | ProSieben HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5284.ts
-#EXTINF:-1,DE | ProSieben Maxx HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5283.ts
-#EXTINF:-1,DE | ProSieben Maxx HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5213.ts
-#EXTINF:-1,DE | QVC BEAUTY & STYLE HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5282.ts
-#EXTINF:-1,DE | QVC HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5281.ts
-#EXTINF:-1,DE | QVC PLUS HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5280.ts
-#EXTINF:-1,DE | Rbb Berlin HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5279.ts
-#EXTINF:-1,DE | rbb Brandenburg HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5278.ts
-#EXTINF:-1,DE | RD HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5277.ts
-#EXTINF:-1,DE | RTL
-http://cloudiptv.cf/live/Katrina1/Katrina1/5357.ts
-#EXTINF:-1,DE | RTL 2 HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5212.ts
-#EXTINF:-1,DE | RTL Crime HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5249.ts
-#EXTINF:-1,DE | RTL HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5250.ts
-#EXTINF:-1,DE | RTL HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5211.ts
-#EXTINF:-1,DE | RTL Living
-http://cloudiptv.cf/live/Katrina1/Katrina1/5251.ts
-#EXTINF:-1,DE | RTL NITRO
-http://cloudiptv.cf/live/Katrina1/Katrina1/5358.ts
-#EXTINF:-1,DE | RTL NITRO HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5210.ts
-#EXTINF:-1,DE | RTL Passion
-http://cloudiptv.cf/live/Katrina1/Katrina1/5252.ts
-#EXTINF:-1,DE | RTL2
-http://cloudiptv.cf/live/Katrina1/Katrina1/5253.ts
-#EXTINF:-1,DE | Sat 1
-http://cloudiptv.cf/live/Katrina1/Katrina1/5359.ts
-#EXTINF:-1,DE | sat 1 emotions
-http://cloudiptv.cf/live/Katrina1/Katrina1/5360.ts
-#EXTINF:-1,DE | Sat 1 Gold
-http://cloudiptv.cf/live/Katrina1/Katrina1/5327.ts
-#EXTINF:-1,DE | SAT.1 HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5209.ts
-#EXTINF:-1,DE | SERVUS TV HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5326.ts
-#EXTINF:-1,DE | sixx HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5208.ts
-#EXTINF:-1,DE | Sky 3D ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5276.ts
-#EXTINF:-1,DE | Sky Action HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5361.ts
-#EXTINF:-1,DE | Sky Action HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5207.ts
-#EXTINF:-1,DE | Sky Arts HD ( EN AUDIO )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5262.ts
-#EXTINF:-1,DE | Sky atlantic
-http://cloudiptv.cf/live/Katrina1/Katrina1/5254.ts
-#EXTINF:-1,DE | Sky Atlantic HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5255.ts
-#EXTINF:-1,DE | Sky Atlantic HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5206.ts
-#EXTINF:-1,DE | Sky Bundesliga 1 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5362.ts
-#EXTINF:-1,DE | Sky Cinema  1 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5372.ts
-#EXTINF:-1,DE | SKY CINEMA  24
-http://cloudiptv.cf/live/Katrina1/Katrina1/5373.ts
-#EXTINF:-1,DE | Sky Cinema Family
-http://cloudiptv.cf/live/Katrina1/Katrina1/5264.ts
-#EXTINF:-1,DE | Sky Cinema HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5374.ts
-#EXTINF:-1,DE | Sky Cinema HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5205.ts
-#EXTINF:-1,DE | Sky Comedy HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5375.ts
-#EXTINF:-1,DE | Sky Disney HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5376.ts
-#EXTINF:-1,DE | Sky DMAX HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5377.ts
-#EXTINF:-1,DE | Sky Emotion HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5378.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 10 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5229.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 2 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5230.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 3 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5231.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 4 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5232.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 5 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5233.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 6 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5234.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 7 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5235.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 8 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5236.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 9 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5237.ts
-#EXTINF:-1,DE | Sky Germany Sport 10 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5238.ts
-#EXTINF:-1,DE | Sky Germany Sport 11 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5239.ts
-#EXTINF:-1,DE | Sky Germany Sport 3 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5246.ts
-#EXTINF:-1,DE | Sky Germany Sport 4 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5240.ts
-#EXTINF:-1,DE | Sky Germany Sport 5 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5241.ts
-#EXTINF:-1,DE | Sky Germany Sport 6 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5242.ts
-#EXTINF:-1,DE | Sky Germany Sport 7 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5243.ts
-#EXTINF:-1,DE | Sky Germany Sport 8 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5244.ts
-#EXTINF:-1,DE | Sky Germany Sport 9 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5245.ts
-#EXTINF:-1,DE | Sky Hits HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5379.ts
-#EXTINF:-1,DE | Sky Hits HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5204.ts
-#EXTINF:-1,DE | Sky Krimi
-http://cloudiptv.cf/live/Katrina1/Katrina1/5256.ts
-#EXTINF:-1,DE | Sky Nostalgie
-http://cloudiptv.cf/live/Katrina1/Katrina1/5257.ts
-#EXTINF:-1,DE | SKY SELECT 1
-http://cloudiptv.cf/live/Katrina1/Katrina1/5380.ts
-#EXTINF:-1,DE | SKY SELECT 2
-http://cloudiptv.cf/live/Katrina1/Katrina1/5381.ts
-#EXTINF:-1,DE | SKY SELECT 3
-http://cloudiptv.cf/live/Katrina1/Katrina1/5382.ts
-#EXTINF:-1,DE | SKY SELECT 4
-http://cloudiptv.cf/live/Katrina1/Katrina1/5383.ts
-#EXTINF:-1,DE | SKY SELECT 5
-http://cloudiptv.cf/live/Katrina1/Katrina1/5384.ts
-#EXTINF:-1,DE | SKY SELECT 6
-http://cloudiptv.cf/live/Katrina1/Katrina1/5385.ts
-#EXTINF:-1,DE | Sky Select 7
-http://cloudiptv.cf/live/Katrina1/Katrina1/5386.ts
-#EXTINF:-1,DE | Sky Select 8
-http://cloudiptv.cf/live/Katrina1/Katrina1/5387.ts
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5388.ts
-#EXTINF:-1,DE | Sky Sport 1 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5321.ts
-#EXTINF:-1,DE | Sky Sport 10 HD ( During Games only )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5389.ts
-#EXTINF:-1,DE | Sky Sport 10 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5320.ts
-#EXTINF:-1,DE | Sky Sport 11 HD ( During Games only )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5390.ts
-#EXTINF:-1,DE | Sky Sport 11 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5319.ts
-#EXTINF:-1,DE | Sky Sport 2 HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5391.ts
-#EXTINF:-1,DE | Sky Sport 2 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5318.ts
-#EXTINF:-1,DE | Sky Sport 3 HD ( During Games only )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5392.ts
-#EXTINF:-1,DE | Sky Sport 3 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5317.ts
-#EXTINF:-1,DE | Sky Sport 4 HD ( During Games only )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5393.ts
-#EXTINF:-1,DE | Sky Sport 4 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5316.ts
-#EXTINF:-1,DE | Sky Sport 5 HD  ( During Games only )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5394.ts
-#EXTINF:-1,DE | Sky Sport 5 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5315.ts
-#EXTINF:-1,DE | Sky Sport 6 HD ( During Games only )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5395.ts
-#EXTINF:-1,DE | Sky Sport 6 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5314.ts
-#EXTINF:-1,DE | Sky Sport 7 HD ( During Games only )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5396.ts
-#EXTINF:-1,DE | Sky Sport 7 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5313.ts
-#EXTINF:-1,DE | Sky Sport 8 HD ( During Games only )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5397.ts
-#EXTINF:-1,DE | Sky Sport 8 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5312.ts
-#EXTINF:-1,DE | Sky Sport 9 HD ( During Games only )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5398.ts
-#EXTINF:-1,DE | Sky Sport 9 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5311.ts
-#EXTINF:-1,DE | sky sport austria
-http://cloudiptv.cf/live/Katrina1/Katrina1/5258.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 1 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5309.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 10 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5308.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 2 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5307.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 3 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5306.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 4 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5305.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 5 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5304.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 6 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5303.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 7 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5302.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 8 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5301.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 9 HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5300.ts
-#EXTINF:-1,DE | Sky Sport Fanzone HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5275.ts
-#EXTINF:-1,DE | Sky Sport News HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5399.ts
-#EXTINF:-1,DE | Sky Sport News HD (1080P)
-http://cloudiptv.cf/live/Katrina1/Katrina1/5310.ts
-#EXTINF:-1,DE | Sky TNT Serie HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5400.ts
-#EXTINF:-1,DE | Sky Universal HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5401.ts
-#EXTINF:-1,DE | SPIEGEL TV Wissen HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5274.ts
-#EXTINF:-1,DE | Sport 1  HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5298.ts
-#EXTINF:-1,DE | Sport 1 US
-http://cloudiptv.cf/live/Katrina1/Katrina1/5299.ts
-#EXTINF:-1,DE | Sport Digital HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5297.ts
-#EXTINF:-1,DE | SPORT1 HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5273.ts
-#EXTINF:-1,DE | SR Fernsehen HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5272.ts
-#EXTINF:-1,DE | SUPER RTL HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5402.ts
-#EXTINF:-1,DE | SUPER RTL HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5203.ts
-#EXTINF:-1,DE | Syfy
-http://cloudiptv.cf/live/Katrina1/Katrina1/5259.ts
-#EXTINF:-1,DE | SyFy HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5202.ts
-#EXTINF:-1,DE | tagesschau24 HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5271.ts
-#EXTINF:-1,DE | TLC HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5270.ts
-#EXTINF:-1,DE | TNT Comedy
-http://cloudiptv.cf/live/Katrina1/Katrina1/5260.ts
-#EXTINF:-1,DE | TNT Comedy HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5269.ts
-#EXTINF:-1,DE | TNT Film TCM
-http://cloudiptv.cf/live/Katrina1/Katrina1/5261.ts
-#EXTINF:-1,DE | TNT Serie
-http://cloudiptv.cf/live/Katrina1/Katrina1/5403.ts
-#EXTINF:-1,DE | TNT Serie HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5201.ts
-#EXTINF:-1,DE | VIVA
-http://cloudiptv.cf/live/Katrina1/Katrina1/5325.ts
-#EXTINF:-1,DE | VOX
-http://cloudiptv.cf/live/Katrina1/Katrina1/5404.ts
-#EXTINF:-1,DE | VOX HD 1080P
-http://cloudiptv.cf/live/Katrina1/Katrina1/5200.ts
-#EXTINF:-1,DE | WDR HD DE
-http://cloudiptv.cf/live/Katrina1/Katrina1/5324.ts
-#EXTINF:-1,DE | ZDF
-http://cloudiptv.cf/live/Katrina1/Katrina1/5405.ts
-#EXTINF:-1,DE | ZDF NEO HD
-http://cloudiptv.cf/live/Katrina1/Katrina1/5323.ts
-#EXTINF:-1,DE | ZEE ONE
-http://cloudiptv.cf/live/Katrina1/Katrina1/5322.ts
-#EXTINF:-1,DE | Zee One HD ( 1080P )
-http://cloudiptv.cf/live/Katrina1/Katrina1/5268.ts
-#EXTINF:-1,DE:13_Street_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7994.ts
-#EXTINF:-1,DE:3SAT_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7993.ts
-#EXTINF:-1,DE:ANIXE
-http://tv2iptv.com:8000/live/hesham/1234567/7991.ts
-#EXTINF:-1,DE:ARD_1
-http://tv2iptv.com:8000/live/hesham/1234567/7990.ts
-#EXTINF:-1,DE:Arte
-http://tv2iptv.com:8000/live/hesham/1234567/7989.ts
-#EXTINF:-1,DE:ATV
-http://tv2iptv.com:8000/live/hesham/1234567/7988.ts
-#EXTINF:-1,DE:ATV //
-http://tv2iptv.com:8000/live/hesham/1234567/7987.ts
-#EXTINF:-1,DE:austria_24
-http://tv2iptv.com:8000/live/hesham/1234567/7986.ts
-#EXTINF:-1,DE:AXN
-http://tv2iptv.com:8000/live/hesham/1234567/7985.ts
-#EXTINF:-1,DE:A_and_E
-http://tv2iptv.com:8000/live/hesham/1234567/7992.ts
-#EXTINF:-1,DE:Boomerang
-http://tv2iptv.com:8000/live/hesham/1234567/7984.ts
-#EXTINF:-1,DE:Cartoon_Network
-http://tv2iptv.com:8000/live/hesham/1234567/7983.ts
-#EXTINF:-1,DE:DAS_ERSTE
-http://tv2iptv.com:8000/live/hesham/1234567/7982.ts
-#EXTINF:-1,DE:Deluxe-Music-hd
-http://tv2iptv.com:8000/live/hesham/1234567/7981.ts
-#EXTINF:-1,DE:Discovery
-http://tv2iptv.com:8000/live/hesham/1234567/7980.ts
-#EXTINF:-1,DE:Disney_Channel_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7979.ts
-#EXTINF:-1,DE:Disney_Cinemagic_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7978.ts
-#EXTINF:-1,DE:Disney_Junior_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7977.ts
-#EXTINF:-1,DE:DMAX
-http://tv2iptv.com:8000/live/hesham/1234567/7976.ts
-#EXTINF:-1,DE:E! Entertainment
-http://tv2iptv.com:8000/live/hesham/1234567/7975.ts
-#EXTINF:-1,DE:Eurosport 2 Xtra HD
-http://tv2iptv.com:8000/live/hesham/1234567/7974.ts
-#EXTINF:-1,DE:Eurosport_2_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7973.ts
-#EXTINF:-1,DE:Eurosport_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7972.ts
-#EXTINF:-1,DE:FILM GOLD 1
-http://tv2iptv.com:8000/live/hesham/1234567/7970.ts
-#EXTINF:-1,DE:FILM GOLD 2
-http://tv2iptv.com:8000/live/hesham/1234567/7969.ts
-#EXTINF:-1,DE:FILM GOLD 3
-http://tv2iptv.com:8000/live/hesham/1234567/7968.ts
-#EXTINF:-1,DE:FILM GOLD 4
-http://tv2iptv.com:8000/live/hesham/1234567/7967.ts
-#EXTINF:-1,DE:FILM GOLD 5
-http://tv2iptv.com:8000/live/hesham/1234567/7966.ts
-#EXTINF:-1,DE:Folx Tv
-http://tv2iptv.com:8000/live/hesham/1234567/7965.ts
-#EXTINF:-1,DE:Fox_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7964.ts
-#EXTINF:-1,DE:GOLDSTAR TV
-http://tv2iptv.com:8000/live/hesham/1234567/7963.ts
-#EXTINF:-1,DE:Heimatkanal
-http://tv2iptv.com:8000/live/hesham/1234567/7962.ts
-#EXTINF:-1,DE:History_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7961.ts
-#EXTINF:-1,DE:Hr HD
-http://tv2iptv.com:8000/live/hesham/1234567/7960.ts
-#EXTINF:-1,DE:Jukebox HD
-http://tv2iptv.com:8000/live/hesham/1234567/7959.ts
-#EXTINF:-1,DE:KABEL 1 Classics
-http://tv2iptv.com:8000/live/hesham/1234567/7958.ts
-#EXTINF:-1,DE:Kabel 1 Doku
-http://tv2iptv.com:8000/live/hesham/1234567/7957.ts
-#EXTINF:-1,DE:KABEL1_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7956.ts
-#EXTINF:-1,DE:Kika_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7955.ts
-#EXTINF:-1,DE:Kinowelt_Tv
-http://tv2iptv.com:8000/live/hesham/1234567/7954.ts
-#EXTINF:-1,DE:Motorvision_TV
-http://tv2iptv.com:8000/live/hesham/1234567/7953.ts
-#EXTINF:-1,DE:N-TV
-http://tv2iptv.com:8000/live/hesham/1234567/7952.ts
-#EXTINF:-1,DE:N24_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7951.ts
-#EXTINF:-1,DE:National_Geo_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7948.ts
-#EXTINF:-1,DE:Nat_Geo_People
-http://tv2iptv.com:8000/live/hesham/1234567/7950.ts
-#EXTINF:-1,DE:Nat_Geo_Wild
-http://tv2iptv.com:8000/live/hesham/1234567/7949.ts
-#EXTINF:-1,DE:NDR_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7947.ts
-#EXTINF:-1,DE:Nickelodeon
-http://tv2iptv.com:8000/live/hesham/1234567/7946.ts
-#EXTINF:-1,DE:ORF EINS
-http://tv2iptv.com:8000/live/hesham/1234567/7945.ts
-#EXTINF:-1,DE:ORF_1
-http://tv2iptv.com:8000/live/hesham/1234567/7944.ts
-#EXTINF:-1,DE:ORF_2_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7943.ts
-#EXTINF:-1,DE:ORF_3
-http://tv2iptv.com:8000/live/hesham/1234567/7942.ts
-#EXTINF:-1,DE:ORF_Sport
-http://tv2iptv.com:8000/live/hesham/1234567/7941.ts
-#EXTINF:-1,DE:Pro7
-http://tv2iptv.com:8000/live/hesham/1234567/7940.ts
-#EXTINF:-1,DE:Pro7_Fun_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7939.ts
-#EXTINF:-1,DE:Pro7_Maxx_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7938.ts
-#EXTINF:-1,DE:Puls_4
-http://tv2iptv.com:8000/live/hesham/1234567/7937.ts
-#EXTINF:-1,DE:Romance_TV_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7936.ts
-#EXTINF:-1,DE:RTL
-http://tv2iptv.com:8000/live/hesham/1234567/7935.ts
-#EXTINF:-1,DE:RTL2_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7930.ts
-#EXTINF:-1,DE:RTL_Crime_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7934.ts
-#EXTINF:-1,DE:RTL_LIVING
-http://tv2iptv.com:8000/live/hesham/1234567/7933.ts
-#EXTINF:-1,DE:RTL_Nitro
-http://tv2iptv.com:8000/live/hesham/1234567/7932.ts
-#EXTINF:-1,DE:RTL_Passion
-http://tv2iptv.com:8000/live/hesham/1234567/7931.ts
-#EXTINF:-1,DE:Sat_1
-http://tv2iptv.com:8000/live/hesham/1234567/7929.ts
-#EXTINF:-1,DE:Sat_1_Gold
-http://tv2iptv.com:8000/live/hesham/1234567/7928.ts
-#EXTINF:-1,DE:Servus_TV
-http://tv2iptv.com:8000/live/hesham/1234567/7927.ts
-#EXTINF:-1,DE:Sixx_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7926.ts
-#EXTINF:-1,DE:Sky_1
-http://tv2iptv.com:8000/live/hesham/1234567/7925.ts
-#EXTINF:-1,DE:Sky_3D
-http://tv2iptv.com:8000/live/hesham/1234567/7924.ts
-#EXTINF:-1,DE:Sky_Action
-http://tv2iptv.com:8000/live/hesham/1234567/7923.ts
-#EXTINF:-1,DE:Sky_Arts
-http://tv2iptv.com:8000/live/hesham/1234567/7922.ts
-#EXTINF:-1,DE:Sky_Atlantic_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7921.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_1_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7920.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_2_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7919.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_3_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7918.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_4_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7917.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_5_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7916.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_6_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7915.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_7_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7914.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_8_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7913.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_9_HD_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7912.ts
-#EXTINF:-1,DE:Sky_Cinema
-http://tv2iptv.com:8000/live/hesham/1234567/7911.ts
-#EXTINF:-1,DE:Sky_Cinema-24
-http://tv2iptv.com:8000/live/hesham/1234567/7910.ts
-#EXTINF:-1,DE:Sky_Comedy
-http://tv2iptv.com:8000/live/hesham/1234567/7909.ts
-#EXTINF:-1,DE:Sky_Emotion
-http://tv2iptv.com:8000/live/hesham/1234567/7908.ts
-#EXTINF:-1,DE:Sky_Hits_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7907.ts
-#EXTINF:-1,DE:Sky_Krimi
-http://tv2iptv.com:8000/live/hesham/1234567/7906.ts
-#EXTINF:-1,DE:Sky_Nostalgie
-http://tv2iptv.com:8000/live/hesham/1234567/7905.ts
-#EXTINF:-1,DE:Sky_Planet_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7904.ts
-#EXTINF:-1,DE:SKY_SELECT_1_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7903.ts
-#EXTINF:-1,DE:SKY_SELECT_2_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7902.ts
-#EXTINF:-1,DE:SKY_SELECT_3_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7901.ts
-#EXTINF:-1,DE:SKY_SELECT_4_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7900.ts
-#EXTINF:-1,DE:SKY_SELECT_5_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7899.ts
-#EXTINF:-1,DE:SKY_SELECT_6_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7898.ts
-#EXTINF:-1,DE:SKY_SELECT_7_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7897.ts
-#EXTINF:-1,DE:SKY_SELECT_8_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7896.ts
-#EXTINF:-1,DE:Sky_Sports_HD_1
-http://tv2iptv.com:8000/live/hesham/1234567/7892.ts
-#EXTINF:-1,DE:Sky_Sports_HD_3_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7890.ts
-#EXTINF:-1,DE:Sky_Sports_HD_4_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7889.ts
-#EXTINF:-1,DE:Sky_Sports_HD_5_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7888.ts
-#EXTINF:-1,DE:Sky_Sports_HD_6_(Match_Time_only)
-http://tv2iptv.com:8000/live/hesham/1234567/7887.ts
-#EXTINF:-1,DE:Sky_Sport_Austria_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7895.ts
-#EXTINF:-1,DE:SKY_Sport_News_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7894.ts
-#EXTINF:-1,DE:Sky_Sport_Plus_1_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7893.ts
-#EXTINF:-1,DE:Sky_TNT_Serie_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7886.ts
-#EXTINF:-1,DE:Sony HD
-http://tv2iptv.com:8000/live/hesham/1234567/7885.ts
-#EXTINF:-1,DE:Spiegel_Geschichte_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7884.ts
-#EXTINF:-1,DE:Sport-DigitaL_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7883.ts
-#EXTINF:-1,DE:Sport1_US_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7882.ts
-#EXTINF:-1,DE:SRF_1_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7881.ts
-#EXTINF:-1,DE:SRF_2_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7880.ts
-#EXTINF:-1,DE:SUPER_RTL
-http://tv2iptv.com:8000/live/hesham/1234567/7879.ts
-#EXTINF:-1,DE:SWR
-http://tv2iptv.com:8000/live/hesham/1234567/7878.ts
-#EXTINF:-1,DE:Syfy_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7877.ts
-#EXTINF:-1,DE:Tele-5-hd
-http://tv2iptv.com:8000/live/hesham/1234567/7876.ts
-#EXTINF:-1,DE:Tlc-hd
-http://tv2iptv.com:8000/live/hesham/1234567/7875.ts
-#EXTINF:-1,DE:TNT_Comedy
-http://tv2iptv.com:8000/live/hesham/1234567/7874.ts
-#EXTINF:-1,DE:TNT_Film
-http://tv2iptv.com:8000/live/hesham/1234567/7873.ts
-#EXTINF:-1,DE:TOGGO_Plus
-http://tv2iptv.com:8000/live/hesham/1234567/7872.ts
-#EXTINF:-1,DE:Universal_HD
-http://tv2iptv.com:8000/live/hesham/1234567/7871.ts
-#EXTINF:-1,DE:VH1
-http://tv2iptv.com:8000/live/hesham/1234567/7870.ts
-#EXTINF:-1,DE:Viva_and_Comedy_Central
-http://tv2iptv.com:8000/live/hesham/1234567/7869.ts
-#EXTINF:-1,DE:VOX
-http://tv2iptv.com:8000/live/hesham/1234567/7868.ts
-#EXTINF:-1,DE:WDR
-http://tv2iptv.com:8000/live/hesham/1234567/7867.ts
-#EXTINF:-1,DE:ZDF
-http://tv2iptv.com:8000/live/hesham/1234567/7866.ts
-#EXTINF:-1,DE:ZDF_Info
-http://tv2iptv.com:8000/live/hesham/1234567/7865.ts
-#EXTINF:-1,DE:ZDF_Neo
-http://tv2iptv.com:8000/live/hesham/1234567/7864.ts
-#EXTINF:-1,DE:ZEE_ONE
-http://tv2iptv.com:8000/live/hesham/1234567/7863.ts
+#EXTINF:-1,3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1,101 TV Malaga
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:-1,7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,25 Televisio
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+#EXTINF:-1,8 Cadiz TV
+http://cls.todostreaming.eu/unatv/live/playlist.m3u8
+#EXTINF:-1,8 TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:-1,8 TV*
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1,Alcarria TV
+http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1,Andalucia Turismo
+http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
+#EXTINF:-1,Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Antena 3*
+http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
+#EXTINF:-1,Antena 3 Int'l
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,Aragon TV*
+http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,Atreseries*
+http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
+#EXTINF:-1,Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1,Beteve
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+#EXTINF:-1,Canal 4 Centro Mancha
+http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+#EXTINF:-1,Canal 7
+http://163.172.15.219:1935/live/vivatv/playlist.m3u8
+#EXTINF:-1,Canal 24 Horas
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTINF:-1,Canal 25
+http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
+#EXTINF:-1,Canal Costa
+http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
+#EXTINF:-1,Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1,Canal Sur Cocina
+http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
+#EXTINF:-1,Canal Sur Flamenco
+http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
+#EXTINF:-1,Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
+#EXTINF:-1,Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1,Canaria SAT*
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+#EXTINF:-1,Castilla-La Mancha TV
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
+#EXTINF:-1,Castilla Leon TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:-1,Ceuta TV
+http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
+#EXTINF:-1,Condavision
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
+#EXTINF:-1,Costa del Sol TV
+http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
+#EXTINF:-1,Cuatro [Off]
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
+#EXTINF:-1,El Correo TV
+http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
+#EXTINF:-1,El Correo TV*
+http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
+#EXTINF:-1,El Punt Avui TV
+http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,Estepona TV
+http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
+#EXTINF:-1,ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1,Girona TV
+http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:-1,HTV Huelva
+http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+#EXTINF:-1,Imas TV
+http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
+#EXTINF:-1,Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:-1,Intereconomia TV
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1,Lleida TV
+http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1,Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+#EXTINF:-1,Mirame TV
+http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
+#EXTINF:-1,Mogan TV
+http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
+#EXTINF:-1,Navarra TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1,Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,Olot TV
+http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Onda Algeciras
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+#EXTINF:-1,Onda Azul Malaga
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,Onda Cadiz
+http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
+#EXTINF:-1,Onda Jaen
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
+#EXTINF:-1,Ondaluz Cadiz [NoKodi]
+http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Costa del Sol [NoKodi]
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Costa Noroeste [NoKodi]
+http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Jerez [NoKodi]
+http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Marbella [NoKodi]
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Sevilla [NoKodi]
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
+#EXTINF:-1,Popular TV Cantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Real Madrid TV*
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Ribera TV
+http://188.165.135.22/ribera/livestream/.m3u8
+#EXTINF:-1,RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,RTV Marbella
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+#EXTINF:-1,San Roque TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+#EXTINF:-1,Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1,TAC12
+http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1,TCS Mediterraneo
+http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
+#EXTINF:-1,TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+#EXTINF:-1,TeleBadalona
+http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,TeleBilbao
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+#EXTINF:-1,Telecinco
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
+#EXTINF:-1,TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,TeleOnuba
+http://cls2.todostreaming.eu/azahara/GdZpE8ef/chunklist.m3u8
+#EXTINF:-1,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1,Terrassa TV
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTINF:-1,Tindaya TV
+http://188.165.135.22/tindayatv/livestream/playlist.m3u8
+#EXTINF:-1,Travel TV
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,TV3*
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1,TV4 La Vall
+http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+#EXTINF:-1,TV Alcoi
+http://92.222.37.18/hls/tvaxa.m3u8
+#EXTINF:-1,TVG America
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,TVG Europa
+http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,TVG Europa*
+http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
+#EXTINF:-1,TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
