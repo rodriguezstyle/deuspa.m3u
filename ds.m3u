@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="===== Sky Deutschland =====" tvg-logo="",===== Sky Deutschland =====
+#EXTINF:-1 tvg-name="===== Sky Deutschland =====" tvg-logo="",===== SkyDeutschland =====
 http://188.165.206.184/zerointro.ts
 #EXTINF:-1 tvg-name="DE: Sky 1 HD" tvg-logo="",DE: Sky 1 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/8399.ts
