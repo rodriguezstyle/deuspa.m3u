@@ -1,329 +1,219 @@
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,LA 1 HD
-http://37.132.176.250:9981/stream/channelid/100670483
-#EXTINF:-1,LA 2
-http://37.132.176.250:9981/stream/channelid/677179093
-#EXTINF:-1,Antena 3 HD
-http://37.132.176.250:9981/stream/channelid/1979932260
-#EXTINF:-1,Cuatro HD
-http://37.132.176.250:9981/stream/channelid/955848261
-#EXTINF:-1,Telecinco HD
-http://37.132.176.250:9981/stream/channelid/929293118
-#EXTINF:-1,La Sexta HD
-http://37.132.176.250:9981/stream/channelid/45725599
-#EXTINF:-1,#0 HD
-http://37.132.176.250:9981/stream/channelid/2013327432
-#EXTINF:-1,Movistar+ Bajo Demanda
-http://37.132.176.250:9981/stream/channelid/1097328469
-#EXTINF:-1,Multideporte
-http://37.132.176.250:9981/stream/channelid/1844359623
-#EXTINF:-1,Bein LaLiga HD
-http://37.132.176.250:9981/stream/channelid/1652964007
-#EXTINF:-1,Movistar Series HD
-http://37.132.176.250:9981/stream/channelid/1391980316
-#EXTINF:-1,Movistar Series Xtra HD
-http://37.132.176.250:9981/stream/channelid/1602023536
-#EXTINF:-1,Fox HD
-http://37.132.176.250:9981/stream/channelid/942327646
-#EXTINF:-1,AXN HD
-http://37.132.176.250:9981/stream/channelid/865237721
-#EXTINF:-1,TNT HD
-http://37.132.176.250:9981/stream/channelid/1722302716
-#EXTINF:-1,Comedy Central HD
-http://37.132.176.250:9981/stream/channelid/688896111
-#EXTINF:-1,Calle 13 HD
-http://37.132.176.250:9981/stream/channelid/1342391061
-#EXTINF:-1,COSMO HD
-http://37.132.176.250:9981/stream/channelid/1511668892
-#EXTINF:-1,AMC HD 
-http://37.132.176.250:9981/stream/channelid/726092037
-#EXTINF:-1,Fox Life HD
-http://37.132.176.250:9981/stream/channelid/1099455301
-#EXTINF:-1,AXN White HD
-http://37.132.176.250:9981/stream/channelid/1937434637
-#EXTINF:-1,SYFY HD
-http://37.132.176.250:9981/stream/channelid/1662796123
-#EXTINF:-1,Non Stop People
-http://37.132.176.250:9981/stream/channelid/1542888733
-#EXTINF:-1,MTV
-http://37.132.176.250:9981/stream/channelid/484479800
-#EXTINF:-1,Factoria de Ficcion
-http://37.132.176.250:9981/stream/channelid/982310159
+#EXTINF:-1,3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1,101 TV Malaga
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:-1,7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,25 Televisio
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+#EXTINF:-1,8 Cadiz TV
+http://cls.todostreaming.eu/unatv/live/playlist.m3u8
+#EXTINF:-1,8 TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:-1,8 TV*
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1,Alcarria TV
+http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1,Andalucia Turismo
+http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
+#EXTINF:-1,Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Antena 3*
+http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
+#EXTINF:-1,Antena 3 Int'l
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,Aragon TV*
+http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,Atreseries*
+http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
+#EXTINF:-1,Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1,Beteve
+http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+#EXTINF:-1,Canal 4 Centro Mancha
+http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+#EXTINF:-1,Canal 7
+http://163.172.15.219:1935/live/vivatv/playlist.m3u8
+#EXTINF:-1,Canal 24 Horas
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTINF:-1,Canal 25
+http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
+#EXTINF:-1,Canal Costa
+http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
+#EXTINF:-1,Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1,Canal Sur Cocina
+http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
+#EXTINF:-1,Canal Sur Flamenco
+http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
+#EXTINF:-1,Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
+#EXTINF:-1,Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1,Canaria SAT*
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+#EXTINF:-1,Castilla-La Mancha TV
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
+#EXTINF:-1,Castilla Leon TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:-1,Ceuta TV
+http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
+#EXTINF:-1,Condavision
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
+#EXTINF:-1,Costa del Sol TV
+http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
+#EXTINF:-1,Cuatro [Off]
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
+#EXTINF:-1,El Correo TV
+http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
+#EXTINF:-1,El Correo TV*
+http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
+#EXTINF:-1,El Punt Avui TV
+http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,Estepona TV
+http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
+#EXTINF:-1,ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1,Girona TV
+http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:-1,HTV Huelva
+http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+#EXTINF:-1,Imas TV
+http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
+#EXTINF:-1,Informacion TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:-1,Intereconomia TV
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1,Lleida TV
+http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1,Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+#EXTINF:-1,Mirame TV
+http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
+#EXTINF:-1,Mogan TV
+http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
+#EXTINF:-1,Navarra TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1,Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1,Neox
-http://37.132.176.250:9981/stream/channelid/768733595
-#EXTINF:-1,Energy
-http://37.132.176.250:9981/stream/channelid/1226873533
-#EXTINF:-1,M. eSports
-http://37.132.176.250:9981/stream/channelid/95539636
-#EXTINF:-1,Movistar Estrenos HD
-http://37.132.176.250:9981/stream/channelid/451153410
-#EXTINF:-1,Movistar Xtra HD
-http://37.132.176.250:9981/stream/channelid/1556812679
-#EXTINF:-1,Movistar Accion HD
-http://37.132.176.250:9981/stream/channelid/1481113121
-#EXTINF:-1,Movistar Comedia HD
-http://37.132.176.250:9981/stream/channelid/789143234
-#EXTINF:-1,Movistar DCine HD
-http://37.132.176.250:9981/stream/channelid/1383295932
-#EXTINF:-1,Movistar Cine Espanol
-http://37.132.176.250:9981/stream/channelid/94195839
-#EXTINF:-1,TCM HD
-http://37.132.176.250:9981/stream/channelid/733915397
-#EXTINF:-1,Hollywood HD
-http://37.132.176.250:9981/stream/channelid/323999104
-#EXTINF:-1,Sundance
-http://37.132.176.250:9981/stream/channelid/545756611
-#EXTINF:-1,La Tienda en Casa
-http://37.132.176.250:9981/stream/channelid/1304027742
-#EXTINF:-1,Paramount Channel
-http://37.132.176.250:9981/stream/channelid/1641045778
-#EXTINF:-1,Multideporte
-http://37.132.176.250:9981/stream/channelid/1870359071
-#EXTINF:-1,Movistar Futbol HD
-http://37.132.176.250:9981/stream/channelid/293118558
-#EXTINF:-1,Movistar Partidazo HD
-http://37.132.176.250:9981/stream/channelid/820057565
-#EXTINF:-1,Bein LaLiga HD
-http://37.132.176.250:9981/stream/channelid/741699528
-#EXTINF:-1,Bein LaLiga 1 HD
-http://37.132.176.250:9981/stream/channelid/107221620
-#EXTINF:-1,Bein LaLiga 2 HD
-http://37.132.176.250:9981/stream/channelid/1246045671
-#EXTINF:-1,beIN SPORTS HD
-http://37.132.176.250:9981/stream/channelid/1448285175
-#EXTINF:-1,Bein Max1 HD
-http://37.132.176.250:9981/stream/channelid/491764796
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://37.132.176.250:9981/stream/channelid/1230458424
-#EXTINF:-1,Real Madrid TV
-http://37.132.176.250:9981/stream/channelid/154766373
-#EXTINF:-1,Barca TV
-http://37.132.176.250:9981/stream/channelid/1423394765
-#EXTINF:-1,Movistar Deportes 1 HD
-http://37.132.176.250:9981/stream/channelid/1170685094
-#EXTINF:-1,Movistar Deportes 2 HD
-http://37.132.176.250:9981/stream/channelid/38239727
-#EXTINF:-1,Movistar Formula 1 HD
-http://37.132.176.250:9981/stream/channelid/1819822341
-#EXTINF:-1,Movistar Moto GP HD
-http://37.132.176.250:9981/stream/channelid/679018634
-#EXTINF:-1,Movistar Golf HD 
-http://37.132.176.250:9981/stream/channelid/1335155468
-#EXTINF:-1,Eurosport 1 HD
-http://37.132.176.250:9981/stream/channelid/1023450453
-#EXTINF:-1,Eurosport 2
-http://37.132.176.250:9981/stream/channelid/1192194715
-#EXTINF:-1,GOL
-http://37.132.176.250:9981/stream/channelid/96743189
-#EXTINF:-1,Teledeporte
-http://37.132.176.250:9981/stream/channelid/55235452
-#EXTINF:-1,Caza y Pesca HD
-http://37.132.176.250:9981/stream/channelid/464819069
-#EXTINF:-1,Iberalia TV
-http://37.132.176.250:9981/stream/channelid/1138978778
-#EXTINF:-1,Toros TV HD
-http://37.132.176.250:9981/stream/channelid/1813295204
-#EXTINF:-1,Multideporte 1
-http://37.132.176.250:9981/stream/channelid/274291008
-#EXTINF:-1,National Geographic HD
-http://37.132.176.250:9981/stream/channelid/2042507201
-#EXTINF:-1,Nat Geo Wild HD
-http://37.132.176.250:9981/stream/channelid/466935590
-#EXTINF:-1,Historia
-http://37.132.176.250:9981/stream/channelid/2046435184
-#EXTINF:-1,Discovery
-http://37.132.176.250:9981/stream/channelid/91860472
-#EXTINF:-1,Odisea
-http://37.132.176.250:9981/stream/channelid/2099393641
-#EXTINF:-1,AandE
-http://37.132.176.250:9981/stream/channelid/1148108469
-#EXTINF:-1,Viajar HD
-http://37.132.176.250:9981/stream/channelid/946369390
-#EXTINF:-1,Crimen + Investigacion
-http://37.132.176.250:9981/stream/channelid/45701393
-#EXTINF:-1,Canal Cocina
-http://37.132.176.250:9981/stream/channelid/992556982
-#EXTINF:-1,Canal Decasa
-http://37.132.176.250:9981/stream/channelid/144179452
-#EXTINF:-1,Divinity
-http://37.132.176.250:9981/stream/channelid/463332572
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1,Nova
-http://37.132.176.250:9981/stream/channelid/1893885103
-#EXTINF:-1,Canal Orbe 21
-http://37.132.176.250:9981/stream/channelid/1139314890
-#EXTINF:-1,Baby TV
-http://37.132.176.250:9981/stream/channelid/300573708
-#EXTINF:-1,Disney Junior
-http://37.132.176.250:9981/stream/channelid/1791818417
-#EXTINF:-1,Canal Panda
-http://37.132.176.250:9981/stream/channelid/44569441
-#EXTINF:-1,NICK JR
-http://37.132.176.250:9981/stream/channelid/1149253789
-#EXTINF:-1,Nickelodeon HD
-http://37.132.176.250:9981/stream/channelid/699511674
-#EXTINF:-1,Disney XD
-http://37.132.176.250:9981/stream/channelid/1132424842
-#EXTINF:-1,Disney Channel HD
-http://37.132.176.250:9981/stream/channelid/1484463521
-#EXTINF:-1,Boing
-http://37.132.176.250:9981/stream/channelid/1234818748
-#EXTINF:-1,Clan TVE
-http://37.132.176.250:9981/stream/channelid/238418926
-#EXTINF:-1,VH1
-http://37.132.176.250:9981/stream/channelid/1266374266
-#EXTINF:-1,MTV ROCKS
-http://37.132.176.250:9981/stream/channelid/830566092
-#EXTINF:-1,Mezzo
-http://37.132.176.250:9981/stream/channelid/1242637884
-#EXTINF:-1,Mezzo Live HD HD
-http://37.132.176.250:9981/stream/channelid/1828776185
-#EXTINF:-1,Classica
-http://37.132.176.250:9981/stream/channelid/1629040524
-#EXTINF:-1,Radios
-http://37.132.176.250:9981/stream/channelid/1417452494
-#EXTINF:-1,Playboy TV
-http://37.132.176.250:9981/stream/channelid/1668354412
-#EXTINF:-1,24 Horas
-http://37.132.176.250:9981/stream/channelid/764862000
-#EXTINF:-1,BBC World HD
-http://37.132.176.250:9981/stream/channelid/1419372141
-#EXTINF:-1,CNN Int
-http://37.132.176.250:9981/stream/channelid/1496979735
-#EXTINF:-1,Fox News
-http://37.132.176.250:9981/stream/channelid/1468175737
-#EXTINF:-1,Euronews
-http://37.132.176.250:9981/stream/channelid/1309232984
-#EXTINF:-1,Al Jazeera English
-http://37.132.176.250:9981/stream/channelid/2052199951
-#EXTINF:-1,FRANCE 24
-http://37.132.176.250:9981/stream/channelid/1347263866
-#EXTINF:-1,RT Espanol HD
-http://37.132.176.250:9981/stream/channelid/1274163722
-#EXTINF:-1,CNBC
-http://37.132.176.250:9981/stream/channelid/491370310
-#EXTINF:-1,TV5MONDE
-http://37.132.176.250:9981/stream/channelid/1910736709
-#EXTINF:-1,Bloomberg Europe TV
-http://37.132.176.250:9981/stream/channelid/2009105249
-#EXTINF:-1,Sky News International
-http://37.132.176.250:9981/stream/channelid/1930171463
-#EXTINF:-1,Russia Today
-http://37.132.176.250:9981/stream/channelid/1022380636
-#EXTINF:-1,DW
-http://37.132.176.250:9981/stream/channelid/1931128830
-#EXTINF:-1,Arte HD
-http://37.132.176.250:9981/stream/channelid/2132086572
-#EXTINF:-1,I24 News
-http://37.132.176.250:9981/stream/channelid/218004209
-#EXTINF:-1,France 24
-http://37.132.176.250:9981/stream/channelid/1723195726
-#EXTINF:-1,France 24 Árabe
-http://37.132.176.250:9981/stream/channelid/431029933
-#EXTINF:-1,TV RECORD
-http://37.132.176.250:9981/stream/channelid/1964211867
-#EXTINF:-1,Cubavision
-http://37.132.176.250:9981/stream/channelid/173407167
-#EXTINF:-1,Telesur
-http://37.132.176.250:9981/stream/channelid/698588693
-#EXTINF:-1,ARIRANG TV
-http://37.132.176.250:9981/stream/channelid/1568496906
-#EXTINF:-1,NHK World
-http://37.132.176.250:9981/stream/channelid/13020292
-#EXTINF:-1,Canal Sur Andalucia
-http://37.132.176.250:9981/stream/channelid/913235783
-#EXTINF:-1,TVG - TV Galicia
-http://37.132.176.250:9981/stream/channelid/1063329779
-#EXTINF:-1,Aragon TV Int
-http://37.132.176.250:9981/stream/channelid/1929514627
-#EXTINF:-1,TBN España
-http://37.132.176.250:9981/stream/channelid/1320765791
-#EXTINF:-1,SonLife Broadcasting Network
-http://37.132.176.250:9981/stream/channelid/209058259
-#EXTINF:-1,Alquiler
-http://37.132.176.250:9981/stream/channelid/176753962
-#EXTINF:-1,Alquiler 1
-http://37.132.176.250:9981/stream/channelid/573062392
-#EXTINF:-1,Alquiler 2
-http://37.132.176.250:9981/stream/channelid/617589407
-#EXTINF:-1,Alquiler 3
-http://37.132.176.250:9981/stream/channelid/336502756
-#EXTINF:-1,Alquiler 4
-http://37.132.176.250:9981/stream/channelid/1599698014
-#EXTINF:-1,Alquiler 5
-http://37.132.176.250:9981/stream/channelid/1324181283
-#EXTINF:-1,Alquiler 6
-http://37.132.176.250:9981/stream/channelid/838731195
-#EXTINF:-1,Alquiler 1 HD
-http://37.132.176.250:9981/stream/channelid/696597436
-#EXTINF:-1,Alquiler 2 HD
-http://37.132.176.250:9981/stream/channelid/894201126
-#EXTINF:-1,Alquiler X
-http://37.132.176.250:9981/stream/channelid/1707025046
-#EXTINF:-1,Alquiler XX
-http://37.132.176.250:9981/stream/channelid/1497069484
-#EXTINF:-1,Alquiler XX Hard
-http://37.132.176.250:9981/stream/channelid/1811586123
-#EXTINF:-1,Alquiler Multi-X
-http://37.132.176.250:9981/stream/channelid/1485153289
-#EXTINF:-1,Alquiler XY
-http://37.132.176.250:9981/stream/channelid/2102869725
-#EXTINF:-1,Alquiler Multi-X 1
-http://37.132.176.250:9981/stream/channelid/2040941924
-#EXTINF:-1,Alquiler Multi-X 2
-http://37.132.176.250:9981/stream/channelid/1229252374
-#EXTINF:-1,Alquiler Multi-X 3
-http://37.132.176.250:9981/stream/channelid/422501576
-#EXTINF:-1,Multifútbol 1
-http://37.132.176.250:9981/stream/channelid/1361320535
-#EXTINF:-1,Multifútbol 2
-http://37.132.176.250:9981/stream/channelid/1006909306
-#EXTINF:-1,Multifútbol 3
-http://37.132.176.250:9981/stream/channelid/1946771785
-#EXTINF:-1,Multifútbol 4
-http://37.132.176.250:9981/stream/channelid/1973238804
-#EXTINF:-1,beIN LaLiga MAX 3
-http://37.132.176.250:9981/stream/channelid/380098808
-#EXTINF:-1,beIN LaLiga MAX 4
-http://37.132.176.250:9981/stream/channelid/1899910324
-#EXTINF:-1,beIN LaLiga MAX 5
-http://37.132.176.250:9981/stream/channelid/1823744952
-#EXTINF:-1,beIN LaLiga MAX 6
-http://37.132.176.250:9981/stream/channelid/434453193
-#EXTINF:-1,beIN LaLiga MAX 7
-http://37.132.176.250:9981/stream/channelid/1348253831
-#EXTINF:-1,beIN LaLiga MAX 8
-http://37.132.176.250:9981/stream/channelid/390734440
-#EXTINF:-1,beIN SPORTS MAX 3
-http://37.132.176.250:9981/stream/channelid/1395812580
-#EXTINF:-1,beIN SPORTS MAX 4
-http://37.132.176.250:9981/stream/channelid/85572679
-#EXTINF:-1,beIN SPORTS MAX 5
-http://37.132.176.250:9981/stream/channelid/204330197
-#EXTINF:-1,beIN SPORTS MAX 6
-http://37.132.176.250:9981/stream/channelid/820088978
-#EXTINF:-1,beIN SPORTS MAX 7
-http://37.132.176.250:9981/stream/channelid/1422338690
-#EXTINF:-1,beIN SPORTS MAX 8
-http://37.132.176.250:9981/stream/channelid/1919949382
-#EXTINF:-1,Multideporte 2
-http://37.132.176.250:9981/stream/channelid/364166019
-#EXTINF:-1,Multideporte 3
-http://37.132.176.250:9981/stream/channelid/831233406
-#EXTINF:-1,Multideporte 4
-http://37.132.176.250:9981/stream/channelid/1238775736
-#EXTINF:-1,Multideporte 5
-http://37.132.176.250:9981/stream/channelid/1708731514
-#EXTINF:-1,Multideporte 6
-http://37.132.176.250:9981/stream/channelid/476264270
-#EXTINF:-1,Portada Movistar+
-http://37.132.176.250:9981/stream/channelid/2038349530
-#EXTINF:-1,Guía Movistar+
-http://37.132.176.250:9981/stream/channelid/1199866967
-#EXTINF:-1,TVE Internacional Europa
-http://37.132.176.250:9981/stream/channelid/221611970
-#EXTINF:-1,LaLigaTV Bar HD
-http://37.132.176.250:9981/stream/channelid/269167118
-#EXTINF:-1,LaLigaTV Bar 1
-http://37.132.176.250:9981/stream/channelid/858710824
-#EXTINF:-1,NHK WORLD TV
-http://37.132.176.250:9981/stream/channel/84acc6803bbfbe05cc75792283372629
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,Olot TV
+http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Onda Algeciras
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+#EXTINF:-1,Onda Azul Malaga
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,Onda Cadiz
+http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
+#EXTINF:-1,Onda Jaen
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
+#EXTINF:-1,Ondaluz Cadiz [NoKodi]
+http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Costa del Sol [NoKodi]
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Costa Noroeste [NoKodi]
+http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Jerez [NoKodi]
+http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Marbella [NoKodi]
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+#EXTINF:-1,Ondaluz Sevilla [NoKodi]
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
+#EXTINF:-1,Popular TV Cantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Real Madrid TV*
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Ribera TV
+http://188.165.135.22/ribera/livestream/.m3u8
+#EXTINF:-1,RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,RTV Marbella
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+#EXTINF:-1,San Roque TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+#EXTINF:-1,Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1,TAC12
+http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1,TCS Mediterraneo
+http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
+#EXTINF:-1,TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+#EXTINF:-1,TeleBadalona
+http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,TeleBilbao
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+#EXTINF:-1,Telecinco
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
+#EXTINF:-1,TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,TeleOnuba
+http://cls2.todostreaming.eu/azahara/GdZpE8ef/chunklist.m3u8
+#EXTINF:-1,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1,Terrassa TV
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTINF:-1,Tindaya TV
+http://188.165.135.22/tindayatv/livestream/playlist.m3u8
+#EXTINF:-1,Travel TV
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,TV3*
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1,TV4 La Vall
+http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+#EXTINF:-1,TV Alcoi
+http://92.222.37.18/hls/tvaxa.m3u8
+#EXTINF:-1,TVG America
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,TVG Europa
+http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,TVG Europa*
+http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
+#EXTINF:-1,TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
