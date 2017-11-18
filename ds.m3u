@@ -1,671 +1,839 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="===== Sky Deutschland =====" tvg-logo="",===== SkyDeutschland =====
+#EXTINF:-1,DE | Sky Atlantic
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7257.ts
+#EXTINF:-1,DE | Sky Cinema
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7259.ts
+#EXTINF:-1,DE | Sky Cinema 1
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7254.ts
+#EXTINF:-1,DE | Sky Cinema Action
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7252.ts
+#EXTINF:-1,DE | Sky Cinema Comedy
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7260.ts
+#EXTINF:-1,DE | Sky Cinema Emotion
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7253.ts
+#EXTINF:-1,DE | Sky Cinema Hits
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7262.ts
+#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7261.ts
+#EXTINF:-1,DE | Sky Krimi / SKY
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7263.ts
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7249.ts
+#EXTINF:-1,DE | SKY SELECT 1 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7219.ts
+#EXTINF:-1,DE | SKY SELECT 2 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7218.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7217.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7216.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7215.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7214.ts
+#EXTINF:-1,DE | Sky Select 7 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7213.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7212.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7245.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga1
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7224.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7223.ts
+#EXTINF:-1,DE | SKY SPORT1 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7246.ts
+#EXTINF:-1,DE | SKY TNT FILME HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7250.ts
+#EXTINF:-1,DE | SKY TNT SERIES HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7251.ts
+#EXTINF:-1,DE | SkyAction
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7258.ts
+#EXTINF:-1,DE | SkyCinema
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7255.ts
+#EXTINF:-1,DE | SkyCinema24
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7256.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7222.ts
+#EXTINF:-1,DE | SPORT  1 HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7220.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7221.ts
+#EXTINF:-1,DE | Srf1
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7228.ts
+#EXTINF:-1,DE | SUPER RTL
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7264.ts
+#EXTINF:-1,DE | SYFY
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7202.ts
+#EXTINF:-1,DE | TLC
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7277.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7207.ts
+#EXTINF:-1,DE | VOX HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7238.ts
+#EXTINF:-1,DE | WDR
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7201.ts
+#EXTINF:-1,DE | WDRHD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7225.ts
+#EXTINF:-1,DE | ZDF
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7237.ts
+#EXTINF:-1,DE | ZDF info
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7236.ts
+#EXTINF:-1,DE | zdf neo/ZDFvision
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7226.ts
+#EXTINF:-1,DE | 3 SAT HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7782.ts
+#EXTINF:-1,DE | ANIMAL PLANET HD
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7783.ts
+#EXTINF:-1,DE | DISCOVERY CHANNEL
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7784.ts
+#EXTINF:-1,DE | EUROSPORT 2 XTRA
+http://5.135.232.216:8000/live/ozgur1/ozgur1/7785.ts
+#EXTINF:-1,DE: Das Erste HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/4761.ts
+#EXTINF:-1,DE: Zdf HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/4762.ts
+#EXTINF:-1,DE: Zdf Neo HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12342.ts
+#EXTINF:-1,DE: Wdr HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/76.ts
+#EXTINF:-1,DE: SWR HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15613.ts
+#EXTINF:-1,DE: Ndr HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/11768.ts
+#EXTINF:-1,DE: MDR HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/18251.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1215.ts
+#EXTINF:-1,DE: Sat1 Gold HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2357.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1211.ts
+#EXTINF:-1,DE: Kabel 1 Classics HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/13489.ts
+#EXTINF:-1,DE: Pro 7 HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1279.ts
+#EXTINF:-1,DE: Pro 7 Maxx HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7001.ts
+#EXTINF:-1,DE: Pro7 Fun HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7456.ts
+#EXTINF:-1,DE: Rtl HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2341.ts
+#EXTINF:-1,DE: Rtl II HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2204.ts
+#EXTINF:-1,DE: Rtl Crime HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5288.ts
+#EXTINF:-1,DE: Rtl Living HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6388.ts
+#EXTINF:-1,DE: Rtl Nitro HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3569.ts
+#EXTINF:-1,DE: Rtl Passion HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2573.ts
+#EXTINF:-1,DE: Hr Fernsehen HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2355.ts
+#EXTINF:-1,DE: Zee One HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12507.ts
+#EXTINF:-1,DE: Tlc HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6780.ts
+#EXTINF:-1,DE: Vox HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2206.ts
+#EXTINF:-1,DE: Sixx HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3413.ts
+#EXTINF:-1,DE: Dmax HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7461.ts
+#EXTINF:-1,DE: Arte HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/72.ts
+#EXTINF:-1,DE: 3sat HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/278.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/13490.ts
+#EXTINF:-1,DE: N24 HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5761.ts
+#EXTINF:-1,DE: Ntv HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7458.ts
+#EXTINF:-1,DE: Silverline
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/13550.ts
+#EXTINF:-1,DE: Phoenix
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15611.ts
+#EXTINF:-1,DE: Tagesshau24
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15612.ts
+#EXTINF:-1,DE: Euronews
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2362.ts
+#EXTINF:-1,DE: Orf 1 HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7213.ts
+#EXTINF:-1,DE: Orf 2 HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7214.ts
+#EXTINF:-1,DE: ATV HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/17469.ts
+#EXTINF:-1,DE: ATV 2 HD
+http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/17468.ts
+#EXTINF:-1,===== Sky Deutschland =====
 http://188.165.206.184/zerointro.ts
-#EXTINF:-1 tvg-name="DE: Sky 1 HD" tvg-logo="",DE: Sky 1 HD
+#EXTINF:-1,DE: Sky 1 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/8399.ts
-#EXTINF:-1 tvg-name="DE: Sky Atlantic HD" tvg-logo="",DE: Sky Atlantic HD
+#EXTINF:-1,DE: Sky Atlantic HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1048.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema HD" tvg-logo="",DE: Sky Cinema HD
+#EXTINF:-1,DE: Sky Cinema HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6669.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema +1 HD" tvg-logo="",DE: Sky Cinema +1 HD
+#EXTINF:-1,DE: Sky Cinema +1 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/888.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema +24 HD" tvg-logo="",DE: Sky Cinema +24 HD
+#EXTINF:-1,DE: Sky Cinema +24 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/437.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema Family HD" tvg-logo="",DE: Sky Cinema Family HD
+#EXTINF:-1,DE: Sky Cinema Family HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7035.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema Action HD" tvg-logo="",DE: Sky Cinema Action HD
+#EXTINF:-1,DE: Sky Cinema Action HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1086.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema Hits HD" tvg-logo="",DE: Sky Cinema Hits HD
+#EXTINF:-1,DE: Sky Cinema Hits HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5334.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema Comedy" tvg-logo="",DE: Sky Cinema Comedy
+#EXTINF:-1,DE: Sky Cinema Comedy
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/887.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema Emotion" tvg-logo="",DE: Sky Cinema Emotion
+#EXTINF:-1,DE: Sky Cinema Emotion
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/176.ts
-#EXTINF:-1 tvg-name="DE: Sky Krimi" tvg-logo="",DE: Sky Krimi
+#EXTINF:-1,DE: Sky Krimi
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/441.ts
-#EXTINF:-1 tvg-name="DE: Sky Nostalgie" tvg-logo="",DE: Sky Nostalgie
+#EXTINF:-1,DE: Sky Nostalgie
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1210.ts
-#EXTINF:-1 tvg-name="DE: 13 Street HD" tvg-logo="",DE: 13 Street HD
+#EXTINF:-1,DE: 13 Street HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1216.ts
-#EXTINF:-1 tvg-name="DE: Axn HD" tvg-logo="",DE: Axn HD
+#EXTINF:-1,DE: Axn HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/8433.ts
-#EXTINF:-1 tvg-name="DE: Fox HD" tvg-logo="",DE: Fox HD
+#EXTINF:-1,DE: Fox HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1087.ts
-#EXTINF:-1 tvg-name="DE: Heimatkanal" tvg-logo="",DE: Heimatkanal
+#EXTINF:-1,DE: Heimatkanal
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/4839.ts
-#EXTINF:-1 tvg-name="DE: KinoweltTV HD" tvg-logo="",DE: Kinowelt.TV HD
+#EXTINF:-1,DE: Kinowelt.TV HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5760.ts
-#EXTINF:-1 tvg-name="DE: Romance TV" tvg-logo="",DE: Romance TV
+#EXTINF:-1,DE: Romance TV
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2574.ts
-#EXTINF:-1 tvg-name="DE: Tnt Film HD" tvg-logo="",DE: Tnt Film HD
+#EXTINF:-1,DE: Tnt Film HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1532.ts
-#EXTINF:-1 tvg-name="DE: Tnt Serie HD" tvg-logo="",DE: Tnt Serie HD
+#EXTINF:-1,DE: Tnt Serie HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2201.ts
-#EXTINF:-1 tvg-name="DE: Tnt Comedy HD" tvg-logo="",DE: Tnt Comedy HD
+#EXTINF:-1,DE: Tnt Comedy HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6385.ts
-#EXTINF:-1 tvg-name="===== Sky Select =====" tvg-logo="",===== Sky Select =====
+#EXTINF:-1,===== Sky Select =====
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3171.ts
-#EXTINF:-1 tvg-name="DE: Sky Select Info" tvg-logo="",DE: Sky Select Info
+#EXTINF:-1,DE: Sky Select Info
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7066.ts
-#EXTINF:-1 tvg-name="DE: Sky Select 1 HD" tvg-logo="",DE: Sky Select 1 HD
+#EXTINF:-1,DE: Sky Select 1 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2216.ts
-#EXTINF:-1 tvg-name="DE: Sky Select 2 HD" tvg-logo="",DE: Sky Select 2 HD
+#EXTINF:-1,DE: Sky Select 2 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2214.ts
-#EXTINF:-1 tvg-name="DE: Sky Select 3 HD" tvg-logo="",DE: Sky Select 3 HD
+#EXTINF:-1,DE: Sky Select 3 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2213.ts
-#EXTINF:-1 tvg-name="DE: Sky Select 4 HD" tvg-logo="",DE: Sky Select 4 HD
+#EXTINF:-1,DE: Sky Select 4 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2212.ts
-#EXTINF:-1 tvg-name="DE: Sky Select 5 HD" tvg-logo="",DE: Sky Select 5 HD
+#EXTINF:-1,DE: Sky Select 5 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2209.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinevision 1 (VIP)" tvg-logo="",DE: Sky Cinevision 1 (VIP)
+#EXTINF:-1,DE: Sky Cinevision 1 (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/10689.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinevision 2 (VIP)" tvg-logo="",DE: Sky Cinevision 2 (VIP)
+#EXTINF:-1,DE: Sky Cinevision 2 (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/10690.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinevision 3 (VIP)" tvg-logo="",DE: Sky Cinevision 3 (VIP)
+#EXTINF:-1,DE: Sky Cinevision 3 (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/10691.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinevision 4 (VIP)" tvg-logo="",DE: Sky Cinevision 4 (VIP)
+#EXTINF:-1,DE: Sky Cinevision 4 (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/10688.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema Store" tvg-logo="",DE: Sky Cinema Store
+#EXTINF:-1,DE: Sky Cinema Store
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/13760.ts
-#EXTINF:-1 tvg-name="===== Kultur =====" tvg-logo="",===== Kultur =====
+#EXTINF:-1,===== Kultur =====
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/11955.ts
-#EXTINF:-1 tvg-name="DE: Animal Planet HD" tvg-logo="",DE: Animal Planet HD
+#EXTINF:-1,DE: Animal Planet HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7041.ts
-#EXTINF:-1 tvg-name="DE: A&E HD" tvg-logo="",DE: A&E HD
+#EXTINF:-1,DE: A&E HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7044.ts
-#EXTINF:-1 tvg-name="DE: Discovery HD" tvg-logo="",DE: Discovery HD
+#EXTINF:-1,DE: Discovery HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/420.ts
-#EXTINF:-1 tvg-name="DE: E! Entertainment" tvg-logo="",DE: E! Entertainment
+#EXTINF:-1,DE: E! Entertainment
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7043.ts
-#EXTINF:-1 tvg-name="DE: History HD" tvg-logo="",DE: History HD
+#EXTINF:-1,DE: History HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3414.ts
-#EXTINF:-1 tvg-name="DE: National Geographic HD" tvg-logo="",DE: National Geographic HD
+#EXTINF:-1,DE: National Geographic HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1533.ts
-#EXTINF:-1 tvg-name="DE: National Geographic Wild HD" tvg-logo="",DE: National Geographic Wild HD
+#EXTINF:-1,DE: National Geographic Wild HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5287.ts
-#EXTINF:-1 tvg-name="DE: Spiegel Geschichte" tvg-logo="",DE: Spiegel Geschichte
+#EXTINF:-1,DE: Spiegel Geschichte
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5336.ts
-#EXTINF:-1 tvg-name="DE: Syfy HD" tvg-logo="",DE: Syfy HD
+#EXTINF:-1,DE: Syfy HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5337.ts
-#EXTINF:-1 tvg-name="===== Musik =====" tvg-logo="",===== Musik =====
+#EXTINF:-1,===== Musik =====
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/11956.ts
-#EXTINF:-1 tvg-name="DE: Goldstar TV" tvg-logo="",DE: Goldstar TV
+#EXTINF:-1,DE: Goldstar TV
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5283.ts
-#EXTINF:-1 tvg-name="DE: Jukebox" tvg-logo="",DE: Jukebox
+#EXTINF:-1,DE: Jukebox
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7460.ts
-#EXTINF:-1 tvg-name="DE: Universal HD" tvg-logo="",DE: Universal HD
+#EXTINF:-1,DE: Universal HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/11499.ts
-#EXTINF:-1 tvg-name="===== Kinder =====" tvg-logo="",===== Kinder =====
+#EXTINF:-1,===== Kinder =====
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/11957.ts
-#EXTINF:-1 tvg-name="DE: Boomerang HD" tvg-logo="",DE: Boomerang HD
+#EXTINF:-1,DE: Boomerang HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6384.ts
-#EXTINF:-1 tvg-name="DE: Cartoon Network HD" tvg-logo="",DE: Cartoon Network HD
+#EXTINF:-1,DE: Cartoon Network HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6973.ts
-#EXTINF:-1 tvg-name="DE: Disney Channel  HD" tvg-logo="",DE: Disney Channel  HD
+#EXTINF:-1,DE: Disney Channel  HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7042.ts
-#EXTINF:-1 tvg-name="DE: Disney Junior HD" tvg-logo="",DE: Disney Junior HD
+#EXTINF:-1,DE: Disney Junior HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5285.ts
-#EXTINF:-1 tvg-name="DE: Kika HD" tvg-logo="",DE: Kika HD
+#EXTINF:-1,DE: Kika HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3410.ts
-#EXTINF:-1 tvg-name="DE: Nick Junior HD" tvg-logo="",DE: Nick Junior HD
+#EXTINF:-1,DE: Nick Junior HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7459.ts
-#EXTINF:-1 tvg-name="DE: Nickelodeon HD" tvg-logo="",DE: Nickelodeon HD
+#EXTINF:-1,DE: Nickelodeon HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6976.ts
-#EXTINF:-1 tvg-name="DE: Sky Disney Cinemagic" tvg-logo="",DE: Sky Disney Cinemagic
+#EXTINF:-1,DE: Sky Disney Cinemagic
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1085.ts
-#EXTINF:-1 tvg-name="DE: Sky Disney XD" tvg-logo="",DE: Sky Disney XD
+#EXTINF:-1,DE: Sky Disney XD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5282.ts
-#EXTINF:-1 tvg-name="DE: Super RTL HD" tvg-logo="",DE: Super RTL HD
+#EXTINF:-1,DE: Super RTL HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/10208.ts
-#EXTINF:-1 tvg-name="===== Sky Sport Germany VIP =====" tvg-logo="",===== Sky Sport Germany VIP =====
+#EXTINF:-1,===== Sky Sport Germany VIP =====
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3175.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport News HD" tvg-logo="",DE: Sky Sport News HD
+#EXTINF:-1,DE: Sky Sport News HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5335.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 1 HD 24/7" tvg-logo="",DE: Sky Sport 1 HD 24/7
+#EXTINF:-1,DE: Sky Sport 1 HD 24/7
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2566.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 2 HD 24/7" tvg-logo="",DE: Sky Sport 2 HD 24/7
+#EXTINF:-1,DE: Sky Sport 2 HD 24/7
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2567.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 3 HD" tvg-logo="",DE: Sky Sport 3 HD
+#EXTINF:-1,DE: Sky Sport 3 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5072.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 4 HD" tvg-logo="",DE: Sky Sport 4 HD
+#EXTINF:-1,DE: Sky Sport 4 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5073.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 5 HD" tvg-logo="",DE: Sky Sport 5 HD
+#EXTINF:-1,DE: Sky Sport 5 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6670.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 6 HD" tvg-logo="",DE: Sky Sport 6 HD
+#EXTINF:-1,DE: Sky Sport 6 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7046.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 7 HD" tvg-logo="",DE: Sky Sport 7 HD
+#EXTINF:-1,DE: Sky Sport 7 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7047.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 8 HD" tvg-logo="",DE: Sky Sport 8 HD
+#EXTINF:-1,DE: Sky Sport 8 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7048.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 9 HD" tvg-logo="",DE: Sky Sport 9 HD
+#EXTINF:-1,DE: Sky Sport 9 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7049.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 10 HD" tvg-logo="",DE: Sky Sport 10 HD
+#EXTINF:-1,DE: Sky Sport 10 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7050.ts
-#EXTINF:-1 tvg-name="===== Sky Bundesliga VIP =====" tvg-logo="",===== Sky Bundesliga VIP =====
+#EXTINF:-1,===== Sky Bundesliga VIP =====
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3176.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="",DE: Sky Bundesliga 1 HD
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15629.ts
-#EXTINF:-1 tvg-name="DE : Sky Bundesliga 1 HD (Match Time)" tvg-logo="",DE : Sky Bundesliga 1 HD (Match Time)
+#EXTINF:-1,DE : Sky Bundesliga 1 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15907.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 2 HD (Match Time)" tvg-logo="",DE: Sky Bundesliga 2 HD (Match Time)
+#EXTINF:-1,DE: Sky Bundesliga 2 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2562.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 3 HD (Match Time)" tvg-logo="",DE: Sky Bundesliga 3 HD (Match Time)
+#EXTINF:-1,DE: Sky Bundesliga 3 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2563.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 4 HD (Match Time)" tvg-logo="",DE: Sky Bundesliga 4 HD (Match Time)
+#EXTINF:-1,DE: Sky Bundesliga 4 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2564.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 5 HD (Match Time)" tvg-logo="",DE: Sky Bundesliga 5 HD (Match Time)
+#EXTINF:-1,DE: Sky Bundesliga 5 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2565.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 6 HD (Match Time)" tvg-logo="",DE: Sky Bundesliga 6 HD (Match Time)
+#EXTINF:-1,DE: Sky Bundesliga 6 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3982.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 7 HD (Match Time)" tvg-logo="",DE: Sky Bundesliga 7 HD (Match Time)
+#EXTINF:-1,DE: Sky Bundesliga 7 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3983.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 8 HD (Match Time)" tvg-logo="",DE: Sky Bundesliga 8 HD (Match Time)
+#EXTINF:-1,DE: Sky Bundesliga 8 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3984.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 9 HD (Match Time)" tvg-logo="",DE: Sky Bundesliga 9 HD (Match Time)
+#EXTINF:-1,DE: Sky Bundesliga 9 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3985.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 10 HD (Match Time)" tvg-logo="",DE: Sky Bundesliga 10 HD (Match Time)
+#EXTINF:-1,DE: Sky Bundesliga 10 HD (Match Time)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3986.ts
-#EXTINF:-1 tvg-name="===== EUROSPORT PLAYER VIP =====" tvg-logo="",===== EUROSPORT PLAYER VIP =====
+#EXTINF:-1,===== EUROSPORT PLAYER VIP =====
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15270.ts
-#EXTINF:-1 tvg-name="DE:EUROSPORT PLAYER 1 HD (VIP)" tvg-logo="",DE:EUROSPORT PLAYER 1 HD (VIP)
+#EXTINF:-1,DE:EUROSPORT PLAYER 1 HD (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15269.ts
-#EXTINF:-1 tvg-name="DE:EUROSPORT PLAYER 2 HD (VIP)" tvg-logo="",DE:EUROSPORT PLAYER 2 HD (VIP)
+#EXTINF:-1,DE:EUROSPORT PLAYER 2 HD (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15268.ts
-#EXTINF:-1 tvg-name="DE:EUROSPORT PLAYER 3 HD (VIP)" tvg-logo="",DE:EUROSPORT PLAYER 3 HD (VIP)
+#EXTINF:-1,DE:EUROSPORT PLAYER 3 HD (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15267.ts
-#EXTINF:-1 tvg-name="DE:EUROSPORT PLAYER 4 HD (VIP)" tvg-logo="",DE:EUROSPORT PLAYER 4 HD (VIP)
+#EXTINF:-1,DE:EUROSPORT PLAYER 4 HD (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15266.ts
-#EXTINF:-1 tvg-name="DE:EUROSPORT PLAYER 6 HD (VIP)" tvg-logo="",DE:EUROSPORT PLAYER 6 HD (VIP)
+#EXTINF:-1,DE:EUROSPORT PLAYER 6 HD (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15264.ts
-#EXTINF:-1 tvg-name="DE:EUROSPORT PLAYER 7 HD (VIP)" tvg-logo="",DE:EUROSPORT PLAYER 7 HD (VIP)
+#EXTINF:-1,DE:EUROSPORT PLAYER 7 HD (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15263.ts
-#EXTINF:-1 tvg-name="DE:EUROSPORT PLAYER 5 HD (VIP)" tvg-logo="",DE:EUROSPORT PLAYER 5 HD (VIP)
+#EXTINF:-1,DE:EUROSPORT PLAYER 5 HD (VIP)
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15265.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport Austria" tvg-logo="",DE: Sky Sport Austria
+#EXTINF:-1,DE: Sky Sport Austria
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2207.ts
-#EXTINF:-1 tvg-name="DE: Sport 1+ HD" tvg-logo="",DE: Sport 1+ HD
+#EXTINF:-1,DE: Sport 1+ HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/7453.ts
-#EXTINF:-1 tvg-name="DE: Auto Motor Sport HD" tvg-logo="",DE: Auto Motor Sport HD
+#EXTINF:-1,DE: Auto Motor Sport HD
 http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/13488.ts
-#EXTINF:-1 tvg-name="DE: Das Erste HD" tvg-logo="",DE: Das Erste HD
+#EXTINF:-1,DE: Das Erste HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19651.ts
-#EXTINF:-1 tvg-name="DE: ZDF HD" tvg-logo="",DE: ZDF HD
+#EXTINF:-1,DE: ZDF HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19650.ts
-#EXTINF:-1 tvg-name="DE: RTL HD" tvg-logo="",DE: RTL HD
+#EXTINF:-1,DE: RTL HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19673.ts
-#EXTINF:-1 tvg-name="DE: RTL2 HD" tvg-logo="",DE: RTL2 HD
+#EXTINF:-1,DE: RTL2 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19672.ts
-#EXTINF:-1 tvg-name="DE: SWR HD" tvg-logo="",DE: SWR HD
+#EXTINF:-1,DE: SWR HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/22341.ts
-#EXTINF:-1 tvg-name="DE: Super RTL HD" tvg-logo="",DE: Super RTL HD
+#EXTINF:-1,DE: Super RTL HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19671.ts
-#EXTINF:-1 tvg-name="DE: SIXX HD" tvg-logo="",DE: SIXX HD
+#EXTINF:-1,DE: SIXX HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19663.ts
-#EXTINF:-1 tvg-name="DE: ProSieben HD" tvg-logo="",DE: ProSieben HD
+#EXTINF:-1,DE: ProSieben HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19669.ts
-#EXTINF:-1 tvg-name="DE: SAT.1 HD" tvg-logo="",DE: SAT.1 HD
+#EXTINF:-1,DE: SAT.1 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19667.ts
-#EXTINF:-1 tvg-name="DE: VOX HD" tvg-logo="",DE: VOX HD
+#EXTINF:-1,DE: VOX HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19670.ts
-#EXTINF:-1 tvg-name="DE: WDR HD" tvg-logo="",DE: WDR HD
+#EXTINF:-1,DE: WDR HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19642.ts
-#EXTINF:-1 tvg-name="DE: Kabel 1 HD" tvg-logo="",DE: Kabel 1 HD
+#EXTINF:-1,DE: Kabel 1 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19664.ts
-#EXTINF:-1 tvg-name="DE: Kabel 1 Classic HD" tvg-logo="",DE: Kabel 1 Classic HD
+#EXTINF:-1,DE: Kabel 1 Classic HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19705.ts
-#EXTINF:-1 tvg-name="DE: Tele 5 HD" tvg-logo="",DE: Tele 5 HD
+#EXTINF:-1,DE: Tele 5 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19662.ts
-#EXTINF:-1 tvg-name="DE: RTL Nitro HD" tvg-logo="",DE: RTL Nitro HD
+#EXTINF:-1,DE: RTL Nitro HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19702.ts
-#EXTINF:-1 tvg-name="DE: Arte HD" tvg-logo="",DE: Arte HD
+#EXTINF:-1,DE: Arte HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19685.ts
-#EXTINF:-1 tvg-name="DE: 3sat HD" tvg-logo="",DE: 3sat HD
+#EXTINF:-1,DE: 3sat HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19647.ts
-#EXTINF:-1 tvg-name="DE: ONE HD" tvg-logo="",DE: ONE HD
+#EXTINF:-1,DE: ONE HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19649.ts
-#EXTINF:-1 tvg-name="DE: ZDF-NEO HD" tvg-logo="",DE: ZDF-NEO HD
+#EXTINF:-1,DE: ZDF-NEO HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19648.ts
-#EXTINF:-1 tvg-name="DE: Zee One HD" tvg-logo="",DE: Zee One HD
+#EXTINF:-1,DE: Zee One HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19713.ts
-#EXTINF:-1 tvg-name="DE: TLC HD" tvg-logo="",DE: TLC HD
+#EXTINF:-1,DE: TLC HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19661.ts
-#EXTINF:-1 tvg-name="DE: N24 HD" tvg-logo="",DE: N24 HD
+#EXTINF:-1,DE: N24 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19656.ts
-#EXTINF:-1 tvg-name="DE: n-tv HD" tvg-logo="",DE: n-tv HD
+#EXTINF:-1,DE: n-tv HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19657.ts
-#EXTINF:-1 tvg-name="DE: BBC  News HD" tvg-logo="",DE: BBC  News HD
+#EXTINF:-1,DE: BBC  News HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19655.ts
-#EXTINF:-1 tvg-name="DE: Euronews" tvg-logo="",DE: Euronews
+#EXTINF:-1,DE: Euronews
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19653.ts
-#EXTINF:-1 tvg-name="DE: Prosieben Fun HD" tvg-logo="",DE: Prosieben Fun HD
+#EXTINF:-1,DE: Prosieben Fun HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19700.ts
-#EXTINF:-1 tvg-name="DE: Servus TV HD AT" tvg-logo="",DE: Servus TV HD AT
+#EXTINF:-1,DE: Servus TV HD AT
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19658.ts
-#EXTINF:-1 tvg-name="DE: ServusTV HD" tvg-logo="",DE: ServusTV HD
+#EXTINF:-1,DE: ServusTV HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19659.ts
-#EXTINF:-1 tvg-name="DE: SAT.1 Emotions HD" tvg-logo="",DE: SAT.1 Emotions HD
+#EXTINF:-1,DE: SAT.1 Emotions HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19665.ts
-#EXTINF:-1 tvg-name="DE: Bon Gusto HD" tvg-logo="",DE: Bon Gusto HD
+#EXTINF:-1,DE: Bon Gusto HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19654.ts
-#EXTINF:-1 tvg-name="DE: SonnenKlar TV" tvg-logo="",DE: SonnenKlar TV
+#EXTINF:-1,DE: SonnenKlar TV
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19652.ts
-#EXTINF:-1 tvg-name="DE: RTL ll You HD" tvg-logo="",DE: RTL ll You HD
+#EXTINF:-1,DE: RTL ll You HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19646.ts
-#EXTINF:-1 tvg-name="DE: MDR" tvg-logo="",DE: MDR
+#EXTINF:-1,DE: MDR
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19641.ts
-#EXTINF:-1 tvg-name="DE: RBB HD" tvg-logo="",DE: RBB HD
+#EXTINF:-1,DE: RBB HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19644.ts
-#EXTINF:-1 tvg-name="DE: HR HD" tvg-logo="",DE: HR HD
+#EXTINF:-1,DE: HR HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19643.ts
-#EXTINF:-1 tvg-name="DE: NDR" tvg-logo="",DE: NDR
+#EXTINF:-1,DE: NDR
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19640.ts
-#EXTINF:-1 tvg-name="DE: VIVA/COMEDY CENTRAL HD" tvg-logo="",DE: VIVA/COMEDY CENTRAL HD
+#EXTINF:-1,DE: VIVA/COMEDY CENTRAL HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19639.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema HD" tvg-logo="",DE: Sky Cinema HD
+#EXTINF:-1,DE: Sky Cinema HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19735.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema +1 HD" tvg-logo="",DE: Sky Cinema +1 HD
+#EXTINF:-1,DE: Sky Cinema +1 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19734.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema  +24 HD" tvg-logo="",DE: Sky Cinema  +24 HD
+#EXTINF:-1,DE: Sky Cinema  +24 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19733.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema Family HD" tvg-logo="",DE: Sky Cinema Family HD
+#EXTINF:-1,DE: Sky Cinema Family HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19732.ts
-#EXTINF:-1 tvg-name="DE: Sky Action HD" tvg-logo="",DE: Sky Action HD
+#EXTINF:-1,DE: Sky Action HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19731.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema Hits HD" tvg-logo="",DE: Sky Cinema Hits HD
+#EXTINF:-1,DE: Sky Cinema Hits HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19730.ts
-#EXTINF:-1 tvg-name="DE: Sky Comedy" tvg-logo="",DE: Sky Comedy
+#EXTINF:-1,DE: Sky Comedy
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19729.ts
-#EXTINF:-1 tvg-name="DE: Sky Cinema Emotion" tvg-logo="",DE: Sky Cinema Emotion
+#EXTINF:-1,DE: Sky Cinema Emotion
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19726.ts
-#EXTINF:-1 tvg-name="DE: Sky Nostalgie" tvg-logo="",DE: Sky Nostalgie
+#EXTINF:-1,DE: Sky Nostalgie
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19728.ts
-#EXTINF:-1 tvg-name="DE: Kinowelt HD" tvg-logo="",DE: Kinowelt HD
+#EXTINF:-1,DE: Kinowelt HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19725.ts
-#EXTINF:-1 tvg-name="DE: TNT Film HD" tvg-logo="",DE: TNT Film HD
+#EXTINF:-1,DE: TNT Film HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19724.ts
-#EXTINF:-1 tvg-name="DE: Sky 1 HD" tvg-logo="",DE: Sky 1 HD
+#EXTINF:-1,DE: Sky 1 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19715.ts
-#EXTINF:-1 tvg-name="DE: Sky Atlantic HD" tvg-logo="",DE: Sky Atlantic HD
+#EXTINF:-1,DE: Sky Atlantic HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19711.ts
-#EXTINF:-1 tvg-name="DE: Fox HD" tvg-logo="",DE: Fox HD
+#EXTINF:-1,DE: Fox HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19708.ts
-#EXTINF:-1 tvg-name="DE: Syfy HD" tvg-logo="",DE: Syfy HD
+#EXTINF:-1,DE: Syfy HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19707.ts
-#EXTINF:-1 tvg-name="DE: Sky Krimi" tvg-logo="",DE: Sky Krimi
+#EXTINF:-1,DE: Sky Krimi
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19727.ts
-#EXTINF:-1 tvg-name="DE: Universal HD" tvg-logo="",DE: Universal HD
+#EXTINF:-1,DE: Universal HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19718.ts
-#EXTINF:-1 tvg-name="DE: 13th Street HD" tvg-logo="",DE: 13th Street HD
+#EXTINF:-1,DE: 13th Street HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19723.ts
-#EXTINF:-1 tvg-name="DE: TNT Serie HD" tvg-logo="",DE: TNT Serie HD
+#EXTINF:-1,DE: TNT Serie HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19710.ts
-#EXTINF:-1 tvg-name="DE: TNT Comedy HD" tvg-logo="",DE: TNT Comedy HD
+#EXTINF:-1,DE: TNT Comedy HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19709.ts
-#EXTINF:-1 tvg-name="DE: E! Entertainment" tvg-logo="",DE: E! Entertainment
+#EXTINF:-1,DE: E! Entertainment
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19699.ts
-#EXTINF:-1 tvg-name="DE: RTL Crime HD" tvg-logo="",DE: RTL Crime HD
+#EXTINF:-1,DE: RTL Crime HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19704.ts
-#EXTINF:-1 tvg-name="DE: RTL Passion HD" tvg-logo="",DE: RTL Passion HD
+#EXTINF:-1,DE: RTL Passion HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19703.ts
-#EXTINF:-1 tvg-name="DE: RTL Living HD" tvg-logo="",DE: RTL Living HD
+#EXTINF:-1,DE: RTL Living HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19701.ts
-#EXTINF:-1 tvg-name="DE: DMAX HD" tvg-logo="",DE: DMAX HD
+#EXTINF:-1,DE: DMAX HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19660.ts
-#EXTINF:-1 tvg-name="DE: SAT.1 Gold HD" tvg-logo="",DE: SAT.1 Gold HD
+#EXTINF:-1,DE: SAT.1 Gold HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19666.ts
-#EXTINF:-1 tvg-name="DE: ProSieben MAXX HD" tvg-logo="",DE: ProSieben MAXX HD
+#EXTINF:-1,DE: ProSieben MAXX HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19668.ts
-#EXTINF:-1 tvg-name="DE: AXN HD" tvg-logo="",DE: AXN HD
+#EXTINF:-1,DE: AXN HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19722.ts
-#EXTINF:-1 tvg-name="DE: Romance TV HD" tvg-logo="",DE: Romance TV HD
+#EXTINF:-1,DE: Romance TV HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19706.ts
-#EXTINF:-1 tvg-name="DE: Heimatkanal" tvg-logo="",DE: Heimatkanal
+#EXTINF:-1,DE: Heimatkanal
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19716.ts
-#EXTINF:-1 tvg-name="DE: Silverline" tvg-logo="",DE: Silverline
+#EXTINF:-1,DE: Silverline
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19714.ts
-#EXTINF:-1 tvg-name="DE: Sony Entertainment TV HD" tvg-logo="",DE: Sony Entertainment TV HD
+#EXTINF:-1,DE: Sony Entertainment TV HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19717.ts
-#EXTINF:-1 tvg-name="DE: Boomerang HD" tvg-logo="",DE: Boomerang HD
+#EXTINF:-1,DE: Boomerang HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19697.ts
-#EXTINF:-1 tvg-name="DE: Cartoon Network HD" tvg-logo="",DE: Cartoon Network HD
+#EXTINF:-1,DE: Cartoon Network HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19696.ts
-#EXTINF:-1 tvg-name="DE: Disney Channel HD" tvg-logo="",DE: Disney Channel HD
+#EXTINF:-1,DE: Disney Channel HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19695.ts
-#EXTINF:-1 tvg-name="DE: Disney Cinemagic HD" tvg-logo="",DE: Disney Cinemagic HD
+#EXTINF:-1,DE: Disney Cinemagic HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19694.ts
-#EXTINF:-1 tvg-name="DE: Disney Junior  HD" tvg-logo="",DE: Disney Junior  HD
+#EXTINF:-1,DE: Disney Junior  HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19693.ts
-#EXTINF:-1 tvg-name="DE: Disney XD HD" tvg-logo="",DE: Disney XD HD
+#EXTINF:-1,DE: Disney XD HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19692.ts
-#EXTINF:-1 tvg-name="DE: Fix&Foxi" tvg-logo="",DE: Fix&Foxi
+#EXTINF:-1,DE: Fix&Foxi
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19691.ts
-#EXTINF:-1 tvg-name="DE: Junior [6:00-20:00]" tvg-logo="",DE: Junior [6:00-20:00]
+#EXTINF:-1,DE: Junior [6:00-20:00]
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19690.ts
-#EXTINF:-1 tvg-name="DE: Nick Jr. HD" tvg-logo="",DE: Nick Jr. HD
+#EXTINF:-1,DE: Nick Jr. HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19689.ts
-#EXTINF:-1 tvg-name="DE: Nickelodeon HD" tvg-logo="",DE: Nickelodeon HD
+#EXTINF:-1,DE: Nickelodeon HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19688.ts
-#EXTINF:-1 tvg-name="DE: TOGGO Plus" tvg-logo="",DE: TOGGO Plus
+#EXTINF:-1,DE: TOGGO Plus
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19687.ts
-#EXTINF:-1 tvg-name="DE: A&E HD" tvg-logo="",DE: A&E HD
+#EXTINF:-1,DE: A&E HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19684.ts
-#EXTINF:-1 tvg-name="DE: History  HD" tvg-logo="",DE: History  HD
+#EXTINF:-1,DE: History  HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19683.ts
-#EXTINF:-1 tvg-name="DE: Animal Planet HD" tvg-logo="",DE: Animal Planet HD
+#EXTINF:-1,DE: Animal Planet HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19682.ts
-#EXTINF:-1 tvg-name="DE: Planet HD" tvg-logo="",DE: Planet HD
+#EXTINF:-1,DE: Planet HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19681.ts
-#EXTINF:-1 tvg-name="DE: Nat Geo People HD" tvg-logo="",DE: Nat Geo People HD
+#EXTINF:-1,DE: Nat Geo People HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19680.ts
-#EXTINF:-1 tvg-name="DE: National Geo HD" tvg-logo="",DE: National Geo HD
+#EXTINF:-1,DE: National Geo HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19679.ts
-#EXTINF:-1 tvg-name="DE: NatGeo Wild HD" tvg-logo="",DE: NatGeo Wild HD
+#EXTINF:-1,DE: NatGeo Wild HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19678.ts
-#EXTINF:-1 tvg-name="DE: Discovery HD" tvg-logo="",DE: Discovery HD
+#EXTINF:-1,DE: Discovery HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19677.ts
-#EXTINF:-1 tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="",DE: Spiegel TV Wissen HD
+#EXTINF:-1,DE: Spiegel TV Wissen HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19676.ts
-#EXTINF:-1 tvg-name="DE: Spiegel TV Geschichte" tvg-logo="",DE: Spiegel TV Geschichte
+#EXTINF:-1,DE: Spiegel TV Geschichte
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19675.ts
-#EXTINF:-1 tvg-name="DE: Sky Sports News HD" tvg-logo="",DE: Sky Sports News HD
+#EXTINF:-1,DE: Sky Sports News HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19607.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 1 HD [24/7]" tvg-logo="",DE: Sky Sport 1 HD [24/7]
+#EXTINF:-1,DE: Sky Sport 1 HD [24/7]
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19596.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 2 HD [24/7]" tvg-logo="",DE: Sky Sport 2 HD [24/7]
+#EXTINF:-1,DE: Sky Sport 2 HD [24/7]
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19595.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 3 HD" tvg-logo="",DE: Sky Sport 3 HD
+#EXTINF:-1,DE: Sky Sport 3 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19594.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 4 HD" tvg-logo="",DE: Sky Sport 4 HD
+#EXTINF:-1,DE: Sky Sport 4 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19593.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 5 HD" tvg-logo="",DE: Sky Sport 5 HD
+#EXTINF:-1,DE: Sky Sport 5 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19592.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 6" tvg-logo="",DE: Sky Sport 6
+#EXTINF:-1,DE: Sky Sport 6
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19591.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 7" tvg-logo="",DE: Sky Sport 7
+#EXTINF:-1,DE: Sky Sport 7
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19590.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 8" tvg-logo="",DE: Sky Sport 8
+#EXTINF:-1,DE: Sky Sport 8
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19589.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 9" tvg-logo="",DE: Sky Sport 9
+#EXTINF:-1,DE: Sky Sport 9
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19588.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport 10" tvg-logo="",DE: Sky Sport 10
+#EXTINF:-1,DE: Sky Sport 10
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19587.ts
-#EXTINF:-1 tvg-name="DE: Sportdigital HD" tvg-logo="",DE: Sportdigital HD
+#EXTINF:-1,DE: Sportdigital HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19582.ts
-#EXTINF:-1 tvg-name="DE: Auto Motor Sport Channel HD" tvg-logo="",DE: Auto Motor Sport Channel HD
+#EXTINF:-1,DE: Auto Motor Sport Channel HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19576.ts
-#EXTINF:-1 tvg-name="DE: Sport 1 HD" tvg-logo="",DE: Sport 1 HD
+#EXTINF:-1,DE: Sport 1 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19581.ts
-#EXTINF:-1 tvg-name="DE: Sport1 +  HD" tvg-logo="",DE: Sport1 +  HD
+#EXTINF:-1,DE: Sport1 +  HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19580.ts
-#EXTINF:-1 tvg-name="US: FIGHTBOX HD" tvg-logo="",US: FIGHTBOX HD
+#EXTINF:-1,US: FIGHTBOX HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19586.ts
-#EXTINF:-1 tvg-name="DE: Sport1 US HD" tvg-logo="",DE: Sport1 US HD
+#EXTINF:-1,DE: Sport1 US HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19579.ts
-#EXTINF:-1 tvg-name="DE: Sky Sport Austria SD" tvg-logo="",DE: Sky Sport Austria SD
+#EXTINF:-1,DE: Sky Sport Austria SD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19583.ts
-#EXTINF:-1 tvg-name="DE: Eurosport 1 HD" tvg-logo="",DE: Eurosport 1 HD
+#EXTINF:-1,DE: Eurosport 1 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19585.ts
-#EXTINF:-1 tvg-name="DE: Eurosport 2" tvg-logo="",DE: Eurosport 2
+#EXTINF:-1,DE: Eurosport 2
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19584.ts
-#EXTINF:-1 tvg-name="DE: Eurosport 2 Xtra" tvg-logo="",DE: Eurosport 2 Xtra
+#EXTINF:-1,DE: Eurosport 2 Xtra
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/23031.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 1 HD [24/7]" tvg-logo="",DE: Sky Bundesliga 1 HD [24/7]
+#EXTINF:-1,DE: Sky Bundesliga 1 HD [24/7]
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19606.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 2 HD" tvg-logo="",DE: Sky Bundesliga 2 HD
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19605.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 3 HD" tvg-logo="",DE: Sky Bundesliga 3 HD
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19604.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 4 HD" tvg-logo="",DE: Sky Bundesliga 4 HD
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19603.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 5" tvg-logo="",DE: Sky Bundesliga 5
+#EXTINF:-1,DE: Sky Bundesliga 5
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19602.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 6" tvg-logo="",DE: Sky Bundesliga 6
+#EXTINF:-1,DE: Sky Bundesliga 6
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19601.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 7" tvg-logo="",DE: Sky Bundesliga 7
+#EXTINF:-1,DE: Sky Bundesliga 7
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19600.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 8" tvg-logo="",DE: Sky Bundesliga 8
+#EXTINF:-1,DE: Sky Bundesliga 8
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19599.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 9" tvg-logo="",DE: Sky Bundesliga 9
+#EXTINF:-1,DE: Sky Bundesliga 9
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19598.ts
-#EXTINF:-1 tvg-name="DE: Sky Bundesliga 10" tvg-logo="",DE: Sky Bundesliga 10
+#EXTINF:-1,DE: Sky Bundesliga 10
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19597.ts
-#EXTINF:-1 tvg-name="Sky Select 1 HD" tvg-logo="",Sky Select 1 HD
+#EXTINF:-1,Sky Select 1 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19738.ts
-#EXTINF:-1 tvg-name="Sky Select 2 HD" tvg-logo="",Sky Select 2 HD
+#EXTINF:-1,Sky Select 2 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19739.ts
-#EXTINF:-1 tvg-name="Sky Select 3 HD" tvg-logo="",Sky Select 3 HD
+#EXTINF:-1,Sky Select 3 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19740.ts
-#EXTINF:-1 tvg-name="Sky Select 4 HD" tvg-logo="",Sky Select 4 HD
+#EXTINF:-1,Sky Select 4 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19741.ts
-#EXTINF:-1 tvg-name="Sky Select 5 HD" tvg-logo="",Sky Select 5 HD
+#EXTINF:-1,Sky Select 5 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19742.ts
-#EXTINF:-1 tvg-name="Sky Select 6 HD" tvg-logo="",Sky Select 6 HD
+#EXTINF:-1,Sky Select 6 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19743.ts
-#EXTINF:-1 tvg-name="Sky Select 7 HD" tvg-logo="",Sky Select 7 HD
+#EXTINF:-1,Sky Select 7 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19744.ts
-#EXTINF:-1 tvg-name="Sky Select 8 HD" tvg-logo="",Sky Select 8 HD
+#EXTINF:-1,Sky Select 8 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19746.ts
-#EXTINF:-1 tvg-name="Sky Select 9 HD" tvg-logo="",Sky Select 9 HD
+#EXTINF:-1,Sky Select 9 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19745.ts
-#EXTINF:-1 tvg-name="========== Svizzeri ==========" tvg-logo="",========== Svizzeri ==========
+#EXTINF:-1,========== Svizzeri ==========
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19737.ts
-#EXTINF:-1 tvg-name="DE: SRF HD 1" tvg-logo="",DE: SRF HD 1
+#EXTINF:-1,DE: SRF HD 1
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19613.ts
-#EXTINF:-1 tvg-name="DE: SRF HD 2" tvg-logo="",DE: SRF HD 2
+#EXTINF:-1,DE: SRF HD 2
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19612.ts
-#EXTINF:-1 tvg-name="DE: ORF 1 HD" tvg-logo="",DE: ORF 1 HD
+#EXTINF:-1,DE: ORF 1 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19610.ts
-#EXTINF:-1 tvg-name="DE: ORF 2 HD" tvg-logo="",DE: ORF 2 HD
+#EXTINF:-1,DE: ORF 2 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19609.ts
-#EXTINF:-1 tvg-name="DE: SRF Info" tvg-logo="",DE: SRF Info
+#EXTINF:-1,DE: SRF Info
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19611.ts
-#EXTINF:-1 tvg-name="DE: Teleclub Cinema Full HD" tvg-logo="",DE: Teleclub Cinema Full HD
+#EXTINF:-1,DE: Teleclub Cinema Full HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19721.ts
-#EXTINF:-1 tvg-name="DE: Teleclub Prime Full HD" tvg-logo="",DE: Teleclub Prime Full HD
+#EXTINF:-1,DE: Teleclub Prime Full HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19720.ts
-#EXTINF:-1 tvg-name="DE: Teleclub Sport 1" tvg-logo="",DE: Teleclub Sport 1
+#EXTINF:-1,DE: Teleclub Sport 1
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19578.ts
-#EXTINF:-1 tvg-name="DE: Teleclub Sport 2" tvg-logo="",DE: Teleclub Sport 2
+#EXTINF:-1,DE: Teleclub Sport 2
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19577.ts
-#EXTINF:-1 tvg-name="DE: Teleclub Star Full HD" tvg-logo="",DE: Teleclub Star Full HD
+#EXTINF:-1,DE: Teleclub Star Full HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19719.ts
-#EXTINF:-1 tvg-name="DE: ATV HD" tvg-logo="",DE: ATV HD
+#EXTINF:-1,DE: ATV HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/22339.ts
-#EXTINF:-1 tvg-name="DE: ATV 2 HD" tvg-logo="",DE: ATV 2 HD
+#EXTINF:-1,DE: ATV 2 HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/22340.ts
-#EXTINF:-1 tvg-name="DE: 3+" tvg-logo="",DE: 3+
+#EXTINF:-1,DE: 3+
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/22344.ts
-#EXTINF:-1 tvg-name="DE: 4+" tvg-logo="",DE: 4+
+#EXTINF:-1,DE: 4+
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/22343.ts
-#EXTINF:-1 tvg-name="DE: 5+" tvg-logo="",DE: 5+
+#EXTINF:-1,DE: 5+
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/22342.ts
-#EXTINF:-1 tvg-name="DE: MTV Brand New" tvg-logo="",DE: MTV Brand New
+#EXTINF:-1,DE: MTV Brand New
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19636.ts
-#EXTINF:-1 tvg-name="DE: MTV HD" tvg-logo="",DE: MTV HD
+#EXTINF:-1,DE: MTV HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19635.ts
-#EXTINF:-1 tvg-name="DE: MTV Live HD" tvg-logo="",DE: MTV Live HD
+#EXTINF:-1,DE: MTV Live HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19637.ts
-#EXTINF:-1 tvg-name="DE: NRJ" tvg-logo="",DE: NRJ
+#EXTINF:-1,DE: NRJ
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19633.ts
-#EXTINF:-1 tvg-name="DE: NRJ HITS HD" tvg-logo="",DE: NRJ HITS HD
+#EXTINF:-1,DE: NRJ HITS HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19632.ts
-#EXTINF:-1 tvg-name="DE: DELUXE MUSIC" tvg-logo="",DE: DELUXE MUSIC
+#EXTINF:-1,DE: DELUXE MUSIC
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19627.ts
-#EXTINF:-1 tvg-name="DE: CLUBBIN TV" tvg-logo="",DE: CLUBBIN TV
+#EXTINF:-1,DE: CLUBBIN TV
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19630.ts
-#EXTINF:-1 tvg-name="DE: KRONEHIT HD" tvg-logo="",DE: KRONEHIT HD
+#EXTINF:-1,DE: KRONEHIT HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19631.ts
-#EXTINF:-1 tvg-name="DE: MDR S-A HD" tvg-logo="",DE: MDR S-A HD
+#EXTINF:-1,DE: MDR S-A HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19645.ts
-#EXTINF:-1 tvg-name="DE: POWER TV HD" tvg-logo="",DE: POWER TV HD
+#EXTINF:-1,DE: POWER TV HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19634.ts
-#EXTINF:-1 tvg-name="DE ONE BY HD" tvg-logo="",DE ONE BY HD
+#EXTINF:-1,DE ONE BY HD
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19629.ts
-#EXTINF:-1 tvg-name="DE: ONE BY 2HD PL" tvg-logo="",DE: ONE BY 2HD PL
+#EXTINF:-1,DE: ONE BY 2HD PL
 http://teamvip.is-not-certified.com:8000/live/asiram822/HTY6ggVjYJ/19628.ts
-#EXTINF:-1 tvg-name="DE | 13Street" tvg-logo="",DE | 13Street
+#EXTINF:-1,DE | 13Street
 http://1.panel3.us/live/t2/t2/8704.ts
-#EXTINF:-1 tvg-name="DE | ARD HD" tvg-logo="",DE | ARD HD
+#EXTINF:-1,DE | ARD HD
 http://1.panel3.us/live/t2/t2/8702.ts
-#EXTINF:-1 tvg-name="DE | arte / ARD" tvg-logo="",DE | arte / ARD
+#EXTINF:-1,DE | arte / ARD
 http://1.panel3.us/live/t2/t2/8669.ts
-#EXTINF:-1 tvg-name="DE | AXN" tvg-logo="",DE | AXN
+#EXTINF:-1,DE | AXN
 http://1.panel3.us/live/t2/t2/8693.ts
-#EXTINF:-1 tvg-name="DE | D MAX HD" tvg-logo="",DE | D MAX HD
+#EXTINF:-1,DE | D MAX HD
 http://1.panel3.us/live/t2/t2/8673.ts
-#EXTINF:-1 tvg-name="DE | DISCOVERY CHANNEL HD" tvg-logo="",DE | DISCOVERY CHANNEL HD
+#EXTINF:-1,DE | DISCOVERY CHANNEL HD
 http://1.panel3.us/live/t2/t2/8660.ts
-#EXTINF:-1 tvg-name="DE | DISNEY CHANNEL" tvg-logo="",DE | DISNEY CHANNEL
+#EXTINF:-1,DE | DISNEY CHANNEL
 http://1.panel3.us/live/t2/t2/8671.ts
-#EXTINF:-1 tvg-name="DE | Disney Cinemagic / SKY" tvg-logo="",DE | Disney Cinemagic / SKY
+#EXTINF:-1,DE | Disney Cinemagic / SKY
 http://1.panel3.us/live/t2/t2/8661.ts
-#EXTINF:-1 tvg-name="DE | Disney Junior / SKY" tvg-logo="",DE | Disney Junior / SKY
+#EXTINF:-1,DE | Disney Junior / SKY
 http://1.panel3.us/live/t2/t2/8668.ts
-#EXTINF:-1 tvg-name="DE | Disney XD" tvg-logo="",DE | Disney XD
+#EXTINF:-1,DE | Disney XD
 http://1.panel3.us/live/t2/t2/8667.ts
-#EXTINF:-1 tvg-name="DE | EUROSPORT" tvg-logo="",DE | EUROSPORT
+#EXTINF:-1,DE | EUROSPORT
 http://1.panel3.us/live/t2/t2/8707.ts
-#EXTINF:-1 tvg-name="DE | EUROSPORT2" tvg-logo="",DE | EUROSPORT2
+#EXTINF:-1,DE | EUROSPORT2
 http://1.panel3.us/live/t2/t2/8706.ts
-#EXTINF:-1 tvg-name="DE | Fox hd" tvg-logo="",DE | Fox hd
+#EXTINF:-1,DE | Fox hd
 http://1.panel3.us/live/t2/t2/8695.ts
-#EXTINF:-1 tvg-name="DE | Fox Serie" tvg-logo="",DE | Fox Serie
+#EXTINF:-1,DE | Fox Serie
 http://1.panel3.us/live/t2/t2/8694.ts
-#EXTINF:-1 tvg-name="DE | HEIMAT KANAL" tvg-logo="",DE | HEIMAT KANAL
+#EXTINF:-1,DE | HEIMAT KANAL
 http://1.panel3.us/live/t2/t2/8662.ts
-#EXTINF:-1 tvg-name="DE | HISTORY CHANNEL HD" tvg-logo="",DE | HISTORY CHANNEL HD
+#EXTINF:-1,DE | HISTORY CHANNEL HD
 http://1.panel3.us/live/t2/t2/8672.ts
-#EXTINF:-1 tvg-name="DE | KIKA" tvg-logo="",DE | KIKA
+#EXTINF:-1,DE | KIKA
 http://1.panel3.us/live/t2/t2/8739.ts
-#EXTINF:-1 tvg-name="DE | N 24" tvg-logo="",DE | N 24
+#EXTINF:-1,DE | N 24
 http://1.panel3.us/live/t2/t2/8705.ts
-#EXTINF:-1 tvg-name="DE | NATIONAL GEOGRAPHIC" tvg-logo="",DE | NATIONAL GEOGRAPHIC
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
 http://1.panel3.us/live/t2/t2/8659.ts
-#EXTINF:-1 tvg-name="DE | NDR HD" tvg-logo="",DE | NDR HD
+#EXTINF:-1,DE | NDR HD
 http://1.panel3.us/live/t2/t2/8696.ts
-#EXTINF:-1 tvg-name="DE | NICK JR" tvg-logo="",DE | NICK JR
+#EXTINF:-1,DE | NICK JR
 http://1.panel3.us/live/t2/t2/8666.ts
-#EXTINF:-1 tvg-name="DE | ORF1" tvg-logo="",DE | ORF1
+#EXTINF:-1,DE | ORF1
 http://1.panel3.us/live/t2/t2/8703.ts
-#EXTINF:-1 tvg-name="DE | ORF2" tvg-logo="",DE | ORF2
+#EXTINF:-1,DE | ORF2
 http://1.panel3.us/live/t2/t2/8674.ts
-#EXTINF:-1 tvg-name="DE | Pro7" tvg-logo="",DE | Pro7
+#EXTINF:-1,DE | Pro7
 http://1.panel3.us/live/t2/t2/8737.ts
-#EXTINF:-1 tvg-name="DE | Pro7 MAXX / ProSiebenSat.1" tvg-logo="",DE | Pro7 MAXX / ProSiebenSat.1
+#EXTINF:-1,DE | Pro7 MAXX / ProSiebenSat.1
 http://1.panel3.us/live/t2/t2/8738.ts
-#EXTINF:-1 tvg-name="DE | ProSieben / ProSiebenSat.1" tvg-logo="",DE | ProSieben / ProSiebenSat.1
+#EXTINF:-1,DE | ProSieben / ProSiebenSat.1
 http://1.panel3.us/live/t2/t2/8698.ts
-#EXTINF:-1 tvg-name="DE | ROMANCE" tvg-logo="",DE | ROMANCE
+#EXTINF:-1,DE | ROMANCE
 http://1.panel3.us/live/t2/t2/8690.ts
-#EXTINF:-1 tvg-name="DE | RTL Crime / SKY" tvg-logo="",DE | RTL Crime / SKY
+#EXTINF:-1,DE | RTL Crime / SKY
 http://1.panel3.us/live/t2/t2/8733.ts
-#EXTINF:-1 tvg-name="DE | RTL HD / CBC" tvg-logo="",DE | RTL HD / CBC
+#EXTINF:-1,DE | RTL HD / CBC
 http://1.panel3.us/live/t2/t2/8732.ts
-#EXTINF:-1 tvg-name="DE | RTL LIVING" tvg-logo="",DE | RTL LIVING
+#EXTINF:-1,DE | RTL LIVING
 http://1.panel3.us/live/t2/t2/8736.ts
-#EXTINF:-1 tvg-name="DE | RTL NITRO/CBC" tvg-logo="",DE | RTL NITRO/CBC
+#EXTINF:-1,DE | RTL NITRO/CBC
 http://1.panel3.us/live/t2/t2/8730.ts
-#EXTINF:-1 tvg-name="DE | RTL Passion / SKY" tvg-logo="",DE | RTL Passion / SKY
+#EXTINF:-1,DE | RTL Passion / SKY
 http://1.panel3.us/live/t2/t2/8728.ts
-#EXTINF:-1 tvg-name="DE | RTL Television" tvg-logo="",DE | RTL Television
+#EXTINF:-1,DE | RTL Television
 http://1.panel3.us/live/t2/t2/8735.ts
-#EXTINF:-1 tvg-name="DE | RTL2/CBC" tvg-logo="",DE | RTL2/CBC
+#EXTINF:-1,DE | RTL2/CBC
 http://1.panel3.us/live/t2/t2/8731.ts
-#EXTINF:-1 tvg-name="DE | RTLII HD" tvg-logo="",DE | RTLII HD
+#EXTINF:-1,DE | RTLII HD
 http://1.panel3.us/live/t2/t2/8734.ts
-#EXTINF:-1 tvg-name="DE | RTLplus" tvg-logo="",DE | RTLplus
+#EXTINF:-1,DE | RTLplus
 http://1.panel3.us/live/t2/t2/8729.ts
-#EXTINF:-1 tvg-name="DE | SAT.1 Gold" tvg-logo="",DE | SAT.1 Gold
+#EXTINF:-1,DE | SAT.1 Gold
 http://1.panel3.us/live/t2/t2/8711.ts
-#EXTINF:-1 tvg-name="DE | SAT.1 NRW / ProSiebenSat.1" tvg-logo="",DE | SAT.1 NRW / ProSiebenSat.1
+#EXTINF:-1,DE | SAT.1 NRW / ProSiebenSat.1
 http://1.panel3.us/live/t2/t2/8710.ts
-#EXTINF:-1 tvg-name="DE | Sat1 HD" tvg-logo="",DE | Sat1 HD
+#EXTINF:-1,DE | Sat1 HD
 http://1.panel3.us/live/t2/t2/8692.ts
-#EXTINF:-1 tvg-name="DE | Servus TV" tvg-logo="",DE | Servus TV
+#EXTINF:-1,DE | Servus TV
 http://1.panel3.us/live/t2/t2/8697.ts
-#EXTINF:-1 tvg-name="DE | SIXX" tvg-logo="",DE | SIXX
+#EXTINF:-1,DE | SIXX
 http://1.panel3.us/live/t2/t2/8663.ts
-#EXTINF:-1 tvg-name="DE | Sky Atlantic" tvg-logo="",DE | Sky Atlantic
+#EXTINF:-1,DE | Sky Atlantic
 http://1.panel3.us/live/t2/t2/8720.ts
-#EXTINF:-1 tvg-name="DE | Sky Cinema" tvg-logo="",DE | Sky Cinema
+#EXTINF:-1,DE | Sky Cinema
 http://1.panel3.us/live/t2/t2/8722.ts
-#EXTINF:-1 tvg-name="DE | Sky Cinema 1" tvg-logo="",DE | Sky Cinema 1
+#EXTINF:-1,DE | Sky Cinema 1
 http://1.panel3.us/live/t2/t2/8717.ts
-#EXTINF:-1 tvg-name="DE | Sky Cinema Action" tvg-logo="",DE | Sky Cinema Action
+#EXTINF:-1,DE | Sky Cinema Action
 http://1.panel3.us/live/t2/t2/8715.ts
-#EXTINF:-1 tvg-name="DE | Sky Cinema Comedy" tvg-logo="",DE | Sky Cinema Comedy
+#EXTINF:-1,DE | Sky Cinema Comedy
 http://1.panel3.us/live/t2/t2/8723.ts
-#EXTINF:-1 tvg-name="DE | Sky Cinema Emotion" tvg-logo="",DE | Sky Cinema Emotion
+#EXTINF:-1,DE | Sky Cinema Emotion
 http://1.panel3.us/live/t2/t2/8716.ts
-#EXTINF:-1 tvg-name="DE | Sky Cinema Hits" tvg-logo="",DE | Sky Cinema Hits
+#EXTINF:-1,DE | Sky Cinema Hits
 http://1.panel3.us/live/t2/t2/8725.ts
-#EXTINF:-1 tvg-name="DE | Sky Cinema Nostalgie / SKY" tvg-logo="",DE | Sky Cinema Nostalgie / SKY
+#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY
 http://1.panel3.us/live/t2/t2/8724.ts
-#EXTINF:-1 tvg-name="DE | Sky Krimi / SKY" tvg-logo="",DE | Sky Krimi / SKY
+#EXTINF:-1,DE | Sky Krimi / SKY
 http://1.panel3.us/live/t2/t2/8726.ts
-#EXTINF:-1 tvg-name="DE | SKY NATGEO WILD HD" tvg-logo="",DE | SKY NATGEO WILD HD
+#EXTINF:-1,DE | SKY NATGEO WILD HD
 http://1.panel3.us/live/t2/t2/8712.ts
-#EXTINF:-1 tvg-name="DE | SKY SELECT 1 HD" tvg-logo="",DE | SKY SELECT 1 HD
+#EXTINF:-1,DE | SKY SELECT 1 HD
 http://1.panel3.us/live/t2/t2/8682.ts
-#EXTINF:-1 tvg-name="DE | SKY SELECT 2 HD" tvg-logo="",DE | SKY SELECT 2 HD
+#EXTINF:-1,DE | SKY SELECT 2 HD
 http://1.panel3.us/live/t2/t2/8681.ts
-#EXTINF:-1 tvg-name="DE | Sky Select 3 HD" tvg-logo="",DE | Sky Select 3 HD
+#EXTINF:-1,DE | Sky Select 3 HD
 http://1.panel3.us/live/t2/t2/8680.ts
-#EXTINF:-1 tvg-name="DE | Sky Select 4 HD" tvg-logo="",DE | Sky Select 4 HD
+#EXTINF:-1,DE | Sky Select 4 HD
 http://1.panel3.us/live/t2/t2/8679.ts
-#EXTINF:-1 tvg-name="DE | Sky Select 5 HD" tvg-logo="",DE | Sky Select 5 HD
+#EXTINF:-1,DE | Sky Select 5 HD
 http://1.panel3.us/live/t2/t2/8678.ts
-#EXTINF:-1 tvg-name="DE | Sky Select 6 HD" tvg-logo="",DE | Sky Select 6 HD
+#EXTINF:-1,DE | Sky Select 6 HD
 http://1.panel3.us/live/t2/t2/8677.ts
-#EXTINF:-1 tvg-name="DE | Sky Select 7 HD" tvg-logo="",DE | Sky Select 7 HD
+#EXTINF:-1,DE | Sky Select 7 HD
 http://1.panel3.us/live/t2/t2/8676.ts
-#EXTINF:-1 tvg-name="DE | Sky Select 8HD" tvg-logo="",DE | Sky Select 8HD
+#EXTINF:-1,DE | Sky Select 8HD
 http://1.panel3.us/live/t2/t2/8675.ts
-#EXTINF:-1 tvg-name="DE | SKY SPORT 2 HD" tvg-logo="",DE | SKY SPORT 2 HD
+#EXTINF:-1,DE | SKY SPORT 2 HD
 http://1.panel3.us/live/t2/t2/8708.ts
-#EXTINF:-1 tvg-name="DE | Sky Sport Bundesliga 1" tvg-logo="",DE | Sky Sport Bundesliga 1
+#EXTINF:-1,DE | Sky Sport Bundesliga 1
 http://1.panel3.us/live/t2/t2/9159.ts
-#EXTINF:-1 tvg-name="DE | Sky Sport Bundesliga1" tvg-logo="",DE | Sky Sport Bundesliga1
+#EXTINF:-1,DE | Sky Sport Bundesliga1
 http://1.panel3.us/live/t2/t2/8687.ts
-#EXTINF:-1 tvg-name="DE | SKY SPORT NEWS HD" tvg-logo="",DE | SKY SPORT NEWS HD
+#EXTINF:-1,DE | SKY SPORT NEWS HD
 http://1.panel3.us/live/t2/t2/8686.ts
-#EXTINF:-1 tvg-name="DE | SKY SPORT1 HD" tvg-logo="",DE | SKY SPORT1 HD
+#EXTINF:-1,DE | SKY SPORT1 HD
 http://1.panel3.us/live/t2/t2/8709.ts
-#EXTINF:-1 tvg-name="DE | SKY TNT FILME HD" tvg-logo="",DE | SKY TNT FILME HD
+#EXTINF:-1,DE | SKY TNT FILME HD
 http://1.panel3.us/live/t2/t2/8713.ts
-#EXTINF:-1 tvg-name="DE | SKY TNT SERIES HD" tvg-logo="",DE | SKY TNT SERIES HD
+#EXTINF:-1,DE | SKY TNT SERIES HD
 http://1.panel3.us/live/t2/t2/8714.ts
-#EXTINF:-1 tvg-name="DE | SkyAction" tvg-logo="",DE | SkyAction
+#EXTINF:-1,DE | SkyAction
 http://1.panel3.us/live/t2/t2/8721.ts
-#EXTINF:-1 tvg-name="DE | SkyCinema" tvg-logo="",DE | SkyCinema
+#EXTINF:-1,DE | SkyCinema
 http://1.panel3.us/live/t2/t2/8718.ts
-#EXTINF:-1 tvg-name="DE | SkyCinema24" tvg-logo="",DE | SkyCinema24
+#EXTINF:-1,DE | SkyCinema24
 http://1.panel3.us/live/t2/t2/8719.ts
-#EXTINF:-1 tvg-name="DE | SKYSPORT AUSTRIA" tvg-logo="",DE | SKYSPORT AUSTRIA
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
 http://1.panel3.us/live/t2/t2/8685.ts
-#EXTINF:-1 tvg-name="DE | SPORT  1 HD" tvg-logo="",DE | SPORT  1 HD
+#EXTINF:-1,DE | SPORT  1 HD
 http://1.panel3.us/live/t2/t2/8683.ts
-#EXTINF:-1 tvg-name="DE | SPORT1 US HD" tvg-logo="",DE | SPORT1 US HD
+#EXTINF:-1,DE | SPORT1 US HD
 http://1.panel3.us/live/t2/t2/8684.ts
-#EXTINF:-1 tvg-name="DE | Srf1" tvg-logo="",DE | Srf1
+#EXTINF:-1,DE | Srf1
 http://1.panel3.us/live/t2/t2/8691.ts
-#EXTINF:-1 tvg-name="DE | SUPER RTL" tvg-logo="",DE | SUPER RTL
+#EXTINF:-1,DE | SUPER RTL
 http://1.panel3.us/live/t2/t2/8727.ts
-#EXTINF:-1 tvg-name="DE | SYFY" tvg-logo="",DE | SYFY
+#EXTINF:-1,DE | SYFY
 http://1.panel3.us/live/t2/t2/8665.ts
-#EXTINF:-1 tvg-name="DE | TLC" tvg-logo="",DE | TLC
+#EXTINF:-1,DE | TLC
 http://1.panel3.us/live/t2/t2/8740.ts
-#EXTINF:-1 tvg-name="DE | TNT Serie HD" tvg-logo="",DE | TNT Serie HD
+#EXTINF:-1,DE | TNT Serie HD
 http://1.panel3.us/live/t2/t2/8670.ts
-#EXTINF:-1 tvg-name="DE | VOX HD" tvg-logo="",DE | VOX HD
+#EXTINF:-1,DE | VOX HD
 http://1.panel3.us/live/t2/t2/8701.ts
-#EXTINF:-1 tvg-name="DE | WDR" tvg-logo="",DE | WDR
+#EXTINF:-1,DE | WDR
 http://1.panel3.us/live/t2/t2/8664.ts
-#EXTINF:-1 tvg-name="DE | WDRHD" tvg-logo="",DE | WDRHD
+#EXTINF:-1,DE | WDRHD
 http://1.panel3.us/live/t2/t2/8688.ts
-#EXTINF:-1 tvg-name="DE | ZDF" tvg-logo="",DE | ZDF
+#EXTINF:-1,DE | ZDF
 http://1.panel3.us/live/t2/t2/8700.ts
-#EXTINF:-1 tvg-name="DE | ZDF info" tvg-logo="",DE | ZDF info
+#EXTINF:-1,DE | ZDF info
 http://1.panel3.us/live/t2/t2/8699.ts
-#EXTINF:-1 tvg-name="DE | zdf neo/ZDFvision" tvg-logo="",DE | zdf neo/ZDFvision
+#EXTINF:-1,DE | zdf neo/ZDFvision
 http://1.panel3.us/live/t2/t2/8689.ts
