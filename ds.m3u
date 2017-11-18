@@ -838,7 +838,7 @@ http://1.panel3.us/live/t2/t2/8700.ts
 http://1.panel3.us/live/t2/t2/8699.ts
 #EXTINF:-1,DE | zdf neo/ZDFvision
 http://1.panel3.us/live/t2/t2/8689.ts
-#EXTM3U8
+#EXTINF:-1 tvg-name="GERMAN FREE TV"
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",Das Erste
 https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
