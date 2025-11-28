@@ -1,7 +1,6 @@
 #EXTM3U
 
 url-tvg="https://iptvx.one/epg/epg.xml.gz"
-# Playlist:
 
 #EXTINF:-1 group-title="XXX", Babes TV HD
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
@@ -101,15 +100,6 @@ http://85.11.144.9:50999/101
 
 #EXTINF:-1 group-title="XXX", XYPlus
 http://85.11.144.9:50999/103
-
-# --- ENDE LIVE-STREAMS (Zusammenfassung) ---
-
-
----
-
-## VOD-Sektion (Movies/Videos)
-
-# --- HD-VODs (`[WEBDL-1080p]`) ---
 
 #EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Ava Devine in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226324.mp4
@@ -266,71 +256,309 @@ http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226265.mp4
 
 #EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Missy Stone in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226264.mp4
+EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT TIME HEVC" tvg-logo="" group-title="ADULTS",XXX: ADULT TIME HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167527.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALEX LEGEND HEVC" tvg-logo="" group-title="ADULTS",XXX: ALEX LEGEND HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167528.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRATTY SIS HEVC" tvg-logo="" group-title="ADULTS",XXX: BRATTY SIS HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167529.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CHERRY PIMPS HEVC" tvg-logo="" group-title="ADULTS",XXX: CHERRY PIMPS HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167530.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DARK X HEVC" tvg-logo="" group-title="ADULTS",XXX: DARK X HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167531.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DAY WITH A PORNSTAR HEVC" tvg-logo="" group-title="ADULTS",XXX: DAY WITH A PORNSTAR HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167532.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOLLY RANDALL HEVC" tvg-logo="" group-title="ADULTS",XXX: HOLLY RANDALL HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167533.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TRUE AMATEUR SD" tvg-logo="" group-title="ADULTS",XXX: TRUE AMATEUR SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167534.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: YNGR HEVC" tvg-logo="" group-title="ADULTS",XXX: YNGR HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167535.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 1 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 1 HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169524.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 2 FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169525.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 3 HD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 3 HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169526.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 4 FHD" tvg-logo="" group-title="ADULTS",XXX: ALBA XXX 4 FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169527.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ANGELS TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: ANGELS TV XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169528.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U XXX FHD" tvg-logo="" group-title="ADULTS",XXX: BANG U XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169531.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: BLACK TV XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169532.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED SD" tvg-logo="" group-title="ADULTS",XXX: BLACKED SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169533.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS HEVC" tvg-logo="" group-title="ADULTS",XXX: BRAZZERS HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169534.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CAPABLE HOLE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: CAPABLE HOLE XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169535.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CENTO X CENTO FHD" tvg-logo="" group-title="ADULTS",XXX: CENTO X CENTO FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169536.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL AFRICA XXX SD" tvg-logo="" group-title="ADULTS",XXX: DORCEL AFRICA XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169537.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: DORCEL XXX HD XXX HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169538.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL HEVC" tvg-logo="" group-title="ADULTS",XXX: DORCEL HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169539.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DREAM PORN XXX SD" tvg-logo="" group-title="ADULTS",XXX: DREAM PORN XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169540.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EMANUELLE XXX SD" tvg-logo="" group-title="ADULTS",XXX: EMANUELLE XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169542.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ERO X HEVC" tvg-logo="" group-title="ADULTS",XXX: ERO X HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169543.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX XXX HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: EROX XXX HD XXX HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169544.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: EXTASY HD XXX HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169546.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREM XXX SD" tvg-logo="" group-title="ADULTS",XXX: EXTREM XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169547.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME SD" tvg-logo="" group-title="ADULTS",XXX: EXTREME SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169548.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 2 HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 2 HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169549.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 3 SD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 3 SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169550.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV 4 SD" tvg-logo="" group-title="ADULTS",XXX: FAP TV 4 SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169551.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV ANAL HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV ANAL HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169552.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV LESBIAN HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV LESBIAN HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169553.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV PARODY HD" tvg-logo="" group-title="ADULTS",XXX: FAP TV PARODY HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169554.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV TEENS FHD" tvg-logo="" group-title="ADULTS",XXX: FAP TV TEENS FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169555.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAST BOYZ GAY XXX FHD" tvg-logo="" group-title="ADULTS",XXX: FAST BOYZ GAY XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169556.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FOXY DOLLS SD" tvg-logo="" group-title="ADULTS",XXX: FOXY DOLLS SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169557.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT PLEASURE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: HOT PLEASURE XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169558.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: HOT TV XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169559.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL HD XXX SD" tvg-logo="" group-title="ADULTS",XXX: HOT XXL HD XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169560.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN HD" tvg-logo="" group-title="ADULTS",XXX: JASMIN HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169563.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV GOLD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: LEO TV GOLD XXX HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169564.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LESBIAN AFFAIR XXX FHD" tvg-logo="" group-title="ADULTS",XXX: LESBIAN AFFAIR XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169565.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LUST PUR SD" tvg-logo="" group-title="ADULTS",XXX: LUST PUR SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169566.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MEIDEN VAN HOLLAND HARD XXX SD" tvg-logo="" group-title="ADULTS",XXX: MEIDEN VAN HOLLAND HARD XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169567.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OH AH TV SD" tvg-logo="" group-title="ADULTS",XXX: OH AH TV SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169571.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PREMIUM PORN HD" tvg-logo="" group-title="ADULTS",XXX: PREMIUM PORN HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169586.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RED XXX XXX SD" tvg-logo="" group-title="ADULTS",XXX: RED XXX XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169589.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSKAYA NOCH FHD" tvg-logo="" group-title="ADULTS",XXX: RUSSKAYA NOCH FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169591.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX ATION HD XXX SD" tvg-logo="" group-title="ADULTS",XXX: SEX ATION HD XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169592.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SEXTREME XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169593.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TABOO XXX HD" tvg-logo="" group-title="ADULTS",XXX: TABOO XXX HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169597.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV EUROPE XXX SD" tvg-logo="" group-title="ADULTS",XXX: VIVID TV EUROPE XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169600.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X BUNGA BUNGA XXX SD" tvg-logo="" group-title="ADULTS",XXX: X BUNGA BUNGA XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169602.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X-MO GAY XXX FHD" tvg-logo="" group-title="ADULTS",XXX: X-MO GAY XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169604.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X1 XXX FHD" tvg-logo="" group-title="ADULTS",XXX: X1 XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169605.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 21 SEXTREME HD" tvg-logo="" group-title="ADULTS",XXX: 21 SEXTREME HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169606.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 21 SEXTURY HEVC" tvg-logo="" group-title="ADULTS",XXX: 21 SEXTURY HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169607.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ALL ANAL HEVC" tvg-logo="" group-title="ADULTS",XXX: ALL ANAL HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169608.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AMATEUR BOXXX HEVC" tvg-logo="" group-title="ADULTS",XXX: AMATEUR BOXXX HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169609.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ANAL MOM HEVC" tvg-logo="" group-title="ADULTS",XXX: ANAL MOM HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169610.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ANAL ONLY HEVC" tvg-logo="" group-title="ADULTS",XXX: ANAL ONLY HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169611.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ANAL TEEN ANGELS HEVC" tvg-logo="" group-title="ADULTS",XXX: ANAL TEEN ANGELS HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169612.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U SD" tvg-logo="" group-title="ADULTS",XXX: BANG U SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169613.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS TV HEVC" tvg-logo="" group-title="ADULTS",XXX: BRAZZERS TV HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169614.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS* HEVC" tvg-logo="" group-title="ADULTS",XXX: BRAZZERS* HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169615.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRUNETTE ADULT TV HD" tvg-logo="" group-title="ADULTS",XXX: BRUNETTE ADULT TV HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169617.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CUM LOUDER HEVC" tvg-logo="" group-title="ADULTS",XXX: CUM LOUDER HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169618.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DANCING BEAR HEVC" tvg-logo="" group-title="ADULTS",XXX: DANCING BEAR HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169619.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DANE JONES HEVC" tvg-logo="" group-title="ADULTS",XXX: DANE JONES HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169620.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DAUGHTER SWAP HEVC" tvg-logo="" group-title="ADULTS",XXX: DAUGHTER SWAP HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169621.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DESIRE HEVC" tvg-logo="" group-title="ADULTS",XXX: DESIRE HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169622.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL TV HEVC" tvg-logo="" group-title="ADULTS",XXX: DORCEL TV HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169623.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER SD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169625.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY FHD" tvg-logo="" group-title="ADULTS",XXX: PLAYBOY FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169628.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE* FHD" tvg-logo="" group-title="ADULTS",XXX: PRIVATE* FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169629.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PURE BABES SD" tvg-logo="" group-title="ADULTS",XXX: PURE BABES SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169630.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT TV FHD" tvg-logo="" group-title="ADULTS",XXX: REDLIGHT TV FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169631.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT HD" tvg-logo="" group-title="ADULTS",XXX: REDLIGHT HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169632.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL SD" tvg-logo="" group-title="ADULTS",XXX: XXL SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169633.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY MIX HD XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169635.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | ALBAXXX 3 HEVC" tvg-logo="" group-title="ADULTS",XXX: | ALBAXXX 3 HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169640.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | DORCEL TV HEVC" tvg-logo="" group-title="ADULTS",XXX: | DORCEL TV HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169645.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | EROOTICA HEVC" tvg-logo="" group-title="ADULTS",XXX: | EROOTICA HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169646.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | FAP TV PARODY SD" tvg-logo="" group-title="ADULTS",XXX: | FAP TV PARODY SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169648.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PLAYBOY TV FHD" tvg-logo="" group-title="ADULTS",XXX: | PLAYBOY TV FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169649.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORNHUB: 3 WAY SD" tvg-logo="" group-title="ADULTS",XXX: | PORNHUB: 3 WAY SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169653.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORNHUB: BLACKED HEVC" tvg-logo="" group-title="ADULTS",XXX: | PORNHUB: BLACKED HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169654.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORNHUB: GROUP SEX FHD" tvg-logo="" group-title="ADULTS",XXX: | PORNHUB: GROUP SEX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169655.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORNHUB: MILF SD" tvg-logo="" group-title="ADULTS",XXX: | PORNHUB: MILF SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169656.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORNHUB: MOFOS SD" tvg-logo="" group-title="ADULTS",XXX: | PORNHUB: MOFOS SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169657.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORNHUB: REIFE-SWINGER SD" tvg-logo="" group-title="ADULTS",XXX: | PORNHUB: REIFE-SWINGER SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169658.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORNHUB: WOLF SD" tvg-logo="" group-title="ADULTS",XXX: | PORNHUB: WOLF SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169659.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORNHUB:TEACH SEX FHD" tvg-logo="" group-title="ADULTS",XXX: | PORNHUB:TEACH SEX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169660.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | REDLIGHT FHD" tvg-logo="" group-title="ADULTS",XXX: | REDLIGHT FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169661.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | TEENS LOVE SWALLOW SD" tvg-logo="" group-title="ADULTS",XXX: | TEENS LOVE SWALLOW SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169662.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | TR SUBTITLE 1 HEVC" tvg-logo="" group-title="ADULTS",XXX: | TR SUBTITLE 1 HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169663.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | TR SUBTITLE 2 HEVC" tvg-logo="" group-title="ADULTS",XXX: | TR SUBTITLE 2 HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169664.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER HEVC" tvg-logo="" group-title="ADULTS",XXX: BLUE HUSTLER HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1170680.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTE_4 HEVC" tvg-logo="" group-title="ADULTS",XXX: ADULTE_4 HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1170681.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: COMPILATION ADULT TV HD" tvg-logo="" group-title="ADULTS",XXX: COMPILATION ADULT TV HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1170682.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT SD" tvg-logo="" group-title="ADULTS",XXX: HOT SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1170683.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORN STAR SD" tvg-logo="" group-title="ADULTS",XXX: PORN STAR SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1170684.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE FHD" tvg-logo="" group-title="ADULTS",XXX: PRIVATE FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1170685.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV HD XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: BABES TV HD XXX HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1172187.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK! XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: DUSK! XXX HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1172188.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT XXX SD" tvg-logo="" group-title="ADULTS",XXX: SEXY HOT XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1172192.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE HD XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1172193.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: SUPER ONE XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1172194.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED FHD" tvg-logo="" group-title="ADULTS",XXX: VIVID RED FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1172195.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTE_6 HD" tvg-logo="" group-title="ADULTS",XXX: ADULTE_6 HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1172196.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | VIP ASIAN SD" tvg-logo="" group-title="ADULTS",XXX: | VIP ASIAN SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1172199.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NUART HD" tvg-logo="" group-title="ADULTS",XXX: NUART HD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173713.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX XXX SD" tvg-logo="" group-title="ADULTS",XXX: PASSIE XXX XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173714.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION XXX SD" tvg-logo="" group-title="ADULTS",XXX: PASSION XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173715.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE REALITY TV FHD" tvg-logo="" group-title="ADULTS",XXX: PENTHOUSE REALITY TV FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173716.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 2 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 2 XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173717.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 3 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 3 XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173718.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 4 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 4 XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173719.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 5 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 5 XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173720.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 8 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 8 XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173722.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY EUROPE FHD" tvg-logo="" group-title="ADULTS",XXX: PLAYBOY EUROPE FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173723.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS TV XXX HEVC" tvg-logo="" group-title="ADULTS",XXX: REALITY KINGS TV XXX HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173725.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SHALUN TV FHD" tvg-logo="" group-title="ADULTS",XXX: SHALUN TV FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173726.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X BIZARRE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: X BIZARRE XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173727.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X DESIRE XXX FHD" tvg-logo="" group-title="ADULTS",XXX: X DESIRE XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173728.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY* FHD" tvg-logo="" group-title="ADULTS",XXX: PLAYBOY* FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1173729.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: HUSTLER TV XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1174637.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MILF TV XXX SD" tvg-logo="" group-title="ADULTS",XXX: MILF TV XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1174638.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER XXX SD" tvg-logo="" group-title="ADULTS",XXX: OLDTIMER XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1174639.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 7 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 7 XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1174640.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV RUSSIA SD" tvg-logo="" group-title="ADULTS",XXX: BABES TV RUSSIA SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1175819.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL HD XXX SD" tvg-logo="" group-title="ADULTS",XXX: EVIL ANGEL HD XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1175820.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XX XXX SD" tvg-logo="" group-title="ADULTS",XXX: NET XX XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1175821.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 6 XXX SD" tvg-logo="" group-title="ADULTS",XXX: PINK EROTIC 6 XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1175822.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYHOUSE XXX SD" tvg-logo="" group-title="ADULTS",XXX: PLAYHOUSE XXX SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1175824.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | ALBAXXX 1 HEVC" tvg-logo="" group-title="ADULTS",XXX: | ALBAXXX 1 HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1175825.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | VIXEN SD" tvg-logo="" group-title="ADULTS",XXX: | VIXEN SD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1175827.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: A3 BIKINI HEVC" tvg-logo="" group-title="ADULTS",XXX: A3 BIKINI HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1177166.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT FHD" tvg-logo="" group-title="ADULTS",XXX: REDLIGHT FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1177167.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | 21SEXTURY HEVC" tvg-logo="" group-title="ADULTS",XXX: | 21SEXTURY HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1177168.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | BRAZZERS HEVC" tvg-logo="" group-title="ADULTS",XXX: | BRAZZERS HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1177170.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORN HUB: ASIAN BONDAGE FHD" tvg-logo="" group-title="ADULTS",XXX: | PORN HUB: ASIAN BONDAGE FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1177171.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | PORN HUB: STEP SISTER FHD" tvg-logo="" group-title="ADULTS",XXX: | PORN HUB: STEP SISTER FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1177172.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS TV XXX FHD" tvg-logo="" group-title="ADULTS",XXX: VENUS TV XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1178147.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MAX HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY MAX HD XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1178148.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS HD XXX FHD" tvg-logo="" group-title="ADULTS",XXX: XY PLUS HD XXX FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1178149.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | ALBAXXX 2 FHD" tvg-logo="" group-title="ADULTS",XXX: | ALBAXXX 2 FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1178150.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: | HUSTLER FHD" tvg-logo="" group-title="ADULTS",XXX: | HUSTLER FHD
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1178151.ts
 
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Phoenix Marie in 'The Ex-Girlfriend' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226262.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Phoenix Marie in 'Pov' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226261.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Phoenix Marie in 'Squirt for Me' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226260.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Phoenix Marie in 'Big Ass' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226259.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Shyla Stylez in 'The Ex-Girlfriend' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226257.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Shyla Stylez in 'Pov' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226256.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Shyla Stylez in 'Squirt for Me' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226255.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Shyla Stylez in 'Big Ass' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226254.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Skin Diamond in 'The Ex-Girlfriend' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226252.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Skin Diamond in 'Pov' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226251.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Skin Diamond in 'Squirt for Me' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226250.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Skin Diamond in 'Big Ass' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226249.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Tori Black in 'The Ex-Girlfriend' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226247.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Tori Black in 'Pov' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226246.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Tori Black in 'Squirt for Me' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226245.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Tori Black in 'Big Ass' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226244.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Veronica Avluv in 'The Ex-Girlfriend' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226242.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Veronica Avluv in 'Pov' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226241.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Veronica Avluv in 'Squirt for Me' [WEBDL-1080p]
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226240.mp4
-
-
-# --- Standard-VODs (Ohne HD-Markierung) ---
-**(Alle SD-VODs mit Darstellerinnen, für die bereits HD-VODs vorhanden sind, wurden entfernt.)**
-
----
-
-## Sonstige/x5yn Links (Ans Ende verschoben)
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT CHANNEL HD" tvg-logo="" group-title="XXX",XXX: ADULT CHANNEL HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169649.ts
