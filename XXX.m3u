@@ -1,112 +1,105 @@
 #EXTM3U
 url-tvg="https://iptvx.one/epg/epg.xml.gz"
-# Playlist: Aus Disn.m3u und tv_channels_Javi6Jesteban_plus.m3u - Nur Live-Streams, gefiltert nach Anweisung
+url-tvg="http://epg.one/epg2.xml.gz"
+# Playlist:XXX (Bereinigt und Repariert)
 
-# --- HAUPTTEIL (Alphabetisch sortiert) ---
-
-#EXTINF:-1 group-title="xxx", Babes TV HD
+#EXTINF:-1 group-title="XXX", Babes TV HD
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", Brazzers TV Europe HD
+#EXTINF:-1 group-title="XXX", Brazzers TV Europe HD
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", Digital Desire
+#EXTINF:-1 group-title="XXX", Digital Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", Dorcel TV HD
+#EXTINF:-1 group-title="XXX", Dorcel TV HD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", Erox HD
+#EXTINF:-1 group-title="XXX", Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", Eroxxx HD
+#EXTINF:-1 group-title="XXX", Eroxxx HD
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", Extasy
-http://85.11.144.9:50999/43
-
-#EXTINF:-1 group-title="xxx", Extasy HD
+#EXTINF:-1 group-title="XXX", Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", Exxxxotica
+#EXTINF:-1 group-title="XXX", Exxxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
 
-#EXTINF:-1 group-title="xxx", HOT1 HD
+#EXTINF:-1 group-title="XXX", HOT1 HD
 http://85.11.144.9:50999/34
 
-#EXTINF:-1 group-title="xxx", Hustler
-http://185.166.252.230/Hustler/index.m3u8
-
-#EXTINF:-1 group-title="xxx", Hustler HD
+#EXTINF:-1 group-title="XXX", Hustler HD
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
 
-#EXTINF:-1 group-title="xxx", HUSTLER HD
+#EXTINF:-1 group-title="XXX", HUSTLER HD
 http://146.120.212.5:8004/play/a01x/index.m3u8
 
-#EXTINF:-1 group-title="xxx", Кино 18+
+#EXTINF:-1 group-title="XXX", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
 
-#EXTINF:-1 group-title="xxx", Leo HD
+#EXTINF:-1 group-title="XXX", Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", penthouse1
+#EXTINF:-1 group-title="XXX", penthouse1
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 
-#EXTINF:-1 group-title="xxx", penthouse2
+#EXTINF:-1 group-title="XXX", penthouse2
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 
-#EXTINF:-1 group-title="xxx", Penthouse Passion HD
+#EXTINF:-1 group-title="XXX", Penthouse Passion HD
 http://85.11.144.9:50999/32
 
-#EXTINF:-1 group-title="xxx", PINK EROTIC 1
+#EXTINF:-1 group-title="XXX", PINK EROTIC 1
 https://webtvstream.bhtelecom.ba/pink_erotic1.m3u8
 
-#EXTINF:-1 group-title="xxx", PINK EROTIC 2
+#EXTINF:-1 group-title="XXX", PINK EROTIC 2
 https://webtvstream.bhtelecom.ba/pink_erotic2.m3u8
 
-#EXTINF:-1 group-title="xxx", PINK EROTIC 3
+#EXTINF:-1 group-title="XXX", PINK EROTIC 3
 https://webtvstream.bhtelecom.ba/pink_erotic3.m3u8
 
-#EXTINF:-1 group-title="xxx", PINK EROTIC 4
+#EXTINF:-1 group-title="XXX", PINK EROTIC 4
 https://webtvstream.bhtelecom.ba/pink_erotic4.m3u8
 
-#EXTINF:-1 group-title="xxx", PINK EROTIC 5
+#EXTINF:-1 group-title="XXX", PINK EROTIC 5
 https://webtvstream.bhtelecom.ba/pink_erotic5.m3u8
 
-#EXTINF:-1 group-title="xxx", PINK EROTIC 6
+#EXTINF:-1 group-title="XXX", PINK EROTIC 6
 https://webtvstream.bhtelecom.ba/pink_erotic6.m3u8
 
-#EXTINF:-1 group-title="xxx", PINK EROTIC 7
+#EXTINF:-1 group-title="XXX", PINK EROTIC 7
 https://webtvstream.bhtelecom.ba/pink_erotic7.m3u8
 
-#EXTINF:-1 group-title="xxx", PINK EROTIC 8
+#EXTINF:-1 group-title="XXX", PINK EROTIC 8
 https://webtvstream.bhtelecom.ba/pink_erotic8.m3u8
 
-#EXTINF:-1 group-title="xxx", PRIVATE HD
+#EXTINF:-1 group-title="XXX", PRIVATE HD
 http://146.120.212.5:8002/play/a03h/index.m3u8
 
-#EXTINF:-1 group-title="xxx", Reality Kings TV HD
+#EXTINF:-1 group-title="XXX", Reality Kings TV HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", Visit-X HD
+#EXTINF:-1 group-title="XXX", Visit-X HD
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="xxx", VIVID EUROPE
+#EXTINF:-1 group-title="XXX", VIVID EUROPE
 http://85.11.144.9:50999/41
 
-#EXTINF:-1 group-title="xxx", Vivid Red HD
+#EXTINF:-1 group-title="XXX", Vivid Red HD
 http://103.49.40.100:30010/VIVIDREDHD
 
-#EXTINF:-1 group-title="xxx", XXL
+#EXTINF:-1 group-title="XXX", XXL
 http://85.11.144.9:50999/33
 
-#EXTINF:-1 group-title="xxx", XYmax
+#EXTINF:-1 group-title="XXX", XYmax
 http://85.11.144.9:50999/102
 
-#EXTINF:-1 group-title="xxx", XYmix
+#EXTINF:-1 group-title="XXX", XYmix
 http://85.11.144.9:50999/101
 
-#EXTINF:-1 group-title="xxx", XYPlus
+#EXTINF:-1 group-title="XXX", XYPlus
 http://85.11.144.9:50999/103
 
 # --- ENDE LIVE-STREAMS (Zusammenfassung) ---
@@ -115,331 +108,271 @@ http://85.11.144.9:50999/103
 ---
 
 ## VOD-Sektion (Movies/Videos)
-**(HD-Inhalte zuerst)**
 
 # --- HD-VODs (`[WEBDL-1080p]`) ---
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Ava Devine in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Ava Devine in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226324.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2015-08-28 - Aaliyah Love in 'For the Love of Bbc' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2015-08-28 - Aaliyah Love in 'For the Love of Bbc' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226327.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Bonnie Rotten in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Bonnie Rotten in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226326.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Celeste Star in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Celeste Star in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226325.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2015-08-28 - Keisha Grey in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2015-08-28 - Keisha Grey in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226285.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Allie H in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Allie H in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226287.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Veronica Avluv in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Veronica Avluv in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226323.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Anissa Kate in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Anissa Kate in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226322.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2015-08-28 - Aidra Fox in 'For the Love of Bbc' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2015-08-28 - Aidra Fox in 'For the Love of Bbc' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226321.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Anikka Albrite in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Anikka Albrite in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226320.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2015-08-28 - Anikka Albrite in 'For the Love of Bbc' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2015-08-28 - Anikka Albrite in 'For the Love of Bbc' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226319.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Ashley Fires in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Ashley Fires in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226318.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Bonnie Rotten in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Bonnie Rotten in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226317.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Brooke Wylde in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Brooke Wylde in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226316.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Capri Cavanni in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Capri Cavanni in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226315.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Christy Mack in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Christy Mack in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226313.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Christy Mack in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Christy Mack in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226312.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Dani Daniels in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Dani Daniels in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226310.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Dani Daniels in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Dani Daniels in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226309.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Dani Daniels in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Dani Daniels in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226308.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Dana DeArmond in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Dana DeArmond in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226306.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Dana DeArmond in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Dana DeArmond in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226305.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Dana DeArmond in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Dana DeArmond in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226304.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Dana DeArmond in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Dana DeArmond in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226303.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Juelz Ventura in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Juelz Ventura in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226301.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Juelz Ventura in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Juelz Ventura in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226300.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Juelz Ventura in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Juelz Ventura in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226299.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Juelz Ventura in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Juelz Ventura in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226298.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Kayden Kross in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Kayden Kross in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226296.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Kayden Kross in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Kayden Kross in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226295.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Kayden Kross in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Kayden Kross in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226294.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Kayden Kross in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Kayden Kross in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226293.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Keisha Grey in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Keisha Grey in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226291.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Keisha Grey in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Keisha Grey in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226290.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Keisha Grey in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Keisha Grey in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226289.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Keisha Grey in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Keisha Grey in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226288.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Kelly Divine in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Kelly Divine in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226282.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Kelly Divine in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Kelly Divine in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226281.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Kelly Divine in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Kelly Divine in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226280.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Kelly Divine in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Kelly Divine in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226279.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Kimberly Kane in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Kimberly Kane in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226277.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Kimberly Kane in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Kimberly Kane in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226276.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Kimberly Kane in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Kimberly Kane in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226275.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Kimberly Kane in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Kimberly Kane in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226274.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Madison Ivy in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Madison Ivy in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226272.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Madison Ivy in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Madison Ivy in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226271.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Madison Ivy in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Madison Ivy in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226270.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Madison Ivy in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Madison Ivy in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226269.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Missy Stone in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Missy Stone in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226267.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Missy Stone in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Missy Stone in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226266.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Missy Stone in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Missy Stone in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226265.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Missy Stone in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Missy Stone in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226264.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Phoenix Marie in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Phoenix Marie in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226262.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Phoenix Marie in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Phoenix Marie in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226261.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Phoenix Marie in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Phoenix Marie in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226260.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Phoenix Marie in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Phoenix Marie in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226259.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Shyla Stylez in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Shyla Stylez in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226257.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Shyla Stylez in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Shyla Stylez in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226256.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Shyla Stylez in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Shyla Stylez in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226255.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Shyla Stylez in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Shyla Stylez in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226254.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Skin Diamond in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Skin Diamond in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226252.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Skin Diamond in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Skin Diamond in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226251.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Skin Diamond in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Skin Diamond in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226250.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Skin Diamond in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Skin Diamond in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226249.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Tori Black in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Tori Black in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226247.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Tori Black in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Tori Black in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226246.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Tori Black in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Tori Black in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226245.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-03-24 - Tori Black in 'Big Ass' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-03-24 - Tori Black in 'Big Ass' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226244.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-29 - Veronica Avluv in 'The Ex-Girlfriend' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-07-29 - Veronica Avluv in 'The Ex-Girlfriend' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226242.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-12 - Veronica Avluv in 'Pov' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-12 - Veronica Avluv in 'Pov' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226241.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-12-26 - Veronica Avluv in 'Squirt for Me' [WEBDL-1080p]
+#EXTINF:0 tvg-id="avi" group-title="XXX",Hard X - 2014-12-26 - Veronica Avluv in 'Squirt for Me' [WEBDL-1080p]
 http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226240.mp4
 
 
 # --- Standard-VODs (Ohne HD-Markierung) ---
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Allie H
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226286.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Christy Mack
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226314.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Dani Daniels
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226311.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Dana DeArmond
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226307.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Juelz Ventura
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226302.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Kayden Kross
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226297.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Keisha Grey
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226292.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Keisha Grey
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226284.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Kelly Divine
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226283.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Kimberly Kane
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226278.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Madison Ivy
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226273.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Missy Stone
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226268.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Phoenix Marie
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226263.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Shyla Stylez
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226258.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Skin Diamond
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226253.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Tori Black
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226248.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hard X - 2014-07-03 - Veronica Avluv
-http://exploding.one/movie/Sommaap/MYkc2jq4Uhcu/226243.mp4
+**(Alle SD-VODs mit Darstellerinnen, für die bereits HD-VODs vorhanden sind, wurden entfernt.)**
 
 ---
 
 ## Sonstige/x5yn Links (Ans Ende verschoben)
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT CHANNEL HD" tvg-logo="" group-title="xxx",XXX: ADULT CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT CHANNEL HD" tvg-logo="" group-title="XXX",XXX: ADULT CHANNEL HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169649.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel HD" tvg-logo="" group-title="xxx",XXX: Dorcel HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel HD" tvg-logo="" group-title="XXX",XXX: Dorcel HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169641.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel HD" tvg-logo="" group-title="xxx",XXX: Dorcel HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel HD" tvg-logo="" group-title="XXX",XXX: Dorcel HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169642.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel HD" tvg-logo="" group-title="xxx",XXX: Dorcel HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel HD" tvg-logo="" group-title="XXX",XXX: Dorcel HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169643.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="" group-title="xxx",XXX: Hustler HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="" group-title="XXX",XXX: Hustler HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169644.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="" group-title="xxx",XXX: Hustler HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="" group-title="XXX",XXX: Hustler HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169645.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="" group-title="xxx",XXX: Hustler HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD" tvg-logo="" group-title="XXX",XXX: Hustler HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169646.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Private HD" tvg-logo="" group-title="xxx",XXX: Private HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Private HD" tvg-logo="" group-title="XXX",XXX: Private HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169647.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Private HD" tvg-logo="" group-title="xxx",XXX: Private HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Private HD" tvg-logo="" group-title="XXX",XXX: Private HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169648.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED HD" tvg-logo="" group-title="xxx",XXX: VIVID RED HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED HD" tvg-logo="" group-title="XXX",XXX: VIVID RED HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/293297.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid Red SD" tvg-logo="" group-title="xxx",XXX: Vivid Red SD
-http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/293298.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Xy Max HD" tvg-logo="" group-title="xxx",XXX: Xy Max HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Xy Max HD" tvg-logo="" group-title="XXX",XXX: Xy Max HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169637.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX HD" tvg-logo="" group-title="xxx",XXX: XY MIX HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX HD" tvg-logo="" group-title="XXX",XXX: XY MIX HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169634.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX 2 HD" tvg-logo="" group-title="xxx",XXX: XY MIX 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX 2 HD" tvg-logo="" group-title="XXX",XXX: XY MIX 2 HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169635.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Plus HD" tvg-logo="" group-title="xxx",XXX: XY Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Plus HD" tvg-logo="" group-title="XXX",XXX: XY Plus HD
 http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169638.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS SD" tvg-logo="" group-title="xxx",XXX: XY PLUS SD
-http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169636.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Plus SD" tvg-logo="" group-title="xxx",XXX: XY Plus SD
-http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169639.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Plus SD" tvg-logo="" group-title="xxx",XXX: XY Plus SD
-http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1169640.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULT TIME HEVC" tvg-logo="" group-title="XXX",XXX: ADULT TIME HEVC
+http://x5ynvrpr.upkbn.xyz:80/play/Javi6Jesteban/UqySGB4mus8x/1167527.ts
