@@ -1,454 +1,121 @@
-#EXTINF:-1 tvg-id="" tvg-name="ES: La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="SP | GENERAL",ES: La 1 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456518
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="SP | GENERAL",ES: LA 1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456517
-#EXTINF:-1 tvg-id="" tvg-name="ES: La 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="SP | GENERAL",ES: La 2 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456520
-#EXTINF:-1 tvg-id="" tvg-name="ES: La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="SP | GENERAL",ES: La 2
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456519
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SP | GENERAL",ES: TELECINCO HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456526
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SP | GENERAL",ES: TELECINCO
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456525
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="SP | GENERAL",ES: ANTENA 3 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456522
-#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aragon_tv.png" group-title="SP | GENERAL",ES: ARAGON TV
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456531
-#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="SP | GENERAL",ES: CUATRO HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456524
-#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="SP | GENERAL",ES: CUATRO
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456523
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_sur_andalucia_es.png" group-title="SP | GENERAL",ES: CANAL SUR HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456532
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_sexta_es.png" group-title="SP | GENERAL",ES: LA SEXTA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456528
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_sexta_es.png" group-title="SP | GENERAL",ES: LA SEXTA
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456527
-#EXTINF:-1 tvg-id="" tvg-name="ES: 13 Tv HD" tvg-logo="" group-title="SP | GENERAL",ES: 13 Tv HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456534
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="SP | GENERAL",ES: ANTENA 3
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456521
-#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/300px-ETB1_2022_logo.svg.png" group-title="SP | GENERAL",ES: ETB 1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456533
-#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena_nova.png" group-title="SP | GENERAL",ES: NEOX
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456530
-#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena_nova.png" group-title="SP | GENERAL",ES: NOVA
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456529
-#EXTINF:-1 tvg-id="" tvg-name="ES: TVE Internacional" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_internacional_eu.png" group-title="SP | GENERAL",ES: TVE Internacional
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456537
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV Galicia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png" group-title="SP | GENERAL",ES: TV Galicia
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456536
-#EXTINF:-1 tvg-id="" tvg-name="ES: 24H HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_canal_24horas.png" group-title="SP | NOTICIAS",ES: 24H HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456549
-#EXTINF:-1 tvg-id="" tvg-name="ES: 24H" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_canal_24horas.png" group-title="SP | NOTICIAS",ES: 24H
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456548
-#EXTINF:-1 tvg-id="" tvg-name="ES: i24 NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/I24NEWS_logo_%28no_frame%29.png/1280px-I24NEWS_logo_%28no_frame%29.png" group-title="SP | NOTICIAS",ES: i24 NEWS HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456550
-#EXTINF:-1 tvg-id="" tvg-name="ES: Negocios TV" tvg-logo="https://p.kindpng.com/picc/s/11-111134_jornal-de-negcios-hd-png-download.png" group-title="SP | NOTICIAS",ES: Negocios TV
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456552
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELESUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="SP | NOTICIAS",ES: TELESUR
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456551
-#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV" tvg-logo="https://epg.ovh/logo/Baby+TV.png" group-title="SP | NINOS",ES: BABY TV
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456562
-#EXTINF:-1 tvg-id="" tvg-name="ES: Boing" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boing_es.png" group-title="SP | NINOS",ES: Boing
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456553
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PANDA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-panda-pt.png" group-title="SP | NINOS",ES: CANAL PANDA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456561
-#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN TVE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_clan.png" group-title="SP | NINOS",ES: CLAN TVE HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456557
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="https://epg.ovh/logo/Disney+Channel.png" group-title="SP | NINOS",ES: DISNEY CHANNEL HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456555
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://epg.ovh/logo/Disney+Channel.png" group-title="SP | NINOS",ES: DISNEY CHANNEL
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456554
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JUNIOR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="SP | NINOS",ES: DISNEY JUNIOR HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456556
-#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS HD" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="SP | NINOS",ES: DREAMWORKS HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456564
-#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="SP | NINOS",ES: DREAMWORKS
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456563
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON HD" tvg-logo="https://epg.ovh/logo/Nickelodeon+HD.png" group-title="SP | NINOS",ES: NICKELODEON HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456559
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON" tvg-logo="https://epg.ovh/logo/Nickelodeon+HD.png" group-title="SP | NINOS",ES: NICKELODEON
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456558
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JUNIOR HD" tvg-logo="https://epg.ovh/logo/Nick+Jr.png" group-title="SP | NINOS",ES: NICK JUNIOR HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456560
-#EXTINF:-1 tvg-id="" tvg-name="ES: Ubeat Tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ubeat.png/278px-Ubeat.png" group-title="SP | DOCUMENTACION",ES: Ubeat Tv HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456586
-#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel" tvg-logo="https://epg.ovh/logo/Discovery+Channel1.png" group-title="SP | DOCUMENTACION",ES: Discovery Channel
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456576
-#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1280px-DMAX_-_Logo_2016.svg.png" group-title="SP | DOCUMENTACION",ES: DMAX
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456578
-#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/historia_es.png" group-title="SP | DOCUMENTACION",ES: HISTORIA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456579
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/iberalia-tv-es.png" group-title="SP | DOCUMENTACION",ES: IBERALIA TV
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456585
-#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://epg.ovh/logo/National+Geographic+Channel+HD.png" group-title="SP | DOCUMENTACION",ES: NATIONAL GEOGRAPHIC HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456572
-#EXTINF:-1 tvg-id="" tvg-name="ES: National Geographic  HD" tvg-logo="https://epg.ovh/logo/National+Geographic+Channel+HD.png" group-title="SP | DOCUMENTACION",ES: National Geographic  HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456573
-#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD" tvg-logo="https://epg.ovh/logo/Nat+Geo+Wild.png" group-title="SP | DOCUMENTACION",ES: NAT GEO WILD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456574
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild HD" tvg-logo="https://epg.ovh/logo/Nat+Geo+Wild.png" group-title="SP | DOCUMENTACION",ES: Nat Geo Wild HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456575
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nautical Channel HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134.png" group-title="SP | DOCUMENTACION",ES: Nautical Channel HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456584
-#EXTINF:-1 tvg-id="" tvg-name="ES: Crime & Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1280px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="SP | DOCUMENTACION",ES: Crime & Investigation
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456577
-#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="SP | DOCUMENTACION",ES: ODISEA
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456571
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="SP | DOCUMENTACION",ES: CANAL DECASA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456581
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="SP | DOCUMENTACION",ES: CANAL DECASA
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456580
-#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/caza-y-pesca-es.png" group-title="SP | DOCUMENTACION",ES: CAZA Y PESCA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456583
-#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/caza-y-pesca-es.png" group-title="SP | DOCUMENTACION",ES: CAZA Y PESCA
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456582
-#EXTINF:-1 tvg-id="" tvg-name="ES: Andalucia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Andalucia-Television-Logo.svg/1280px-Andalucia-Television-Logo.svg.png" group-title="SP | ENTRETENIMIENTO",ES: Andalucia TV
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456608
-#EXTINF:-1 tvg-id="" tvg-name="ES: BEMAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be-mad-es.png" group-title="SP | ENTRETENIMIENTO",ES: BEMAD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456590
-#EXTINF:-1 tvg-id="" tvg-name="ES: BEMAD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be-mad-es.png" group-title="SP | ENTRETENIMIENTO",ES: BEMAD HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456591
-#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1280px-Logo-bom.svg.png" group-title="SP | ENTRETENIMIENTO",ES: BOM CINE
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456614
-#EXTINF:-1 tvg-id="" tvg-name="ES: BREAK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Break.com_Logo_2017.svg/1280px-Break.com_Logo_2017.svg.png" group-title="SP | ENTRETENIMIENTO",ES: BREAK HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456593
-#EXTINF:-1 tvg-id="" tvg-name="ES: BREAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Break.com_Logo_2017.svg/1280px-Break.com_Logo_2017.svg.png" group-title="SP | ENTRETENIMIENTO",ES: BREAK
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456592
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-cocina-es.png" group-title="SP | ENTRETENIMIENTO",ES: CANAL COCINA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456600
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Cocina" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-cocina-es.png" group-title="SP | ENTRETENIMIENTO",ES: Canal Cocina
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456599
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Extremadura Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/225px-CEXMA_new.png" group-title="SP | ENTRETENIMIENTO",ES: Canal Extremadura Sat
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456601
-#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="SP | ENTRETENIMIENTO",ES: COMEDY CENTRAL HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456589
-#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="SP | ENTRETENIMIENTO",ES: COMEDY CENTRAL
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456588
-#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cosmopolitan_tv_es.png" group-title="SP | ENTRETENIMIENTO",ES: COSMO HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456597
-#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cosmopolitan_tv_es.png" group-title="SP | ENTRETENIMIENTO",ES: COSMO
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456596
-#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/divinity-es.png" group-title="SP | ENTRETENIMIENTO",ES: DIVINITY
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456602
-#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" group-title="SP | ENTRETENIMIENTO",ES: DKISS
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456609
-#EXTINF:-1 tvg-id="" tvg-name="ES: EL TORO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toros-tv-es.png" group-title="SP | ENTRETENIMIENTO",ES: EL TORO HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456605
-#EXTINF:-1 tvg-id="" tvg-name="ES: Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1184px-Energy.svg.png" group-title="SP | ENTRETENIMIENTO",ES: Energy
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456603
-#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png" group-title="SP | ENTRETENIMIENTO",ES: FDF
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456598
-#EXTINF:-1 tvg-id="" tvg-name="ES: Horse TV HD" tvg-logo="https://image.roku.com/developer_channels/prod/c934c84f3d2ea104f643d8c91cb912580e3271dd7b712418d10c543f00ae3caa.png" group-title="SP | ENTRETENIMIENTO",ES: Horse TV HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456607
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ La Resistencia HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST" group-title="SP | ENTRETENIMIENTO",ES: M+ La Resistencia HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456587
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/radio/mm/mega-983-ar.png" group-title="SP | ENTRETENIMIENTO",ES: MEGA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456595
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA" tvg-logo="https://www.lyngsat-logo.com/logo/radio/mm/mega-983-ar.png" group-title="SP | ENTRETENIMIENTO",ES: MEGA
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456594
-#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sundance_tv_us.png" group-title="SP | ENTRETENIMIENTO",ES: SUNDANCE TV HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456604
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_madrid_es.png" group-title="SP | ENTRETENIMIENTO",ES: TELEMADRID HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456610
-#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/TenTV.png" group-title="SP | ENTRETENIMIENTO",ES: TEN
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456611
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toros-tv-es.png" group-title="SP | ENTRETENIMIENTO",ES: TOROS HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456606
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV 3 CATALUNYA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1255px-TV3.svg.png" group-title="SP | ENTRETENIMIENTO",ES: TV 3 CATALUNYA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456613
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV 3 CAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/225px-TV3.svg.png" group-title="SP | ENTRETENIMIENTO",ES: TV 3 CAT
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456612
-#EXTINF:-1 tvg-id="" tvg-name="ES: A3S SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="SP | PELICULAS-SERIES",ES: A3S SERIES
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456653
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="SP | PELICULAS-SERIES",ES: AMC HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456643
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="SP | PELICULAS-SERIES",ES: AMC
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456642
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="SP | PELICULAS-SERIES",ES: AXN HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456645
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="SP | PELICULAS-SERIES",ES: AXN
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456644
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_white_es.png" group-title="SP | PELICULAS-SERIES",ES: AXN MOVIES HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456647
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_white_es.png" group-title="SP | PELICULAS-SERIES",ES: AXN MOVIES
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456646
-#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/calle13_universal.png" group-title="SP | PELICULAS-SERIES",ES: CALLE 13 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456651
-#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/calle13_universal.png" group-title="SP | PELICULAS-SERIES",ES: CALLE 13
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456650
-#EXTINF:-1 tvg-id="" tvg-name="ES: DARK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dark_es.png" group-title="SP | PELICULAS-SERIES",ES: DARK
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456655
-#EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="https://epg.ovh/logo/FOX.png" group-title="SP | PELICULAS-SERIES",ES: FOX HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456641
-#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="https://epg.ovh/logo/FOX.png" group-title="SP | PELICULAS-SERIES",ES: FOX
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456640
-#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_hollywood_es.png" group-title="SP | PELICULAS-SERIES",ES: HOLLYWOOD HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456627
-#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_hollywood_es.png" group-title="SP | PELICULAS-SERIES",ES: HOLLYWOOD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456626
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ACCION HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-accion-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ ACCION HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456619
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ACCION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-accion-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ ACCION
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456618
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="SP | PELICULAS-SERIES",ES: M+ CINE N
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456638
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="SP | PELICULAS-SERIES",ES: M+ CINE N HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456639
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLASICOS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-clasicos-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ CLASICOS HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456625
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COMEDIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-comedia-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ COMEDIA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456621
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COMEDIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-comedia-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ COMEDIA
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456620
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DRAMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-drama-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ DRAMA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456623
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DRAMA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-drama-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ DRAMA
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456622
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ FEST HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-fest-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ FEST HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456624
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Indie" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-estrenos-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ Indie
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456615
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Indie HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-estrenos-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ Indie HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456616
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Originales HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-estrenos-2-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ Originales HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456617
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SERIES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-series-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ SERIES HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456635
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SERIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-series-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ SERIES
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456634
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SERIES 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-series-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ SERIES 2 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456637
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SERIES 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-series-es.png" group-title="SP | PELICULAS-SERIES",ES: M+ SERIES 2
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456636
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="SP | PELICULAS-SERIES",ES: Movistar+ HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456633
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="SP | PELICULAS-SERIES",ES: Movistar+
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456632
-#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount-network-us.png" group-title="SP | PELICULAS-SERIES",ES: PARAMOUNT CHANNEL
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456652
-#EXTINF:-1 tvg-id="" tvg-name="ES: Somos HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/somos_tv.png" group-title="SP | PELICULAS-SERIES",ES: Somos HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456654
-#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png" group-title="SP | PELICULAS-SERIES",ES: SYFY HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456649
-#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png" group-title="SP | PELICULAS-SERIES",ES: SYFY
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456648
-#EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tcm-espana-us-es.png" group-title="SP | PELICULAS-SERIES",ES: TCM
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456628
-#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tcm-espana-us-es.png" group-title="SP | PELICULAS-SERIES",ES: TCM HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456629
-#EXTINF:-1 tvg-id="" tvg-name="ES: Warner HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="SP | PELICULAS-SERIES",ES: Warner HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456631
-#EXTINF:-1 tvg-id="" tvg-name="ES: Warner Tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="SP | PELICULAS-SERIES",ES: Warner Tv
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456630
-#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/368px-XTRM_Espa%C3%B1a.png" group-title="SP | PELICULAS-SERIES",ES: XTRM
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456656
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456657
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 2
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456658
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 3
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456659
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 4
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456660
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 5
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456661
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 6
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456662
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 7
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456663
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 8
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456664
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 9" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 9
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456665
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 10" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="SP | PELICULAS-SERIES",ES: ALQUILER 10
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456666
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV" tvg-logo="https://epg.ovh/logo/MTV+Live+HD.png" group-title="SP | MUSICA",ES: MTV
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456667
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV 00s HD" tvg-logo="https://epg.ovh/logo/MTV+00s.png" group-title="SP | MUSICA",ES: MTV 00s HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456668
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV 00s" tvg-logo="https://epg.ovh/logo/MTV+00s.png" group-title="SP | MUSICA",ES: MTV 00s
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456672
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO HD" tvg-logo="https://epg.ovh/logo/MEZZO.png" group-title="SP | MUSICA",ES: MEZZO HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456671
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO" tvg-logo="https://epg.ovh/logo/MEZZO.png" group-title="SP | MUSICA",ES: MEZZO
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456670
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ROCKS" tvg-logo="https://epg.ovh/logo/MTV+Rocks.png" group-title="SP | MUSICA",ES: MTV ROCKS
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456669
-#EXTINF:-1 tvg-id="" tvg-name="ES: CLASSICA HD" tvg-logo="https://epg.ovh/logo/Stingray+Classica.png" group-title="SP | MUSICA",ES: CLASSICA HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456673
-#EXTINF:-1 tvg-id="" tvg-name="ES: Sol Música" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sol_musica.png" group-title="SP | MUSICA",ES: Sol Música
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456674
-#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV HD" tvg-logo="" group-title="SP | DEPORTES",ES: Barca TV HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456695
-#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid HD" tvg-logo="" group-title="SP | DEPORTES",ES: Real Madrid HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456689
-#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 HD" tvg-logo="" group-title="SP | DEPORTES",ES: Eurosport 1 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456691
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="" group-title="SP | DEPORTES",ES: EUROSPORT 1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456690
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="" group-title="SP | DEPORTES",ES: EUROSPORT 2 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456692
-#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte HD" tvg-logo="" group-title="SP | DEPORTES",ES: Teledeporte HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456698
-#EXTINF:-1 tvg-id="" tvg-name="ES: GOL PLAY HD" tvg-logo="" group-title="SP | DEPORTES",ES: GOL PLAY HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456696
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF HD" tvg-logo="" group-title="SP | DEPORTES",ES: M+ GOLF HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456694
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF" tvg-logo="" group-title="SP | DEPORTES",ES: M+ GOLF
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456693
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ VAMOS HD" tvg-logo="" group-title="SP | DEPORTES",ES: M+ VAMOS HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456699
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ VAMOS" tvg-logo="" group-title="SP | DEPORTES",ES: M+ VAMOS
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456700
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES" tvg-logo="" group-title="SP | DEPORTES",ES: MULTIDEPORTES
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456697
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 1" tvg-logo="" group-title="SP | DEPORTES",ES: MULTIFUTBOLL 1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456701
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 2" tvg-logo="" group-title="SP | DEPORTES",ES: MULTIFUTBOLL 2
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456702
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 3" tvg-logo="" group-title="SP | DEPORTES",ES: MULTIFUTBOLL 3
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456703
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOLL 4" tvg-logo="" group-title="SP | DEPORTES",ES: MULTIFUTBOLL 4
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456704
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN 1 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456708
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN 1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456707
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN 2 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456710
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN 2
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456709
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 HD" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN 3 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456712
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN 3
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456711
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 HD" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN 4 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456714
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN 4
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456713
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 1 HD" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN F1 1 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456706
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN F1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456705
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga Tv HD" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN LaLiga Tv HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456716
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga Tv" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: DAZN LaLiga Tv
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456715
-#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn LaLiga Tv 2 HD" tvg-logo="" group-title="SP | DEPORTES DAZN",ES: Dazn LaLiga Tv 2 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456717
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga Tv Hypermotion HD" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: LaLiga Tv Hypermotion HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456737
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga 123 Tv" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga 123 Tv
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456731
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 1 HD" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 1 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456719
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 2 HD" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 2 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456721
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 2" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 2
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456720
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 3 HD" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 3 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456723
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 3" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 3
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456722
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 4" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 4
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456724
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 5" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 5
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456725
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 6 HD" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 6 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456726
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 7" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 7
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456727
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 8" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 8
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456728
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 9" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 9
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456729
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv 10" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv 10
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456730
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR  1" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv BAR  1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456733
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR 2" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv BAR 2
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456734
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR 3" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv BAR 3
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456735
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR 4" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv BAR 4
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456736
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv BAR HD" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv BAR HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456732
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Tv HD" tvg-logo="" group-title="SP | DEPORTES LALIGA",ES: M+ LaLiga Tv HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456718
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones HD" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456739
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456738
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 1 HD" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 1 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456742
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 1" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456740
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 2 HD" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 2 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456741
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 2 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 2 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456743
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 3 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 3 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456744
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 4 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 4 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456745
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 5 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 5 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456746
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 6 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 6 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456747
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 7 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 7 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456748
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga De Campeones 8 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga De Campeones 8 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456749
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga de Campeones 13 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga de Campeones 13 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456750
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga de Campeones 14 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga de Campeones 14 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456751
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga de Campeones 15 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga de Campeones 15 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456752
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Liga de Campeones 16 ( LIVE EVENT )" tvg-logo="" group-title="SP | DEPORTES CAMPEONES",ES: M+ Liga de Campeones 16 ( LIVE EVENT )
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456753
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES FHD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES FHD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456764
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456763
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: M+ Deportes HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456777
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Deportes" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: M+ Deportes
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456776
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 1 HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: M+ DEPORTES 1 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456783
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 2 HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: M+ DEPORTES 2 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456782
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 3 HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: M+ DEPORTES 3 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456781
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 4 HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: M+ DEPORTES 4 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456780
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 5 HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: M+ DEPORTES 5 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456779
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 6 HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: M+ DEPORTES 6 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456778
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 1 HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 1 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456766
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 1" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 1
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456765
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 2 HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 2 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456768
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 2" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 2
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456767
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 3 HD" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 3 HD
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456770
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 3" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 3
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456769
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 4" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 4
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456771
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 5" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 5
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456772
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 6" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 6
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456773
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 7" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 7
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456774
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTES 8" tvg-logo="" group-title="SP | DEPORTES MOVISTAR",ES: MULTIDEPORTES 8
-http://euroroyals.com:8080/egeoykuergelen/Asrtg64ergelen/456775
+#EXTINF:-1 tvg-id="81ddd554fc6086400909ad263973b0f8" tvg-chno="101",A3Series
+http://149.100.19.246:9981/stream/channelid/1423302017?profile=pass
+#EXTINF:-1 tvg-id="f07fc2a463d021de21e67381721587e5" tvg-chno="102",BeMad tv HD
+http://149.100.19.246:9981/stream/channelid/616726512?profile=pass
+#EXTINF:-1 tvg-id="68b23c953e145d1ac79e5428e2650d6d" tvg-chno="103",Realmadrid TV HD
+http://149.100.19.246:9981/stream/channelid/356299368?profile=pass
+#EXTINF:-1 tvg-id="a1b0d3d0d221d126595c84ba38290e7f" tvg-chno="104",TEN
+http://149.100.19.246:9981/stream/channelid/1356050593?profile=pass
+#EXTINF:-1 tvg-id="38664257692988b286d2831a207b17dc" tvg-chno="105",LOS40 Classic
+http://149.100.19.246:9981/stream/channelid/1463969336?profile=pass
+#EXTINF:-1 tvg-id="ec3de8009c99a77aaf8182d802e4aafb" tvg-chno="106",LOS40 Urban
+http://149.100.19.246:9981/stream/channelid/15220204?profile=pass
+#EXTINF:-1 tvg-id="b0a29b060dafad4b4a32b37a3efdb31b" tvg-chno="107",Radiolé
+http://149.100.19.246:9981/stream/channelid/110863024?profile=pass
+#EXTINF:-1 tvg-id="cbf6bf43e7e81e1884f0ce0873ca2088" tvg-chno="149",Antena 3
+http://149.100.19.246:9981/stream/channelid/1136654027?profile=pass
+#EXTINF:-1 tvg-id="cfc4245994242c0eb49e0172b4e83239" tvg-chno="151",laSexta
+http://149.100.19.246:9981/stream/channelid/1495581903?profile=pass
+#EXTINF:-1 tvg-id="e55617a86cdbd58ac2dec1588cc7c2c6" tvg-chno="153",neox
+http://149.100.19.246:9981/stream/channelid/672618213?profile=pass
+#EXTINF:-1 tvg-id="ecdead5837afcdfb0711dec7c976bbfd" tvg-chno="154",nova
+http://149.100.19.246:9981/stream/channelid/1487789804?profile=pass
+#EXTINF:-1 tvg-id="06f91bcd78c3c942190d9709ac74b1e4" tvg-chno="155",MEGA
+http://149.100.19.246:9981/stream/channelid/1293678854?profile=pass
+#EXTINF:-1 tvg-id="7e1927bea51e227a8ea6bef647e51e32" tvg-chno="156",ONDA CERO
+http://149.100.19.246:9981/stream/channelid/1042749822?profile=pass
+#EXTINF:-1 tvg-id="dcb4823e3e2fa6e411ed8ac4e48b0767" tvg-chno="157",EUROPA FM
+http://149.100.19.246:9981/stream/channelid/1048753372?profile=pass
+#EXTINF:-1 tvg-id="38434fc52a4b1e7fbdc8d272d97b75db" tvg-chno="158",Melodia FM
+http://149.100.19.246:9981/stream/channelid/1162822456?profile=pass
+#EXTINF:-1 tvg-id="ecb59a7db11aec2d581f55791165ea59" tvg-chno="170",TRECE
+http://149.100.19.246:9981/stream/channelid/2107291116?profile=pass
+#EXTINF:-1 tvg-id="5b3dc718828e7c8a3f972dc59ca7eda1" tvg-chno="171",COPE
+http://149.100.19.246:9981/stream/channelid/415710555?profile=pass
+#EXTINF:-1 tvg-id="c978e82b4f71adb8496ed92da238902d" tvg-chno="172",Rock FM
+http://149.100.19.246:9981/stream/channelid/736655561?profile=pass
+#EXTINF:-1 tvg-id="d6116d05544ce3615eb9cd3feebf0981" tvg-chno="188",FDF
+http://149.100.19.246:9981/stream/channelid/91034070?profile=pass
+#EXTINF:-1 tvg-id="94001bb08fe16adea01a01639a4a5606" tvg-chno="189",Divinity
+http://149.100.19.246:9981/stream/channelid/807075988?profile=pass
+#EXTINF:-1 tvg-id="0a009bd0226cf62cb351b4da06d9c8c1" tvg-chno="190",Telecinco HD
+http://149.100.19.246:9981/stream/channelid/1352335370?profile=pass
+#EXTINF:-1 tvg-id="724f8224763dd1e70afd1aa670da6112" tvg-chno="191",Cuatro HD
+http://149.100.19.246:9981/stream/channelid/612519794?profile=pass
+#EXTINF:-1 tvg-id="dae04e7a64d5ae47c872d85e1047d0f5" tvg-chno="192",Energy
+http://149.100.19.246:9981/stream/channelid/2051989722?profile=pass
+#EXTINF:-1 tvg-id="2b797b5295fd8fb1ecf6bb3a080d1b03" tvg-chno="193",Boing
+http://149.100.19.246:9981/stream/channelid/1383823659?profile=pass
+#EXTINF:-1 tvg-id="334079b054fc6eacfe83fe7d22152fb4" tvg-chno="201",SQUIRREL
+http://149.100.19.246:9981/stream/channelid/813252659?profile=pass
+#EXTINF:-1 tvg-id="cabf592cfb13eb62e7b160947d23540e" tvg-chno="202",PARAMOUNT NETWORK
+http://149.100.19.246:9981/stream/channelid/744079306?profile=pass
+#EXTINF:-1 tvg-id="d93470a3ddd87ba6d5d5d81ad71cec90" tvg-chno="277",DMAX
+http://149.100.19.246:9981/stream/channelid/594556121?profile=pass
+#EXTINF:-1 tvg-id="3bb2ee270e8f54243f75a20f72f9b214" tvg-chno="278",VEO 7
+http://149.100.19.246:9981/stream/channelid/669954619?profile=pass
+#EXTINF:-1 tvg-id="74a653ebe3971975fa85ab402696044d" tvg-chno="280",RADIO MARCA
+http://149.100.19.246:9981/stream/channelid/1800644212?profile=pass
+#EXTINF:-1 tvg-id="d43c47c13128bf93a359fa26daf136de" tvg-chno="282",CADENA 100
+http://149.100.19.246:9981/stream/channelid/1095187668?profile=pass
+#EXTINF:-1 tvg-id="55a05d511ea83cbacd6d2c5be5ac75cf" tvg-chno="283",RADIO MARIA
+http://149.100.19.246:9981/stream/channelid/1365090389?profile=pass
+#EXTINF:-1 tvg-id="c7d0ec681df722dfe17cd9cc1288729a" tvg-chno="306",BOM RADIO
+http://149.100.19.246:9981/stream/channelid/1760350407?profile=pass
+#EXTINF:-1 tvg-id="ab9d680926741f9659bdba2aee759605" tvg-chno="410",tdp HD
+http://149.100.19.246:9981/stream/channelid/157851051?profile=pass
+#EXTINF:-1 tvg-id="e1f16212ebe086101497a8491e04da34" tvg-chno="413",24h HD
+http://149.100.19.246:9981/stream/channelid/308474337?profile=pass
+#EXTINF:-1 tvg-id="dded7be27ad721de835369ab3dc09d59" tvg-chno="414",La 1 HD
+http://149.100.19.246:9981/stream/channelid/1652288989?profile=pass
+#EXTINF:-1 tvg-id="ee96acec43f2212490ecf0295d100550" tvg-chno="415",RNE Andalucía
+http://149.100.19.246:9981/stream/channelid/1823250158?profile=pass
+#EXTINF:-1 tvg-id="816e7bd5e79733e366dac6b29f937f60" tvg-chno="416",Radio 5 RNE
+http://149.100.19.246:9981/stream/channelid/1434152577?profile=pass
+#EXTINF:-1 tvg-id="f11a0646ee75c5f696b395f48ba1d062" tvg-chno="417",Ràdio 4 RNE
+http://149.100.19.246:9981/stream/channelid/1174805233?profile=pass
+#EXTINF:-1 tvg-id="a10a615592193ca2114487197759ad2b" tvg-chno="418",La 2 HD
+http://149.100.19.246:9981/stream/channelid/1432423073?profile=pass
+#EXTINF:-1 tvg-id="da0ef2ffc8703439ad165072c005ec62" tvg-chno="769",CANAL MALAGA
+http://149.100.19.246:9981/stream/channelid/2146569946?profile=pass
+#EXTINF:-1 tvg-id="d348db781a4f4b34a6d1c5ba354cd756" tvg-chno="2178",CanalSur2
+http://149.100.19.246:9981/stream/channelid/2027636947?profile=pass
+#EXTINF:-1 tvg-id="e9ba41639d4e63b692d7ec6db2c4ab42" tvg-chno="2179",C.S.R. Malaga
+http://149.100.19.246:9981/stream/channelid/1665252073?profile=pass
+#EXTINF:-1 tvg-id="e281fcc8e11e555ad6cce6c7920a3777" tvg-chno="2180",FlamencoRadio.com
+http://149.100.19.246:9981/stream/channelid/1224507874?profile=pass
+#EXTINF:-1 tvg-id="1a91fde6911c784f296245cfc590fb72" tvg-chno="2181",CanalSurHD
+http://149.100.19.246:9981/stream/channelid/1727893786?profile=pass
+#EXTINF:-1 tvg-id="a8ce13b56510ccd6bef972ef84da3625" tvg-chno="2182",BOM
+http://149.100.19.246:9981/stream/channelid/890490536?profile=pass
+#EXTINF:-1 tvg-id="b0ac82fae9b55569dadc37f19dfa9fe3" tvg-chno="2183",Canal Fiesta R.
+http://149.100.19.246:9981/stream/channelid/2055384240?profile=pass
+#EXTINF:-1 tvg-id="9d6e1d2456870aa0d6ee38ec6a1ed709" tvg-chno="2184",R.A.I. Malaga
+http://149.100.19.246:9981/stream/channelid/605908637?profile=pass
+#EXTINF:-1 tvg-id="97a7d5b806b9ba41f645cc59f8e74f99" tvg-chno="2186",AndaluciaTV
+http://149.100.19.246:9981/stream/channelid/953526167?profile=pass
+#EXTINF:-1 tvg-id="3985046c1d793abe2f838f3b59a73e6d" tvg-chno="5531",C.TORREVISION HD
+http://149.100.19.246:9981/stream/channelid/1812235577?profile=pass
+#EXTINF:-1 tvg-id="e6a96bb3accec69b756d533f7f55bbee" tvg-chno="5533",7TV MALAGA HD
+http://149.100.19.246:9981/stream/channelid/862693862?profile=pass
+#EXTINF:-1 tvg-id="b75c8629662c7ba5bcbbc4e9c165acc2" tvg-chno="5534",PTV Malaga HD
+http://149.100.19.246:9981/stream/channelid/696671415?profile=pass
+#EXTINF:-1 tvg-id="b9b2666a455e7d68dbbe28f391a9a599" tvg-chno="5535",Malaga 24h NoticIas
+#EXTINF:-1 tvg-id="dc08ed82ff9424a882490e4affc47397" tvg-chno="41005",SER
+http://149.100.19.246:9981/stream/channelid/49088732?profile=pass
+#EXTINF:-1 tvg-id="42d886f6a0ff819bf981131469c4b1ee" tvg-chno="41006",LOS40
+http://149.100.19.246:9981/stream/channelid/1988548674?profile=pass
+#EXTINF:-1 tvg-id="70b36aa99e31b1af01836b4ef0ea4c21" tvg-chno="41007",DIAL
+http://149.100.19.246:9981/stream/channelid/694858608?profile=pass
+#EXTINF:-1 tvg-id="cdd73fed2ac83fe869b0002ff5060bb2" tvg-chno="42002",CANAL MALAGA HD
+http://149.100.19.246:9981/stream/channelid/1832900557?profile=pass
+#EXTINF:-1 tvg-id="27be2226b2260f087164109413f06adb" tvg-chno="42008",101TV HD
+http://149.100.19.246:9981/stream/channelid/639811111?profile=pass
+#EXTINF:-1 tvg-id="3c4f133ba2b68010af8a4e1edfeab2ed" tvg-chno="42008",101TV HD
+http://149.100.19.246:9981/stream/channelid/991121212?profile=pass
+#EXTINF:-1 tvg-id="2a793fa378ac031a93c92c5f659a2f8e" tvg-chno="42009",101 PLAY
+http://149.100.19.246:9981/stream/channelid/591362346?profile=pass
+#EXTINF:-1 tvg-id="a821dbcdcd08b30083b2e316c3773a2d" tvg-chno="42009",101 PLAY
+http://149.100.19.246:9981/stream/channelid/1306206632?profile=pass
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4
